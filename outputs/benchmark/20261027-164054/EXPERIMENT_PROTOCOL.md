@@ -1,49 +1,51 @@
-# PageIndex 全量实验规程
+# PageIndex full-corpus experiment protocol
 
-实验 ID：20261027-164054。配置及数据清单在生成答案前冻结。
+Run ID: 20261027-164054. Configuration and input manifests were frozen before answer generation.
 
-## 输入及运行条件
+## Inputs and runtime conditions
 
-- 78 份公开 PDF，共 2,546 页；110 道原始问题。
-- 92 道单文档、10 道多文档组合、8 道不可回答题；14 组配对问题。
-- 固定 PageIndex 0.2.10 / commit e38b40ebaeea26d2c7206b80ce7bc9bf2935cdec。
-- 官方 Flash/full 索引及官方内置检索提示词，不添加自定义提示词。
-- 索引 gpt-6-luna、问答 gpt-6-sol，全部 medium。问答走官方 Responses API 接口。
-- 保留官方摘要并发上限 64、问答 10 轮上限；不覆盖超时、重试或输出 token 上限。
-- 可选引用提示词保持默认关闭，不把缺少 `<cite>` 标签直接判为答案错误。
-- Windows 本机执行；只读取既有连接配置，密钥不写入实验文件。
+- 78 public PDFs, totaling 2,546 pages; 110 original questions.
+- 92 single-document questions, 10 requiring multiple documents, and 8 unanswerable questions; 14 question pairs.
+- PageIndex 0.2.10 pinned to commit e38b40ebaeea26d2c7206b80ce7bc9bf2935cdec.
+- Official Flash/full indexing and built-in retrieval prompts, without custom prompts.
+- gpt-6-luna for indexing and gpt-6-sol for answering, both using medium reasoning effort. Chat uses the officially supported Responses API interface.
+- Official limits of 64 concurrent summaries and 10 chat turns; no overrides of timeouts, retries, or output-token limits.
+- The optional citation prompt remains disabled. Missing `<cite>` tags alone do not make an answer incorrect.
+- Local Windows execution; only existing connection configuration is read, and keys are not saved in experiment files.
 
-## 实验顺序与隔离
+## Execution order and isolation
 
-1. 按文件名升序逐份建立全新本地索引，保存每份文件的页数、哈希、目录树、状态、耗时和用量。
-2. 完成所有索引尝试后冻结可用文档清单。单份失败不悄悄切换索引模式或模型。
-3. 用固定种子 42 打乱问题顺序，4 个独立会话并发执行。每题只有原始问题、整个可用文档库及官方提示词。
-4. 不传 doc_id、正确文件名、参考答案、评分标准或其他问题的历史。生成程序只读取无答案版 queries.json。
-5. 每个文档和问题都有独立检查点。失败保留在分母中；不挑选多次运行中最好的答案。
-6. 答案完成并冻结后，单独读取 standards.json 进行评估。评分内容不返回给 PageIndex，不触发答题重试。
+1. Create a fresh local index, processing documents in ascending filename order. Save each file's page count, hash, tree, status, timing, and usage.
+2. After all indexing attempts, freeze the available document list. Do not silently switch indexing mode or model when a document fails.
+3. Shuffle questions with seed 42 and execute four independent sessions concurrently. Each receives only the original question, the full available library, and official prompts.
+4. Do not supply a doc_id, correct filename, reference answer, scoring criteria, or history from another question. The generator reads only the answer-free queries.json.
+5. Maintain independent checkpoints for every document and question. Keep failures in the denominators; do not select the best answer from repeated runs.
+6. After answers are complete and frozen, read standards.json separately for evaluation. Never feed grading content back to PageIndex or trigger answer retries based on grading.
 
-## 必须保留的记录
+## Required records
 
-输入清单及 SHA256、软件版本和源码一致性、实际模型响应、发出请求中的 medium、官方提示词一致性、
-每阶段起止时间及用量、缓存统计、每次工具调用及返回的证据、完整最终答案、失败类型及错误消息、
-索引覆盖率和每题读到的文档/页码。失败前已完成的模型响应也计入用量。
+Retain input manifests and SHA-256 hashes; software versions and source consistency checks; actual model responses;
+medium reasoning settings in outgoing requests; official-prompt consistency; stage start/end times and usage;
+cache statistics; every tool call and returned evidence; complete final answers; failure types and messages;
+index coverage; and the documents/pages read for each question. Include model responses completed before a failure in usage accounting.
 
-日志排除 API Key、请求鉴权头、模型私有推理内容。未成功返回 usage 的请求可能有未观测用量，
-token 汇总不等于最终账单。复用服务端自然缓存，不声称冷缓存实验。
+Exclude API keys, authorization headers, and private model reasoning from logs. Requests without returned usage may incur unobserved consumption;
+token totals are not an invoice. Reuse natural server-side caches and do not describe the experiment as a cold-cache test.
 
-## 评价口径
+## Evaluation definitions
 
-- **索引成功率**：成功入库文档 / 78；完整保留失败文件及受影响题目。
-- **回答完成率**：获得非空、completed 最终回答 / 110。运行完成不代表事实正确。
-- **正确来源读取率**：按实际成功的 get_page_content 计算；只浏览文件名或章节摘要不算读到原文。
-  对 102 道可回答题分别报告至少读到一个必需来源、读齐所有必需来源、逐题必需来源召回率。
-  工具调用上限、未读到来源、未生成答案都计入结果，不能从分母剔除。
-- **答案语义评分**：以每题 gold_answer 和 acceptance 为准。正确=1，部分满足=0.5，错误或未完成=0。
-  完全正确率与平均分分开报告。评分若由模型完成，明确标为自动初评，并保留模型、评分提示词、理由及用量，
-  不称为人工确认准确率。评价提示词只用于独立评分，不属于检索/生成 pipeline。
-- **不可回答题**：按各题 acceptance 区分未指定阈值、错误前提、缺失信息；不能把“未找到文件”自动当成正确拒答。
-- **配对题**：报告 14 组中两题均正确的比例；语义一致性不简单等同于字面答案相同。
-- 按题型和 single_document / required_combination / negative 分组，并报告失败和部分正确案例。
-- 耗时报告总墙钟时间、阶段耗时、每题中位数/P95；并发每题延迟与串行索引耗时分别解释。
+- **Indexing success rate:** successfully indexed documents / 78. Retain failed files and affected questions.
+- **Answer completion rate:** nonempty final answers with completed status / 110. Successful execution does not establish factual correctness.
+- **Required-source page reads:** count successful get_page_content results. Seeing a filename or section summary does not count as reading original pages.
+  For 102 answerable questions, report whether at least one required source and all required sources were read, plus per-question required-source recall.
+  Tool-limit failures, missing source reads, and missing answers remain in the results and denominators.
+- **Semantic answer score:** use each question's gold_answer and acceptance criteria. Correct = 1, partial = 0.5, incorrect or incomplete execution = 0.
+  Report fully correct rate separately from mean score. If a model performs grading, label it as preliminary automated assessment and retain the model,
+  grading prompt, reasons, and usage; do not call it human-verified accuracy. Evaluation prompts belong only to separate grading, not the retrieval/generation pipeline.
+- **Unanswerable questions:** follow each acceptance criterion to distinguish an unspecified threshold, a false premise, and missing information.
+  Failure to find a file does not automatically constitute a correct refusal.
+- **Paired questions:** report the proportion of 14 pairs in which both answers are correct. Semantic consistency is not simply identical wording.
+- Break down results by original question type and single_document / required_combination / negative scope, including failures and partial answers.
+- Report total and per-stage wall time plus median/P95 per-question latency. Explain concurrent question latency separately from sequential indexing time.
 
-本次只评价 PageIndex；没有同时重跑 Sirchmunk 或向量 RAG，因此不产生跨系统优劣结论。
+This run evaluates PageIndex only. Sirchmunk and vector RAG are not rerun in parallel, so it does not support a comparative system ranking.

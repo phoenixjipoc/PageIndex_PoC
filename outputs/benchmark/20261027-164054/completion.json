@@ -10,7 +10,7 @@
   ],
   "grading_api_calls": 0,
   "sha256": {
-    "REPORT.md": "2497c5188a6fb8d68fe00ba08821bb36d44564e7c2d011b717f069c52e40b417",
+    "REPORT.md": "c6bd85bb5449267cb0712d454e423950025d3126bf4d4aac50bf72e4f497592d",
     "summary.json": "091d5fc9558fd27c617008e1841f77d7d0f2c11a91576d7a8985c2b83a2bfbbb",
     "question_results.csv": "896ea0a52e2034fe54790cf5c96626b084f14a27c58adf8afe3b08fa97c4a547",
     "question_results.json": "e69b47e9ddb97d65d728195e3bc988cba1db74c02933536c8040cc7c5447e467",
@@ -132,5 +132,15 @@
     "evaluation\\XD-24\\judgment.json": "16881d33c144a9f113f78ec8ed2541613114967942e65a2269416b588e7eedb7",
     "evaluation\\review_method.json": "aa085942c54f0fc85aa599fe38b6f634c773c4937e316574864fbd60d75e3b88",
     "evaluation\\source_spot_checks.json": "3c6919c122260236fcd728bd153e6822ee2c95250dc37cf4e31af47537c7b205"
-  }
+  },
+  "documentation_updates": [
+    {
+      "date": "2026-10-28",
+      "change": "English translation of REPORT.md; experimental result data, answers, judgments, and logs unchanged.",
+      "original_report_sha256": "2497c5188a6fb8d68fe00ba08821bb36d44564e7c2d011b717f069c52e40b417",
+      "translated_report_sha256": "c6bd85bb5449267cb0712d454e423950025d3126bf4d4aac50bf72e4f497592d",
+      "original_git_commit": "b31ff07cc67d0e886cae5dba8663d469dc68034e",
+      "translation_manifest": "../../../docs/translation_manifest.json"
+    }
+  ]
 }

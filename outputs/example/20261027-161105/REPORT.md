@@ -1,90 +1,85 @@
-# PageIndex 第二个本机示例
+# Second local PageIndex example
 
-2026-10-27 · Illinois FPIF，33 页 · INV-04 · 答案和原文引用核验通过。
+October 27, 2026 | Illinois FPIF, 33 pages | INV-04 | Answer and source citation verified.
 
-本次按照固定版本官方 Quickstart 的模型分工运行：`gpt-6-luna` 建索引，
-`gpt-6-sol` 检索回答；两个阶段均明确设置 `medium`。
-使用官方默认的 Flash 索引和 agent 提示词，没有加入首个示例的“先查结构”指令。
+This run followed the pinned official Quickstart's model roles: `gpt-6-luna` for indexing and `gpt-6-sol` for retrieval and answering,
+both explicitly set to `medium`. It used the official default Flash index and agent prompts without the first example's custom structure-first instruction.
 
-## 问题与结果
+## Question and result
 
-**题目：** Illinois Firefighters' Pension Investment Fund 在 2023 年 2 月的
-Private Markets RFP 中，私募市场长期目标配置是多少，如何分配到各资产类别？
-实际调用使用 `queries.json` 中 INV-04 的原始英文问题。
+The question asks for the Illinois Firefighters' Pension Investment Fund's long-term private-market allocation and asset-class split in its February 2023 Private Markets RFP.
+The request used the original English INV-04 text in `queries.json`.
 
-**PageIndex 回答：** 私募市场长期目标合计 **31%**，其中私募股权 **10%**、
-私募债权 **7%**、房地产 **10%**、基础设施 **4%**。
+**PageIndex answer:** Total private-market target **31%**, comprising **10% private equity**, **7% private debt**, **10% real estate**, and **4% infrastructure**.
 
-引用 PDF **第 3 页**，对应纸面页码 **1**、章节 **1.2 Background on this RFP**。
-回答完成后，核对了评分标准、PDF 提取文本和完整页面图片，五项比例均正确。
-参考答案及评分标准没有进入索引或问答过程。
+The answer cited **PDF page 3**, printed page **1**, Section **1.2 Background on this RFP**.
+After generation, the reference standard, extracted PDF text, and full-page image were checked; all five percentages matched.
+Reference answers and scoring criteria were not included in indexing or answering.
 
-## 模型配置与实际请求
+## Models and observed requests
 
-| 阶段 | 模型 | Thinking | 成功调用 | 耗时 |
+| Stage | Model | Reasoning effort | Successful calls | Time |
 |---|---|---|---:|---:|
-| 索引、章节摘要及文档描述 | gpt-6-luna | medium | 17 | 52.922 秒 |
-| 检索、读页、生成答案 | gpt-6-sol | medium | 5 | 14.062 秒 |
-| 合计 | — | — | 22 | 67.032 秒 |
+| Indexing, section summaries, and document description | gpt-6-luna | medium | 17 | 52.922 seconds |
+| Retrieval, page reading, and answering | gpt-6-sol | medium | 5 | 14.062 seconds |
+| Total | N/A | N/A | 22 | 67.032 seconds |
 
-22 个实际 HTTP 请求与 22 个唯一响应一一对应，全部请求的模型及 reasoning 参数符合配置，
-全部响应返回的模型名称也符合预期。索引请求使用 Chat Completions 的
-`reasoning_effort: medium`；问答使用 Responses API 的 `reasoning.effort: medium`。
-这项核验覆盖发出前已序列化的请求体，不只是 Python 配置值。
+The 22 HTTP requests corresponded to 22 unique responses. All outgoing model and reasoning settings matched the configuration,
+and all returned model names matched expectations. Indexing used Chat Completions with `reasoning_effort: medium`;
+chat used the Responses API with `reasoning.effort: medium`. These checks inspected serialized request bodies, not just Python configuration values.
 
-耗时包含索引及问答阶段间少量开销，不包含 Python 依赖导入，也不包含下文说明的中断尝试。
+Timing includes minor inter-stage overhead, excludes dependency imports, and excludes the interrupted attempt described below.
 
-## 实际检索路径
+## Retrieval path
 
-本机生成了 **18 个节点**的章节树，其中 **10 个为顶层节点**。
-模型自主调用：
+The local section tree contained **18 nodes**, including **10 top-level nodes**. The model independently:
 
-1. `browse_documents`：查看当前可用文档。
-2. `get_document`：查看这份 RFP 的文档信息。
-3. `get_document_structure`：读取章节树，定位 `1. Introduction`（PDF 第 3–5 页）。
-4. `get_page_content`：读取 PDF 第 3–4 页。
-5. 给出配置比例，并引用第 3 页。
+1. Called `browse_documents` to inspect the available library.
+2. Called `get_document` for the RFP's metadata.
+3. Called `get_document_structure` and located `1. Introduction`, PDF pages 3-5.
+4. Called `get_page_content` to read PDF pages 3-4.
+5. Returned the allocation percentages with a citation to page 3.
 
-## Token 用量
+## Token usage
 
-| 阶段 | 输入 tokens | 输出 tokens | 其中 reasoning tokens | 总 tokens |
+| Stage | Input tokens | Output tokens | Reasoning tokens within output | Total tokens |
 |---|---:|---:|---:|---:|
-| 索引 | 22,724 | 4,956 | 1,528 | 27,680 |
-| 问答 | 20,925 | 278 | 74 | 21,203 |
-| 合计 | 43,649 | 5,234 | 1,602 | 48,883 |
+| Indexing | 22,724 | 4,956 | 1,528 | 27,680 |
+| Answering | 20,925 | 278 | 74 | 21,203 |
+| Total | 43,649 | 5,234 | 1,602 | 48,883 |
 
-Reasoning tokens 已包含在输出 tokens 中。输入统计包含多轮上下文和缓存；
-缓存读取分别为索引 1,486、问答 12,401 tokens，详细缓存写入统计见原始结果。
-Token 数量不是美元账单。
+Reasoning tokens are included in output totals. Input totals include multi-turn context and cached tokens.
+Cache reads were 1,486 tokens for indexing and 12,401 for answering; detailed cache-write counts are in the raw results.
+Token totals are not a dollar invoice.
 
-## 环境与复现
+## Environment and reproduction
 
-- Windows 本机 Python 3.11.15；PageIndex 0.2.10。
-- 固定官方源码 commit：`e38b40ebaeea26d2c7206b80ce7bc9bf2935cdec`。
-- Flash 默认完整优化，摘要并发为 2；问答最多 8 轮，每请求超时 90 秒。
-- 凭证沿用已授权的 Sirchmunk 配置，只读旧容器；PageIndex 在本机执行。
-- 所选 PDF 与 [FPIF 公开原件](https://ifpif.org/wp-content/uploads/2023/02/Private-Markets-RFP-2023.02.13.pdf) 逐字节一致；请求发往 `api.openai.com`。
-- 78 份 PDF 与题库、清单共 82 个核心输入文件的哈希保持一致。
+- Local Windows Python 3.11.15; PageIndex 0.2.10.
+- Official source commit `e38b40ebaeea26d2c7206b80ce7bc9bf2935cdec`.
+- Flash with default full optimization, summary concurrency 2, at most 8 chat turns, and a 90-second request timeout.
+- Credentials came from the authorized Sirchmunk configuration by reading the old container; PageIndex executed locally.
+- The PDF matched the [public FPIF original](https://ifpif.org/wp-content/uploads/2023/02/Private-Markets-RFP-2023.02.13.pdf) byte for byte; requests went to `api.openai.com`.
+- Hashes were unchanged for all 82 core input files.
 
-复现命令见 [RUN_EXAMPLE.md](<C:/Users/XUJI/OneDrive - Capco/Desktop/PageIndex_PoC/RUN_EXAMPLE.md>)。
-索引保存在 `.pageindex/example-20261027-161105/`，后续可以复用。
+See [RUN_EXAMPLE.md](../../../RUN_EXAMPLE.md) for current execution instructions. The current runner has since adopted official default limits;
+the settings above describe this historical run. Its reusable local index was stored under `.pageindex/example-20261027-161105/`.
 
-**中断尝试说明：** `20261027-160959` 首次尝试中，新增的记录脚本把 LiteLLM 的
-`openai/gpt-6-luna` 前缀误判成模型不一致，造成重试。已中止、修正并完整重跑。
-这不是模型服务或 PageIndex 的失败。该尝试的日志保留在原目录；已完成响应也有 API 用量，
-未计入本报告成功运行的耗时及 token 表。详细记录见
-[中断尝试](<C:/Users/XUJI/OneDrive - Capco/Desktop/PageIndex_PoC/outputs/example/20261027-160959/result.json>)。
+**Interrupted attempt:** In `20261027-160959`, the new recorder incorrectly treated LiteLLM's `openai/gpt-6-luna` prefix as a model mismatch,
+triggering retries. The attempt was stopped, the recorder corrected, and the example rerun from the beginning.
+This was a recording-script issue rather than a model-service or PageIndex failure. Its logs are retained;
+completed responses incurred API usage excluded from this successful run's timing and token tables.
+See the [interrupted attempt](../20261027-160959/result.json).
 
-本次是指定单份文档的功能示例。尚未验证从 78 份 PDF 中自动选择来源，也不是 110 题的完整评测；
-文档长度与首个示例不同，两次耗时不能用于直接比较模型性能。
+This was a functional example with one specified document, not autonomous retrieval across 78 PDFs or the complete 110-question evaluation.
+Its document differs in length from the first example, so their timings do not directly compare model performance.
 
-## 详细记录
+## Detailed records
 
-- [原始回答、配置与用量](<C:/Users/XUJI/OneDrive - Capco/Desktop/PageIndex_PoC/outputs/example/20261027-161105/result.json>)
-- [章节树](<C:/Users/XUJI/OneDrive - Capco/Desktop/PageIndex_PoC/outputs/example/20261027-161105/tree.json>)
-- [工具调用与原文证据](<C:/Users/XUJI/OneDrive - Capco/Desktop/PageIndex_PoC/outputs/example/20261027-161105/tool_trace.json>)
-- [实际请求参数](<C:/Users/XUJI/OneDrive - Capco/Desktop/PageIndex_PoC/outputs/example/20261027-161105/wire_requests.jsonl>)
-- [实际响应模型与逐次用量](<C:/Users/XUJI/OneDrive - Capco/Desktop/PageIndex_PoC/outputs/example/20261027-161105/model_calls.jsonl>)
-- [核验结果](<C:/Users/XUJI/OneDrive - Capco/Desktop/PageIndex_PoC/outputs/example/20261027-161105/verification.json>)
+- [Answer, configuration, and usage](result.json)
+- [Section tree](tree.json)
+- [Tool calls and original evidence](tool_trace.json)
+- [Outgoing request settings](wire_requests.jsonl)
+- [Observed response models and per-call usage](model_calls.jsonl)
+- [Verification results](verification.json)
 
-![PDF 第 3 页，纸面页码 1](<C:/Users/XUJI/OneDrive - Capco/Desktop/PageIndex_PoC/outputs/example/20261027-161105/evidence_page_3.png>)
+![PDF page 3, printed page 1](evidence_page_3.png)

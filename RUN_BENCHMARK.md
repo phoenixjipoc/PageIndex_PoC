@@ -1,54 +1,61 @@
-# 全量 PageIndex 实验
+# Full-corpus PageIndex experiment
 
-当前实验目录：`outputs/benchmark/20261027-164054/`。
-冻结配置见该目录的 `config.json` 和 `EXPERIMENT_PROTOCOL.md`；实时状态见 `status.json`。
+Completed run: `outputs/benchmark/20261027-164054/`.
+Its `config.json` and `EXPERIMENT_PROTOCOL.md` describe the frozen configuration and procedure; `status.json` records generation status.
 
-本机运行 78 份 PDF、110 道问题。使用官方源码、官方默认提示词，索引模型 gpt-6-luna、
-问答模型 gpt-6-sol，两者 medium。每题可访问整个已索引文档库，不预先提供正确来源。
+The local run covers 78 PDFs and 110 questions using official source and default prompts.
+Indexing uses `gpt-6-luna`; answering uses `gpt-6-sol`; both use `medium` reasoning effort.
+Every question can access the full indexed corpus without a supplied correct source.
 
-## 运行或续跑
+## Run or resume
+
+For a fresh checkout or a new experiment, follow [the reproduction guide](docs/REPRODUCING.md) and choose a new run directory.
+The historical resume command below applies only to the original machine with its matching local index store:
 
 ```powershell
 .\.venv\Scripts\python.exe scripts/run_benchmark.py --run-dir outputs/benchmark/20261027-164054 --credentials-container sirchmunk
 ```
 
-同一命令会跳过已完成及已记录失败的检查点，继续未完成项。正在运行时不要再启动第二个实例。
-失败会原样计入实验结果，不自动改参数或反复答题挑选最好结果。代码如需修复，必须保存修订快照及原因。
+The command skips completed and recorded-failed checkpoints and continues unfinished items. Do not start a second instance while a run is active.
+Failures remain in the results; the runner does not silently change parameters or repeatedly answer a question to select the best output.
+Any operational repair must retain a script snapshot and a reason.
 
-`--credentials-container` 仅读取既有容器配置，PageIndex 本身在本机运行。
-也可以在进程环境中设置 `OPENAI_API_KEY`、`OPENAI_BASE_URL` 后省略该参数。
+`--credentials-container` only reads an existing container configuration; PageIndex runs in the local process.
+Alternatively, set `OPENAI_API_KEY` and `OPENAI_BASE_URL` in the process environment and omit this option.
 
-## 本次结果与评估
+## Results and assessment
 
-78 份文档和 110 道问题已全部完成。最终报告见当前实验目录的 `REPORT.md`。
+All 78 documents and 110 questions completed. Read the [full report](docs/RESULTS.md).
 
-答案生成完毕后已冻结 SHA256。本次由当前 Codex 会话逐题对照参考答案及 acceptance 标准，
-按正确 1 / 部分正确 0.5 / 错误 0 记录分数和理由。评估方式见 `evaluation/review_method.json`，
-判定见 `evaluation/<题号>/judgment.json`，不属于人工确认准确率或独立评审模型实验。
+Answer SHA-256 hashes were frozen after generation. Each answer was then reviewed in the Codex conversation against its reference answer and acceptance criteria:
+correct = 1, partial = 0.5, incorrect = 0. The method is recorded in `evaluation/review_method.json` and individual judgments in `evaluation/<question-id>/judgment.json`.
+These labels are not human-verified accuracy or independent model-judge results.
 
-自动审批拒绝了原计划的额外 API 评分，因为向 api.openai.com 发送本地答案及评分标准的授权不足。
-`evaluate_benchmark.py` 和原评分提示词仅保留为未执行的计划记录；本次没有额外评分 API 调用。
+Automatic approval review rejected the planned additional API grading run because authorization to send the local answers and scoring references to `api.openai.com` was insufficient.
+`evaluate_benchmark.py` and its original prompt are retained as an unexecuted plan. No additional grading API calls were made.
 
-重新生成离线报告和完整性核验（不调用模型）：
+Rebuild the offline report and integrity checks without calling a model:
 
 ```powershell
 .\.venv\Scripts\python.exe scripts/audit_benchmark_results.py --run-dir outputs/benchmark/20261027-164054
 .\.venv\Scripts\python.exe scripts/report_benchmark.py --run-dir outputs/benchmark/20261027-164054
 ```
 
-生成阶段仅使用问题文本和 PDF 文档，评分标准不进入 PageIndex 的索引、检索或回答请求。
+These commands rewrite derived files and verification timestamps. To preserve archived bytes, read the existing outputs or work in a separate checkout.
+Generation uses only question text and PDF documents; scoring references never enter PageIndex indexing, retrieval, or answering requests.
 
-## 主要产物
+## Artifacts
 
-- `config.json`、`inputs/`：运行配置、输入清单、查询顺序、代码和依赖快照。
-- `environment.json`、`official_chat_instructions.txt`：运行环境及实际官方提示词。
-- `index/<文件标识>/`：每份 PDF 的索引树、结果、请求设置与模型用量。
-- `questions/<题号>/`：每题答案、耗时、工具调用、返回证据、请求设置及模型用量。
-- `runner_revisions.json`：运行中仅为恢复执行而做的脚本修订及原因。
-- `generation_manifest.json`：评分开始前冻结的全部答案 SHA256。
-- `evaluation/`：本会话审阅依据、判定、理由、原文重点复核记录及未执行的 API 评分计划。
-- `summary.json`、`question_results.csv`、`index_results.csv`：汇总及逐项结果。
-- `REPORT.md`：最终实验报告。
+- `config.json`, `inputs/`: configuration, input manifests, query order, code, and dependency snapshots.
+- `environment.json`, `official_chat_instructions.txt`: runtime environment and exact official prompts.
+- `index/<file-id>/`: each PDF's index tree, result, request settings, and model usage.
+- `questions/<question-id>/`: answer, timing, tool calls, returned evidence, request settings, and usage.
+- `runner_revisions.json`: operational script repairs and their reasons.
+- `generation_manifest.json`: answer SHA-256 hashes frozen before assessment.
+- `evaluation/`: review inputs, judgments, reasons, source spot checks, and the unexecuted API grading plan.
+- `summary.json`, `question_results.csv`, `index_results.csv`: summary and item-level results.
+- `REPORT.md`: final experiment report, now available in English.
 
-API Key、鉴权头和模型私有推理内容不会写入记录。token 统计包含失败前已经返回的响应，
-成本使用已保存的公开单价估算，实际账单可能不同。
+API keys, authorization headers, and private model reasoning are excluded from logs.
+Token accounting includes responses completed before a failure. Costs use saved public rates and are estimates rather than invoices.
+The [translation manifest](docs/translation_manifest.json) records the documentation-only language update.

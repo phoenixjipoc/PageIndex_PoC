@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-28",
+  "language": "en",
+  "source_commit": "b31ff07cc67d0e886cae5dba8663d469dc68034e",
+  "scope": "Translate all Chinese Markdown documentation and reports into English, use portable links, and make the active report generator emit English.",
+  "raw_inputs_answers_scores_logs_unchanged": true,
+  "original_versions": "Retrieve files from source_commit in Git history. Historical script snapshots remain unchanged.",
+  "completion_manifest_update": "Only REPORT.md hash replaced; documentation_updates added. Original completion timestamp and all other artifact hashes retained.",
+  "files": [
+    {
+      "path": "README.md",
+      "original_sha256": "d11fbb9a9ca6de3b132b7fa8672094facedfaeaacc4d4914939c8dd406efac6e",
+      "english_sha256": "0e20330506f315bfacd413577280470d3c9864b9dac2c4a78889558e811b7c0e"
+    },
+    {
+      "path": "RUN_BENCHMARK.md",
+      "original_sha256": "7149a411d84acfbc948d5c25fe73af93b3b94956131b0e59ff5705d8f05ff7f1",
+      "english_sha256": "b9145f2ce0a2016c060f80d351c6c08f33895736ae94964e91ca0cf16331fc69"
+    },
+    {
+      "path": "docs/REPRODUCING.md",
+      "original_sha256": "eb6c96cbf24cfc5fb03ee3c54f67ae8b8e03d9fdf536eded70734613302e7d2d",
+      "english_sha256": "13371e0f7195b2b377a599c521479827be11485a5dbe540d2cd4f212ed6c058e"
+    },
+    {
+      "path": "docs/RESULTS.md",
+      "original_sha256": "9e3424e2c000d17e9bf55e41258feeb3a82d788c50a98fdf328a31498db2b0e9",
+      "english_sha256": "2f9d61081d9d1f8382d9394996882fc49419466a65b71d307ea41f93644f6c31"
+    },
+    {
+      "path": "outputs/benchmark/20261027-164054/EXPERIMENT_PROTOCOL.md",
+      "original_sha256": "9b8723c3dd2660639d460c70edf6f61ac3cc022301d3806b90301e2732c3c404",
+      "english_sha256": "0c8974df9ffccc4dda4e8ccc5e0ed6b605fd488072595c5b5b65cec128ccd367"
+    },
+    {
+      "path": "outputs/benchmark/20261027-164054/REPORT.md",
+      "original_sha256": "2497c5188a6fb8d68fe00ba08821bb36d44564e7c2d011b717f069c52e40b417",
+      "english_sha256": "c6bd85bb5449267cb0712d454e423950025d3126bf4d4aac50bf72e4f497592d"
+    },
+    {
+      "path": "outputs/benchmark/20261027-164054/completion.json",
+      "original_sha256": "ce5a843ebe0454a36f040d8f9b484b8a2d24b641acee37919ef7669770f0aef4",
+      "english_sha256": "06b042f75fa541df11fa08a1e9f7b0a064b6b0024f22001e4daf8455d4604c0f"
+    },
+    {
+      "path": "outputs/example/20261027-155708/REPORT.md",
+      "original_sha256": "36006d0d00fbb6992e79d24b3f045ef885a7eb460f8bc24ec1c9a724a1371172",
+      "english_sha256": "55ed35bf6bf5c3a73ee3a6093bcefd33b65954dba88bb6ccfb284a0beb00828f"
+    },
+    {
+      "path": "outputs/example/20261027-161105/REPORT.md",
+      "original_sha256": "2bf9802c5958be035af40a2e9cdebf95b1206e2a941341742ab582c42b7cbee2",
+      "english_sha256": "9ed9730cef01a5573e5d750bb1af824ddbba7ae0dfe0b5ccb89a7cae544c9054"
+    },
+    {
+      "path": "outputs/example/20261027-163520/REPORT.md",
+      "original_sha256": "05adfc45a356ec40d0f60c9401f7895cc3335f508305f26446d9eef156c3e074",
+      "english_sha256": "2a9550697bf3f2926afa71df78fbbcfc52fe39a555d42bf5ef94f6a94ea9b63b"
+    },
+    {
+      "path": "scripts/report_benchmark.py",
+      "original_sha256": "f03bb70ff7fb9fac51ed30f85d342bd4ab9a9ab8405a14975ecc5ffa41601202",
+      "english_sha256": "d1f4ab038b687ab08e48f649114e35d43269e40df0c434b9db8a8d13e3f606ee"
+    }
+  ]
+}

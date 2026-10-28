@@ -1,11 +1,11 @@
-# 复现实验
+# Reproducing the experiment
 
-本次验证环境为 Windows、Python 3.11、PageIndex 0.2.10。已有结果可直接阅读，无需凭证或安装依赖。
-完整重新生成会调用模型 API；结果、耗时与服务端缓存可能随运行变化。
+The validated environment was Windows, Python 3.11, and PageIndex 0.2.10. Existing results can be read without credentials or installed dependencies.
+A full rerun calls the model API; outputs, latency, and server-side cache behavior may vary.
 
-## 安装
+## Installation
 
-在仓库根目录的 PowerShell 中执行。以下命令使用已安装的 `uv`：
+Run these commands in PowerShell from the repository root. They assume `uv` is already installed:
 
 ```powershell
 py -3.11 -m venv .venv
@@ -15,47 +15,48 @@ uv pip install --python .venv/Scripts/python.exe --no-deps ./vendor/PageIndex
 .\.venv\Scripts\python.exe -c "from pageindex import PageIndexClient; import importlib.metadata; print(importlib.metadata.version('pageindex'))"
 ```
 
-`requirements.lock.txt` 锁定第三方依赖，PageIndex 本体从固定 commit 的源码单独安装。
-fetch 脚本不会覆盖已有 `vendor/PageIndex`。源码版本和下载归档哈希见 [pageindex_source.json](../pageindex_source.json)。
+`requirements.lock.txt` pins third-party dependencies. PageIndex itself is installed separately from the pinned source commit.
+The fetch script refuses to overwrite an existing `vendor/PageIndex`. See [pageindex_source.json](../pageindex_source.json) for the revision and source archive hash.
 
-通过本机的凭证管理方式为当前进程提供 `OPENAI_API_KEY`，按需要提供 `OPENAI_BASE_URL`；默认接口为
-`https://api.openai.com/v1`。没有配置文件或 Key 需要提交到仓库。当前运行器的模型名是
-`gpt-6-luna` / `gpt-6-sol`，所选接口需要支持这两个模型及 medium reasoning。
+Use your local credential-management mechanism to provide `OPENAI_API_KEY` to the current process and, if needed, `OPENAI_BASE_URL`.
+The default endpoint is `https://api.openai.com/v1`. No credential file or key needs to be committed.
+The current runner uses `gpt-6-luna` and `gpt-6-sol`; the selected endpoint must support these models and medium reasoning effort.
 
-## 新的全量运行
+## Start a new full-corpus run
 
-使用新的输出目录，不要用已归档实验目录启动新实验：
+Use a new output directory rather than an archived experiment directory:
 
 ```powershell
 .\.venv\Scripts\python.exe scripts/run_benchmark.py --prepare --run-dir outputs/benchmark/reproduction-01
 .\.venv\Scripts\python.exe scripts/run_benchmark.py --run-dir outputs/benchmark/reproduction-01
 ```
 
-第一步冻结文档、问题、配置和脚本快照，不调用模型；第二步建索引并回答全部问题。
-同一目录的续跑跳过已有完成或失败检查点。需要保留新运行的本地 `.pageindex/` 才能从其索引续跑。
-发布的仓库不包含该可重建缓存；其中的索引树和检索证据保存在 `outputs/`。
+The first command freezes document, query, configuration, and script snapshots without calling a model. The second indexes the corpus and answers every question.
+Resuming the same directory skips completed and recorded-failed checkpoints. Keep the new run's local `.pageindex/` store to resume from its index.
+This rebuildable store is excluded from the published repository; index trees and retrieval evidence are preserved under `outputs/`.
 
-旧环境的 `--credentials-container sirchmunk` 选项只用于读取已有连接配置；新环境使用进程变量即可，
-不需要 Docker。
+The historical `--credentials-container sirchmunk` option only reads an existing connection configuration. A new environment can use process variables without Docker.
 
-## 查看和核验现有结果
+## Inspect and verify existing results
 
-安装固定源码后，可以离线核验原始文档、答案哈希、实际模型和提示词记录：
+After installing the pinned source, verify original documents, answer hashes, observed models, and prompt records offline:
 
 ```powershell
 .\.venv\Scripts\python.exe scripts/audit_benchmark_results.py --run-dir outputs/benchmark/20261027-164054
 ```
 
-该命令不调用模型，但会更新 `final_verification.json` 的检查时间。需要保留归档文件原样时，直接阅读
-[已有核验记录](../outputs/benchmark/20261027-164054/final_verification.json)。
+This command does not call a model, but it updates the check timestamp in `final_verification.json`.
+To leave archived files untouched, read the [saved verification record](../outputs/benchmark/20261027-164054/final_verification.json) instead.
 
-报告汇总脚本只读取已保存的输出与判定，不会替新实验自动产生语义评分。
-本次 110 题采用本会话 AI 参考答案审阅；方法、限制和原文重点复核见
-[review_method.json](../outputs/benchmark/20261027-164054/evaluation/review_method.json)。
-`evaluate_benchmark.py` 是未执行的额外 API 评分方案，不属于本次已完成的流程。
+The reporting scripts only read saved outputs and judgments; they do not automatically grade a new experiment.
+The 110-question run used reference-based AI review in the Codex conversation. See
+[review_method.json](../outputs/benchmark/20261027-164054/evaluation/review_method.json) for the method and limitations.
+`evaluate_benchmark.py` is the unexecuted additional API grading plan, not a step performed in this completed run.
 
-## 冻结记录
+## Frozen records and translated documentation
 
-原实验目录中的脚本快照、配置、答案和评估记录均按运行时状态保存。
-历史绝对路径用于溯源；新实验会根据当前仓库路径生成自己的配置。
-新运行如修改模型、提示词、并发或数据，需要使用新的 run ID 并记录差异。
+Script snapshots, configuration, answers, scores, and logs retain their recorded state. Reports and the protocol were translated into English on October 28, 2026;
+[translation_manifest.json](translation_manifest.json) records the original commit and document hashes.
+The completion manifest's report hash was updated for the English report; its other artifact hashes were preserved.
+Historical absolute paths provide provenance. A new run generates its own paths from the current checkout.
+Use a new run ID and document any changes to models, prompts, concurrency, or input data.
