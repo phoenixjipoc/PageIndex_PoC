@@ -1,0 +1,149 @@
+{
+  "id": "DDQ-06",
+  "question": "How many fund diligence topics does the ILPA Due Diligence Questionnaire v1.2 (2018) list in its Overview, and what is the last one?",
+  "type": "pair_a",
+  "pair_id": "P6",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:14:41.384213+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The Overview lists **14 fund diligence topics**. The last is **Diversity and Inclusion**. (ILPA DDQ v1.2, Overview, p. i.)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 46266,
+    "input_tokens_details": {
+      "cached_tokens": 31908,
+      "cache_write_tokens": 14340
+    },
+    "output_tokens": 206,
+    "output_tokens_details": {
+      "reasoning_tokens": 10
+    },
+    "total_tokens": 46472,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1222,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1219
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1237
+      },
+      {
+        "input_tokens": 2388,
+        "input_tokens_details": {
+          "cached_tokens": 1219,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 10
+        },
+        "total_tokens": 2423
+      },
+      {
+        "input_tokens": 7626,
+        "input_tokens_details": {
+          "cached_tokens": 2385,
+          "cache_write_tokens": 5238
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7662
+      },
+      {
+        "input_tokens": 7911,
+        "input_tokens_details": {
+          "cached_tokens": 7623,
+          "cache_write_tokens": 285
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7948
+      },
+      {
+        "input_tokens": 12776,
+        "input_tokens_details": {
+          "cached_tokens": 7908,
+          "cache_write_tokens": 4865
+        },
+        "output_tokens": 43,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 12819
+      },
+      {
+        "input_tokens": 14343,
+        "input_tokens_details": {
+          "cached_tokens": 12773,
+          "cache_write_tokens": 1567
+        },
+        "output_tokens": 40,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 14383
+      }
+    ]
+  },
+  "elapsed_seconds": 12.522,
+  "finished_at_utc": "2026-10-27T09:14:53.913329+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 46266,
+    "output_tokens": 206,
+    "cached_input_tokens": 31908,
+    "cache_write_tokens": 14340,
+    "reasoning_tokens": 10,
+    "total_tokens": 46472
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf\",\"pages\":\"2-3\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf",
+      "pages": "2-3",
+      "success": true,
+      "call_id": "call_Dn9mdln8OPcA8IGQEZBPGXiL"
+    }
+  ],
+  "successfully_read_documents": [
+    "ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf"
+  ]
+}

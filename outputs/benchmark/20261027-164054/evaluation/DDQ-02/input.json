@@ -1,0 +1,7 @@
+{
+  "question": "Which due diligence questionnaire asks respondents what percentage of their current portfolio companies are located in New Jersey and what percentage are Life Science/Healthcare companies?",
+  "gold_answer": "The NJEDA Appendix A Due Diligence Questionnaire (NJEDA Life Science Seed Fund notice of investment opportunity, 2023), question 4.6 under '4.0 Proposed Fund Investment Strategy'.",
+  "acceptance": "NJEDA Life Science Seed Fund DDQ is sufficient identification; 2023, Appendix A and Q4.6 are optional supporting detail.",
+  "scope": "single_document",
+  "candidate_answer": "It’s the **New Jersey Economic Development Authority (NJEDA) Life Science Seed Fund Due Diligence Questionnaire**, in Appendix A of its Notice of Investment Opportunity. Question 4.6 asks for both percentages."
+}

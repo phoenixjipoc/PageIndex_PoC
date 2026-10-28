@@ -1,0 +1,162 @@
+{
+  "doc_id": "pi-879269fbb06842c5b48c1ffb3408172b",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Page #",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 6,
+      "summary": "OPERS RFP #515-24-001 seeks passive investment-management advisory services for U.S. equity, non-U.S. equity, and TIPS fixed income for OPERS and the Uniform Retirement System for Justices and Judges. The RFP outlines proposal, qualification, assignment, timeline, communications, contract, questionnaire, commingled-fund, and fee requirements. OPERS may amend or reject proposals, make no award, negotiate, or award contracts in whole, in part, or to multiple firms; proposals become OPERS property and public records, and preparation costs are not reimbursed. Vendors must submit an uncompressed PDF or DOC/DOCX through the specified file drop by August 11, 2023, with a signed, notarized cover sheet and affidavit certifying accuracy and absence of collusion or improper influence. Questions were due August 2, with answers posted from August 4. Mandatory terms include fiduciary status, Oklahoma law, required contract incorporation and reporting, concise responses, subcontractor disclosure, restricted-company eligibility, and certifications concerning boycotts of Israel and energy companies; finder’s fees are prohibited. The section also describes OPERS/URSJJ’s roughly $11 billion in assets, governance and staff, and introduces asset-allocation targets without figures.",
+      "nodes": [
+        {
+          "title": "U.S. EQUITY, Non-U.S. EQUITY, AND FIXED INCOME (TIPS) INDEX INVESTMENT MANAGEMENT SERVICES",
+          "node_id": "0001",
+          "start_index": 1,
+          "end_index": 3,
+          "summary": "OPERS seeks proposals under RFP #515-24-001 for passive investment-management advisory services in U.S. equity, non-U.S. equity, and TIPS fixed income. OPERS administers its own defined benefit plan and the Uniform Retirement System for Justices and Judges. The RFP sets proposal requirements and contains 12 sections covering the cover sheet, mandatory requirements, background, assignment scope, firm qualifications, timeline, communications, terms, questionnaire, commingled funds, fee quote, and fee exhibit. OPERS may reject any or all proposals, make no selection if none are satisfactory, modify the RFP before the deadline, and does not reimburse preparation costs. Proposals become OPERS property and are publicly inspectable. The RFP is available online or by email request; submissions must follow its instructions. Vendors may not alter the RFP, must reproduce the affidavit and questions exactly, and may be rejected or have a resulting contract terminated for alterations or misleading/false information."
+        },
+        {
+          "title": "I. PROPOSAL COVER SHEET",
+          "node_id": "0002",
+          "start_index": 3,
+          "end_index": 4,
+          "summary": "The proposal cover sheet for OPERS Investment Management Services RFP #515–24-001 must be signed, notarized, and submitted with the original proposal by 4:30 p.m. CT on August 11, 2023. It requests vendor and firm contact information. The vendor affidavit, sworn before a notary, requires an authorized agent to confirm their knowledge of the proposal and certify that neither the vendor nor those under its control engaged in bid collusion, improper coordination with state officials, or offering anything of value for special contract consideration. The agent also certifies that the proposal information is true and accurate. Signature, title, notarization date, notary signature and seal, and commission expiration are provided."
+        },
+        {
+          "title": "II. MANDATORY REQUIREMENTS FOR SUBMITTING A PROPOSAL",
+          "node_id": "0003",
+          "start_index": 4,
+          "end_index": 6,
+          "summary": "Proposals must be uploaded digitally to the specified OPERS file-drop by 4:30 p.m. CT, August 11, 2023; late or misdirected submissions are rejected. Include a completed, signed, notarized cover sheet; submit uncompressed PDF or DOC/DOCX files without external links. Timely proposals become OPERS property and, once opened, public records. Vendors consent to audits and bear all response and finalist-presentation costs. Questions must be emailed by August 2; consolidated answers will be posted on OPERS’s website on or after August 4. Vendors must meet mandatory criteria. OPERS may seek information or proposals, reject or renegotiate offers, and award all, part, none, or multiple contracts; proposals bind vendors, and submission accepts RFP terms. Finder’s fees are prohibited. Requirements include fiduciary status, Oklahoma law, incorporation of the RFP and response into the contract, timely reporting, orderly succinct answers, subcontractor disclosure, eligibility on the Treasurer’s restricted-company list, and certifications against boycotts of Israel and energy companies. Background describes OPERS/URSJJ’s approximately $11 billion in retirement assets, statutory authority, OPERS’s 14-member board and 63-person staff, and introduces the June 30, 2023 asset-allocation targets, whose figures are not included."
+        }
+      ]
+    },
+    {
+      "title": "TARGET ASSET ALLOCATION FOR OPERS and URSJJ:",
+      "node_id": "0004",
+      "start_index": 6,
+      "end_index": 15,
+      "summary": "The section sets target allocations for OPERS and URSJJ (34% large-cap U.S., 6% small-cap U.S., 28% international, 32% fixed income, 0% cash) and identifies passive-index mandates, benchmarks, weights, and May 2023 asset values, including standard and restricted-company-exclusion options. It outlines vendor qualifications ($10 billion firm and indexed assets, ten years’ senior experience) and the estimated procurement timeline, communications rules, and Oklahoma-law contract terms, including renewals, termination, fees, ownership, audits, records, and disclosures. The questionnaire covers firm structure, finances, personnel, experience, investment processes, asset levels by client and asset class, turnover, strategies, risk, compliance, derivatives, performance and tracking error, references, reporting, registration, and insurance. It also requests U.S. and non-U.S. equity assets under management. Commingled-fund proposals must address restricted-company exclusions, voting, operations and reporting, fees and expenses, underlying funds, securities lending, collateral, and related costs and options.",
+      "nodes": [
+        {
+          "title": "III. BACKGROUND INFORMATION",
+          "node_id": "0005",
+          "start_index": 6,
+          "end_index": 7,
+          "key_items": [
+            "A. Legal Authorization; B. Board Composition; C. Support Services",
+            "A. Legal Authorization",
+            "B. Board Composition",
+            "C. Support Services",
+            "D. Allocation of Assets",
+            "E. Investment Guidelines"
+          ],
+          "summary": "TARGET ASSET ALLOCATION FOR OPERS and URSJJ:\nLarge Cap Domestic Equities Small Cap Domestic Equities International Equities Fixed Income Cash Equivalents\nTARGET\n34%\n6%\n28%\n32%\n0%\nOPERS RFP – Investment Management Services – Issued July 20, 2023 Page 6 of 17E. Investment Guidelines\nA copy of the current “Statement of Policy” for OPERS and URSJJ is available on the OPERS website at https://www.opers.ok.gov/."
+        },
+        {
+          "title": "IV. SCOPE OF ASSIGNMENT",
+          "node_id": "0006",
+          "start_index": 7,
+          "end_index": 7,
+          "summary": "OPERS seeks an investment manager to advise on passive index exposure for OPERS and URSJJ. Vendors may propose for all, some, or one of the mandates and should address both standard index inclusion and versions excluding companies on the Restricted Financial Companies List, which the Treasurer may revise quarterly. Mandates and values are as of May 31, 2023. OPERS: Fixed income—TIPS Index, 3.50%, $400,398,030; non-U.S. equity—ACWI ex-US Growth, 3.00%, $337,865,460, and ACWI ex-U.S., 16.00%, $1,699,052,174; U.S. equity—Russell 1000, 17.00%, $1,859,650,910, and Russell 1000 Value, 3.00%, $303,572,192. URSJJ: Fixed income—TIPS Index, 3.50%, $13,325,629; non-U.S. equity—ACWI ex-U.S., 28.00%, $101,411,267; U.S. equity—Russell 1000, 34.00%, $129,079,875, and Russell 2000, 6.00%, $20,817,088."
+        },
+        {
+          "title": "V. CRITERIA AND QUALIFICATIONS OF THE INVESTMENT ADVISORY FIRM",
+          "node_id": "0007",
+          "start_index": 7,
+          "end_index": 8,
+          "summary": "V. CRITERIA AND QUALIFICATIONS OF THE INVESTMENT ADVISORY FIRM\nA. Vendors should have substantial experience managing assets in classes described in this RFP. The following criteria will apply and exceptions will not be granted:\nOPERS RFP – Investment Management Services – Issued July 20, 2023 Page 7 of 171. The proposed investment management firm must have assets under management (firm-wide) of at least $10 billion as of June 30, 2023.\n2. The proposed investment team must have been responsible for at least $10 billion in indexed assets as of June 30, 2023.\n3. The senior investment professionals in charge of the proposed mandates must have at least ten years of institutional experience within fixed income and/or equity indexing space.\nB. The fee quotes set forth in the response to the RFP will be a significant factor in determining semi-finalists for further consideration."
+        },
+        {
+          "title": "VI. TIMELINE",
+          "node_id": "0008",
+          "start_index": 8,
+          "end_index": 8,
+          "summary": "VI. TIMELINE\nThe following timeline is an estimate and may be adjusted at OPERS’ discretion any time during this procurement process.\nTASK\nDATE\nJuly 20, 2023\nDistribution of RFP Deadline for questions submitted in writing via e-mail (no later than 5:00 p.m. Central Time)\nAugust 2, 2023\nAugust 4, 2023 August 11, 2023\nDate for answers to questions Proposals due (no later than 4:30 p.m. Central Time) Finalist presentations (if necessary) Award business (subject to negotiations) Estimated contract start date\nTBD TBD TBD"
+        },
+        {
+          "title": "VII. COMMUNICATION WITH OPERS",
+          "node_id": "0009",
+          "start_index": 8,
+          "end_index": 9,
+          "summary": "OPERS will answer RFP questions only through the process in Section II(G); vendors must check its website for updates, and telephone questions are not accepted. From RFP release until selection and contract approval, communications about the RFP are limited to that Q&A process, with exceptions for the designated Section II(G) contact and staff conducting negotiations, presentations, or contract award and execution. Normal business contact with OPERS investment consultants or appropriate staff is not restricted. Violations may lead to proposal rejection. Vendors may not be individually notified of the Board’s final decision; announcing a preferred vendor may be OPERS’ only communication. Post-deadline telephone and other inquiries are discouraged."
+        },
+        {
+          "title": "VIII. GENERAL TERMS AND CONDITIONS",
+          "node_id": "0010",
+          "start_index": 9,
+          "end_index": 10,
+          "key_items": [
+            "A. Applicable Laws and Courts; B. Ethics in Public Contracting; C. Qualifications of Vendors; D. Business Continuity; E. Assignment of Contract",
+            "A. Applicable Laws and Courts",
+            "B. Ethics in Public Contracting",
+            "C. Qualifications of Vendors",
+            "D. Business Continuity",
+            "E. Assignment of Contract",
+            "F. Period of Contract",
+            "G. Ownership of Data and Work Product; H. Limitation of Liability, Hold Harmless Clauses & Indemnity",
+            "G. Ownership of Data and Work Product",
+            "H. Limitation of Liability, Hold Harmless Clauses & Indemnity"
+          ],
+          "summary": "The solicitation and contract are governed by Oklahoma law, with litigation in Oklahoma County, and vendors must follow applicable laws. Bidders certify no collusion, fraud, kickbacks, or improper benefits to public employees. OPERS may investigate vendor qualifications, request information, visit facilities, and reject unqualified proposals. Vendors must disclose anticipated corporate changes and provide a disaster-continuity plan. Assignment requires OPERS’ written consent. The initial term runs through June 30, 2024; the Board may renew annually or terminate on 30 days’ notice, with or without cause. Contract work product and data belong to OPERS, which must have reasonable access. Oklahoma agencies cannot limit vendor liability, indemnify vendors, or hold them harmless. Management fees must match or beat fees for comparable clients; lower fees must be reported, may be reviewed, and can trigger retroactive reductions. OPERS records are subject to the Open Records Act. Relevant records must be auditable and retained for seven years after contract completion or termination, with longer retention if related actions remain unresolved."
+        },
+        {
+          "title": "IX. QUESTIONNAIRE",
+          "node_id": "0011",
+          "start_index": 10,
+          "end_index": 12,
+          "key_items": [
+            "A. Organization",
+            "B. Passive/Indexing Management"
+          ],
+          "summary": "The questionnaire requests firm identity and new-business contacts; ownership and financial condition; firm and passive/indexing organizational charts; past and anticipated restructuring; succession and leadership-continuity plans; relevant litigation, legal proceedings, or SEC investigations; senior-management turnover; five years of investment-professional totals, departures, additions, and roles; up to ten key OPERS team members’ experience, tenure, responsibilities, indexed assets, and time allocation; portfolio-manager account loads and assignment practices; decision-making across portfolio management, research, and trading; and compensation incentives for analysts, managers, and executives. It also asks when passive/indexed management began in fixed income (specifically TIPS), non-U.S. equity, and U.S. equity; whether all Section IV asset classes are offered and reasons for exclusions; and assets under management by client type (public and corporate DB plans, endowments/foundations, DC plans, foreign/other, and firm-wide), for the entire indexing group and separately for TIPS."
+        },
+        {
+          "title": "C. NON-U.S. EQUITY- ASSETS UNDER MANAGEMENT:",
+          "node_id": "0012",
+          "start_index": 12,
+          "end_index": 12,
+          "summary": "C. NON-U.S. EQUITY- ASSETS UNDER MANAGEMENT:\nPublic DB Plan Corporate DB\nEndowments/ Foundations\nAssets (millions $)\nDC Plan\nForeign/Other\nPlan\nACWI ex-U.S. ACWI ex-U.S.- Growth"
+        },
+        {
+          "title": "D. US. EQUITY- ASSETS UNDER MANAGEMENT:",
+          "node_id": "0013",
+          "start_index": 12,
+          "end_index": 13,
+          "summary": "Requests U.S. equity assets under management by client type and Russell index, plus approximate firm-wide client turnover by year, including clients and assets gained and lost. Seeks details on passive/indexed investment philosophy; portfolio construction for each mandate, including replication or representative holdings and minimizing benchmark deviations; strategy strengths and weaknesses; risk-management personnel and tools; guideline-compliance monitoring; and the role and internal rules for derivatives. Requests annualized product returns since inception and over 1, 2, 3, 4, 5, 7, and 10 years as of June 30, 2023, with tracking error and its sources. Additional questions cover SEC registration and Form ADV, client-reporting turnaround, three large public-fund references with contact details and advised assets at inception and currently, and whether the firm carries errors-and-omissions and fiduciary liability insurance, including coverage levels."
+        },
+        {
+          "title": "X. SPECIAL SECTION FOR PASSIVELY MANAGED PROPOSALS IN COMMINGLED FUNDS",
+          "node_id": "0014",
+          "start_index": 13,
+          "end_index": 15,
+          "key_items": [
+            "A. Questions Regarding Restricted Financial Companies List and Proxy Voting; B. Availability of Funds & Balances; C. Reports; D. General",
+            "A. Questions Regarding Restricted Financial Companies List and Proxy Voting",
+            "B. Availability of Funds & Balances",
+            "C. Reports",
+            "D. General",
+            "E. Securities Lending"
+          ],
+          "summary": "Applies to vendors proposing indexed commingled funds. Vendors must explain how index constituents on the Oklahoma Treasurer’s Restricted Financial Companies List are excluded, whether compliant funds are available, and whether clients can vote their pro-rata shares under client criteria. Provide fund opening and investment/redemption-notice dates, settlement dates (including securities-lending variations), and month-end balances within five business days. In addition to standard holdings and transaction reports, provide underlying securities and OPERS’ proportionate ownership. Disclose all fund and System fees and expenses, investment-guideline documents, and custodian; state variable costs annually and in basis points using expected fund and System investment levels. For funds of funds, identify underlying funds and their costs; describe expected fee changes and caps. Explain securities-lending and collateral-investment processes, guidelines, credit quality, asset restrictions, and whether OPERS can set guidelines or exclude restricted companies. State the lending-income split, payment method, additional charges, opt-out availability and cost effects; provide a separate quote if non-lending fees differ."
+        }
+      ]
+    },
+    {
+      "title": "XI. FEE QUOTE",
+      "node_id": "0015",
+      "start_index": 15,
+      "end_index": 17,
+      "key_items": [
+        "Summary of Proposal and Fee Quote",
+        "COMPENSATION RATES",
+        "C. The total annual fees for the services provided under this Agreement are set forth in this Exhibit “A”."
+      ],
+      "summary": "The RFP requires a fixed-fee quote covering all administered assets, using the prescribed, unaltered format; only blank dollar amounts, basis points, and percentages may be changed. Bidders accept the specified fee methodology and are encouraged to obtain legal review. Quotes should reflect Section IV asset levels and any aggregation, include all commingled-fund fees and expenses as one fee, distinguish multiple vehicles for a mandate, state assumptions, and complete the summary and Exhibit A. The summary covers six index mandates, vehicle, annual fee, securities-lending participation and split, ability to exclude restricted financial-company constituents, and proxy voting. Exhibit A requires invoices and quarterly billing for applicable OPERS/URSJJ portfolios, reviewed within ten working days. Approved commingled-fund fees are paid through security sales, with transaction details reported; active-portfolio fees are wired by the custodian, with the manager responsible for sufficient cash. Fees are calculated quarterly in arrears using the average of three month-end values, excluding accrued income, with pro-rata adjustments for partial-quarter contributions or withdrawals. No additional service charges are permitted."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

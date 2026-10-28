@@ -1,0 +1,7 @@
+{
+  "question": "How many printed copies of the proposal must be submitted in the San Francisco Employees' Retirement System (SFERS) general investment consultant RFP?",
+  "gold_answer": "Three (3) paper (hard) copies plus one full electronic copy.",
+  "acceptance": "Three hard/paper/printed copies is fully correct. Electronic-copy mention is optional, not a required extra.",
+  "scope": "single_document",
+  "candidate_answer": "Three printed (hard) copies of the proposal must be submitted. The RFP also requires one complete electronic copy. [SFERS RFP, p. 5](SFERS__SFERS-General-Investment-Consultant-RFP_vFinal.pdf#page=5)"
+}

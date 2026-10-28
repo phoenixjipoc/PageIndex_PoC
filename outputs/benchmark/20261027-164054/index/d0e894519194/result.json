@@ -1,0 +1,43 @@
+{
+  "file": "Oklahoma_TRS__Investment.Consultant.RFP.adopted.by.Board.pdf",
+  "sha256": "44f00d45135bc3ed0bccd3d98ef8e5fd4ad7447e7976309185b802bcba24f2e2",
+  "bytes": 1116389,
+  "pages": 35,
+  "public_source_url": "https://oklahoma.gov/content/dam/ok/en/trs/documents/rfps/Investment.Consultant.RFP.adopted.by.Board.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:05:08.013575+00:00",
+  "doc_id": "pi-b5b954bda77047bc9ca0c1ed466225e5",
+  "stored_name": "Oklahoma_TRS__Investment.Consultant.RFP.adopted.by.Board.pdf",
+  "reported_usage": {
+    "prompt_tokens": 57015,
+    "completion_tokens": 14344,
+    "total_tokens": 71359,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 36916
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3549
+    }
+  },
+  "elapsed_seconds": 30.942,
+  "finished_at_utc": "2026-10-27T09:05:38.970929+00:00",
+  "model_calls": 51,
+  "http_attempts": 51,
+  "observed_usage": {
+    "input_tokens": 57015,
+    "output_tokens": 14344,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 36916,
+    "reasoning_tokens": 3549,
+    "total_tokens": 71359
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

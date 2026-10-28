@@ -1,0 +1,149 @@
+{
+  "id": "SVC-10",
+  "question": "In the minimum-qualifications insurance list of the RFP for oversight of the pension administration system replacing V3, what umbrella-liability and professional-liability limits are specified?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:15:48.566779+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The RFP specifies **umbrella liability of $5 million per occurrence and $5 million aggregate**, and **professional liability of $2 million per occurrence and $3 million aggregate**. [OCERS Pension Administration System Consulting RFP, p. 4]",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 64935,
+    "input_tokens_details": {
+      "cached_tokens": 41603,
+      "cache_write_tokens": 23314
+    },
+    "output_tokens": 216,
+    "output_tokens_details": {
+      "reasoning_tokens": 22
+    },
+    "total_tokens": 65151,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1223,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1220
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1238
+      },
+      {
+        "input_tokens": 2389,
+        "input_tokens_details": {
+          "cached_tokens": 1220,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 12
+        },
+        "total_tokens": 2426
+      },
+      {
+        "input_tokens": 7629,
+        "input_tokens_details": {
+          "cached_tokens": 2386,
+          "cache_write_tokens": 5240
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 10
+        },
+        "total_tokens": 7671
+      },
+      {
+        "input_tokens": 7888,
+        "input_tokens_details": {
+          "cached_tokens": 7626,
+          "cache_write_tokens": 259
+        },
+        "output_tokens": 31,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7919
+      },
+      {
+        "input_tokens": 22489,
+        "input_tokens_details": {
+          "cached_tokens": 7885,
+          "cache_write_tokens": 14601
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 22524
+      },
+      {
+        "input_tokens": 23317,
+        "input_tokens_details": {
+          "cached_tokens": 22486,
+          "cache_write_tokens": 828
+        },
+        "output_tokens": 56,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 23373
+      }
+    ]
+  },
+  "elapsed_seconds": 14.04,
+  "finished_at_utc": "2026-10-27T09:16:02.611493+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 64935,
+    "output_tokens": 216,
+    "cached_input_tokens": 41603,
+    "cache_write_tokens": 23314,
+    "reasoning_tokens": 22,
+    "total_tokens": 65151
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"offset\":10,\"limit\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"OCERS__ocers_pas_consultant_rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"OCERS__ocers_pas_consultant_rfp.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"OCERS__ocers_pas_consultant_rfp.pdf\",\"pages\":\"4\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "OCERS__ocers_pas_consultant_rfp.pdf",
+      "pages": "4",
+      "success": true,
+      "call_id": "call_wI9r0xszOircmD8PbzjrJogB"
+    }
+  ],
+  "successfully_read_documents": [
+    "OCERS__ocers_pas_consultant_rfp.pdf"
+  ]
+}

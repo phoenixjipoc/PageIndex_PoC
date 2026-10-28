@@ -1,0 +1,156 @@
+{
+  "status": "completed",
+  "run_id": "20261027-161105",
+  "scope": "single_document_smoke_test",
+  "question_id": "INV-04",
+  "question": "In the Illinois Firefighters' Pension Investment Fund (FPIF) February 2023 RFP for private markets investment consulting and discretionary OCIO advisory services, what long-term target allocation to private markets is FPIF building, and how is it split across asset classes?",
+  "document": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+  "pdf_sha256": "8babdc152651e80fd4ce6aacbee0887b049fabef9575dd2d82422db74498432e",
+  "pdf_pages": 33,
+  "models_requested": {
+    "index": "gpt-6-luna",
+    "chat": "gpt-6-sol"
+  },
+  "previous_container_default": "gpt-5.4",
+  "endpoint_host": "api.openai.com",
+  "pageindex_version": "0.2.10",
+  "source_commit": "e38b40ebaeea26d2c7206b80ce7bc9bf2935cdec",
+  "python_version": "3.11.15",
+  "index_mode": "flash",
+  "index_reasoning_effort": "medium",
+  "chat_protocol": "responses",
+  "chat_reasoning_effort": "medium",
+  "max_chat_turns": 8,
+  "per_request_timeout_seconds": 90,
+  "summary_concurrency": 2,
+  "index_storage": "C:\\Users\\XUJI\\OneDrive - Capco\\Desktop\\PageIndex_PoC\\.pageindex\\example-20261027-161105",
+  "reference_answers_used_in_generation": false,
+  "routing_note": "The source document is supplied for this smoke test; this is not whole-corpus retrieval.",
+  "instruction_note": "Official default agent instructions; no additional guidance.",
+  "index_seconds": 52.922,
+  "index_usage": {
+    "prompt_tokens": 22724,
+    "completion_tokens": 4956,
+    "total_tokens": 27680,
+    "prompt_tokens_details": {
+      "cached_tokens": 1486,
+      "cache_write_tokens": 17304
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1528
+    }
+  },
+  "doc_id": "pi-13ecfdf1897b4eee9f2be3b9a3745a6e",
+  "stored_document_name": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+  "chat_seconds": 14.062,
+  "chat_usage": {
+    "input_tokens": 20925,
+    "input_tokens_details": {
+      "cached_tokens": 12401,
+      "cache_write_tokens": 8509
+    },
+    "output_tokens": 278,
+    "output_tokens_details": {
+      "reasoning_tokens": 74
+    },
+    "total_tokens": 21203,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1639,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1636
+        },
+        "output_tokens": 77,
+        "output_tokens_details": {
+          "reasoning_tokens": 60
+        },
+        "total_tokens": 1716
+      },
+      {
+        "input_tokens": 1923,
+        "input_tokens_details": {
+          "cached_tokens": 1636,
+          "cache_write_tokens": 284
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1958
+      },
+      {
+        "input_tokens": 2190,
+        "input_tokens_details": {
+          "cached_tokens": 1920,
+          "cache_write_tokens": 267
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2226
+      },
+      {
+        "input_tokens": 6661,
+        "input_tokens_details": {
+          "cached_tokens": 2187,
+          "cache_write_tokens": 4471
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 6703
+      },
+      {
+        "input_tokens": 8512,
+        "input_tokens_details": {
+          "cached_tokens": 6658,
+          "cache_write_tokens": 1851
+        },
+        "output_tokens": 88,
+        "output_tokens_details": {
+          "reasoning_tokens": 14
+        },
+        "total_tokens": 8600
+      }
+    ]
+  },
+  "response_status": "completed",
+  "answer": "FPIF is building a **31% long-term target allocation to private markets**: **10% private equity, 7% private debt, 10% real estate, and 4% infrastructure**. <cite doc=\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\" page=\"3\"/>",
+  "citations": [
+    {
+      "document": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+      "doc_id": "pi-13ecfdf1897b4eee9f2be3b9a3745a6e",
+      "page": 3
+    }
+  ],
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\",\"pages\":\"3-4\"}"
+    }
+  ],
+  "model_response_ids": [
+    "gpt-6-luna",
+    "gpt-6-sol"
+  ],
+  "model_call_count": 22,
+  "all_models_match": true,
+  "wire_request_count": 22,
+  "all_wire_settings_match": true,
+  "total_seconds": 67.032
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "CONS-15",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "fe641ef679ca0c9a5cb8d7eb2b2e3366c3608e26f064afc32dbf733c797b9fad",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "All eight core functions and meeting frequencies are covered.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:51.644565+00:00"
+}

@@ -1,0 +1,71 @@
+{
+  "at_utc": "2026-10-27T09:20:53.931763+00:00",
+  "index": {
+    "completed": 78
+  },
+  "questions": {
+    "completed": 110
+  },
+  "index_terminal": 78,
+  "questions_terminal": 110,
+  "active_documents": [],
+  "active_questions": [],
+  "recent_questions": [
+    {
+      "id": "INV-15",
+      "status": "completed",
+      "elapsed_seconds": 13.539,
+      "error_type": null,
+      "error": null,
+      "read_sources": [
+        "Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf"
+      ],
+      "request_settings_match": true
+    },
+    {
+      "id": "INV-04",
+      "status": "completed",
+      "elapsed_seconds": 13.463,
+      "error_type": null,
+      "error": null,
+      "read_sources": [
+        "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf"
+      ],
+      "request_settings_match": true
+    },
+    {
+      "id": "DDQ-02",
+      "status": "completed",
+      "elapsed_seconds": 9.523,
+      "error_type": null,
+      "error": null,
+      "read_sources": [
+        "NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf"
+      ],
+      "request_settings_match": true
+    },
+    {
+      "id": "SVC-08",
+      "status": "completed",
+      "elapsed_seconds": 22.817,
+      "error_type": null,
+      "error": null,
+      "read_sources": [
+        "Delaware__TRE21101-RECDKEEPR-rfp.pdf",
+        "Monroe_County_NY__10406.pdf"
+      ],
+      "request_settings_match": true
+    },
+    {
+      "id": "OTH-03",
+      "status": "completed",
+      "elapsed_seconds": 11.119,
+      "error_type": null,
+      "error": null,
+      "read_sources": [
+        "Rice_University__2021_Benefit_Plan_RFP_-_final.pdf"
+      ],
+      "request_settings_match": true
+    }
+  ]
+}

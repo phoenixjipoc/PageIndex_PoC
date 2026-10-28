@@ -1,0 +1,149 @@
+{
+  "id": "INV-16",
+  "question": "In the Santa Barbara County Employees' Retirement System (SBCERS) 2020 RFP for a discretionary private equity consultant, how many years must the proposing firm have been in business?",
+  "type": "pair_b",
+  "pair_id": "P12",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:14:03.814800+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The proposing firm must have been in business for **at least five years**, providing services similar to those in the RFP’s scope of services. [SBCERS 2020 RFP, p. 8](SBCERS__2020-Private-Equity-RFP.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 52685,
+    "input_tokens_details": {
+      "cached_tokens": 34957,
+      "cache_write_tokens": 17710
+    },
+    "output_tokens": 262,
+    "output_tokens_details": {
+      "reasoning_tokens": 51
+    },
+    "total_tokens": 52947,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1226,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1223
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1241
+      },
+      {
+        "input_tokens": 2392,
+        "input_tokens_details": {
+          "cached_tokens": 1223,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 9
+        },
+        "total_tokens": 2426
+      },
+      {
+        "input_tokens": 7629,
+        "input_tokens_details": {
+          "cached_tokens": 2389,
+          "cache_write_tokens": 5237
+        },
+        "output_tokens": 32,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7661
+      },
+      {
+        "input_tokens": 7879,
+        "input_tokens_details": {
+          "cached_tokens": 7626,
+          "cache_write_tokens": 250
+        },
+        "output_tokens": 33,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7912
+      },
+      {
+        "input_tokens": 15846,
+        "input_tokens_details": {
+          "cached_tokens": 7876,
+          "cache_write_tokens": 7967
+        },
+        "output_tokens": 85,
+        "output_tokens_details": {
+          "reasoning_tokens": 42
+        },
+        "total_tokens": 15931
+      },
+      {
+        "input_tokens": 17713,
+        "input_tokens_details": {
+          "cached_tokens": 15843,
+          "cache_write_tokens": 1867
+        },
+        "output_tokens": 63,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 17776
+      }
+    ]
+  },
+  "elapsed_seconds": 11.971,
+  "finished_at_utc": "2026-10-27T09:14:15.785640+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 52685,
+    "output_tokens": 262,
+    "cached_input_tokens": 34957,
+    "cache_write_tokens": 17710,
+    "reasoning_tokens": 51,
+    "total_tokens": 52947
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SBCERS__2020-Private-Equity-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SBCERS__2020-Private-Equity-RFP.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"SBCERS__2020-Private-Equity-RFP.pdf\",\"pages\":\"8,16-17\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "SBCERS__2020-Private-Equity-RFP.pdf",
+      "pages": "8,16-17",
+      "success": true,
+      "call_id": "call_SOV5bWypLqvweunWu8S3OYZh"
+    }
+  ],
+  "successfully_read_documents": [
+    "SBCERS__2020-Private-Equity-RFP.pdf"
+  ]
+}

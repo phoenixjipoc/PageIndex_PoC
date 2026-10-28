@@ -1,0 +1,7 @@
+{
+  "question": "In the Massachusetts PRIM Board's September 2026 RFP for Active Global Core Equity investment management services, what minimum total firm assets under management must a respondent have?",
+  "gold_answer": "At least $5 billion in total firm assets under management as of June 30, 2026.",
+  "acceptance": "At least $5bn total firm AUM as of June 30, 2026. Do not confuse firm AUM with product assets.",
+  "scope": "single_document",
+  "candidate_answer": "A respondent must have **at least $5 billion in total firm assets under management** as of June 30, 2026. [Source: PRIM RFP, Section VI, p. 14](MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf#page=14)."
+}

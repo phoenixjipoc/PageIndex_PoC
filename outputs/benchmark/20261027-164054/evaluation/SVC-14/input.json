@@ -1,0 +1,7 @@
+{
+  "question": "What evaluation criteria and percentage weights does the Santa Barbara County Employees' Retirement System (SBCERS) global custody RFP use to evaluate respondents?",
+  "gold_answer": "1. Scope Affirmation, Servicing Approach, and Institutional Credentials - 30%; 2. Core and Value Added Services and Technology Platforms - 40%; 3. Quality of Responses and Additional Evidence of Capability - 5%; 4. Competitiveness and Reasonableness of Economics - 25%.",
+  "acceptance": "All four categories and 30/40/5/25%; allow synonymous category descriptions.",
+  "scope": "single_document",
+  "candidate_answer": "SBCERS scores respondents to its global custody RFP on four criteria:\n\n| Evaluation criterion | Weight |\n|---|---:|\n| Scope affirmation, servicing approach, and institutional credentials | 30% |\n| Core and value-added services and technology platforms | 40% |\n| Quality of responses and additional evidence of capability | 5% |\n| Competitiveness and reasonableness of economics | 25% |\n\nFees are assessed relative to service quality; SBCERS is **not required to select the lowest-cost respondent**. Source: [SBCERS Global Custody RFP, Section V, p. 27](SBCERS__01_2023-SBCERS-Custody-RFP-CONSOLIDATED-Final-Updated.pdf#page=27)."
+}

@@ -1,0 +1,171 @@
+{
+  "id": "XD-09",
+  "question": "How many lettered appendices does the ILPA Due Diligence Questionnaire v1.2 list in its table of contents, and what are they?",
+  "type": "pair_a",
+  "pair_id": "P17",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:14:49.185414+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The table of contents lists **five lettered appendices**:\n\n- **Appendix A:** Requested Documents\n- **Appendix B:** Templates: Team Members\n- **Appendix C:** Templates: References\n- **Appendix D:** Templates: Fund\n- **Appendix E:** Templates: Portfolio Investments\n\nSource: *ILPA Due Diligence Questionnaire v1.2*, table of contents, p. 2.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 59419,
+    "input_tokens_details": {
+      "cached_tokens": 44862,
+      "cache_write_tokens": 14536
+    },
+    "output_tokens": 299,
+    "output_tokens_details": {
+      "reasoning_tokens": 10
+    },
+    "total_tokens": 59718,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1219,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1216
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1234
+      },
+      {
+        "input_tokens": 2385,
+        "input_tokens_details": {
+          "cached_tokens": 1216,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 10
+        },
+        "total_tokens": 2420
+      },
+      {
+        "input_tokens": 7623,
+        "input_tokens_details": {
+          "cached_tokens": 2382,
+          "cache_write_tokens": 5238
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7659
+      },
+      {
+        "input_tokens": 7908,
+        "input_tokens_details": {
+          "cached_tokens": 7620,
+          "cache_write_tokens": 285
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7945
+      },
+      {
+        "input_tokens": 12773,
+        "input_tokens_details": {
+          "cached_tokens": 7905,
+          "cache_write_tokens": 4865
+        },
+        "output_tokens": 41,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 12814
+      },
+      {
+        "input_tokens": 12972,
+        "input_tokens_details": {
+          "cached_tokens": 12770,
+          "cache_write_tokens": 199
+        },
+        "output_tokens": 43,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 13015
+      },
+      {
+        "input_tokens": 14539,
+        "input_tokens_details": {
+          "cached_tokens": 12969,
+          "cache_write_tokens": 1567
+        },
+        "output_tokens": 92,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 14631
+      }
+    ]
+  },
+  "elapsed_seconds": 15.5,
+  "finished_at_utc": "2026-10-27T09:15:04.690486+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 59419,
+    "output_tokens": 299,
+    "cached_input_tokens": 44862,
+    "cache_write_tokens": 14536,
+    "reasoning_tokens": 10,
+    "total_tokens": 59718
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf\",\"pages\":\"1\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf\",\"pages\":\"2-3\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf",
+      "pages": "1",
+      "success": true,
+      "call_id": "call_F74aeenkxPNkh4I37mXsTUgh"
+    },
+    {
+      "document": "ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf",
+      "pages": "2-3",
+      "success": true,
+      "call_id": "call_PD1HB5fDXGert9zkhVyGqDm4"
+    }
+  ],
+  "successfully_read_documents": [
+    "ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf"
+  ]
+}

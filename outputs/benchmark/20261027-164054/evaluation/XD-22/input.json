@@ -1,0 +1,7 @@
+{
+  "question": "According to the Calamos/Aksia Private Markets Due Diligence Questionnaire, what maximum single-position size, as a percentage of fund assets, should a private credit interval fund hold?",
+  "gold_answer": "NOT IN CORPUS",
+  "acceptance": "Accept 'not specified; asks the manager for maximum/average position size' or equivalent. No numeric cap should be invented; distinguish blank/question-only template from an unsuccessful keyword search.",
+  "scope": "negative",
+  "candidate_answer": "The questionnaire does **not specify a maximum percentage**. It asks managers to report the maximum and average position size as a percentage of fund assets, but does not prescribe a limit. [Calamos/Aksia questionnaire, p. 3](AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf)"
+}

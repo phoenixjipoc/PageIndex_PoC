@@ -1,0 +1,7 @@
+{
+  "question": "How many lettered appendices does the ILPA Due Diligence Questionnaire v1.2 list in its table of contents, and what are they?",
+  "gold_answer": "Five appendices (A-E): A - Requested Documents; B - Templates: Team Members; C - Templates: References; D - Templates: Fund; E - Templates: Portfolio Investments.",
+  "acceptance": "Accept five with the five titles; punctuation, Templates prefixes and order variations do not change meaning.",
+  "scope": "single_document",
+  "candidate_answer": "The table of contents lists **five lettered appendices**:\n\n- **Appendix A:** Requested Documents\n- **Appendix B:** Templates: Team Members\n- **Appendix C:** Templates: References\n- **Appendix D:** Templates: Fund\n- **Appendix E:** Templates: Portfolio Investments\n\nSource: *ILPA Due Diligence Questionnaire v1.2*, table of contents, p. 2."
+}

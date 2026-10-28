@@ -1,0 +1,43 @@
+{
+  "file": "St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf",
+  "sha256": "810870182e06aee68d2dbcb1204eacf34a63e4978823df9bf6970aeaaa1b7d51",
+  "bytes": 447673,
+  "pages": 19,
+  "public_source_url": "https://www.stlouisprs.org/Resources/0ab35489-8c72-4e50-9705-30b88a66f85d/PRS%20Actuarial%20Auditor%20Services%20RFP%20and%20Questionnaire.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:09:26.381048+00:00",
+  "doc_id": "pi-1dda4982111042e3adaa7d0a75652673",
+  "stored_name": "St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf",
+  "reported_usage": {
+    "prompt_tokens": 10583,
+    "completion_tokens": 2284,
+    "total_tokens": 12867,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 8408
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 520
+    }
+  },
+  "elapsed_seconds": 11.688,
+  "finished_at_utc": "2026-10-27T09:09:38.081783+00:00",
+  "model_calls": 9,
+  "http_attempts": 9,
+  "observed_usage": {
+    "input_tokens": 10583,
+    "output_tokens": 2284,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 8408,
+    "reasoning_tokens": 520,
+    "total_tokens": 12867
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

@@ -1,0 +1,43 @@
+{
+  "file": "AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf",
+  "sha256": "520cc4bdd463c25982a7e3cbb96a92de50de66502d481a777fd88b4d23057ce7",
+  "bytes": 189839,
+  "pages": 4,
+  "public_source_url": "https://www.acprivatemarkets.com/siteassets/pdf/private-markets-due-diligence-questionnaire.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:43:26.851993+00:00",
+  "doc_id": "pi-ed1009d8e2cf42b9ae8d566de14177d5",
+  "stored_name": "AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf",
+  "reported_usage": {
+    "prompt_tokens": 3866,
+    "completion_tokens": 1126,
+    "total_tokens": 4992,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 312
+    }
+  },
+  "elapsed_seconds": 11.097,
+  "finished_at_utc": "2026-10-27T08:43:37.966181+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 3866,
+    "output_tokens": 1126,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 0,
+    "reasoning_tokens": 312,
+    "total_tokens": 4992
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "XD-02",
+  "question": "A 2021 covering note describes an update to a responsible-investment due diligence questionnaire for private equity limited partners. When was the first version of that questionnaire launched, who adopted it, when was the working group for the update set up, and over how long had LPs and GPs been giving comments?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:18:02.059041+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The first version launched in **2015** and was adopted by **ILPA** as part of its broader due diligence questionnaire. PRI set up the update working group in **early 2021**; LPs and GPs had been providing written and verbal comments for **the preceding four months**. [Source: PRI covering note, p. 1](PRI__PRI-DDQ-ILPA-Covering-Note.pdf#page=1)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 27754,
+    "input_tokens_details": {
+      "cached_tokens": 19223,
+      "cache_write_tokens": 8516
+    },
+    "output_tokens": 226,
+    "output_tokens_details": {
+      "reasoning_tokens": 19
+    },
+    "total_tokens": 27980,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1250,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1247
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1265
+      },
+      {
+        "input_tokens": 2416,
+        "input_tokens_details": {
+          "cached_tokens": 1247,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 10
+        },
+        "total_tokens": 2451
+      },
+      {
+        "input_tokens": 7654,
+        "input_tokens_details": {
+          "cached_tokens": 2413,
+          "cache_write_tokens": 5238
+        },
+        "output_tokens": 43,
+        "output_tokens_details": {
+          "reasoning_tokens": 9
+        },
+        "total_tokens": 7697
+      },
+      {
+        "input_tokens": 7915,
+        "input_tokens_details": {
+          "cached_tokens": 7651,
+          "cache_write_tokens": 261
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7952
+      },
+      {
+        "input_tokens": 8519,
+        "input_tokens_details": {
+          "cached_tokens": 7912,
+          "cache_write_tokens": 604
+        },
+        "output_tokens": 96,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 8615
+      }
+    ]
+  },
+  "elapsed_seconds": 10.483,
+  "finished_at_utc": "2026-10-27T09:18:12.547951+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 27754,
+    "output_tokens": 226,
+    "cached_input_tokens": 19223,
+    "cache_write_tokens": 8516,
+    "reasoning_tokens": 19,
+    "total_tokens": 27980
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"PRI__PRI-DDQ-ILPA-Covering-Note.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"PRI__PRI-DDQ-ILPA-Covering-Note.pdf\",\"pages\":\"1\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "PRI__PRI-DDQ-ILPA-Covering-Note.pdf",
+      "pages": "1",
+      "success": true,
+      "call_id": "call_WBrfYc3of1L9fuF4bfAUfT6R"
+    }
+  ],
+  "successfully_read_documents": [
+    "PRI__PRI-DDQ-ILPA-Covering-Note.pdf"
+  ]
+}

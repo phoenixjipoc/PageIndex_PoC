@@ -1,0 +1,43 @@
+{
+  "file": "Illinois_SRS__RFP--Actuarial_Consulting_Services--SRS.pdf",
+  "sha256": "980da3cd7907ea33137f3596ed944bb18d19fcb9727a2d47b9b30c7cdf50581a",
+  "bytes": 683303,
+  "pages": 48,
+  "public_source_url": "https://ilsrs.illinois.gov/content/dam/soi/en/web/srs/documents/rfp/RFP--Actuarial%20Consulting%20Services--SRS.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:57:05.951245+00:00",
+  "doc_id": "pi-d5c243e5a0c640bd9272ef8e94d50433",
+  "stored_name": "Illinois_SRS__RFP--Actuarial_Consulting_Services--SRS.pdf",
+  "reported_usage": {
+    "prompt_tokens": 42062,
+    "completion_tokens": 11827,
+    "total_tokens": 53889,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 19639
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2679
+    }
+  },
+  "elapsed_seconds": 26.618,
+  "finished_at_utc": "2026-10-27T08:57:32.581584+00:00",
+  "model_calls": 47,
+  "http_attempts": 47,
+  "observed_usage": {
+    "input_tokens": 42062,
+    "output_tokens": 11827,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 19639,
+    "reasoning_tokens": 2679,
+    "total_tokens": 53889
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

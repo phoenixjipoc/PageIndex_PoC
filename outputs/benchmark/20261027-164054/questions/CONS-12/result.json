@@ -1,0 +1,149 @@
+{
+  "id": "CONS-12",
+  "question": "How many printed copies of the proposal must be submitted in the Boston Retirement System 2022 investment consulting services RFP?",
+  "type": "pair_a",
+  "pair_id": "P2",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:19:52.881483+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "Seven (7) complete printed copies of the proposal must be submitted, along with one electronic version. citeBoston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf, p. 2",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 42411,
+    "input_tokens_details": {
+      "cached_tokens": 30661,
+      "cache_write_tokens": 11732
+    },
+    "output_tokens": 208,
+    "output_tokens_details": {
+      "reasoning_tokens": 9
+    },
+    "total_tokens": 42619,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1212,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1209
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1227
+      },
+      {
+        "input_tokens": 2378,
+        "input_tokens_details": {
+          "cached_tokens": 1209,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 9
+        },
+        "total_tokens": 2412
+      },
+      {
+        "input_tokens": 7615,
+        "input_tokens_details": {
+          "cached_tokens": 2375,
+          "cache_write_tokens": 5237
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7638
+      },
+      {
+        "input_tokens": 9603,
+        "input_tokens_details": {
+          "cached_tokens": 7612,
+          "cache_write_tokens": 1988
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9639
+      },
+      {
+        "input_tokens": 9868,
+        "input_tokens_details": {
+          "cached_tokens": 9600,
+          "cache_write_tokens": 265
+        },
+        "output_tokens": 43,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9911
+      },
+      {
+        "input_tokens": 11735,
+        "input_tokens_details": {
+          "cached_tokens": 9865,
+          "cache_write_tokens": 1867
+        },
+        "output_tokens": 57,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 11792
+      }
+    ]
+  },
+  "elapsed_seconds": 12.06,
+  "finished_at_utc": "2026-10-27T09:20:04.947524+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 42411,
+    "output_tokens": 208,
+    "cached_input_tokens": 30661,
+    "cache_write_tokens": 11732,
+    "reasoning_tokens": 9,
+    "total_tokens": 42619
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":60}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Boston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Boston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf\",\"pages\":\"1-5\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Boston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf",
+      "pages": "1-5",
+      "success": true,
+      "call_id": "call_522w97hpjTy8mzAkaPygqxlX"
+    }
+  ],
+  "successfully_read_documents": [
+    "Boston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf"
+  ]
+}

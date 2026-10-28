@@ -1,0 +1,43 @@
+{
+  "file": "CTA_Retirement_Plan__RP_Investment_Consultant_RFP_4_29_25.pdf",
+  "sha256": "757f6f976f87c5f93502502802b5b44685ba95bad52468800c3738ab2061fd51",
+  "bytes": 187488,
+  "pages": 12,
+  "public_source_url": "https://ctaretirement.org/news/2025/RP%20Investment%20Consultant%20RFP%204%2029%2025.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:48:41.564474+00:00",
+  "doc_id": "pi-d9cad4ae12964f998d9572cec4f45858",
+  "stored_name": "CTA_Retirement_Plan__RP_Investment_Consultant_RFP_4_29_25.pdf",
+  "reported_usage": {
+    "prompt_tokens": 7801,
+    "completion_tokens": 2482,
+    "total_tokens": 10283,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 3232
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 661
+    }
+  },
+  "elapsed_seconds": 9.136,
+  "finished_at_utc": "2026-10-27T08:48:50.713650+00:00",
+  "model_calls": 10,
+  "http_attempts": 10,
+  "observed_usage": {
+    "input_tokens": 7801,
+    "output_tokens": 2482,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 3232,
+    "reasoning_tokens": 661,
+    "total_tokens": 10283
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

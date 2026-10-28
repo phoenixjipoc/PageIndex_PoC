@@ -1,0 +1,15 @@
+{
+  "question_id": "CONS-09",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "504272cbf8cb4bb801205ab3f4f28cbef6e4689e610f0629111f7dd10cbf30f0",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct Illinois TRS identification.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:51.573913+00:00"
+}

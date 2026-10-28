@@ -1,0 +1,43 @@
+{
+  "file": "York_PA__RFP-Investment_Manager_Advisor_Consultant_-_November_2016.pdf",
+  "sha256": "8d294270d827fc35d5383a46aa92498e505213c730cee2ae1240b186678237e6",
+  "bytes": 943178,
+  "pages": 9,
+  "public_source_url": "http://www.yorkcity.org/user-files/file/RFP-Investment%20Manager%20Advisor%20Consultant%20-%20November%202016.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:13:34.437829+00:00",
+  "doc_id": "pi-ef99fadd68bd40b9a64f6580257c4a80",
+  "stored_name": "York_PA__RFP-Investment_Manager_Advisor_Consultant_-_November_2016.pdf",
+  "reported_usage": {
+    "prompt_tokens": 8098,
+    "completion_tokens": 2202,
+    "total_tokens": 10300,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 2639
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 490
+    }
+  },
+  "elapsed_seconds": 13.821,
+  "finished_at_utc": "2026-10-27T09:13:48.272435+00:00",
+  "model_calls": 9,
+  "http_attempts": 9,
+  "observed_usage": {
+    "input_tokens": 8098,
+    "output_tokens": 2202,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 2639,
+    "reasoning_tokens": 490,
+    "total_tokens": 10300
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

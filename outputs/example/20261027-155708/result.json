@@ -1,0 +1,118 @@
+{
+  "status": "completed",
+  "run_id": "20261027-155708",
+  "scope": "single_document_smoke_test",
+  "question_id": "INV-01",
+  "question": "In the CAJPA sample investment management RFP (Appendix Z, 'Sample Investment Management Request for Proposal'), how many copies of the proposal must be sent?",
+  "document": "CAJPA__28._Appendix_Z-Sample_Invest.pdf",
+  "pdf_sha256": "ea1bb65aa7b42689dd00b326025cd3acf50f9f62d78871d8ce1bd2f64af08242",
+  "pdf_pages": 9,
+  "model_requested": "gpt-6-sol",
+  "previous_container_default": "gpt-5.4",
+  "endpoint_host": "api.openai.com",
+  "pageindex_version": "0.2.10",
+  "source_commit": "e38b40ebaeea26d2c7206b80ce7bc9bf2935cdec",
+  "python_version": "3.11.15",
+  "index_mode": "flash",
+  "index_reasoning_effort": "none",
+  "chat_protocol": "responses",
+  "chat_reasoning_effort": "low",
+  "max_chat_turns": 8,
+  "per_request_timeout_seconds": 90,
+  "summary_concurrency": 2,
+  "index_storage": "C:\\Users\\XUJI\\OneDrive - Capco\\Desktop\\PageIndex_PoC\\.pageindex\\example-20261027-155708",
+  "reference_answers_used_in_generation": false,
+  "routing_note": "The source document is supplied for this smoke test; this is not whole-corpus retrieval.",
+  "instruction_note": "Explicit structure-first guidance is added to demonstrate tree navigation on this short PDF.",
+  "index_seconds": 25.974,
+  "index_usage": {
+    "prompt_tokens": 5158,
+    "completion_tokens": 1156,
+    "total_tokens": 6314,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 1842
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "doc_id": "pi-bad7e068e1644370aa57a81c5a9636be",
+  "stored_document_name": "CAJPA__28._Appendix_Z-Sample_Invest.pdf",
+  "chat_seconds": 17.274,
+  "chat_usage": {
+    "input_tokens": 9742,
+    "input_tokens_details": {
+      "cached_tokens": 5399,
+      "cache_write_tokens": 4334
+    },
+    "output_tokens": 111,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 9853,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1651,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1648
+        },
+        "output_tokens": 33,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1684
+      },
+      {
+        "input_tokens": 3754,
+        "input_tokens_details": {
+          "cached_tokens": 1648,
+          "cache_write_tokens": 2103
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3793
+      },
+      {
+        "input_tokens": 4337,
+        "input_tokens_details": {
+          "cached_tokens": 3751,
+          "cache_write_tokens": 583
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4376
+      }
+    ]
+  },
+  "response_status": "completed",
+  "answer": "Ten (10) copies of the proposal must be sent. <cite doc=\"CAJPA__28._Appendix_Z-Sample_Invest.pdf\" page=\"8\"/>",
+  "citations": [
+    {
+      "document": "CAJPA__28._Appendix_Z-Sample_Invest.pdf",
+      "doc_id": "pi-bad7e068e1644370aa57a81c5a9636be",
+      "page": 8
+    }
+  ],
+  "tool_calls": [
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"CAJPA__28._Appendix_Z-Sample_Invest.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"CAJPA__28._Appendix_Z-Sample_Invest.pdf\",\"pages\":\"8-9\"}"
+    }
+  ],
+  "model_response_ids": [
+    "gpt-6-sol"
+  ],
+  "model_call_count": 11,
+  "all_models_match": true,
+  "total_seconds": 43.411
+}

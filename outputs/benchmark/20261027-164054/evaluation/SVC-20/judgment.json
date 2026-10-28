@@ -1,0 +1,15 @@
+{
+  "question_id": "SVC-20",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "2a59f2c7368275d78cc643525826810309f6be3536bd91c49bcd4fe8ea2bb167",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Both required audit parts, valuation dates, SRBR/GASB67 and discrepancy reconciliation are covered.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:12.492018+00:00"
+}

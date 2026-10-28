@@ -1,0 +1,149 @@
+{
+  "id": "OTH-15",
+  "question": "In the Los Angeles City Employees' Retirement System (LACERS) actuarial RFP, how many years of experience must the lead actuary have?",
+  "type": "pair_a",
+  "pair_id": "P5",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:20:07.951382+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The lead actuary must have **at least 15 years of experience** with major public employee retirement systems, including at least **3 years** with comparable California public pension funds. [LACERS actuarial RFP, p. 4](LACERS__2025_actuarial_consulting_services_rfp.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 41404,
+    "input_tokens_details": {
+      "cached_tokens": 29872,
+      "cache_write_tokens": 11514
+    },
+    "output_tokens": 237,
+    "output_tokens_details": {
+      "reasoning_tokens": 18
+    },
+    "total_tokens": 41641,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1219,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1216
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1234
+      },
+      {
+        "input_tokens": 2385,
+        "input_tokens_details": {
+          "cached_tokens": 1216,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 43,
+        "output_tokens_details": {
+          "reasoning_tokens": 18
+        },
+        "total_tokens": 2428
+      },
+      {
+        "input_tokens": 7668,
+        "input_tokens_details": {
+          "cached_tokens": 2382,
+          "cache_write_tokens": 5283
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7702
+      },
+      {
+        "input_tokens": 7936,
+        "input_tokens_details": {
+          "cached_tokens": 7665,
+          "cache_write_tokens": 268
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7971
+      },
+      {
+        "input_tokens": 10679,
+        "input_tokens_details": {
+          "cached_tokens": 7933,
+          "cache_write_tokens": 2743
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10718
+      },
+      {
+        "input_tokens": 11517,
+        "input_tokens_details": {
+          "cached_tokens": 10676,
+          "cache_write_tokens": 838
+        },
+        "output_tokens": 71,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 11588
+      }
+    ]
+  },
+  "elapsed_seconds": 11.454,
+  "finished_at_utc": "2026-10-27T09:20:19.411896+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 41404,
+    "output_tokens": 237,
+    "cached_input_tokens": 29872,
+    "cache_write_tokens": 11514,
+    "reasoning_tokens": 18,
+    "total_tokens": 41641
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":0}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"LACERS__2025_actuarial_consulting_services_rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"LACERS__2025_actuarial_consulting_services_rfp.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"LACERS__2025_actuarial_consulting_services_rfp.pdf\",\"pages\":\"4\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "LACERS__2025_actuarial_consulting_services_rfp.pdf",
+      "pages": "4",
+      "success": true,
+      "call_id": "call_ZTgVoxeOjwWAulEi2N6L2Kzk"
+    }
+  ],
+  "successfully_read_documents": [
+    "LACERS__2025_actuarial_consulting_services_rfp.pdf"
+  ]
+}

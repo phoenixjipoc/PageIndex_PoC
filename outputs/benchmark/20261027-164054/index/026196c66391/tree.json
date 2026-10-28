@@ -1,0 +1,100 @@
+{
+  "doc_id": "pi-866441e238724dd4a699049551bd4971",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 2,
+      "summary": "Z. SAMPLE INVESTMENT MANAGEMENT REQUEST FOR PROPOSAL (RFP)\nREQUEST FOR PROPOSAL\nFOR\nINVESTMENT MANAGEMENT SERVICES FOR [Name of JPA]\nRETURN PROPOSALS TO:\nJohn Doe Pool Administrator [Name of JPA] 123 Main Street City, CA XXXXX\nDEADLINE FOR FILING:\n[DATE] [TIME]\nApproved for inclusion in the Accreditation Manual As revised November 2, 2010REQUEST FOR PROPOSAL FOR INVESTMENT MANAGEMENT SERVICES FOR [Name of JPA]\nTABLE OF CONTENTS\nI. INTRODUCTION.....................................................................3\nII. SCOPE OF SERVICES..............................................................3\nIII. PROPOSAL REQUIREMENTS....................................................4\nIV. INSURANCE REQUIREMENTS..................................................7\nV. SELECTION PROCESS.............................................................8\n2"
+    },
+    {
+      "title": "I. INTRODUCTION",
+      "node_id": "0001",
+      "start_index": 3,
+      "end_index": 3,
+      "summary": "The sample introduction describes a California public JPA formed in 1991 by 20 housing authorities to pool workers’ compensation liability coverage; it now has 31 members and provides first-dollar coverage up to a stated self-insured retention limit. Each member appoints a Board representative, while an Executive Committee—President, Vice President, Treasurer, and four at-large members—handles duties efficiently. The JPA’s manager oversees its claims administrator, and independent actuarial consultants review the program. The JPA seeks proposals for investment management services, noting placeholder figures for its cash, LAIF, self-managed portfolio, and planned initial investment. It is organized under Government Code sections 6500–6515; state statutes govern its investments, and its current Investment Policy is attached."
+    },
+    {
+      "title": "Investment Management RFP Requirements",
+      "node_id": "0002",
+      "start_index": 4,
+      "end_index": 4,
+      "key_items": [
+        "II. SCOPE OF SERVICES",
+        "III. SELECTION CRITERIA",
+        "IV. ORGANIZATION AND INVESTMENT APPROACH"
+      ],
+      "summary": "The RFP excludes custodial and safekeeping services. The selected firm must invest the JPA’s funds in line with its investment policy and cash-flow needs, provide discretionary or requested non-discretionary portfolio management, submit monthly written performance and portfolio reports, make periodic oral reports to the Board, and assist with an annual investment-policy review. Proposed policy changes must be submitted in final draft form to the General Manager before going to the Board. Proposals will be evaluated on understanding of the assignment, firm and personnel qualifications, portfolio-management approach, knowledge of state investment and reporting requirements, performance history, and fees. Responses should follow the organization and investment-approach format requested."
+    },
+    {
+      "title": "I. Organization",
+      "node_id": "0003",
+      "start_index": 4,
+      "end_index": 5,
+      "summary": "I. Organization\n4A. Describe your firm, the date founded, ownership, other basic affiliations, and history. (Please provide number and location of affiliated offices.)\nB. Describe all of your firm’s sources of revenue (e.g., investment management, institutional research, etc.) and comment on your firm’s financial condition.\nC. Describe any SEC censure or litigation involving your organization at any time.\nD. Identify the types of accounts primarily sought after by your firm.\nE. Provide information regarding the bonding and insurance your firm has in place.\nF. Specify if your firm has a dual registration."
+    },
+    {
+      "title": "II. Personnel",
+      "node_id": "0004",
+      "start_index": 5,
+      "end_index": 5,
+      "summary": "II. Personnel\nA. Identify the number of professionals employed by your firm, by classification.\nB. Provide biographical information on investment professionals that will be involved in the decision making process for our portfolio.\nC. Describe your firm’s compensation policies for investment professionals."
+    },
+    {
+      "title": "III. Assets Under Management",
+      "node_id": "0005",
+      "start_index": 5,
+      "end_index": 6,
+      "summary": "Requests information on assets under management: account types and numbers, total value and portfolio composition; GIP-compliant 1-, 3-, 5-, and 10-year performance; and market-value allocation of California public-agency portfolios under Government Code §53601 across Treasuries, federal agencies, corporate securities by rating, and other assets. Asks about securities downgraded below purchase requirements in the past five years, circumstances, and actions taken. Covers investment philosophy, changes and distinguishing features, investment process, comparable accounts’ maturity, quality, and sectors, recommendations for policy changes, decision-making structure and committees, and relevant research capabilities. Also asks whether portfolios are managed by teams or individuals, average accounts and assets per investment professional, and the designated primary client contact."
+    },
+    {
+      "title": "Investment Holdings, Philosophy, and Management Approach",
+      "node_id": "0006",
+      "start_index": 6,
+      "end_index": 6,
+      "key_items": [
+        "IV. Philosophy/Approach",
+        "A. Describe your firm’s investment philosophy."
+      ],
+      "summary": "The page lists corporate securities rated A, BBB or lower, and other securities, with percentage fields, and asks whether the firm held securities later downgraded below California Government Code purchase-rating minimums, including the circumstances and actions taken. It requests the firm’s investment philosophy, whether it changed over five years and what distinguishes it; its investment process; the maturity concentration, quality, and sectors of comparable accounts; recommended investment-policy restrictions or changes; decision-making structure, committees, membership, meeting frequency, responsibilities, research integration, and portfolio management; and research capabilities relevant to the JPA portfolio."
+    },
+    {
+      "title": "V. Portfolio Management",
+      "node_id": "0007",
+      "start_index": 6,
+      "end_index": 7,
+      "summary": "The text requests information on portfolio management, including whether accounts are managed by teams or individuals, accounts and assets per professional, the primary client contact, meeting frequency, and procedures for compliance with the JPA investment policy. It asks for the firm’s fee schedule and whether minimum, inactive-account, or Local Agency Investment Fund management fees apply. Performance reporting questions cover GIPS compliance and any differences, willingness to tailor reporting (including monthly state-required reporting), and direct broker-dealer transaction confirmations. Proposers must provide three references, preferably public agencies or joint powers insurance authorities, with asset-management duration and client contact details. Insurance must be maintained throughout the agreement; required endorsements are at the proposer’s expense, with proof provided to the JPA before work begins."
+    },
+    {
+      "title": "Investment Manager Fees, Reporting, and References",
+      "node_id": "0008",
+      "start_index": 7,
+      "end_index": 7,
+      "key_items": [
+        "VI. Fees",
+        "VII. Performance Reporting",
+        "VIII. References"
+      ],
+      "summary": "The page asks how often the manager is willing to meet and what procedures ensure portfolio compliance with the JPA’s investment policy. It requests the firm’s fee schedule and whether a minimum annual fee applies, fees are charged when the account is inactive, or fees apply to JPA funds held in the Local Agency Investment Fund. It asks whether returns are calculated and compiled under GIPS standards and, if not, why and how reporting differs; whether reporting can be tailored to client needs and objectives, including monthly State-required reporting; and whether broker-dealers send transaction confirmations directly to the client. Finally, it requests three references, preferably public agencies or joint powers insurance authorities, with asset-management duration and each client’s name, address, and phone number."
+    },
+    {
+      "title": "V. INSURANCE REQUIREMENTS",
+      "node_id": "0009",
+      "start_index": 7,
+      "end_index": 8,
+      "summary": "V. INSURANCE REQUIREMENTS\nProposers shall take out and maintain during the entire term of the agreement insurance pertaining to the activities associated with the agreement. Proposers will be required to obtain, at its own cost and expense, all insurance endorsements required below and shall provide evidence of such insurance and endorsements to the [Name of JPA] prior to commencing work.\n7Insurance Requirements [suggested]:\nWorkers’ Compensation Employer’s Liability Commercial General Liability If policy has an aggregate Professional Liability (Errors & Omissions)\n-Statutory limits -$1,000,000 per occurrence -$1,000,000 CSL per occurrence -$2,000,000 minimum -$5,000,000 minimum"
+    },
+    {
+      "title": "VI. SELECTION PROCESS",
+      "node_id": "0010",
+      "start_index": 8,
+      "end_index": 9,
+      "summary": "JPA staff will review proposals; failure to address all requested items may disqualify a firm. The JPA may reject any or all proposals, interview firms, and select an auditor at its discretion based on multiple criteria. Proposals must arrive by the stated time and date; late submissions are rejected. Submit ten copies and correspondence to John Doe at the listed address. Questions should be directed to John Doe using the provided address, phone numbers, or email. The timetable covers proposal receipt, review, notification of firms selected for interviews, interviews, and Board approval if a firm is selected, with dates to be specified. The JPA may cancel or change the timetable at any time or make a dual appointment."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

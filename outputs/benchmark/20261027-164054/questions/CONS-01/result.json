@@ -1,0 +1,133 @@
+{
+  "id": "CONS-01",
+  "question": "In the Grand Rapids General Retirement System investment consultant RFP, what was the total market value of the General Retirement System and as of what date?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:19:30.100789+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The General Retirement System’s total market value was approximately **$437 million as of June 30, 2023**. [Source: Investment Consultant RFP, p. 1](Grand_Rapids_GRS__Investment-Consultant-RFP-2023.pdf#page=1)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 29269,
+    "input_tokens_details": {
+      "cached_tokens": 19090,
+      "cache_write_tokens": 10164
+    },
+    "output_tokens": 190,
+    "output_tokens_details": {
+      "reasoning_tokens": 9
+    },
+    "total_tokens": 29459,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1217,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1214
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1232
+      },
+      {
+        "input_tokens": 2383,
+        "input_tokens_details": {
+          "cached_tokens": 1214,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 9
+        },
+        "total_tokens": 2417
+      },
+      {
+        "input_tokens": 7620,
+        "input_tokens_details": {
+          "cached_tokens": 2380,
+          "cache_write_tokens": 5237
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7655
+      },
+      {
+        "input_tokens": 7882,
+        "input_tokens_details": {
+          "cached_tokens": 7617,
+          "cache_write_tokens": 262
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7924
+      },
+      {
+        "input_tokens": 10167,
+        "input_tokens_details": {
+          "cached_tokens": 7879,
+          "cache_write_tokens": 2285
+        },
+        "output_tokens": 64,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10231
+      }
+    ]
+  },
+  "elapsed_seconds": 12.099,
+  "finished_at_utc": "2026-10-27T09:19:42.206457+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 29269,
+    "output_tokens": 190,
+    "cached_input_tokens": 19090,
+    "cache_write_tokens": 10164,
+    "reasoning_tokens": 9,
+    "total_tokens": 29459
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Grand_Rapids_GRS__Investment-Consultant-RFP-2023.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Grand_Rapids_GRS__Investment-Consultant-RFP-2023.pdf\",\"pages\":\"1-4\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Grand_Rapids_GRS__Investment-Consultant-RFP-2023.pdf",
+      "pages": "1-4",
+      "success": true,
+      "call_id": "call_wIbov2f0wFK1k4MrCNp8zHWR"
+    }
+  ],
+  "successfully_read_documents": [
+    "Grand_Rapids_GRS__Investment-Consultant-RFP-2023.pdf"
+  ]
+}

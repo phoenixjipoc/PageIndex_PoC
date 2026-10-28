@@ -1,0 +1,43 @@
+{
+  "file": "Boston_BRS__Attachment_3_BRS_Invest_Consulting_Services_RFP.pdf",
+  "sha256": "634313835b9f2b0f9a92cf6d2bdf67e1c17e041a4baa7e436228aad54818fd6e",
+  "bytes": 201881,
+  "pages": 12,
+  "public_source_url": "https://www.boston.gov/sites/default/files/file/2022/02/Attachment%203%20BRS%20Invest%20Consulting%20Services%20RFP.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:46:29.549758+00:00",
+  "doc_id": "pi-e53e8446a6d74ad799733166d4ae8711",
+  "stored_name": "Boston_BRS__Attachment_3_BRS_Invest_Consulting_Services_RFP.pdf",
+  "reported_usage": {
+    "prompt_tokens": 8251,
+    "completion_tokens": 2380,
+    "total_tokens": 10631,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 3989
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 769
+    }
+  },
+  "elapsed_seconds": 9.733,
+  "finished_at_utc": "2026-10-27T08:46:39.299865+00:00",
+  "model_calls": 10,
+  "http_attempts": 10,
+  "observed_usage": {
+    "input_tokens": 8251,
+    "output_tokens": 2380,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 3989,
+    "reasoning_tokens": 769,
+    "total_tokens": 10631
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

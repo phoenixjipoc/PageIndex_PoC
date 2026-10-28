@@ -1,0 +1,43 @@
+{
+  "file": "SBCERA__investment_consultant_-_request_for_proposals.pdf",
+  "sha256": "e121d97e86b1c8a37d8c70d100cb5e82511480aa830081840f4276adc8c3e5c7",
+  "bytes": 1444685,
+  "pages": 40,
+  "public_source_url": "https://www.sbcera.org/sites/main/files/file-attachments/investment_consultant_-_request_for_proposals.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:05:52.758245+00:00",
+  "doc_id": "pi-f088fa108be04b349a920d597e6a8c6b",
+  "stored_name": "SBCERA__investment_consultant_-_request_for_proposals.pdf",
+  "reported_usage": {
+    "prompt_tokens": 26831,
+    "completion_tokens": 7387,
+    "total_tokens": 34218,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 15136
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1944
+    }
+  },
+  "elapsed_seconds": 22.915,
+  "finished_at_utc": "2026-10-27T09:06:15.686425+00:00",
+  "model_calls": 27,
+  "http_attempts": 27,
+  "observed_usage": {
+    "input_tokens": 26831,
+    "output_tokens": 7387,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 15136,
+    "reasoning_tokens": 1944,
+    "total_tokens": 34218
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

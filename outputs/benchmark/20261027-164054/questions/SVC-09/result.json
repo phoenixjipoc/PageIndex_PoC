@@ -1,0 +1,157 @@
+{
+  "id": "SVC-09",
+  "question": "A county retirement system's custody RFP requires custody respondents to have at least $500 billion in total assets under custody as of December 31, 2021. How much of that must be in international equity and fixed income, and what minimum liability/professional errors and omissions insurance must respondents provide?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:14:26.649136+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "At least **$100 billion** of the $500 billion in assets under custody must be in international equity and fixed income. Custody respondents must also provide at least **$75 million** in liability and professional errors-and-omissions insurance. Source: OCERS Custody Services RFP, Exhibit C, pp. 16–17.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 87854,
+    "input_tokens_details": {
+      "cached_tokens": 52670,
+      "cache_write_tokens": 35166
+    },
+    "output_tokens": 374,
+    "output_tokens_details": {
+      "reasoning_tokens": 42
+    },
+    "total_tokens": 88228,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1249,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1246
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1264
+      },
+      {
+        "input_tokens": 2415,
+        "input_tokens_details": {
+          "cached_tokens": 1246,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 9
+        },
+        "total_tokens": 2449
+      },
+      {
+        "input_tokens": 7652,
+        "input_tokens_details": {
+          "cached_tokens": 2412,
+          "cache_write_tokens": 5237
+        },
+        "output_tokens": 123,
+        "output_tokens_details": {
+          "reasoning_tokens": 33
+        },
+        "total_tokens": 7775
+      },
+      {
+        "input_tokens": 8262,
+        "input_tokens_details": {
+          "cached_tokens": 7649,
+          "cache_write_tokens": 610
+        },
+        "output_tokens": 90,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 8352
+      },
+      {
+        "input_tokens": 33107,
+        "input_tokens_details": {
+          "cached_tokens": 8259,
+          "cache_write_tokens": 24845
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 33146
+      },
+      {
+        "input_tokens": 35169,
+        "input_tokens_details": {
+          "cached_tokens": 33104,
+          "cache_write_tokens": 2062
+        },
+        "output_tokens": 73,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 35242
+      }
+    ]
+  },
+  "elapsed_seconds": 13.85,
+  "finished_at_utc": "2026-10-27T09:14:40.507083+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 87854,
+    "output_tokens": 374,
+    "cached_input_tokens": 52670,
+    "cache_write_tokens": 35166,
+    "reasoning_tokens": 42,
+    "total_tokens": 88228
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SBCERS__01_2023-SBCERS-Custody-RFP-CONSOLIDATED-Final-Updated.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"OCERS__custodian_rfp_2022-2023.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SBCERS__01_2023-SBCERS-Custody-RFP-CONSOLIDATED-Final-Updated.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"OCERS__custodian_rfp_2022-2023.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"OCERS__custodian_rfp_2022-2023.pdf\",\"pages\":\"16-19\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "OCERS__custodian_rfp_2022-2023.pdf",
+      "pages": "16-19",
+      "success": true,
+      "call_id": "call_JIATUF1RRPGcFggj3zeRZA2F"
+    }
+  ],
+  "successfully_read_documents": [
+    "OCERS__custodian_rfp_2022-2023.pdf"
+  ]
+}

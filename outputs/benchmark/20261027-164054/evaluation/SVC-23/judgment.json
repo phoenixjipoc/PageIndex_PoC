@@ -1,0 +1,15 @@
+{
+  "question_id": "SVC-23",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "7704561f3ef6257067cff7cd1a0a5b983a75da24950e1e6dee7734111fe1e6d2",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "All four documents are included, with the three audit scopes and OPERS remote-work Q&A contribution.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:22.405082+00:00"
+}

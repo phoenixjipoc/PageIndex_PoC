@@ -1,0 +1,43 @@
+{
+  "file": "OCERS__custodian_services_rfp_questions_and_answers.pdf",
+  "sha256": "2ed06f423064282d429f7d1336a965eda8025b6e0e2677dc0e6051cf113029bd",
+  "bytes": 307624,
+  "pages": 12,
+  "public_source_url": "https://www.ocers.org/sites/main/files/file-attachments/custodian_services_rfp_questions_and_answers.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:03:29.703832+00:00",
+  "doc_id": "pi-090a28813ad64e1a8c66b22ba47b7640",
+  "stored_name": "OCERS__custodian_services_rfp_questions_and_answers.pdf",
+  "reported_usage": {
+    "prompt_tokens": 18985,
+    "completion_tokens": 5647,
+    "total_tokens": 24632,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 6127
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1721
+    }
+  },
+  "elapsed_seconds": 10.177,
+  "finished_at_utc": "2026-10-27T09:03:39.891599+00:00",
+  "model_calls": 23,
+  "http_attempts": 23,
+  "observed_usage": {
+    "input_tokens": 18985,
+    "output_tokens": 5647,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 6127,
+    "reasoning_tokens": 1721,
+    "total_tokens": 24632
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "CONS-14",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "27bca72fc3dcb6ac2060ad6d96153bcd8dce9df92bfd62bbd1ab560514fde1bb",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "All ten Section 2 requirements and five insurance limits match, including submission timing.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:51.636303+00:00"
+}

@@ -1,0 +1,5 @@
+{"at_utc": "2026-10-27T08:43:46.793019+00:00", "lane": "index", "model": "gpt-6-luna", "reasoning_effort": "medium", "host": "api.openai.com", "path": "/v1/chat/completions", "model_matches": true, "effort_matches": true}
+{"at_utc": "2026-10-27T08:43:46.796283+00:00", "lane": "index", "model": "gpt-6-luna", "reasoning_effort": "medium", "host": "api.openai.com", "path": "/v1/chat/completions", "model_matches": true, "effort_matches": true}
+{"at_utc": "2026-10-27T08:43:46.798396+00:00", "lane": "index", "model": "gpt-6-luna", "reasoning_effort": "medium", "host": "api.openai.com", "path": "/v1/chat/completions", "model_matches": true, "effort_matches": true}
+{"at_utc": "2026-10-27T08:43:46.801890+00:00", "lane": "index", "model": "gpt-6-luna", "reasoning_effort": "medium", "host": "api.openai.com", "path": "/v1/chat/completions", "model_matches": true, "effort_matches": true}
+{"at_utc": "2026-10-27T08:43:53.060638+00:00", "lane": "index", "model": "gpt-6-luna", "reasoning_effort": "medium", "host": "api.openai.com", "path": "/v1/chat/completions", "model_matches": true, "effort_matches": true}

@@ -1,0 +1,15 @@
+{
+  "question_id": "XD-09",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "df243c4f9fdd8ba3c9be1ea8b25f325879de8117461dcba91547ce79ef2dda47",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct count and all five appendix titles.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:29.025699+00:00"
+}

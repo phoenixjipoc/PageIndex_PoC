@@ -1,0 +1,7 @@
+{
+  "question": "Across these ten general investment consulting RFPs in the corpus—OCERS, COAERS, SDCERS, Grand Rapids, CTA Retirement Plan, SC RSIC, Hartford MERF, SBCERA, NYC BERS and Boston BRS—what is the most common stated minimum number of years in business or experience for the consulting firm?",
+  "gold_answer": "Five years. Among the general-consulting RFPs with a firm-level years threshold, four state five years (OCERS, COAERS, SDCERS and Grand Rapids), three state ten years (CTA, SC RSIC and Hartford MERF), two state seven years (SBCERA and NYC BERS), and one states three years (Boston BRS). COAERS allows firms younger than five years when senior principals meet its ten-year experience alternative.",
+  "acceptance": "Five years alone answers the modal-threshold question. File counts and exhaustive issuer lists are optional; they must not be scored against the general-only 4/3 tally unless the question is narrowed. Distinguish firm minimum from consultant experience, and retain COAERS's alternative when explaining it.",
+  "scope": "required_combination",
+  "candidate_answer": "**Five years** is the most common stated minimum, appearing in four of the ten RFPs: [OCERS](OCERS__investment_consultant_services_rfp.pdf#page=22), [COAERS](COAERS__COAERS_General_Investment_Consultant_RFP.pdf#page=27), [SDCERS](SDCERS__sdcers-2026-general-investment-consultant-rfp.pdf#page=3), and [Grand Rapids](Grand_Rapids_GRS__Investment-Consultant-RFP-2023.pdf#page=3). The others specify ten years (three RFPs), seven years (two), or three years (one)."
+}

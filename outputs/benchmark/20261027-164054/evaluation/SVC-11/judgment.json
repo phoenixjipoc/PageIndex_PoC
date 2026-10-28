@@ -1,0 +1,15 @@
+{
+  "question_id": "SVC-11",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "b5cc589ebc94197ad38456b159d49d94a8f4d185b25f63194f2ca104e0a68dc9",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct participants, assets and as-of date.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:05.377550+00:00"
+}

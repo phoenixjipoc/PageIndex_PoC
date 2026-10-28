@@ -1,0 +1,15 @@
+{
+  "question_id": "OTH-02",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "e753a9f044f2287898177d5918a550074871ca3d38cc12a22c70abeffad692a8",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct manager count, combined mandate and benchmark.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:27:19.625234+00:00"
+}

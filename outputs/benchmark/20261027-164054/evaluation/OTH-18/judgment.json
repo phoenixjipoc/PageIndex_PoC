@@ -1,0 +1,15 @@
+{
+  "question_id": "OTH-18",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "92e75d54ba9e35a2df5906ef72c02b9c63926b835e6b4a000820378c565d4cb4",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "All eight actuarial contract terms and options match, distinguishing service dates and annual letters from contractual renewals.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:28:09.197029+00:00"
+}

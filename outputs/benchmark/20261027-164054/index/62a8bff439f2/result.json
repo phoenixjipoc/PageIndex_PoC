@@ -1,0 +1,43 @@
+{
+  "file": "Hawaii_ERS__PI-ad-ERS-Real-Estate-Investment-Consultant-RFP-2017-01.pdf",
+  "sha256": "cd6df2d01097989cb2369f4f52c3eb464f76b1b73c3d60cbee286c11b765f8bc",
+  "bytes": 68135,
+  "pages": 1,
+  "public_source_url": "https://ers.ehawaii.gov/wp-content/uploads/2012/03/PI-ad-ERS-Real-Estate-Investment-Consultant-RFP-2017-01.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:52:13.204238+00:00",
+  "doc_id": "pi-4ef0cc1fbb844333a70465ee4f39bd51",
+  "stored_name": "Hawaii_ERS__PI-ad-ERS-Real-Estate-Investment-Consultant-RFP-2017-01.pdf",
+  "reported_usage": {
+    "prompt_tokens": 784,
+    "completion_tokens": 312,
+    "total_tokens": 1096,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 40
+    }
+  },
+  "elapsed_seconds": 6.101,
+  "finished_at_utc": "2026-10-27T08:52:19.315627+00:00",
+  "model_calls": 2,
+  "http_attempts": 2,
+  "observed_usage": {
+    "input_tokens": 784,
+    "output_tokens": 312,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 0,
+    "reasoning_tokens": 40,
+    "total_tokens": 1096
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

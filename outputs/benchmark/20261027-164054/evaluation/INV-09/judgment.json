@@ -1,0 +1,15 @@
+{
+  "question_id": "INV-09",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "b695e5ff8f5eb8b62136201c53121ae52faa26ec129d9e81ea74fa0b8e144c49",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct live track record, ownership exemption and alternative public-plan client tests.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:25:39.823255+00:00"
+}

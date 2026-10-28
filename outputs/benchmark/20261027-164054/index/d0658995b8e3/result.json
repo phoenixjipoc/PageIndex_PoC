@@ -1,0 +1,43 @@
+{
+  "file": "SFERS__SFERS-General-Investment-Consultant-RFP_vFinal.pdf",
+  "sha256": "784a0bd0a62da8c3a0e1136231b516cb9997ec0d73ed3429b518482eff82ec3f",
+  "bytes": 847487,
+  "pages": 72,
+  "public_source_url": "https://cdn.mysfers.org/uploads/2022/11/SFERS-General-Investment-Consultant-RFP_vFinal.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:08:09.854550+00:00",
+  "doc_id": "pi-a0f8532cbfd34b3b8e10ca5e80c65710",
+  "stored_name": "SFERS__SFERS-General-Investment-Consultant-RFP_vFinal.pdf",
+  "reported_usage": {
+    "prompt_tokens": 54004,
+    "completion_tokens": 12276,
+    "total_tokens": 66280,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 32606
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3208
+    }
+  },
+  "elapsed_seconds": 32.238,
+  "finished_at_utc": "2026-10-27T09:08:42.108052+00:00",
+  "model_calls": 45,
+  "http_attempts": 45,
+  "observed_usage": {
+    "input_tokens": 54004,
+    "output_tokens": 12276,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 32606,
+    "reasoning_tokens": 3208,
+    "total_tokens": 66280
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

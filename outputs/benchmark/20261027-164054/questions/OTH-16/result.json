@@ -1,0 +1,133 @@
+{
+  "id": "OTH-16",
+  "question": "In the Police Retirement System of St. Louis (PRS-STL) actuarial RFP, how many years of experience must the principal actuary have?",
+  "type": "pair_b",
+  "pair_id": "P5",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:19:42.217726+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The principal actuary must have **at least five years of professional actuarial experience**. The RFP also requires five years of experience testifying before legislative or administrative bodies. [PRS-STL actuarial RFP, p. 8]",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 17787,
+    "input_tokens_details": {
+      "cached_tokens": 11417,
+      "cache_write_tokens": 6355
+    },
+    "output_tokens": 212,
+    "output_tokens_details": {
+      "reasoning_tokens": 11
+    },
+    "total_tokens": 17999,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1219,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1216
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1234
+      },
+      {
+        "input_tokens": 2385,
+        "input_tokens_details": {
+          "cached_tokens": 1216,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 54,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 2439
+      },
+      {
+        "input_tokens": 2696,
+        "input_tokens_details": {
+          "cached_tokens": 2382,
+          "cache_write_tokens": 311
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2738
+      },
+      {
+        "input_tokens": 5129,
+        "input_tokens_details": {
+          "cached_tokens": 2693,
+          "cache_write_tokens": 2433
+        },
+        "output_tokens": 48,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 5177
+      },
+      {
+        "input_tokens": 6358,
+        "input_tokens_details": {
+          "cached_tokens": 5126,
+          "cache_write_tokens": 1229
+        },
+        "output_tokens": 53,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 6411
+      }
+    ]
+  },
+  "elapsed_seconds": 10.646,
+  "finished_at_utc": "2026-10-27T09:19:52.869198+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 17787,
+    "output_tokens": 212,
+    "cached_input_tokens": 11417,
+    "cache_write_tokens": 6355,
+    "reasoning_tokens": 11,
+    "total_tokens": 17999
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf\",\"pages\":\"7-8\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf",
+      "pages": "7-8",
+      "success": true,
+      "call_id": "call_riMopr18q2AoUAliIGmJa3A7"
+    }
+  ],
+  "successfully_read_documents": [
+    "St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf"
+  ]
+}

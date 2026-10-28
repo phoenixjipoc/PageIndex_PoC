@@ -1,0 +1,7 @@
+{
+  "question": "What is the proposal submission deadline in the Los Angeles County Employees Retirement Association (LACERA) investment consultant RFP?",
+  "gold_answer": "NOT IN CORPUS",
+  "acceptance": "Accept NOT IN CORPUS/cannot determine from supplied documents. Do not substitute LACERS or LAFPP deadlines, or claim no LACERA RFP exists anywhere.",
+  "scope": "negative",
+  "candidate_answer": "I couldn’t find the LACERA investment consultant RFP in your document library, so I can’t verify its proposal submission deadline. If you upload the RFP, I can check it."
+}

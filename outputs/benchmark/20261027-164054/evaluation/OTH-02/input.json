@@ -1,0 +1,7 @@
+{
+  "question": "How many Core Plus Fixed Income managers does INPRS anticipate hiring under RFP 22-04, what is the combined mandate size, and what benchmark will be used?",
+  "gold_answer": "Two managers, combined mandate size of approximately $185 million, benchmarked against the Bloomberg U.S. Aggregate Bond Index.",
+  "acceptance": "Two, approximately $185m combined, Bloomberg U.S. Aggregate Bond Index.",
+  "scope": "single_document",
+  "candidate_answer": "INPRS anticipates hiring **two Core Plus Fixed Income managers** for a **combined mandate of approximately $185 million**. The strategies are expected to be benchmarked against the **Bloomberg U.S. Aggregate Bond Index**. [RFP 22-04, p. 12](INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf#page=12)"
+}

@@ -1,0 +1,384 @@
+{
+  "doc_id": "pi-d06ecf0d8aaa433ba74bcf23af722a52",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 5,
+      "summary": "The text introduces the State of Hawaii Employees’ Retirement System (ERS) Request for Proposals 2022-06 for a Real Assets Investment Consultant, issued October 3, 2022, and says potential offerors must register to receive addenda. It outlines the RFP’s sections: administrative and procurement rules; proposal submission requirements and confidentiality; evaluation stages, including mandatory screening, priority listing, interviews, best-and-final offers, final review, and award; scope of work, agreement period, compensation, and authorization; minimum qualifications, questions, fee proposal, and sample contract. The material is restricted to authorized recipients for responding to the RFP. ERS is a Hawaii public-employee defined-benefit system with over 74,000 active/inactive vested members and 45,000 retirees and beneficiaries. Its portfolio exceeded $22.5 billion at year-end 2021 and spans multiple asset classes, including real assets. ERS seeks a dedicated, non-discretionary consultant to assess real-assets managers and the program, covering real estate, timber, infrastructure, agriculture/farmland, and other real assets."
+    },
+    {
+      "title": "Hawaii ERS Background and Investment Overview",
+      "node_id": "0001",
+      "start_index": 5,
+      "end_index": 5,
+      "key_items": [
+        "ADMINISTRATIVE OVERVIEW",
+        "I. Background"
+      ],
+      "summary": "Hawaii’s Employees’ Retirement System (ERS), established under state law, provides retirement benefits through contributory and non-contributory defined-benefit programs for more than 74,000 active and vested members and 45,000 retirees and beneficiaries across five state and county employer groups. It is governed by a Board of Trustees, with some administrative control held by the Department of Budget and Finance. As of December 31, 2021, its portfolio exceeded $22.5 billion and was managed by more than 54 firms across public equities and fixed income, real assets, mortgage loans, and alternative investments. The 2014 risk-allocation framework targets 65% Broad Growth, 35% Diversifying Strategies, and 0% Other, with allocations expected to be achieved by 2022. Investment policies and procedures and annual financial reports are available on the ERS website."
+    },
+    {
+      "title": "II. Purpose",
+      "node_id": "0002",
+      "start_index": 5,
+      "end_index": 6,
+      "summary": "ERS seeks proposals for a dedicated non-discretionary consultant to assess its real assets program and managers, covering real estate and assets such as timber, infrastructure, and agriculture/farmland. Offerors should succinctly explain their distinctive value and identify services they cannot provide. RFP information is restricted to authorized use for proposal preparation and may not be generally distributed. The RFP is issued under Hawaii Revised Statutes Chapters 88 and 103D and related rules; offerors are presumed to know these requirements, and submitting a valid proposal represents that knowledge. Using the Chapter 103D RFP process does not waive applicable exemptions or trigger other Chapter 103D provisions. ERS Executive Director Thomas Williams is the Procurement Officer and Contract Administrator; contact details are provided. Timetable: RFP available October 3, 2022; questions due October 25 at 4:30 p.m. HST; ERS responses November 4; proposals due November 30 at 4:30 p.m. Dates are estimates and may change by addendum."
+    },
+    {
+      "title": "RFP Authority and Procurement Contact",
+      "node_id": "0003",
+      "start_index": 6,
+      "end_index": 6,
+      "key_items": [
+        "III. Authority",
+        "IV. Procurement Officer and Contract Administrator"
+      ],
+      "summary": "The RFP is issued under Hawaii Revised Statutes Chapters 88 and 103D and their administrative rules. Offerors are presumed to know these requirements, and submitting an executed proposal represents that knowledge. Using the Chapter 103D RFP process does not waive applicable exemptions or make other Chapter 103D provisions applicable. The RFP is issued by the Employees’ Retirement System of the State of Hawaii. Procurement Officer and Contract Administrator Thomas Williams, Executive Director, can be reached at City Financial Tower, 201 Merchant Street, Suite 1400, Honolulu, HI 96813; phone (808) 586-1776; fax (808) 586-1677. Respondents are also asked to be succinct and to identify any services they cannot provide."
+    },
+    {
+      "title": "V. Procurement Timetable",
+      "node_id": "0004",
+      "start_index": 6,
+      "end_index": 7,
+      "summary": "The procurement timetable lists the RFP release (October 3, 2022); deadline for questions (October 25, 4:30 p.m. HST); ERS responses (November 4); proposal deadline (November 30, 4:30 p.m. HST); priority-list determination (December 1–9); optional ERS facility visits (February 14–17, 2023); best and final offers (February 24, 4:30 p.m. HST); oral presentations (March 13–17); and contractor selection and award (April 10). Dates are estimates and ERS may change them; changes will be announced by addendum under Paragraph XIII. Priority-listed offerors may be required to present in Honolulu, with ERS staff arranging the time and location. The information is restricted to authorized persons, solely for responding to the RFP, and not for general distribution; all rights reserved."
+    },
+    {
+      "title": "VI. Communications with ERS; Questions",
+      "node_id": "0005",
+      "start_index": 7,
+      "end_index": 7,
+      "summary": "Offerors and prospective offerors, including their agents, must not contact ERS trustees or staff about the RFP. Firms currently doing business with ERS may contact them only about that existing business, not the RFP. RFP information requests must be submitted in writing, including by fax or email, to the Procurement Officer, who is the sole contact from RFP release through awardee selection. Questions are accepted until 4:30 p.m. Hawaii Standard Time on October 25, 2022; ERS will answer in writing through the addendum process described in Paragraph XIII."
+    },
+    {
+      "title": "VII. Submission of Proposals",
+      "node_id": "0006",
+      "start_index": 7,
+      "end_index": 8,
+      "key_items": [
+        "No faxed or e-mailed proposals will be considered or accepted."
+      ],
+      "summary": "Offerors must review the solicitation, amendments, forms, and applicable requirements; submitting a proposal represents that they have carefully examined and understand the work and requirements. Each qualified offeror may submit one proposal only; alternatives are not accepted. By 4:30 p.m. Hawaii Standard Time on November 30, 2022, ERS must receive one unbound hard copy marked “original,” with sectional dividers, and one unencrypted electronic copy on USB. Label the proposal “Employees’ Retirement System of the State of Hawaii Real Assets Investment Consultant RFP 2202-06,” and address the sealed package to the Procurement Officer identified in Paragraph IV. Mark the package exterior with the ERS Real Assets Investment Consultant proposal title, RFP 2022-06, and firm name. Faxed and emailed proposals are not accepted. RFP information is restricted to authorized persons and use for responding to the RFP, not general distribution; all rights reserved 2017."
+    },
+    {
+      "title": "VIII. Receipt, Opening and Recording of Proposals; Late Proposals",
+      "node_id": "0007",
+      "start_index": 8,
+      "end_index": 9,
+      "summary": "Proposals and modifications are time-stamped and securely held until the deadline. Before then, offerors may modify by written or fax notice with the sealed modification, or withdraw by written or fax notice; proposals may be withdrawn and resubmitted only before the final submission date. Proposals are opened privately by at least two procurement officials and shared only with personnel having a legitimate interest. A post-deadline register lists offerors and modification counts and becomes publicly inspectable only after award. Late submissions, modifications, and withdrawals are generally rejected, except when ERS personnel caused the delay; late withdrawal requests receive reasons for rejection. Priority-listed offerors may submit best and final offers. Mistakes cannot be corrected after award. Before award, the Procurement Officer may seek confirmation; alleged mistakes may allow correction or withdrawal. During discussions or before the best-and-final deadline, priority-listed offerors may modify or withdraw freely. Otherwise, clearly evidenced intended offers are corrected without withdrawal; qualifying material mistakes may permit withdrawal. ERS may waive or allow cures for minor informalities and conduct discussions as needed."
+    },
+    {
+      "title": "XI. Costs for Proposal Preparation",
+      "node_id": "0008",
+      "start_index": 9,
+      "end_index": 9,
+      "summary": "XI. Costs for Proposal Preparation\nExpenses for the development and submission of responses to the RFP are the sole responsibility of the organization submitting the response. Travel and expenses to and from the State of Hawaii are also the sole responsibility of the organization submitting the response."
+    },
+    {
+      "title": "XII. Disqualification of Proposals",
+      "node_id": "0009",
+      "start_index": 9,
+      "end_index": 10,
+      "summary": "ERS may reject proposals that fail RFP requirements or show inadequate understanding, or that contain conflicting terms. Grounds for disqualification include collusion, poor past responsibility or cooperation, legal noncompliance, conditional or ambiguous submissions, prohibited reservation clauses, lateness, State contract arrears or defaults, insufficient experience, and conflicts of interest or impaired independence. ERS may amend the RFP before the response deadline through consecutively numbered addenda, including to answer inquiries. It may cancel the RFP or reject proposals in whole or part when in its best interests, and may modify an agreement to address circumstances beyond its control affecting service delivery. No bid, performance, or payment bonds are required. Proposal acceptance follows the procurement timetable; the offeror must be capable of performance, as judged solely by ERS, and the successful offeror will receive written notice of award. ERS may award based on written responses received, without prior… (the text ends mid-sentence)."
+    },
+    {
+      "title": "RFP Amendments, Rejections, and Bond Requirements",
+      "node_id": "0010",
+      "start_index": 10,
+      "end_index": 10,
+      "key_items": [
+        "XIII. RFP Amendments and Addendum",
+        "XIV. Cancellation of Request for Proposals/Rejections of Proposals",
+        "XV. Uncertainties Beyond the Control of ERS",
+        "XVI. Proposal Bonds; Performance and/or Payment Bonds"
+      ],
+      "summary": "Proposals may be rejected for collusion; poor responsibility or cooperation; legal noncompliance; conditional, incomplete, irregular, ambiguous, or conflicting terms; late submission; state-contract arrears or prior default; insufficient experience; or conflicts of interest and lack of independent judgment. ERS may amend the RFP before the submission deadline by consecutively numbered addenda, including to answer inquiries. It may cancel the RFP or reject any or all proposals, in whole or part, when in its best interests. ERS may modify the agreement to address circumstances beyond its control that significantly affect service delivery. No bid bond, performance bond, or payment bond is required."
+    },
+    {
+      "title": "XVII. Acceptance of Proposal and Execution of Contract",
+      "node_id": "0011",
+      "start_index": 10,
+      "end_index": 11,
+      "summary": "Acceptance will follow the Procurement Timetable. The offeror must be capable of performing the RFP and contract requirements, as determined solely by ERS; the successful offeror will receive written award notice. ERS may award based on written submissions without prior discussions. Attachment A’s terms are deemed accepted unless objections and alternative language are submitted; ERS may negotiate further. The contract comprises the RFP and amendments plus negotiated terms. The selected offeror must sign and return the contract within ten days of receipt, unless granted more time; it binds ERS only when properly executed by all parties. If the awardee fails to contract on time, ERS may consider the next-ranked offeror or seek new proposals in its best interests. The document also restricts its use to authorized persons responding to the RFP and prohibits general distribution."
+    },
+    {
+      "title": "XVIII. Debriefing",
+      "node_id": "0012",
+      "start_index": 11,
+      "end_index": 11,
+      "summary": "Nonselected offerors may request a debriefing in writing from the Procurement Officer or designee within three working days of contract award posting. If requested by multiple offerors, a combined debriefing will be held, to the extent practicable within seven working days of the first request. ERS decides whether it is conducted in person or by telephone. The stated location is the Employees’ Retirement System of the State of Hawaii, City Financial Tower, 201 Merchant Street, Suite 1400, Honolulu, HI 96813. Any protest after a debriefing must be filed within five working days under HAR §103D-303(h)."
+    },
+    {
+      "title": "XIX. Requirements for Doing Business in the State of Hawaii",
+      "node_id": "0013",
+      "start_index": 11,
+      "end_index": 13,
+      "key_items": [
+        "PROPOSAL"
+      ],
+      "summary": "Before contract award, the successful offeror must show compliance with Hawaii laws on general excise tax, unemployment insurance, workers’ compensation, temporary disability insurance, and prepaid health care, and be incorporated/organized in Hawaii or registered to do business there. A Hawaii Compliance Express Certificate of Vendor Compliance can document current status and is accepted for contracting and final payment. Untimely proof may prevent award. Contractors must remain compliant throughout the contract, including extensions; ERS may check status and withhold payments if it is not compliant or has expired, without this constituting breach, excusing performance, or entitling the contractor to interest. The RFP proposal must describe qualifications, availability, and fees, and include a cover letter, questionnaire answers, ADV Parts 1 and 2, ethics code, references, fee proposal, sample reports, financial statement, and minimum-qualifications certification. The cover letter to the Procurement Officer must provide contact details, confirm acceptance of RFP terms, acknowledge all amendments/addenda, and identify the offeror’s legal form."
+    },
+    {
+      "title": "Real Assets Consultant Proposal Requirements",
+      "node_id": "0014",
+      "start_index": 13,
+      "end_index": 13,
+      "key_items": [
+        "I. Introduction",
+        "II. Cover Letter",
+        "i. Contact Information",
+        "ii. Terms and Conditions of RFP"
+      ],
+      "summary": "The Employees’ Retirement System of the State of Hawaii’s RFP requires a written proposal describing the offeror’s qualifications, availability, and proposed compensation. It must include a cover letter, questionnaire answers, Form ADV Parts 1 and 2, code of ethics, references, fee proposal, sample reports, financial statement, and minimum qualifications certification. The cover letter, addressed to the Procurement Officer and integral to the proposal, must provide the offeror’s name, address, telephone and fax numbers, and email address; confirm full understanding of and compliance with all RFP terms and conditions; and acknowledge receipt of every RFP amendment or addendum."
+    },
+    {
+      "title": "iii. Legal Entity",
+      "node_id": "0015",
+      "start_index": 13,
+      "end_index": 14,
+      "summary": "The proposal cover letter must identify the offeror’s legal form and, for an entity, its jurisdiction of organization. It must be signed by an authorized person, with required evidence of authority for corporations, partnerships, or other entities. Include the federal tax ID, a Hawaii GET ID or commitment to obtain one before work begins, and a statement confirming required current licenses. Provide true and accurate license and certificate copies and evidence of Hawaii business registration before work begins. State whether work will be subcontracted or assigned, disclose any subcontracting and subcontractor qualifications, and affirm nondiscrimination in employment and practices across the listed protected categories. The material is restricted to authorized ERS users for responding to the RFP, not general distribution, and is copyrighted 2017."
+    },
+    {
+      "title": "Offeror Proposal Requirements and Use Restrictions",
+      "node_id": "0016",
+      "start_index": 14,
+      "end_index": 14,
+      "key_items": [
+        "Authorized Signature",
+        "Federal Tax ID No.",
+        "Hawaii General Excise Tax ID No.",
+        "Current Licenses and Registration",
+        "Subcontracting of Services",
+        "Non-discrimination"
+      ],
+      "summary": "The page requires an offeror entity to identify its jurisdiction of organization and provide an authorized signature, with supporting evidence of signing authority as applicable. The cover letter must include the federal tax ID and either a Hawaii GET ID or a commitment to obtain one before work begins. Offerors must state they hold required current licenses, provide accurate license and certificate copies, and register to do business in Hawaii before work begins. They must disclose whether and to what extent services will be subcontracted or assigned, including subcontractor qualifications, which may affect evaluation. They must affirm non-discrimination in employment and practices across the listed protected characteristics. The information is restricted to authorized ERS users for responding to the RFP, may not be generally distributed, and is copyrighted 2017."
+    },
+    {
+      "title": "x. ERS Approval of Contractor’s Recommendations; xi. Terms and Conditions of Contract",
+      "node_id": "0017",
+      "start_index": 15,
+      "end_index": 15,
+      "key_items": [
+        "x. ERS Approval of Contractor’s Recommendations",
+        "xi. Terms and Conditions of Contract"
+      ],
+      "summary": "x. ERS Approval of Contractor’s Recommendations\nA statement that the offeror understands that the ERS reserves the right to disapprove contractor recommendations without penalty when they conflict with the policy or fiscal interests of the ERS, as determined by the ERS Board of Trustees.\nxi. Terms and Conditions of Contract\nAffirm that the provisions of the sample contract in Attachment A are acceptable or state any proposed modifications. ERS reserves the right to decline or classify as “unresponsive” any substantive changes, modifications, or revisions to the provisions of the sample contract."
+    },
+    {
+      "title": "III. Confidential or Proprietary Information",
+      "node_id": "0018",
+      "start_index": 15,
+      "end_index": 16,
+      "summary": "Offerors must clearly identify and separate trade secrets or proprietary information they seek to keep confidential; public-inspection requests are governed by Hawaii law, and neither the entire proposal nor the fee proposal may be confidential. RFP information is restricted to authorized ERS recipients and use in responding to this RFP, not general distribution. ERS seeks a fair, competitive selection of a high-quality investment consultant but retains discretion not to select the lowest-cost offeror or make an award. A Procurement Officer-selected committee will evaluate timely proposals in six phases: minimum qualifications and mandatory requirements; priority-list establishment; optional facility inspections; interviews; final evaluation; and award. Criteria in specified RFP sections will be used to evaluate and rank proposals, and ERS may modify criteria or other RFP provisions before final submissions. Phase 1 uses a pass/no-pass review to assess responsiveness; failure to meet minimum qualifications or mandatory requirements may result in disqualification."
+    },
+    {
+      "title": "Real Assets Consultant Proposal Evaluation",
+      "node_id": "0019",
+      "start_index": 16,
+      "end_index": 16,
+      "key_items": [
+        "PROPOSAL EVALUATION",
+        "I. Introduction",
+        "II. Evaluation Process"
+      ],
+      "summary": "The Employees’ Retirement System of the State of Hawaii seeks a high-quality investment consultant through a fair, competitive process and retains sole discretion over contract awards. It may select an offeror other than the lowest-cost bidder or make no award. A committee appointed by the Procurement Officer will evaluate proposals submitted by the RFP deadline in six phases: review of minimum qualifications and mandatory requirements; creation of a priority list; optional facilities inspections; interviews with priority-listed offerors; final proposal evaluation; and contract award."
+    },
+    {
+      "title": "III. Evaluation Criteria",
+      "node_id": "0020",
+      "start_index": 16,
+      "end_index": 17,
+      "key_items": [
+        "IV. Phase 1 – Evaluation of Minimum Qualifications and Mandatory Requirements"
+      ],
+      "summary": "Evaluation criteria in Sections V and VII will rank proposals; ERS may revise the criteria or other RFP terms before final responses are due. Phase 1 assesses minimum qualifications and mandatory submissions on a pass/no-pass basis to determine responsiveness. Proposals failing may be rejected as nonresponsive; only those passing proceed to Phase 2. Offerors must be registered investment advisers, have at least three years of real-assets consulting experience, serve at least one public defined-benefit retirement system with over $5 billion in assets, be based and subject to service of process in the U.S., and assign a primary consultant with at least seven years’ domestic and international real-assets consulting experience for public pension plans. Required submissions are a cover letter, questionnaire answers, Form ADV Parts 1 and 2, code of ethics, references, fee proposal, sample reports, financial statement, and minimum-qualifications certification. The RFP information is restricted to authorized users for proposal preparation and is not for general distribution."
+    },
+    {
+      "title": "V. Phase 2 – Establishment of Priority List of Offerors",
+      "node_id": "0021",
+      "start_index": 17,
+      "end_index": 18,
+      "key_items": [
+        "CRITERIA"
+      ],
+      "summary": "Phase 2 classifies offerors passing minimum qualifications and mandatory requirements as acceptable or potentially acceptable. If more than three qualify, the Evaluation Committee evaluates all proposals and ranks the top three. Criteria are weighted: consulting experience, organizational stability, personnel and deliverables (45 points); institutional-community presence, client and investment-vehicle experience, and strategy capabilities (35); ongoing manager and market information (20); fees (0), for 100 total. In Phase 3, ERS may inspect facilities February 14–17, 2023, or by arrangement, and the Board may interview priority-listed offerors in Honolulu during March 13–17. Phase 4 best and final offers are due to the Procurement Officer by 4:30 p.m. HST February 24, 2023; otherwise, the prior offer stands as final. Phase 5 introduces ERS’s final evaluation of priority-listed proposals under criteria not included in the excerpt. The document also restricts its use to authorized RFP respondents and prohibits general distribution."
+    },
+    {
+      "title": "Offeror Evaluation and Procurement Phases",
+      "node_id": "0022",
+      "start_index": 18,
+      "end_index": 18,
+      "key_items": [
+        "VI. Phase 3 – Site Inspections; Interviews with Priority-Listed Offerors",
+        "VII. Phase 4 – Best and Final Offers"
+      ],
+      "summary": "Evaluation totals 100 points: 45 for consulting experience, organizational stability, personnel, and delivery capabilities; 35 for institutional real-assets experience and strategy expertise; 20 for current manager and market information; and 0 for fees. In Phase 3, the ERS Board may interview priority-listed offerors in Honolulu during March 13–17, 2023, and inspect their facilities February 14–17 or by convenient arrangement. In Phase 4, best and final offers are due to the Procurement Officer by 4:30 p.m. HST on February 24, 2023; if none is received, the offeror’s previous offer becomes its best and final offer."
+    },
+    {
+      "title": "VIII. Phase 5 - Final Evaluation of Proposals",
+      "node_id": "0023",
+      "start_index": 18,
+      "end_index": 19,
+      "key_items": [
+        "CRITERIA"
+      ],
+      "summary": "In Phase 5, ERS will make final evaluations of priority-listed offerors’ proposals using a 100-point scale: experience and approach to investment policy and long-term planning, understanding of real-assets markets and strategies (30); leadership, management, organizational strength, and key personnel (25); investment philosophy and process, resources, and approach to manager searches and performance measurement/presentation (20); client references (5); and fees (20). Fee points are calculated as the lowest proposal fee multiplied by 12.0 for the first three years, or 8.0 for six years, divided by the fee being evaluated. The document also restricts the information to authorized ERS recipients for responding to the RFP, prohibits broader distribution, and reserves all rights (2017)."
+    },
+    {
+      "title": "IX. Phase 6 – Award",
+      "node_id": "0024",
+      "start_index": 19,
+      "end_index": 20,
+      "summary": "The ERS Board of Trustees makes the final award selection. RFP information is restricted to authorized users and use in responding to the RFP. The contract seeks comprehensive, non-discretionary pension investment consulting for ERS; the contractor must be an investment adviser registered under the Investment Advisers Act of 1940 and enter an agreement substantially in the form of Attachment A. The initial term is approximately July 1, 2023–June 30, 2026, with an ERS-option three-year extension through June 30, 2029. ERS may also extend the agreement at no cost to finish manager searches underway. Final payment follows receipt of the final quarterly performance report and other required materials. The annual fixed fee is paid quarterly, with monthly work statements; work outside that fee is billed upon completion. Statements must describe work in enough detail to support payment, which ERS processes under its standard procedures."
+    },
+    {
+      "title": "ERS Investment Consulting Scope and Agreement Period",
+      "node_id": "0025",
+      "start_index": 20,
+      "end_index": 20,
+      "key_items": [
+        "SCOPE OF WORK",
+        "I. Introduction",
+        "II. Agreement Period"
+      ],
+      "summary": "The Hawaii Employees’ Retirement System seeks comprehensive, nondiscretionary pension fund investment consulting services through this RFP. The contractor must be an investment adviser registered under the Investment Advisers Act of 1940 and provide the services described in the RFP under an agreement substantially in the form of Attachment A. The agreement is expected to begin around July 1, 2023, and run for approximately three years, ending June 30, 2026, unless terminated earlier. ERS may grant a three-year extension, deciding in 2026; if granted, the agreement ends June 30, 2029. Final payment follows receipt of the expiring year’s June 30 quarterly performance report and other required materials. ERS may also extend the agreement, at no additional cost, solely to complete investment manager searches underway at the end of the existing term."
+    },
+    {
+      "title": "III. Compensation",
+      "node_id": "0026",
+      "start_index": 20,
+      "end_index": 21,
+      "summary": "The annual fixed fee is paid quarterly, with monthly statements; other work is billed upon completion. Statements must detail work sufficiently to justify payment, and ERS processes claims under its procedures. Payments beyond the current fiscal year depend on available appropriations, with no liability until funds are provided. This is a multi-term contract with a consistent annual fee unless adjustments are allowed; continuation depends on funding, with timely notice if funds are unavailable. Offerors must price the full term, and cancellation may require reimbursement of applicable unamortized, reasonably incurred nonrecurring costs, without affecting termination rights. The ERS Chief Investment Officer is the contractor’s liaison, chairs status meetings, coordinates scheduling, and monitors performance. Work requires ERS approval; unauthorized work is at the contractor’s risk. The contractor may not bind ERS beyond the contract period and must follow ERS policies. The CIO coordinates consultant activities under Investment Committee direction, implementing decisions and overseeing managers. Consultant coverage includes all real assets, including real estate, timber, infrastructure, and agriculture/farmland, under the all-inclusive flat fee; specific duties follow. The document is restricted to authorized RFP use and not for general distribution."
+    },
+    {
+      "title": "Multi-Term Contract and Contractor Oversight",
+      "node_id": "0027",
+      "start_index": 21,
+      "end_index": 21,
+      "key_items": [
+        "IV. Multi-Term Solicitation",
+        "V. Liaison and Authorization to Proceed"
+      ],
+      "summary": "Funds are not currently available beyond the fiscal year, and ERS has no payment obligation for later performance until funds are made available. The multi-term contract keeps the annual fixed fee constant unless an authorized adjustment applies; it may be cancelled if future-period funding is unavailable, without affecting termination rights. The purchasing agency head must notify the contractor promptly of funding unavailability, offerors must price the full performance term, and eligible unamortized nonrecurring costs will be reimbursed upon cancellation. The ERS Chief Investment Officer is the primary liaison, chairs status meetings, helps schedule, and monitors performance. Work undertaken before ERS approval to proceed is at the contractor’s risk, and ERS is not bound by it."
+    },
+    {
+      "title": "VI. Scope of Services",
+      "node_id": "0028",
+      "start_index": 21,
+      "end_index": 24,
+      "summary": "The consultant may not commit ERS beyond the contract term and must follow ERS policies; the CIO coordinates its work under Investment Committee direction and oversees implementation and managers. The all-inclusive flat fee covers all real assets, including real estate, timber, infrastructure, agriculture, commodities, and opportunistic assets. Duties include developing and reviewing five-year and annual strategic and pacing plans, objectives, policies, benchmarks, portfolio construction, policy updates, ESG analysis, and market research; setting manager criteria and reviewing annual manager plans, budgets, properties, acquisitions, and dispositions. The consultant will source and conduct due diligence on managers and investment vehicles, support negotiations and Board recommendations, and monitor managers against benchmarks and plan requirements. It will report quarterly on portfolio and manager performance and markets, including property returns; assist with capital calls, distributions, LPAC matters, and manager consent or voting requests; attend up to eight annual meetings and annual portfolio reviews; and educate staff and the Board. It must provide audit access, perform consistent related duties, and integrate financially relevant ESG factors, assess risks and opportunities, and conduct requested ESG research."
+    },
+    {
+      "title": "MINIMUM QUALIFICATIONS CERTIFICATION",
+      "node_id": "0029",
+      "start_index": 24,
+      "end_index": 24,
+      "summary": "The Offeror certifies to the Employees’ Retirement System that it is registered under the Investment Advisers Act of 1940; has at least three years’ experience as a real-assets investment consultant, with commencement dates requested for each proposal area; serves at least one public defined-benefit retirement system client with more than $5 billion in assets, with client names requested; and assigns a primary consultant with at least seven years’ domestic and international investment consulting experience for public pension plans, with the consultant’s name and experience requested. It also certifies that its principal place of business is in the United States and it is subject to U.S. service of process, with its location requested, and that, if awarded the contract, it will act as a fiduciary to ERS."
+    },
+    {
+      "title": "OFFEROR'S NAME: __________________________________________________",
+      "node_id": "0030",
+      "start_index": 24,
+      "end_index": 25,
+      "summary": "OFFEROR'S NAME: __________________________________________________\nSigned:\nDate:\n20\nThe information contained herein is for use only by persons expressly authorized by ERS. The information shall be used only for responding to this RFP and is not for general distribution within or outside the respective companies. All Rights Reserved 2017.QUESTIONS\nYour answers must be numbered consecutively as listed below, including the restatement of the question followed by your firm’s response."
+    },
+    {
+      "title": "Organization",
+      "node_id": "0031",
+      "start_index": 25,
+      "end_index": 26,
+      "summary": "The RFP requests organizational details for a real assets consulting firm: company and servicing-office contact information and contracting legal entity; firm history, ownership, affiliations, anticipated changes, and experience serving public pension plans (including discretionary and non-discretionary years); specialties, strengths, limitations, other services, and revenue sources; ownership by name, title, and percentage; professional staffing, account responsibilities, and the definition of a professional; and business strategy. It also asks about consulting for asset managers, investment management, brokerage and other services, conflict-mitigation procedures, fiduciary status, financial relationships with other organizations, and any current or past-five-year relationships with ERS Board members, consultants, or staff. Any subcontracting or outsourcing must be described with the work performed, rationale, providers’ locations and business history, and assigned personnel’s qualifications. The document’s information is restricted to authorized ERS use for responding to this RFP and must not be generally distributed."
+    },
+    {
+      "title": "Clients",
+      "node_id": "0032",
+      "start_index": 26,
+      "end_index": 27,
+      "key_items": [
+        "p.26",
+        "1. Provide a list of all clients, noting the institutional clients with assets of more than $1 billion using the following format:",
+        "2. Indicate the total amount of assets under your pension fund real assets consulting management at the end of June 30, 2017 to June 30, 2022. Separate the amount as follows using the format provided:",
+        "3. For clients over $1 billion, please list clients’ investments by using the following format (please list all public pension fund clients first):"
+      ],
+      "summary": "The RFP requests: (1) a client list identifying institutional clients with over $1 billion in assets, retainer and transaction-based relationships, pension status, plan assets, funded percentage, and current and target real-asset allocations; (2) pension-fund real-asset consulting assets for June 30, 2017–2022, broken down by direct, commingled, co-investment, and other assets; (3) investments for clients over $1 billion, listing public pension funds first, with property type, geography, strategy, allocation, and market value, including relevant categories such as multifamily, retail, REITs, office, industrial, equity, debt, direct, commingled, specialized/non-traditional, and manager-monitored investments; (4) at least three full-service real-assets consulting clients, services, and discretionary status; (5) three references with at least $5 billion in assets, preferably public pension funds, including contact details, permission, retainer status, and discretion status; (6) recent non-retainer project clients, service year, and assignment type; (7) clients terminated in the past five years, assets at termination, and reasons; and (8) plans for future firm growth, including staffing, maximum assets, and client capacity."
+    },
+    {
+      "title": "Personnel",
+      "node_id": "0033",
+      "start_index": 28,
+      "end_index": 28,
+      "summary": "The Personnel section requests an organizational chart (Appendix A) and key-staff biographies (Appendix B), plus information on employee equity and retention incentives. It asks for the names, locations, roles, and detailed qualifications and account responsibilities of primary ERS consultants, their support staff, and backups, including backup duties and client profiles. Firms must describe junior-staff development and promotion criteria; disclose relevant officer or principal litigation and regulatory investigations and their status; and specify available research and technical support. It asks about workload controls and account limits, five years of turnover among client-contact consultants and key technical personnel (including departures, replacements, reasons, and dates), diversity efforts, and named accountability for ESG risks and opportunities. The page also restricts the information to authorized ERS RFP use and prohibits broader distribution."
+    },
+    {
+      "title": "Services",
+      "node_id": "0034",
+      "start_index": 29,
+      "end_index": 29,
+      "summary": "The RFP asks firms to describe standard and special real-assets consulting and performance-monitoring services, including services beyond the stated scope; their approach to working with boards, committees, staff, and managers; communication, client service, availability for meetings, and online portal information; and attendance at manager or partnership meetings and any related fees. Firms should explain their distinguishing strengths and value to the Fund, coverage of infrastructure, farmland, commodities, timber, and other real-asset strategies within a consulting contract, and additional capabilities such as proprietary databases, analytics, or risk reporting and consulting. The information is confidential to authorized ERS recipients and may be used only to respond to the RFP, not distributed generally; all rights reserved, 2017."
+    },
+    {
+      "title": "Database",
+      "node_id": "0035",
+      "start_index": 30,
+      "end_index": 30,
+      "summary": "The text requests an overview of database capabilities and coverage of managers/advisors, direct investments, commingled funds, and specialized funds; staffing and frequency of internal and external manager monitoring; and how often real-assets data is updated, its sources and safeguards for fair representation, and criteria for classifying investment strategies. It asks what screening details are maintained and verified; how manager styles are assigned and monitored, including compliance with client policies; annual manager meetings over the past three years, both at the firm’s and managers’ offices; and whether managers pay for database inclusion or information, related revenues, and conflict-of-interest controls. It also asks about available ESG and quantitative data, including GHG metrics and standardized portfolio aggregation. The text ends with a restricted-use and confidentiality notice for RFP responses."
+    },
+    {
+      "title": "Manager Search",
+      "node_id": "0036",
+      "start_index": 31,
+      "end_index": 31,
+      "summary": "Manager Search\n1. Describe your experience and capabilities in conducting searches for real assets investment manager. How many searches were conducted for clients between $1 billion-$15 billion in total plan assets in the past five years? How many different managers were recommended by you in calendar years 2014 and 2015 for each of the four major property types? (office, industrial, retail, multifamily, public REITS, specialty types).\n2. Briefly describe the due diligence process on managers during searches. How does on-site due diligence fit into the search process?\n3. How does ESG factor into your manager search process both at the business/organizational level and the strategy level?\n27\nThe information contained herein is for use only by persons expressly authorized by ERS. The information shall be used only for responding to this RFP and is not for general distribution within or outside the respective companies. All Rights Reserved 2017."
+    },
+    {
+      "title": "Investment Policy/Asset Allocation",
+      "node_id": "0037",
+      "start_index": 32,
+      "end_index": 32,
+      "key_items": [
+        "5. Describe the firm’s ESG policy, if any."
+      ],
+      "summary": "The request seeks information on the firm’s pension-fund experience and approach to developing investment policies and objectives within a strategic plan, analyzing portfolios and recommending changes, and helping boards and investment committees monitor policy, strategy, and asset mix. It asks for sample policies and long-term strategies by strategy and property type, with goals, return objectives, economic and market assumptions, and responses to volatility, interest rates, inflation, and supply and demand. It also asks about essential policy-development issues; for ERS, real-asset risk categories and supporting real-return assumptions, inflation outlook and investment recommendations, strategies to achieve risk-adjusted returns, and whether a 5% minimum total real return over the next five to ten years is appropriate. Further topics are portfolio leverage reporting, program-level risk-management tools, and the firm’s ESG policy. The material is restricted to authorized ERS recipients for responding to the RFP and not for general distribution."
+    },
+    {
+      "title": "Performance Measurement",
+      "node_id": "0038",
+      "start_index": 33,
+      "end_index": 33,
+      "summary": "The section asks about performance measurement capabilities, including tracked categories and their definitions, use of property-level data for direct and commingled funds, and years of usable data. It seeks information on data sources and GIPS compliance; manager-return formulas, calculation frequency, cash-flow and fee treatment; recommended real-assets benchmarks and leverage; return verification and reconciliation; total-fund calculations; report customization; client transitions and backloading. It requests benchmark customization methods and resources, sample standard and IMA quarterly reports, report availability and executive summaries. It also asks how investment-advisor problems are identified and corrected, actions taken for poorly performing commingled funds and separate accounts or direct investments, and quantitative ESG measures. The text concludes with an ERS restriction limiting use of the RFP material to authorized respondents and prohibiting general distribution."
+    },
+    {
+      "title": "Deal Review",
+      "node_id": "0039",
+      "start_index": 34,
+      "end_index": 34,
+      "summary": "The Deal Review section requests information on the firm’s experience preparing due diligence reviews for new acquisitions and existing properties, managing client appraisals, and writing appraisal reviews, with sample materials requested for Appendix D. It asks about work with institutional owners, advisers, and lenders on workout or problem properties and examples of value added; policies for allocating real estate investments among clients, with the policy attached in Appendix E if available; experience reviewing and recommending deals across Europe, Far East/Asia/Australia, Latin America, the Middle East, and other regions, plus a five-year investment outlook; and experience with timber, infrastructure, agriculture/farmland, and other alternative real assets, including recommended allocation ranges for a public pension such as Hawaii ERS and whether, how much, and why that allocation might grow. The material is restricted to authorized ERS recipients and use in responding to the RFP, and may not be generally distributed."
+    },
+    {
+      "title": "Fees",
+      "node_id": "0040",
+      "start_index": 35,
+      "end_index": 35,
+      "summary": "Fees\n1. Provide your fee schedule. Assume full-service real assets consulting (include cost of travel, if any, to ERS for attending up to eight meetings with the Board or Investment Committee). Please state the full scope of services you will provide under your stated fee structure. In addition, please specifically list any Scope of Services listed in this RFP that you will not provide under the fee schedule. The proposal will be evaluated on the basis of fees for real assets services, which include real estate and other real assets such as timber, infrastructure, agriculture/farmland, etc., all of which will be covered under the all inclusive flat fee. .\n31\nThe information contained herein is for use only by persons expressly authorized by ERS. The information shall be used only for responding to this RFP and is not for general distribution within or outside the respective companies. All Rights Reserved 2017."
+    },
+    {
+      "title": "FEE PROPOSAL",
+      "node_id": "0041",
+      "start_index": 36,
+      "end_index": 36,
+      "summary": "The fee proposal must remain valid for at least six years from the contract’s effective date, covering an expected three-year term and a possible three-year ERS extension. Fees should reflect the services in Paragraph VI of the Scope of Work and include travel, taxes, and all expenses. Offerors must quote all-inclusive annual flat fees for years 1–3 and, if extended, years 4–6, with subtotals for years 1–3 and total fees for years 1–6. Payment terms are in Paragraph III. The final contract fee is the consultant’s sole compensation; no other monetary or nonmonetary benefits may arise from the relationship. The document is restricted to authorized ERS recipients and use solely for responding to the RFP, not general distribution; all rights are reserved (2017)."
+    },
+    {
+      "title": "Attachment A",
+      "node_id": "0042",
+      "start_index": 37,
+      "end_index": 37,
+      "summary": "Attachment A\nSample Contract\n33\nThe information contained herein is for use only by persons expressly authorized by ERS. The information shall be used only for responding to this RFP and is not for general distribution within or outside the respective companies. All Rights Reserved 2017."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

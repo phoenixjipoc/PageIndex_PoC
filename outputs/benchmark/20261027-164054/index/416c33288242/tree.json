@@ -1,0 +1,622 @@
+{
+  "doc_id": "pi-e9b2990bdb324686b56c174be9bfda0a",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 4,
+      "summary": "The text introduces NYC Board of Education Retirement System (BERS) RFP #2024-003 for investment consulting services. Proposals must be emailed to BERSProcurement@bers.nyc.gov by 5:00 p.m. July 12, 2024; late proposals are not accepted, and every submission page must show the RFP number and title. The contents list sections on program background and purpose, minimum qualifications, services, submission requirements, evaluation, package format, timetable and general information, contract term and type, and a proposer checklist. Attachments cover the cover sheet, addenda acknowledgment, no-proposal response, BERS terms and conditions, price certification, affirmation, Iran divestment compliance, doing-business data, and ethics and compliance certifications/policy; pricing is a separate Excel worksheet. The text defines “we/us/our” as BERS and “you/your” as the proposer, and explains key terms including BERS, the City, Comptroller/Bureau of Asset Management, Actuary, trustees, BIPOC, parties, persons, staff, proposer/contractor/vendor, RFP, and private markets investment asset classes."
+    },
+    {
+      "title": "INSTRUCTIONS TO PROPOSERS",
+      "node_id": "0001",
+      "start_index": 5,
+      "end_index": 7,
+      "key_items": [
+        "Contact for this RFP; Additional Information for Proposers",
+        "Contact for this RFP",
+        "Additional Information for Proposers",
+        "1.1 PROGRAM SUMMARY",
+        "1.2 BACKGROUND AND PURPOSE OF THE REQUEST FOR PROPOSALS"
+      ],
+      "summary": "BERS’s RFP requires all questions and correspondence to be emailed to BERSProcurement@bers.nyc.gov, with the subject “RFP 2024-003: Investment Consulting Services”; no phone inquiries are accepted. Questions were due by 5:00 PM EST May 20, 2024, with substantive responses and amendments to be posted as an addendum by June 3. Vendors must not contact trustees, staff, or others who could influence the process except through authorized channels or selected-firm presentations; violations may disqualify them. BERS may reject any or all proposals and will not reimburse preparation costs. BERS is a 1921-chartered, approximately 160-person municipal pension agency governed by 27 trustees, serving about 50,000 active members and managing roughly $9 billion across defined-benefit and defined-contribution plans. It seeks an independent consultant to advise the Board on fiduciary investment responsibilities, policy, and manager selection/retention. The anticipated contract is three years from around November 2024, with a two-year option. BERS may award one general consultant or separate general and private-markets consultants. Proposals must be independently complete; private markets include private equity, real estate, opportunistic fixed income, and infrastructure."
+    },
+    {
+      "title": "SECTION 2 MINIMUM QUALIFICATIONS",
+      "node_id": "0002",
+      "start_index": 7,
+      "end_index": 11,
+      "summary": "The section sets minimum qualifications and duties for investment consultants. Proposals submitted on time to the specified email are screened, and any that fail a requirement are excluded. Firms must document relevant experience and organizational history, formation year, assets under advisement, ownership, affiliates and relationships; provide SEC registration and Form ADV; have at least seven years’ institutional consulting experience, comparable-client success, three references (at least two clients) with contact and relationship details, and be U.S.-based. Consultants attend required meetings at their own expense, keep auditable records, meet the highest applicable fiduciary or professional standard, and undergo at least annual review. General consultants develop and review investment plans, IPS, asset allocation, portfolio structure and benchmarks; provide tailored analysis, performance, attribution and risk reporting, annual-report information, education, research and requested advice. Private-market consultants cover private equity, real estate, debt and infrastructure, developing annual plans and recommendations on construction, pacing, risk, returns and strategy; monitor BIPOC firms and pipelines; analyze markets, terms, scenarios, strategies and allocations; and assist with policies, procedures and special projects.",
+      "nodes": [
+        {
+          "title": "3.1 REQUIREMENTS FOR ALL INVESTMENT CONSULTANTS",
+          "node_id": "0003",
+          "start_index": 7,
+          "end_index": 8,
+          "key_items": [
+            "A. MEETINGS",
+            "B. ACCOUNTING SYSTEM; C. STANDARD OF CARE; D. PERFORMANCE EVALUATION",
+            "B. ACCOUNTING SYSTEM",
+            "C. STANDARD OF CARE",
+            "D. PERFORMANCE EVALUATION"
+          ],
+          "summary": "Proposals received by the deadline and specified email are screened against minimum qualifications; those failing any are excluded. Proposers must document relevant experience and firm history, formation year, assets under advisement, ownership, affiliates, partners, and organizational relationships; provide SEC investment-adviser registration and Form ADV; have at least seven years’ institutional consulting experience; show success with similar organizations and provide three references (at least two clients), with contact details and relationship duration; and be U.S.-based. All consultants must attend specified meetings at their own expense. General consultants attend about 15 in-person Board/Executive Committee meetings, some virtual joint committee meetings, and most-monthly strategy-team meetings. Specialty consultants attend about 24 in-person meetings, some joint meetings, around 12 strategy-team meetings, and additional discussions as requested. Either may be asked for rare additional presentations. Consultants must maintain auditable accounting records, meet the highest applicable fiduciary/professional standard of care, and undergo at least annual performance review by BERS’s Executive Director and Board."
+        },
+        {
+          "title": "3.2 GENERAL CONSULTING SERVICES",
+          "node_id": "0004",
+          "start_index": 9,
+          "end_index": 10,
+          "key_items": [
+            "A. INVESTMENT POLICY & STRATEGY; B. ASSET ALLOCATION AND PORTFOLIO CONSTRUCTION",
+            "A. INVESTMENT POLICY & STRATEGY",
+            "B. ASSET ALLOCATION AND PORTFOLIO CONSTRUCTION",
+            "C. PERFORMANCE EVALUATION",
+            "D. TRAINING, EDUCATION AND CLIENT SERVICE DUTIES"
+          ],
+          "summary": "General investment consulting services include: developing an annual or requested written investment plan with portfolio-structure recommendations and long-term asset-allocation targets and tolerances; providing written advice on request; and reviewing the IPS with BERS staff at least annually. Consultants work with staff to incorporate liability risks, review portfolio structure and report recommendations at least annually or on request, build an asset-allocation model every few years, and provide annual informal reviews, tailored analysis, presentations, and advice on allocations and strategies involving BIPOC firms. They evaluate total-portfolio and custom-benchmark performance; provide reports and commentary as needed; deliver electronic attribution and risk analyses by asset class, manager or team, and aggregate fund, with monthly reports within two business days of receiving custodian data; and prepare a fiscal-year investment activity report for BERS’ annual financial report. Duties also include requested investment education for staff and trustees, sharing firm research and requested manager, data, or actuarial information, and introducing the Investment Strategy Director to public managers for performance updates on request."
+        },
+        {
+          "title": "3.3 PRIVATE MARKET INVESTMENT CONSULTING",
+          "node_id": "0005",
+          "start_index": 10,
+          "end_index": 11,
+          "key_items": [
+            "A. STRATEGIC ADVICE"
+          ],
+          "summary": "The section defines private markets as private equity, real estate, debt, and infrastructure, and outlines required consulting services. The consultant must work with Trustees, BERS staff, other consultants, and the Comptroller’s Bureau of Asset Management to develop and implement annual plans covering goals, market outlook, portfolio construction and sub-strategies, pacing, commitment sizes, risk, returns, existing investments, and strategic initiatives, with recommendations on policy or strategy changes. They must identify and monitor existing and emerging BIPOC firms and maintain a pipeline of firms approaching the market. The consultant must analyze marketplace trends, investment terms and structures, scenario-test allocation weights with staff, assess new strategies and structures, and recommend sub-asset allocations. Upon request, they must help review, develop, and assess program policies and procedures for proposal screening, commitments, and investment monitoring, and conduct other requested special analyses or projects."
+        }
+      ]
+    },
+    {
+      "title": "B. PRIVATE MARKET NEW INVESTMENT IDENTIFICATION AND EVALUATION",
+      "node_id": "0006",
+      "start_index": 11,
+      "end_index": 11,
+      "summary": "The responsibilities include continuously identifying and tracking attractive private-market funds raising capital, routinely reporting on them, and separately evaluating women- and minority-owned firms. They include conducting opportunity-specific due diligence and providing written findings and investment recommendations tailored to each opportunity’s fit with BERS portfolios. When requested, the advisor assists BERS Trustees, staff, BAM, and legal counsel with negotiating non-legal transaction terms, including discussions with fund sponsors and advice on market terms. The advisor also maintains a database accessible to BERS staff and BAM covering fund proposers/general partners, prior investments, organization composition, strategies, and investors. Investment evaluation should use conservative pacing forecasts, account for liquidity from the investment strategist’s perspective, and reject investments inconsistent with asset-allocation targets."
+    },
+    {
+      "title": "C. PRIVATE MARKET ACTIVITY REPORTS",
+      "node_id": "0007",
+      "start_index": 11,
+      "end_index": 12,
+      "summary": "C. PRIVATE MARKET ACTIVITY REPORTS\nThe Consultant will provide monthly written reports to the Trustees, BERS staff, and BAM listing and summarizing its activity with respect to preliminary screenings, due diligence assigned and completed, and any other program implementation work undertaken by the\n7Consultant. This includes regular monthly reports on pipeline and executed approved investments."
+    },
+    {
+      "title": "D. PRIVATE MARKET RESEARCH REPORTS",
+      "node_id": "0008",
+      "start_index": 12,
+      "end_index": 12,
+      "summary": "D. PRIVATE MARKET RESEARCH REPORTS\nProvide research, reports, and commentary on emerging issues, proposed legislation, market trends, sectors, geographies, new investment structures and techniques affecting the private markets investment portfolio."
+    },
+    {
+      "title": "E. PRIVATE MARKET CONSULTING SERVICES- OPERATIONAL DUE DILIGENCE",
+      "node_id": "0009",
+      "start_index": 12,
+      "end_index": 13,
+      "summary": "Operational due diligence covers ESG, claims or litigation, service providers, cybersecurity, regulatory, risk and compliance processes, business continuity, monitoring and reporting, and middle/back-office controls. The consultant must maintain written diligence records and provide an assessment and recommendation for every investment, with no initial waivers. Portfolio reporting includes quarterly absolute and relative performance reviews within 75–90 days, covering commitments, distributions, valuations, returns, holdings, concentration and risk analysis, with written commentary; monthly summaries update prior market values for cash flows and report short- and long-term benchmark performance by fiscal and calendar year. Customized quarterly reconciliation and performance reports are due within 90 days or as Trustees reasonably require, coordinated with BERS staff and BAM. They review manager data for reasonableness and summarize investment- and portfolio-level valuations, returns, activity, significant valuation changes, and market conditions. The consultant obtains and validates quarterly data, calculates US-dollar returns with currency conversions reconciled to manager figures, and reports diversification by property type, sub-strategy, geography, and other risk factors."
+    },
+    {
+      "title": "G. PRIVATE MARKET MONITORING",
+      "node_id": "0010",
+      "start_index": 13,
+      "end_index": 13,
+      "summary": "G. PRIVATE MARKET MONITORING\na. Advise on actions needed to protect the interests of BERS as an investor and to ensure compliance by general partners with the terms of the limited partnership agreements.\nb. Review all proposed partnership amendments, limited partner consents and waivers, and extension and other governance requests. Recommend courses of action if necessary unless instructed otherwise by BERS and BAM as delegated investment advisor and assist in negotiating or compiling research with respect to such governance requests.\nc. Consult with and advise BERS staff and BAM on advisory board consents and waivers as requested by the Boards or BAM as delegated investment advisor.\nd. Monitor BERS portfolio and advise the Trustees, BERS staff, and BAM as delegated investment advisor regarding significant fund developments."
+    },
+    {
+      "title": "H. PRIVATE MARKET BACK OFFICE SUPPORT",
+      "node_id": "0011",
+      "start_index": 13,
+      "end_index": 15,
+      "summary": "Provides private-market back-office support, including quarterly reconciliation of manager/GP cash flows and ownership percentages; review of capital calls, distributions, reinvestments, fees, profit allocations and other transactions for compliance with LPAs and BERS’s Investment Policy Statement; discrepancy resolution; and certification letters within two business days (or as soon as possible when research is needed). Transmits transaction data to the custodian, maintains an interfaced accounting system and consistent cash-flow records, performs monthly custodian and performance reconciliations, and reviews/approves custodian payments. Supplies ILPA transaction classifications when available and responds to record-keeping queries. Produces monthly valuations, unfunded-commitment and cost-basis reports within 30 days of month-end, tracking remaining commitments and cash-flow categories. Within 30 days of quarter-end, prepares detailed fund-level reconciliations against manager/partner records and provides electronic files to BERS and the Comptroller. Quarterly, compiles manager-reported gross/net IRR, TVPI and MOIC by investment and related calendar quarter."
+    },
+    {
+      "title": "SECTION 4 PROPOSAL SUBMISSION REQUIREMENTS",
+      "node_id": "0012",
+      "start_index": 15,
+      "end_index": 15,
+      "key_items": [
+        "4.1 PROGRAM PLAN / NARRATIVE; 4.2 ORGANIZATIONAL CAPACITY",
+        "4.1 PROGRAM PLAN / NARRATIVE",
+        "4.2 ORGANIZATIONAL CAPACITY"
+      ],
+      "summary": "BERS requires proposals to be emailed to BERSProcurement@bers.nyc.gov, with pages paginated; evaluation is based on content, not length. Vendors submitting multiple proposals must ensure each is complete and independently addresses the RFP, as each will be scored separately. Responses must address the Scope of Services and include four sections. Section 4.1, Program Plan/Narrative, must clearly and concisely describe the proposed program’s content, design, scope, ability to perform required services, and comprehensive service plan. Proposals may cover general consulting, private market consulting, or both, and must explain how the plan meets this RFP’s goals and objectives, including detailed methods and their rationale for completing the required tasks. Section 4.2 is titled Organizational Capacity; no further requirements for it are provided in the excerpt."
+    },
+    {
+      "title": "A. ORGANIZATION AND BACKGROUND",
+      "node_id": "0013",
+      "start_index": 15,
+      "end_index": 17,
+      "key_items": [
+        "B. PROFESSIONAL STAFF"
+      ],
+      "summary": "The request states that failure to follow the preceding instruction alone will not make a response non-responsive. It seeks an overview of the firm: business lines and revenue/profit contributions, founding, offices and staffing, ownership and major equity holders, affiliations, organization chart and conflicts policies, developments over five years, expected growth or structural changes, and private-markets advisory experience and assets. It requests December 2023 AUM by asset class and active/passive share; net returns over 1, 3, 6, and 10 years (or since inception) and six years of annual returns; and 2023 due-diligence recommendations and investments involving minority-owned, MWBE, and BIPOC firms. It also asks about regulatory registrations and dates, Form ADV, liability insurance, and clients, mandates, and managed asset portions. Staffing questions cover the BERS service team and backups, key professionals, resumes, client experience, fiduciary training, other-client workloads and capacity, role tenure, compensation, client-to-consultant ratios, and limits on client assignments."
+    },
+    {
+      "title": "C. STRATEGIC CONSULTING/COLLABORATION WITH BERS STAFF",
+      "node_id": "0014",
+      "start_index": 17,
+      "end_index": 18,
+      "key_items": [
+        "D. INVESTMENT ADVISOR/MANAGER SEARCH AND SELECTION/PHILOSOPHY ON PASSIVE MARKET INVESTING",
+        "E. RESEARCH"
+      ],
+      "summary": "The text requests information on private-markets consulting capabilities, institutional trend awareness, current trends, market-data sources, and sourcing/evaluation of BIPOC firms. It asks how fund-level performance and individual drivers are measured, including benchmarks and databases, and for experience reviewing incentive-fee models, calculations, payments, and fee benchmarks. It seeks details on manager databases, coverage and capabilities (including BIPOC and passive funds), strengths and weaknesses, and any manager fees or compensation related to database inclusion or performance data. It requests track records with small, emerging, diverse, and frontier-market firms; negotiation of non-legal investment terms; attractive strategies over the next three to six years; and differences for emerging firms. It also asks for investment and operational due-diligence processes, team roles, sample reports and recommendations, post-investment monitoring and divestment criteria and history, and operational-diligence staffing and refresh frequency. Finally, it covers research organization and peer review, data vendors and integration/value added, and whether industry databases, models, papers, and analyses are shared with clients and why not."
+    },
+    {
+      "title": "F. PERFORMANCE MONITORING AND MEASUREMENT",
+      "node_id": "0015",
+      "start_index": 18,
+      "end_index": 24,
+      "summary": "Covers private-markets performance measurement, including data sources, benchmarks, returns, cash flows, fees, exposures, review frequency, compliance monitoring, governance recommendations, reporting, custodian reconciliation, and appraisal support. It addresses technology and back-office systems for communications, data validation, accounting, valuations, performance, commitments, capital calls, and client access. Proposers must disclose proprietary products, conflicts, ethics and compliance practices, personal trading, outside relationships, litigation and regulatory matters, and provide client references and sample reports. The section also requests EEO, diversity, workforce, supplier, and educational-program information. Firms must demonstrate relevant experience, identify public-sector contracts and NYC Retirement System work, and submit annual maximum fees, exclusions, and personnel-level hourly rates, certifying comparable clients do not pay less. Proposals are screened and scored out of 100 across program plan, capacity, effectiveness, fees, and hourly rates; BERS may verify information, negotiate, request further materials or presentations, select other than the lowest bidder, or make no award. NYC-certified M/WBE vendors receive a 10% price preference.",
+      "nodes": [
+        {
+          "title": "G. Technology Tools and Back Office Capabilities",
+          "node_id": "0016",
+          "start_index": 18,
+          "end_index": 19,
+          "summary": "The text requests details on private-markets performance monitoring: data sources and methods for evaluating portfolios and funds against peers and benchmarks, calculating returns, treating cash flows and fees, measuring exposures, and setting review frequency. It also asks how the firm continuously checks manager/advisor compliance with client policies and reports violations; reviews and recommends responses to LPA consents and other governance requests; and provides monthly, quarterly, and annual reports. It covers custodian-bank interfaces, reconciliation of discrepancies, and designated staff, plus support for separate-account appraisals, including finding appraisers and mediating disagreements. Technology questions address transaction and reporting communications, information flow among general partners, the firm, custodians, and clients, and distinguishing capabilities. Back-office questions cover data entry, review and validation; partnership accounting, cash flows, valuations, and performance at fund and portfolio levels; and monitoring and validating commitments, capital calls, disbursements, and netted fees. It also asks how clients can access technology and reporting resources on an ongoing or ad hoc basis."
+        },
+        {
+          "title": "H. Alignment of Interest with the System",
+          "node_id": "0017",
+          "start_index": 19,
+          "end_index": 21,
+          "key_items": [
+            "I. Conflicts and Ethical Compliance"
+          ],
+          "summary": "Requests information on whether the firm offers proprietary investment products or services, including their size, strategies, opportunity-allocation policies, and conflict controls. Requires certification of compliance with BERS ethics policy and disclosures of actual or potential conflicts, mitigation procedures, soft-dollar arrangements, ethics and compliance manuals, personal-trading policies and violations, outside financial relationships, and affiliate referrals and compensation. Seeks records of litigation, investigations, sanctions, investment-guideline violations, regulatory registration, deficiencies, inquiries, examinations, and equal-opportunity complaints. For service quality, requests client references and sample investment and divestment due-diligence reports, annual and multiyear plans, quarterly and risk reports, sector research, LPA recommendations, and fund monitoring reports. Also asks about written EEO and diversity policies, leadership accountability, inclusive hiring and advancement, training, workforce and business-impact metrics, discrimination complaints, supplier diversity, and educational or career programs for diverse professionals."
+        },
+        {
+          "title": "4.3 DEMONSTRATED EFFECTIVENESS",
+          "node_id": "0018",
+          "start_index": 21,
+          "end_index": 22,
+          "summary": "Proposals must describe prior experience delivering the requested or similar services, list government contracts awarded in the past 10 years, and identify any services for New York City Retirement Systems during the past five years or currently; BERS may verify performance. Fee proposals must state an annual maximum covering RFP services, identify excluded services, and provide personnel-level hourly rates by contract year (1–5) for additional special work. Firms must certify that no comparable client with a similar scope pays a lower fee. Fees are material and competitive; BERS may negotiate, request best and final offers, select a proposer other than the lowest-cost bidder, or make no award. Timely proposals are first screened for submission requirements and minimum qualifications; qualifying proposals are scored by a committee against criteria totaling 100 points. Significant deficiencies may disqualify a candidate. BERS and the Comptroller may verify information, and BERS may conduct site visits or request demonstrations, oral presentations, or additional written materials."
+        },
+        {
+          "title": "Fee Proposal and Evaluation Procedure",
+          "node_id": "0019",
+          "start_index": 22,
+          "end_index": 22,
+          "key_items": [
+            "4.4 FEE PROPOSAL",
+            "5.1 EVALUATION PROCEDURE"
+          ],
+          "summary": "Proposers with relevant current or past consulting experience must identify the New York City Retirement System served and the years of service; BERS may verify contract performance. Fee proposals must include an annual maximum fee for all RFP services and an hourly rate schedule by personnel level and contract year (years 1–5) for additional special work. Any services excluded from the maximum fee must be identified. Proposers must certify that no comparable client with similar scope pays a lower fee. Fees are material to competitive selection; BERS may negotiate and request best-and-final offers and may select a proposer other than the lowest-cost firm. Proposals are screened for submission and minimum qualification requirements, then qualifying proposals are rated by an Evaluation Committee under the stated criteria. BERS may conduct site visits, request demonstrations or oral presentations, and seek additional written materials."
+        },
+        {
+          "title": "5.2 EVALUATION CRITERIA",
+          "node_id": "0020",
+          "start_index": 22,
+          "end_index": 24,
+          "key_items": [
+            "Description"
+          ],
+          "summary": "Proposals are scored out of 100 points: program plan/narrative (18), organizational capacity and knowledge/experience (23), demonstrated effectiveness (22), annual fee (28), and hourly rates (up to 9). Review occurs in two stages: timely proposals are checked against minimum qualifications, then qualifying proposals go to the evaluation committee. Weakness on any criterion may eliminate a candidate, and BERS and the Comptroller may verify all data. The program plan must meet the scope and show understanding of BERS’s needs and goals. Capacity submissions should demonstrate adequate resources, identify dedicated staff, include an organizational chart and key resumes, and show relevant recent accomplishments. Effectiveness includes meeting service requirements, communicating with Trustees, BERS staff, and the Comptroller, addressing concerns, and providing a sound operating plan and qualified staff. Annual-fee points use the lowest estimated five-year contract amount divided by the proposer’s amount, multiplied by 28; up to 9 points reflect hourly rates. BERS may negotiate fees, seek best and final offers, select other than the lowest-cost proposer, and is not obligated to award a contract."
+        },
+        {
+          "title": "5.3 M/WBE Price Preference",
+          "node_id": "0021",
+          "start_index": 24,
+          "end_index": 24,
+          "summary": "5.3 M/WBE Price Preference\nBERS will apply a 10% price preference to New York City Certified M/WBE vendors. Please include a copy of your M/WBE Certification Letter."
+        }
+      ]
+    },
+    {
+      "title": "SECTION 6 PROPOSAL PACKAGE FORMAT",
+      "node_id": "0022",
+      "start_index": 24,
+      "end_index": 24,
+      "key_items": [
+        "6.3 Each proposer must submit their proposal package via email to BERSProcurement@bers.nyc.gov. Please include “RFP # 2024-003 –Investment Consulting Services” in the subject of the email."
+      ],
+      "summary": "SECTION 6 PROPOSAL PACKAGE FORMAT\n6.1 The electronic copy of the proposal must be submitted in pdf format. Proposer shall submit a Proposer’s Cover Sheet (Attachment A), an Acknowledgement of Addenda (Attachment B), and completed Doing Business Data form (Attachment H), with the proposal package to the Board of Education Retirement System via email to BERSProcurement@bers.nyc.gov. All forms shall be signed and dated by an authorized individual.\n6.2 Proposers should include in their proposals a Table of Contents and page numbers Although there is no specific limit on the number of pages that applications may contain, applicants are encouraged to be as concise and succinct as possible.\n6.3 Each proposer must submit their proposal package via email to BERSProcurement@bers.nyc.gov. Please include “RFP # 2024-003 –Investment Consulting Services” in the subject of the email."
+    },
+    {
+      "title": "SECTION 7 REQUEST FOR PROPOSALS TIMETABLE AND GENERAL INFORMATION",
+      "node_id": "0023",
+      "start_index": 24,
+      "end_index": 26,
+      "key_items": [
+        "7.1 REQUEST FOR PROPOSALS (RFP) TIMETABLE EVENT DATE AND TIME:; 7.2 REQUESTS FOR CLARIFICATION AND ADDENDA",
+        "7.1 REQUEST FOR PROPOSALS (RFP) TIMETABLE EVENT DATE AND TIME:",
+        "7.2 REQUESTS FOR CLARIFICATION AND ADDENDA",
+        "7.3 INCURRING COSTS; 7.4 ORAL PRESENTATIONS/DEMONSTRATIONS; 7.5 NEGOTIATIONS; 7.6 TERMS AND CONDITIONS",
+        "7.3 INCURRING COSTS",
+        "7.4 ORAL PRESENTATIONS/DEMONSTRATIONS",
+        "7.5 NEGOTIATIONS",
+        "7.6 TERMS AND CONDITIONS",
+        "7.7 CONTRACT AWARD"
+      ],
+      "summary": "The RFP timetable runs from release on May 6, 2024, through proposal submission on July 12; addenda are scheduled May 8 and June 18, questions are due May 20, and responses are posted June 3. Late proposals are rejected. Questions must be emailed in writing to BERS by May 20; only formal written responses/addenda are official, and proposers must monitor BERS’s website. BERS does not reimburse proposal, negotiation, or related costs, and may require presentations or demonstrations. BERS may reject proposals, accept without negotiation, seek revisions, negotiate with selected or multiple proposers, request best and final offers, or reopen negotiations. Contracts follow Attachment D. BERS may select the most advantageous qualified proposal, for one consultant or up to two vendors, and may require equal-opportunity, VENDEX, affirmation, and insurance documents; contracts must be signed within 30 days. Contracts may be terminated on 30 days’ written notice without contractor damages. Services are expected late 2024/early 2025 under a three-year agreement, with two optional one-year extensions; this is a full-value contract. The checklist covers required forms, proposal/program plan, pricing, Q&A, and posted addenda."
+    },
+    {
+      "title": "TERMINATION OF CONTRACT; CONTRACT TERM; SECTION 9 TYPE OF CONTRACT PAYMENT",
+      "node_id": "0024",
+      "start_index": 26,
+      "end_index": 26,
+      "key_items": [
+        "TERMINATION OF CONTRACT",
+        "CONTRACT TERM",
+        "SECTION 9 TYPE OF CONTRACT PAYMENT"
+      ],
+      "summary": "7.8\nSECTION 8\nTERMINATION OF CONTRACT\nAny contract(s) resulting from this RFP may be terminated at any time upon thirty (30) days written notice, by the Executive Director. No claim for damages will be made by, or allowed to, the Contractor because of such termination.\nCONTRACT TERM\nIt is anticipated that services will begin in late 2024/early 2025. BERS anticipates entering into a three (3) year professional services agreement with one (1) to two (2) vendors resulting from this Request for Proposals (RFP). The resulting contract(s) will provide BERS with options to extend the term of the agreement for two (2) additional one (1) year periods.\nSECTION 9 TYPE OF CONTRACT PAYMENT\nThis RFP will result in the award of a full value contract."
+    },
+    {
+      "title": "SECTION 10 PROPOSER CHECKLIST",
+      "node_id": "0025",
+      "start_index": 26,
+      "end_index": 27,
+      "summary": "Section 10 provides a proposer checklist of required submission materials: Cover Letter (Attachment A), Acknowledgment of Addenda (B), No Proposal Response Form (C), BERS Terms and Conditions (D), Price Certification Clause (E), Affirmation (F), Iran Divestment Act Compliance Rider for NYC Contractors (H), proposal including Program Plan Narrative, Pricing Form (Appendix A Excel file), published Q&A and posted attachments/addenda/amendments if any, Doing Business Data Form (Attachment H, with a download link), and RFP Certification—Ethics and Compliance Policy (Attachment I). Proposers are also instructed to review the entire RFP to understand requirements and attached forms, carefully review the Scope of Services before completing response sections, and consult Attachment D because terms and conditions may have changed since the previous RFP."
+    },
+    {
+      "title": "[NO FURTHER TEXT ON THIS PAGE]",
+      "node_id": "0026",
+      "start_index": 27,
+      "end_index": 27,
+      "summary": "[NO FURTHER TEXT ON THIS PAGE]\n23"
+    },
+    {
+      "title": "ATTACHMENT A",
+      "node_id": "0027",
+      "start_index": 28,
+      "end_index": 28,
+      "key_items": [
+        "PROPOSER’S COVER SHEET RFP#: 2024-003 –Investment Consulting Services"
+      ],
+      "summary": "ATTACHMENT A\nPROPOSER’S COVER SHEET RFP#: 2024-003 –Investment Consulting Services\nCompany Name: _______________________________________________________________________ Address: Administrative Office: _____________________________________________________________________________________ _____________________________________________________________________________________ Federal Tax Identification #: ______________________________________________________________ Contact Name: ________________________________________________________________________ Title: ________________________________________________________________________________ Phone: (_______)________________________ Fax: (_______)__________________________\nE-mail Address: _______________________________________________________________________ Address: Service/Operations for New York City:\n_____________________________________________________________________________________ _____________________________________________________________________________________\nContact Name: ________________________________________________________________________ Title: ________________________________________________________________________________ Phone: (_______)________________________ Fax: (_______)__________________________\nYear Firm Founded: _____________ Year firm began serving institutional clients: _________________________________________________ Proposer’s Name: ______________________________________________________________________ Proposer’s Signature: ___________________________________________________________________\n24"
+    },
+    {
+      "title": "ATTACHMENT B",
+      "node_id": "0028",
+      "start_index": 29,
+      "end_index": 29,
+      "key_items": [
+        "PART II"
+      ],
+      "summary": "ATTACHMENT B\nACKNOWLEDGMENT OF ADDENDA RFP#: 2024-003 –Investment Consulting Services\nDirections: Complete Part I or Part II, whichever is applicable PART I:\nListed are the dates of issue for each addendum received in connection with the RFP: Addendum #1, Dated ____May 8, 2024____________________\nAddendum #2, Dated ____June 03, 2024__________________ Addendum #3, Dated ____June 18, 2024__________________ Addendum #4, Dated __________________________________\nPART II\n_______ No addendum was received in connection with this RFP.\nProposer’s Name: __________________________________________________________ Proposer’s Signature: _______________________________________________________\n25"
+    },
+    {
+      "title": "ATTACHMENT C",
+      "node_id": "0029",
+      "start_index": 30,
+      "end_index": 30,
+      "key_items": [
+        "NO PROPOSAL RESPONSE FORM RFP#: 2024-003 –Investment Consulting Services; REASONS FOR NOT PROPOSING AT THIS TIME:; VENDOR NAME AND ADDRESS:",
+        "NO PROPOSAL RESPONSE FORM RFP#: 2024-003 –Investment Consulting Services",
+        "REASONS FOR NOT PROPOSING AT THIS TIME:",
+        "VENDOR NAME AND ADDRESS:"
+      ],
+      "summary": "Attachment C is a No Proposal Response Form for RFP 2024-003, Investment Consulting Services. Vendors not submitting a proposal but wishing to remain on the NYC Board of Education Retirement System bidders list are asked to complete and return it by the proposal deadline, July 12, 2024. Vendors are encouraged to explain why they are not proposing so future solicitations can be improved and competition expanded. The form requests reasons for not proposing, vendor name and address, and the signer’s signature, title, and date."
+    },
+    {
+      "title": "ATTACHMENT D",
+      "node_id": "0030",
+      "start_index": 31,
+      "end_index": 31,
+      "summary": "ATTACHMENT D"
+    },
+    {
+      "title": "BERS TERMS AND CONDITIONS",
+      "node_id": "0031",
+      "start_index": 31,
+      "end_index": 50,
+      "summary": "The section sets interpretation and legal-compliance rules, severability, restrictions on religious and political activity, publication approval, and BERS ownership and control of work, copyright, inventions, and patents. It requires specified insurance and protects BERS and City interests; covers BERS-funded property, return obligations, non-reimbursable expenses, compensation limits, invoices, payment certification, final-payment releases, claim deadlines, notices, amendments, waivers, and suspension of deliveries. It addresses default, cure, cancellation, damages, recovery, and disqualification; government investigations, contractor records and audits, assignment, staffing, confidentiality, testimony, liability, indemnification, conflicts, gifts, antitrust claims, governing law, boycotts, nondiscrimination, and equal employment. Contractors must establish and implement affirmative-action plans, report compliance, and meet MacBride Principles requirements concerning Northern Ireland operations and workplace equality. Enforcement provisions cover review and remedies for breaches, independent bids, set-off, ethics, and intellectual-property claims. They also impose ESSTA paid-time requirements and whistleblower protections, including reporting, recordkeeping, remedies, anti-retaliation, and exceptions.",
+      "nodes": [
+        {
+          "title": "BERS TERMS AND CONDITIONS (intro)",
+          "node_id": "0032",
+          "start_index": 31,
+          "end_index": 32,
+          "summary": "The agreement’s headings are for convenience only and do not affect interpretation. The contractor must comply with applicable laws; required legal provisions are deemed included, and the agreement is automatically amended to comply if they are missing or incorrectly stated. Unlawful provisions are severed while the remainder stays effective, unless severance frustrates the agreement’s purpose, in which case either party may seek relief from the Evaluation Committee. Religious activity is prohibited in performing the agreement, and BERS-provided property may not be used for political activity or candidate campaigning. Publications about the contractor’s work require prior written approval, must acknowledge BERS funding, and require ten free copies to BERS. BERS is deemed the author and, absent a written waiver, owner of copyrightable work produced under the agreement. Inventions or discoveries must be promptly reported; BERS exclusively controls patent applications and the disposition and administration of related rights."
+        },
+        {
+          "title": "9. Insurance",
+          "node_id": "0033",
+          "start_index": 32,
+          "end_index": 33,
+          "summary": "The contractor must maintain BERS-acceptable insurance for the agreement’s duration: workers’ compensation as legally required (with proof submitted before work); general/product liability naming BERS and its personnel as additional insured, with at least $1 million per occurrence and specified property-damage limits of $100,000 for one claimant and $200,000 for multiple claimants; and, although vehicle use is prohibited, if vehicles are used, auto liability covering the contractor, BERS, and New York City with similar limits. Contractor-held BERS products must have all-risk property coverage of at least $50,000 per occurrence, reimbursing BERS for applicable losses. Policies must protect BERS and the City and include specified notice, accident-reporting, and 60-day cancellation/changes provisions. BERS-funded property is BERS-owned, must be marked and returned at contractor expense within 30 days after the agreement ends. Listed costs—including rent, interest, taxes, legal costs, advertising, personal expenses, and unreasonable costs—are non-reimbursable. No compensation beyond the agreed amount may be claimed. Each invoice requires supporting proof and must follow BERS submission requirements; the payment provision is cut off."
+        },
+        {
+          "title": "Insurance, Property, Expenses, and Compensation Rules",
+          "node_id": "0034",
+          "start_index": 33,
+          "end_index": 33,
+          "key_items": [
+            "10. Accounting for Property",
+            "11. Non-Reimbursable Expenses",
+            "12. No Extra Compensation"
+          ],
+          "summary": "Required insurance policies must direct notices to BERS’s Executive Director, require prompt accident reporting, and prohibit cancellation or changes without 60 days’ prior written notice and BERS’s consent. Property bought with BERS funds is BERS property, must be marked accordingly, and returned at the contractor’s expense within 30 days after the agreement ends unless otherwise directed. Listed non-reimbursable costs include apartment rent, loan interest, tax penalties and taxes or tax-return preparation, political or charitable contributions, advertising, legal costs, key-person life insurance, start-up expenses, most meals and lodging, personal entertainment and gratuities, unrelated long-distance calls, and any costs that are not ordinary, necessary, or reasonable. The contractor may not claim compensation beyond the agreed amount for labor, materials, or services."
+        },
+        {
+          "title": "13. Invoices And Payments",
+          "node_id": "0035",
+          "start_index": 33,
+          "end_index": 34,
+          "summary": "The agreement requires the Contractor to provide proof with each invoice and follow BERS submission requirements; payment is conditional on full compliance and written certification, without limiting BERS’s right to reject deficient performance. BERS is not estopped from stating the true value of services. Negotiating final payment releases BERS from all related claims and liability. Contractor actions against BERS must begin within six months of the earlier specified deadline; Civil Practice Law and Rules Article 2 does not apply. Notices may be delivered or mailed to the Contractor’s stated address, which can be changed in writing; personal delivery remains permitted, and an affidavit of delivery is conclusive evidence. Amendments require signed written instruments, with material amendments also requiring Board resolution; waivers must be written, signed, and limited to their terms. Oral amendments and waivers are void. The text also introduces a section titled “Suspension of Deliveries,” without providing its terms."
+        },
+        {
+          "title": "Performance Certification, Payment Release, and Claims",
+          "node_id": "0036",
+          "start_index": 34,
+          "end_index": 34,
+          "key_items": [
+            "14. No Estoppel",
+            "15. Acceptance of Final Payment",
+            "16. Claims -Limitation of Action"
+          ],
+          "summary": "Payment remains subject to compliance with all Agreement provisions and written certification by the Executive Director or designee; BERS may still reject all or part of the performance if certification conflicts with the Agreement or was issued in error. BERS is not estopped by its statements or documents from identifying the true value of services. The Contractor’s receipt and negotiation of final payment releases BERS and its agents from all related claims and liability, including when payment follows a court judgment or order; the release also binds the Contractor’s representatives, heirs, successors, and assigns. Any action against BERS arising from the Agreement must begin within six months after filing the final-payment voucher or the required service-completion date, whichever comes first. Article 2 of the Civil Practice Law and Rules does not apply to such actions."
+        },
+        {
+          "title": "17. Notices",
+          "node_id": "0037",
+          "start_index": 34,
+          "end_index": 41,
+          "summary": "Sections 17–35 govern notices and address changes; written amendments and waivers, including required Board approval for material changes; suspension and possible extension of deliveries; default, a 30-day cure period, cancellation, damages, cost recovery, and bidding disqualification. BERS determines service acceptability. Contractors must cooperate with government investigations; refusal to testify may trigger hearings, suspension, termination, or disqualification, and penalties depend on specified factors. Contractors must submit reports, retain and provide records for audits and inspections, and notify BERS of other audits. Assignment requires consent; staff must be competent and replaceable; member and staff data must remain confidential. Required testimony is uncompensated, subject to an exception for proceedings opposing BERS; BERS and City personnel have no personal liability, and contractors indemnify BERS. Other provisions address conflicts and gifts, antitrust-claim assignment, entire agreement and New York law, international boycotts, nondiscrimination, and equal-opportunity employment. Professional contractors must establish affirmative-action programs defining covered employees and groups, assessing workforce utilization and practices, setting goals and timetables, taking corrective action, and encouraging minority- and women-owned subcontractors."
+        },
+        {
+          "title": "B. Required Program of Affirmative Action",
+          "node_id": "0038",
+          "start_index": 41,
+          "end_index": 42,
+          "summary": "Contractors must identify and eliminate discriminatory practices and, on demand, submit an acceptable Affirmative Action Program (P.A.A.); the Office may require revisions, and failure to submit one on time may result in default, with the Director deciding acceptability. The program must cover all Board of Education professional-services contracts and every employment phase. It must set measurable goals, timetables, and corrective measures; report current and projected minority and women workforce utilization, hiring, and promotion by job, wage, employment level, and organizational unit; cover U.S. facilities; identify employee organizations and commit to good-faith equal-opportunity efforts, including providing relevant agreements; follow the Director’s format; provide separate programs for subcontractors before approval; document equal opportunity for minority entrepreneurs; and maintain commitments at least as strong as the latest approved program. Contractors must submit requested compliance reports, attend required conferences, and implement the approved P.A.A. The Office may seek default for breaches through the Evaluation Committee. Contractors may consult BERS’s Office of Equal Opportunity. The text then introduces MacBride Principles provisions for Board of Education contractors."
+        },
+        {
+          "title": "Equal Opportunity Plans and Contractor Oversight",
+          "node_id": "0039",
+          "start_index": 42,
+          "end_index": 42,
+          "key_items": [
+            "C. Compliance Inspection Report",
+            "D. Conferences",
+            "E. Implementation of P.A..A."
+          ],
+          "summary": "The P.A.A. must project hiring, promotion, and utilization of minority groups and women by job category, wage level, and organizational unit, covering the contractor’s U.S. facilities. It must identify employee unions or organizations, include good-faith commitments to promote equal opportunity and relevant agreements, follow the Office’s format, and commit to submitting plans for subcontractors before approval. It must document equal solicitation and consideration of minority entrepreneurs and maintain employment goals and practices at least as strong as the latest approved plan. Contractors must submit Compliance Inspection Reports when requested, attend required conferences, and implement the approved P.A.A. If the Office believes requirements were breached, it may seek a default declaration through the Evaluation Committee. Contractors may consult BERS’s Office of Equal Opportunity. The page then introduces MacBride Principles provisions for Board of Education contractors."
+        },
+        {
+          "title": "MacBride Principles Contractor Requirements",
+          "node_id": "0040",
+          "start_index": 43,
+          "end_index": 43,
+          "key_items": [
+            "ARTICLE I. MACBRIDE PRINCIPLES PART A",
+            "PART B"
+          ],
+          "summary": "Contractors, entities in which they hold at least 10% ownership, and entities holding at least 10% ownership in the contract must either have no Northern Ireland business operations or take lawful, good-faith steps to comply with the MacBride Principles and allow independent monitoring. The principles promote nondiscrimination and workplace opportunity by requiring employers to improve representation of underrepresented religious groups; protect employees’ security; ban provocative religious or political emblems; advertise vacancies and recruit inclusively; use fair layoff, recall, and termination procedures; eliminate discriminatory job reservations, apprenticeship limits, and employment criteria; provide skills training; identify and recruit employees for advancement; and appoint a senior manager to oversee affirmative action and set an implementation timetable."
+        },
+        {
+          "title": "ARTICLE ll. ENFORCEMENT OF ARTICLE I.",
+          "node_id": "0041",
+          "start_index": 43,
+          "end_index": 50,
+          "summary": "Article I covenants and representations are material: BERS reviews suspected breaches, gives the contractor a chance to respond, and may declare default, terminate, procure replacement performance, recover or withhold costs, and impose cumulative remedies, including suspension or debarment. Contractors certify bids are independently prepared, accept BERS’s set-off rights, must act ethically, and must defend and indemnify BERS and the City against infringement claims; software settlements must preserve BERS’s use absent reasonable written consent. The section also imposes ESSTA compliance as a material term, with complaint-notice, cooperation, and payment deadlines and possible termination. It summarizes paid-time accrual, rates, carryover, permitted uses, notice, documentation, confidentiality, payment, exemptions, anti-retaliation, employee notices, recordkeeping, investigations, remedies, and penalties. More generous protections remain permitted. A whistleblower rider prohibits retaliation for specified reports, provides employee remedies and City posting requirements, extends to certain subcontracts, and states contract-value, procurement, and timing exceptions.",
+          "nodes": [
+            {
+              "title": "ARTICLE ll. ENFORCEMENT OF ARTICLE I. (intro)",
+              "node_id": "0042",
+              "start_index": 43,
+              "end_index": 45,
+              "summary": "The agreement makes Article I covenants and representations material: upon information suggesting a breach, BERS must review it and allow the Contractor to respond; if a violation is found, BERS may declare default or terminate for cause, obtain replacement performance, and recover or withhold the cost difference. Special rules cover requirements and construction contracts, and remedies are cumulative, including possible debarment or suspension. Contractors warrant under penalty of perjury that bids or quotations were independently prepared without collusion. BERS retains common-law, equitable, and statutory set-off rights, including withholding amounts owed under this or other agreements, subject to its audit practices. Contractors must follow fair and ethical business practices and may not submit intentional falsehoods, falsify records, offer improper benefits to public or labor officials or private-business employees, or participate in organized-crime activities. Contractors must defend and indemnify BERS and the City against third-party rights-infringement claims concerning supplied materials; this survives termination and is not limited by insurance obligations. Software settlements must preserve BERS’s continued use absent reasonable written consent. The text also lists an NYC Earned Safe and Sick Time Act rider."
+            },
+            {
+              "title": "A. Introduction and General Provisions.",
+              "node_id": "0043",
+              "start_index": 45,
+              "end_index": 46,
+              "summary": "New York City’s Earned Safe and Sick Time Act (ESSTA) and DCWP Rules require covered employees—and potentially City or other governmental contractors—to receive paid safe and sick time. The contractor must comply with the law and rules, as amended; compliance is a material contract term, and violations may lead to termination. Within 10 days of receiving any related complaint or investigation notice, the contractor must notify the contracting agency’s Chief Contracting Officer in writing and copy DCWP. It must cooperate with DCWP guidance and comply with subpoenas and information or document requests. After an investigation, DCWP issues findings detailing employee relief and civil penalties; the contractor may resolve violations through a consent order or an administrative tribunal hearing. Failure to pay amounts owed within 30 days may result in termination without another chance to settle or cure. The contractor should review the full law and rules and may use NYC’s employer resources. It remains responsible for compliance despite inconsistent contract language."
+            },
+            {
+              "title": "B. Pursuant to the ESSTA and DCWP Rules: Applicability, Accrual, and Use.",
+              "node_id": "0044",
+              "start_index": 46,
+              "end_index": 47,
+              "summary": "The ESSTA generally requires NYC employers to provide paid safe and sick time: 56 hours yearly for employers with 100+ employees, 40 hours for smaller employers, accrued at least one hour per 30 hours worked and paid at the greater of the regular rate or minimum wage. Employers may offer more; employers with fewer than five employees and prior-year net income below $1 million may provide unpaid time. Employees choose usage, subject to reasonable increments (maximum four hours, then fixed increments up to 30 minutes). Up to 40 or 56 unused hours carry over, unless paid out and the next year’s entitlement is provided upfront. Permitted uses include the employee’s or broadly defined family members’ health needs; public-health business, school, or childcare closures; and support, safety, legal, and related needs following specified offenses or trafficking. Employers cannot require replacement workers; foreseeable leave may require notice, and absences over three consecutive workdays may require limited documentation. Medical/offense details remain confidential, and documentation costs must be reimbursed. Employers must distribute a written policy and provide accrued/used/balance statements; without a policy, they cannot deny leave for policy noncompliance. Pay is due by the next regular payday."
+            },
+            {
+              "title": "C. Exemptions and Exceptions. Notwithstanding the above, the ESSTA does not apply to any of the following:",
+              "node_id": "0045",
+              "start_index": 47,
+              "end_index": 48,
+              "summary": "The ESSTA excludes specified independent contractors; employees covered by qualifying collective bargaining agreements that expressly waive the law and provide comparable benefits; qualifying licensed audiologists, occupational, physical, and speech-language therapists meeting assignment, scheduling, and pay conditions; work-study employees; employees compensated through qualified scholarship programs; and WEP participants. Employers may not retaliate against employees for exercising or attempting in good faith to exercise ESSTA rights, or interfere with related investigations or proceedings. Employers must give employees written notice of their rights in English and, when available, the employee’s primary language, using a method reasonably ensuring personal receipt; willful notice violations may incur penalties of up to $50 per employee. Employers must retain compliance records for at least three years and provide DCWP access. DCWP investigates complaints and may initiate investigations; employers must respond in writing and provide requested information, and DCWP may issue a notice of violation if it finds a violation."
+            },
+            {
+              "title": "ESSTA Exemptions, Rights Notices, and Records",
+              "node_id": "0046",
+              "start_index": 48,
+              "end_index": 48,
+              "key_items": [
+                "D. Retaliation Prohibited.",
+                "E. Notice of Rights.",
+                "F. Records."
+              ],
+              "summary": "The text lists employees excluded from ESSTA coverage: workers covered by qualifying collective bargaining agreements that waive ESSTA and provide comparable benefits; certain licensed audiologists and therapists who meet specified assignment and pay conditions; work-study participants; employees paid through qualified scholarship programs; and Work Experience Program participants. Employers may not retaliate against employees for exercising ESSTA rights or interfere with related investigations or proceedings. Employers must provide employees written rights notices in English and, when available, their primary language, using a method reasonably ensuring personal receipt; willful notice violations carry penalties of up to $50 per employee. Employers must retain ESSTA compliance records for at least three years and provide them to DCWP for relevant investigations."
+            },
+            {
+              "title": "G. Enforcement and Penalties.",
+              "node_id": "0047",
+              "start_index": 48,
+              "end_index": 49,
+              "summary": "DCWP must investigate ESSTA complaints and may investigate on its own initiative. Employers must respond in writing and provide requested information; if DCWP believes a violation occurred, it may issue a notice of violation. DCWP may award employees or former employees appropriate relief, including treble unpaid wages, statutory damages for retaliation, and compensation for lost wages and benefits plus reinstatement for unlawful discharge. It may also impose civil penalties of up to $500 for a first violation, $750 for a second within two years, and $1,000 for each subsequent violation within two years of the prior one. For policies or practices denying safe and sick time, penalties and relief may be sought per employee. If reasonable cause indicates a pattern or practice of violations, the Corporation Counsel may sue on the City’s behalf for injunctive relief, penalties, and other appropriate relief. This authority does not limit DCWP’s powers, but the civil action must not already have been commenced."
+            },
+            {
+              "title": "H. . More Generous Polices and Other Legal Requirements.",
+              "node_id": "0048",
+              "start_index": 49,
+              "end_index": 50,
+              "summary": "The ESSTA establishes minimum safe and sick time requirements and does not prevent more generous employer policies or agreements, displace laws or standards granting greater leave or protections, or conflict with federal or state law. The Whistleblower Protection Expansion Act rider bars contractors from retaliating against employees who report suspected corruption, criminal activity, conflicts of interest, gross mismanagement, or abuse of authority related to the contract to designated City officials. Employees may sue for relief, including an injunction, reinstatement and restored benefits or seniority, double back pay with interest, and special damages, litigation costs, and attorney’s fees. Contractors must post a City notice explaining reporting channels and employee rights under the False Claims Act and whistleblower law. Adverse actions include dismissal, demotion, discipline, negative evaluations, loss of resources or benefits, and unfavorable appointment, promotion, transfer, or assignment decisions. The rider must be included in subcontracts over $100,000. It does not apply to contracts of $100,000 or less; specified provisions are excluded for emergency procurements, and notice requirements are excluded for contracts solicited before October 18, 2012, or renewals of earlier contracts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "City Contractor Whistleblower Protections",
+      "node_id": "0049",
+      "start_index": 51,
+      "end_index": 51,
+      "key_items": [
+        "WHISTLEBLOWER PROTECTION EXPANSION ACT POSTER",
+        "THE LAW PROTECTS EMPLOYEES OF CITY CONTRACTORS WHO REPORT CORRUPTION"
+      ],
+      "summary": "The poster directs people to report corruption, fraud, or unethical conduct involving an NYC-funded contract or project to the Department of Investigation by phone, mail, in person, online, or QR code; communications are confidential. Employees of City contractors and subcontractors working on contracts valued over $100,000 are protected from employer retaliation when they report related fraud, false claims, corruption, criminality, conflicts of interest, gross mismanagement, or abuse of authority to DOI or specified government officials. Employees who believe a report led to dismissal, demotion, suspension, or another adverse personnel action may sue the contractor for damages."
+    },
+    {
+      "title": "Price Certification Clause",
+      "node_id": "0050",
+      "start_index": 52,
+      "end_index": 52,
+      "key_items": [
+        "ATTACHMENT E",
+        "PRICE CERTIFICATION CLAUSE (REVISED 11/13/78)"
+      ],
+      "summary": "Attachment E’s revised price certification requires the proposer to offer the Board of Education Retirement System terms, prices, warranties, conditions, and benefits at least as favorable as those offered other customers for comparable items or services, subject to an exception for certain existing contracts. If more favorable terms are offered or provided during the contract, the contractor must promptly notify Purchasing Management; the contract is retroactively amended to include them, though the Board may decline the amendment. A contractor disputing whether terms are more favorable must promptly provide the Executive Director a detailed written explanation; the purchasing director may reject it. The contractor authorizes inspection and copying of relevant records and must retain them through the contract and for three years after final payment. The page includes fields for the proposer’s organization, authorized signature, date, printed name, and title."
+    },
+    {
+      "title": "ATTACHMENT F",
+      "node_id": "0051",
+      "start_index": 53,
+      "end_index": 53,
+      "summary": "Attachment F is an affirmation form for RFP 2024-003, Investment Consulting Services. The proposer declares they owe no debts, contracts, or taxes to New York City; are not in default on City obligations; have not been found not responsible or disqualified by a City agency; and have no pending responsibility or qualification proceedings, except as disclosed. The form requests proposer name and address, entity type (individual, partnership/joint venture/unincorporated organization, or corporation), and the applicable Social Security or employer identification number. It also allows certification as a woman-owned, minority-owned, locally based, or nonprofit enterprise; certified woman- or minority-owned proposers must include a certification letter. A signature and title are required, and corporations must provide a seal and have an officer or authorized representative sign. Providing a Social Security Number is voluntary; omission will not disqualify a proposer. The City may use it to identify proposers, verify legal compliance, enforce laws, and identify businesses seeking City contracts."
+    },
+    {
+      "title": "New York City Iran Divestment Compliance",
+      "node_id": "0052",
+      "start_index": 54,
+      "end_index": 54,
+      "key_items": [
+        "ATTACHMENT G",
+        "IRAN DIVESTMENT ACT COMPLIANCE RIDER FOR NEW YORK CITY CONTRACTORS"
+      ],
+      "summary": "Attachment G explains the Iran Divestment Act of 2012, effective April 12, 2012, under State Finance Law §165-a and General Municipal Law §103-g. With specified exceptions, municipalities may not contract with persons investing in Iran’s energy sector. Covered activities include providing at least $20 million in goods or services to that sector, or a financial institution extending at least $20 million in credit for 45 days or more to a listed person for such activities. Bidders and proposers must submit a signed, verified certification that they are not on the state list; those unable to certify must explain why in a signed statement. The City may consider an award case by case for pre-effective-date investments that have not been expanded or renewed and are subject to a publicized plan to end them, or when the City publicly determines in writing that the goods or services are necessary and otherwise unavailable."
+    },
+    {
+      "title": "BIDDER’S CERTIFICATION OF COMPLIANCE WITH IRAN DIVESTMENT ACT",
+      "node_id": "0053",
+      "start_index": 55,
+      "end_index": 55,
+      "key_items": [
+        "BIDDER’S CERTIFICATION"
+      ],
+      "summary": "A bidder certification form under General Municipal Law §103-g, which generally bars City contracts with persons involved in Iran’s energy sector investment activities. The bidder must select an option and certify under penalty of perjury that, to the best of its knowledge, it and any joint-bid parties are not on the State Finance Law §165-a list. If unable to certify, the bidder must attach a signed, detailed explanation. The form includes fields for date and New York location, signature, printed name, title, and notarization."
+    },
+    {
+      "title": "ATTACHMENT H Doing Business Data Form",
+      "node_id": "0054",
+      "start_index": 56,
+      "end_index": 56,
+      "summary": "ATTACHMENT H Doing Business Data Form\nhttp://www.nyc.gov/html/dot/weekendwalks/downloads/pdf/doing-business-data-form-2018.pdf\n52"
+    },
+    {
+      "title": "ATTACHMENT I",
+      "node_id": "0055",
+      "start_index": 57,
+      "end_index": 57,
+      "key_items": [
+        "RFP Certification and BERS Ethics and Compliance Policy"
+      ],
+      "summary": "Attachment I is a certification for the May 6, 2024 Systems RFP for an Investment Consultant. The signer certifies they are authorized to represent the firm, agrees the firm will act as a fiduciary and meet ERISA Section 404’s standard of care or any higher or comparable standard imposed by applicable future law, and confirms the firm has received and read the BERS Ethics and Compliance Policy and will strictly comply with it throughout the engagement if selected. The form includes fields for signature, title, date, and firm."
+    },
+    {
+      "title": "ATTACHMENT J",
+      "node_id": "0056",
+      "start_index": 58,
+      "end_index": 64,
+      "summary": "The policy, established by the New York City Retirement Systems and implemented by the Comptroller’s Bureau of Asset Management (BAM), sets ethics and compliance standards for current and prospective investment consultants and managers. It seeks timely disclosure and mitigation of conflicts and legal or policy violations, effective internal controls, and compliance with applicable law; BAM will not recommend firms that fail its standards, and firms with conflicts may not advise or decide on affected matters unless the Board authorizes them. By June 15 each year, firms must certify fiduciary status and compliance, disclose specified affiliations, conflicts, investment and allocation practices, financial interests, compensation, referrals, services, and advisor and broker arrangements, and promptly report conflicts and relevant violations, investigations, inquiries, or enforcement actions. Firms must maintain compliant ethics, personal-trading, and applicable trading policies, and obtain independent reviews of compliance manuals and controls at least every three years, reporting deficiencies and remediation. BAM reports substantial noncompliance or legal violations to the Board, which may terminate firms. BAM distributes amendments to current firms; prospective firms provide certifications and disclosures during selection, and awarded firms submit an initial statement before signing, with limited updates due June 15.",
+      "nodes": [
+        {
+          "title": "A. Purpose of the Policy",
+          "node_id": "0057",
+          "start_index": 58,
+          "end_index": 58,
+          "summary": "The New York City Retirement Systems establish an Ethics and Compliance Policy for current and prospective investment consultants and managers, implemented by the Comptroller’s Bureau of Asset Management at the Boards of Trustees’ request. The Policy aims to identify and disclose potential risks, conflicts, and ethical issues before and after contracts or transactions; ensure firms maintain effective internal compliance controls; promote compliance with federal securities laws, SEC rules, and other applicable law; obtain timely disclosure of actual or alleged non-compliance; and help BAM and the Systems identify and address violations. BAM will not recommend selecting or continuing any consultant or manager that fails to meet the Policy’s compliance standards. A firm disclosing a conflict or other Policy violation must not advise or decide on affected matters unless the Board authorizes it."
+        },
+        {
+          "title": "B. Annual Certification Obligation of Consultants and Managers",
+          "node_id": "0058",
+          "start_index": 58,
+          "end_index": 63,
+          "summary": "By June 15 annually, Consultants and Managers must certify fiduciary status, receipt and compliance with Systems policies and applicable law, disclose required information in the statement itself, and promptly report conflicts to BAM for Systems review. Disclosures cover affiliates, relationships, business lines and investment roles; actual or potential conflicts, investment and allocation practices, affiliate services, and mitigation procedures; financial interests, compensation, benefits, referrals and portfolio-company services; and relationships and payments involving other advisors, including soft-dollar benefits, broker arrangements, relevant client percentages, parties, amounts, purposes and terms. Firms must maintain a Rule 204A-1-compliant ethics code and obtain independent compliance-manual and controls reviews at least every three years, reporting deficiencies and remediation; larger managers are encouraged to obtain SAS 70-equivalent reviews. They must maintain personal-trading and applicable market-timing/late-trading policies, report violations and relevant investigations, inquiries or enforcement actions promptly, and provide required disclosures regardless of SEC filing deadlines. BAM reports substantial noncompliance or legal violations to the Board, which may terminate firms; the section also begins addressing policy dissemination to current firms.",
+          "nodes": [
+            {
+              "title": "B. Annual Certification Obligation of Consultants and Managers (intro)",
+              "node_id": "0059",
+              "start_index": 58,
+              "end_index": 59,
+              "summary": "By June 15 each year, Consultants and Managers must submit an Annual Certification and Compliance Statement to BAM, updating conflicts and including the NYCRS certification. They must attest that they are fiduciaries of the Systems; received and read the Policy; comply with the Policy and other applicable Systems policies, except for disclosed exceptions; and comply with applicable laws and regulations. The statement must fully disclose all information required by subsections A and B; Form ADV or other SEC filings may supplement but cannot replace disclosure in the statement itself. A conflict exists when a direct or indirect financial interest or any kind of relationship with a third party could impair independent judgment in carrying out responsibilities to the Systems. Conflicts must be promptly disclosed in writing to BAM, which must promptly disclose them to the Systems for review."
+            },
+            {
+              "title": "Relational Conflicts, Generally",
+              "node_id": "0060",
+              "start_index": 59,
+              "end_index": 60,
+              "summary": "Managers/Consultants must provide BAM with a written statement identifying their affiliates, relationships, business lines, and affiliates’ roles in investment decisions concerning the Systems. At least annually, they must disclose actual or potential conflicts involving themselves or affiliates, including investments in their or affiliates’ vehicles, allocation of opportunities among the Systems, themselves, affiliates, or other clients, and use of affiliate services such as brokerage or auditing. They must promptly notify BAM of new conflicts arising since the last annual statement. They must also report procedures for preventing or mitigating conflicts and policies for allocating investment opportunities among affiliates, themselves, and outside clients."
+            },
+            {
+              "title": "Compensation Conflicts",
+              "node_id": "0061",
+              "start_index": 60,
+              "end_index": 60,
+              "summary": "Managers and consultants must disclose conflicts that could reasonably impair their duties or objectivity, including beneficial ownership of securities or other investments, and promptly report new matters since the last Annual Statement. They must disclose additional compensation or benefits received or expected by themselves, affiliates, or personnel for services related to System assets, including services to portfolio companies; referral fees or other consideration received or provided for recommending services to the Systems; and full details of services undertaken, performed, or agreed for portfolio companies. They must promptly report any additional compensation, benefits, or services since the last Annual Statement."
+            },
+            {
+              "title": "Conflicts Relating to Systems’ Other Advisors",
+              "node_id": "0062",
+              "start_index": 60,
+              "end_index": 62,
+              "summary": "Managers and Consultants must disclose affiliations, including parent/subsidiary, creditor/debtor, common ownership, investment, or strategic-alliance relationships, with detailed descriptions in the Annual Statement. Managers must report any compensation paid to Consultants, or agreements for future payments, by themselves or affiliates during the past five years. Consultants must likewise report compensation paid to or received from Managers, or related future-payment agreements. Compensation includes payments, products, services, and soft-dollar benefits. For each relevant relationship, disclosures must identify the parties, amounts, years, purpose, and agreement terms. Consultants must disclose broker-dealer arrangements that benefit them or affiliates when Managers trade, and the percentage of public pension or ERISA clients using providers from whom they receive fees. Managers with soft-dollar arrangements must disclose, for the prior 12 months, broker-dealer-provided tangible items, seminar travel/meals/entertainment, and software or consulting services primarily for internal management or operations, including providers. Managers and Consultants must also certify legal compliance and provide required disclosures."
+            },
+            {
+              "title": "Managers/Consultants Must Have a Code of Ethics",
+              "node_id": "0063",
+              "start_index": 62,
+              "end_index": 62,
+              "summary": "Managers/Consultants Must Have a Code of Ethics\nEvery Manager/Consultant must have a Code of Ethics that satisfies the requirements of Rule 204A-1 under the Investment Advisers Act, regardless of whether the Manager/Consultant is required to register under that Act."
+            },
+            {
+              "title": "Managers/Consultants Must Have Third-Party Review of Controls",
+              "node_id": "0064",
+              "start_index": 62,
+              "end_index": 63,
+              "summary": "Managers/Consultants must obtain independent third-party reviews of their Compliance Manual and controls at least every three years; initial reviews are due by June 2008, or within three years of an initial Systems contract entered after June 2005. Deficiencies and remediation must be reported to BAM. Managers overseeing more than $3 billion are encouraged to obtain a Level I SAS 70 or equivalent review, which may include the compliance review. Firms must maintain and monitor written personal-trading policies, disclose violations from the past 12 months and responses, and are encouraged to automate monitoring for larger managers. Managers must maintain applicable mutual-fund market-timing/late-trading policies and notify BAM annually and promptly of related violations or government/exchange investigations within three years. They must report government inquiries or actions regarding improper restricted-securities sales within three years. Government-investigation and enforcement updates must be prompt and detailed unless legally prohibited, regardless of SEC filing deadlines. BAM reports substantial policy noncompliance or legal violations to the Board, which may terminate the firm. The text also begins a policy-dissemination section for current firms."
+            },
+            {
+              "title": "Compliance Reviews, Trading Policies, and Regulatory Reporting",
+              "node_id": "0065",
+              "start_index": 63,
+              "end_index": 63,
+              "key_items": [
+                "Managers/Consultants Must Monitor Personal Trading",
+                "Managers Must Have a Policy on Mutual Funds Trading",
+                "Managers Must Report Violations Relating to Restricted Securities",
+                "Managers/Consultants Must Provide Updates on Government Investigations and Enforcement Actions"
+              ],
+              "summary": "For managers overseeing more than $3 billion, the Systems encourage a Level I SAS 70 or equivalent review, which may include the third-party compliance manual and controls review. Managers and consultants must certify a written personal-trading policy and monitoring method, report violations from the past 12 months and their responses, and are encouraged to use automated monitoring. Managers must certify an applicable mutual-fund market-timing and late-trading disclosure policy compliant with SEC RIN 3235-AI99, and notify BAM annually and promptly of related violations or government or exchange investigations from the past three years. Managers must report government inquiries or actions concerning improper sales of restricted securities during the past three years. Managers and consultants must, unless legally prohibited, promptly provide BAM detailed updates on relevant government investigations and enforcement actions, along with all required disclosures, regardless of SEC Form 8-K or Form ADV filing deadlines."
+            }
+          ]
+        },
+        {
+          "title": "C. Non-Compliance with this Policy - Reporting Requirements",
+          "node_id": "0066",
+          "start_index": 63,
+          "end_index": 63,
+          "summary": "C. Non-Compliance with this Policy - Reporting Requirements\n1. BAM Will Report Non-Compliance to the Boards\nTo the extent BAM receives or obtains information indicating that a Consultant or Manager is substantially out of compliance with the Policy and/or substantially in violation of applicable law, BAM will report such information to the Board for whatever action the Board deems appropriate, which may include termination of the Consultant or Manager."
+        },
+        {
+          "title": "D. Dissemination of Policy to Consultants and Managers",
+          "node_id": "0067",
+          "start_index": 63,
+          "end_index": 64,
+          "summary": "When the Boards amend the Policy, BAM must promptly send the amended version to all current Consultants and Managers. Prospective Consultants and Managers must certify compliance and provide required disclosures when responding to an RFP, or during selection if there is no RFP. Those awarded a Systems contract, including through assignment of an existing contract, must file an Initial Annual Certification and Compliance Statement with BAM before signing. If the Initial Statement is submitted after January 1, the Consultant or Manager need only report updates to its information on June 15 of that year."
+        }
+      ]
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

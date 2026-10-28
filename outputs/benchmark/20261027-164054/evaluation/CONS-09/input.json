@@ -1,0 +1,7 @@
+{
+  "question": "Which retirement system's investment consultant RFP requires firms to certify that they currently provide investment consulting services to clients whose combined assets total at least $50 billion?",
+  "gold_answer": "Teachers' Retirement System of the State of Illinois (TRS Illinois), in its FY23 investment consultant RFP (Appendix B, Statement of Minimum Qualifications).",
+  "acceptance": "TRS Illinois / Teachers’ Retirement System of the State of Illinois is sufficient; FY23 and appendix identifier are optional.",
+  "scope": "single_document",
+  "candidate_answer": "The **Teachers’ Retirement System of the State of Illinois (TRS)**. Its investment consultant RFP lists the $50 billion combined-client-assets requirement in Appendix B, “Statement of Minimum Qualifications” (p. 13)."
+}

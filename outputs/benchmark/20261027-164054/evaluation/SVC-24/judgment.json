@@ -1,0 +1,15 @@
+{
+  "question_id": "SVC-24",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "39eaca58e3de845afe666d9f7081a595d6f63a60eca594f52e2e6d36d84ca849",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "All four initial terms and extension provisions match; pricing scenarios are distinguished from guaranteed terms.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:22.415258+00:00"
+}

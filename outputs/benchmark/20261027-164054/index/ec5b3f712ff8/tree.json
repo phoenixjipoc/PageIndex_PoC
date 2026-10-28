@@ -1,0 +1,453 @@
+{
+  "doc_id": "pi-f3110ab7370a48f5ae1da2090f02675c",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 2,
+      "summary": "General Investment Consulting Services\nRequest for Proposals\nSeptember 30, 2016South Carolina Retirement System Investment Commission\nGeneral Investment Consulting Services RFP"
+    },
+    {
+      "title": "Request for Proposals (“RFP”)",
+      "node_id": "0001",
+      "start_index": 2,
+      "end_index": 6,
+      "key_items": [
+        "OPENING DATE: 9/30/2016 CLOSING DATE AND TIME: 12/1/2016, 5:00 pm EST",
+        "General Process and Timeline.",
+        "Timeline.",
+        "Deadline for Proposal Submission"
+      ],
+      "summary": "The South Carolina Retirement System Investment Commission (RSIC) seeks competitive proposals from qualified firms for general investment consulting services for its $28 billion retirement portfolio. The RFP opened September 30, 2016; intent notices were due October 7, questions October 21, and proposals December 1, 2016, all by 5 p.m. EST. Proposals require one original, ten copies, an electronic flash-drive copy, an authorized signature, and a commitment through July 31, 2017. The RFP is exempt from state procurement rules; RSIC is not obligated to award or reimburse proposal costs and may reject proposals, negotiate, or cancel. The schedule anticipates evaluation in December, due diligence January–March 2017, finalist presentations and selection April 27, contract negotiation through June, and a July 1 start. The document covers consulting scope, deliverables and minimum qualifications; proposal instructions, communications, confidentiality and evaluation; contract terms; and questionnaires, certifications, fee and employee forms, security and legal exhibits, and a tax notice."
+    },
+    {
+      "title": "I. SCOPE OF PROPOSAL",
+      "node_id": "0002",
+      "start_index": 7,
+      "end_index": 7,
+      "summary": "The South Carolina Retirement System Investment Commission is seeking proposals from qualified institutional investment consultants to provide strategic asset allocation, investment policy review, performance reporting, and research for its diversified Portfolio. This is not a full-retainer mandate: other consultants will oversee alternative investments, including private equity, private debt, and real assets. The selected firm will report to the Commission and coordinate with other consultants, the master custodian (currently BNY), and fund administrator (currently Conifer). Firms meeting the minimum requirements may apply. Selection will consider proposals, meetings at firms’ offices, and presentations by finalists. Proposals must be complete, clearly worded, meet RFP requirements, and meet deadlines; the Contact will decide whether deficiencies make a proposal nonresponsive or disqualify it. Any resulting contract will be between RSIC and the selected consultant."
+    },
+    {
+      "title": "II. INTRODUCTION",
+      "node_id": "0003",
+      "start_index": 7,
+      "end_index": 8,
+      "summary": "The South Carolina Retirement System Investment Commission (RSIC) invests and manages assets for five state defined-benefit plans. Established by Act 153 effective October 1, 2005, it assumed investment fiduciary responsibility, created the CIO role, and initially capped equities at 70% of the portfolio. Its seven-member Commission includes the State Treasurer and a non-voting Public Employee Benefit Authority executive director; the document lists the members as of September 30, 2016. A 2006 constitutional amendment, ratified in 2007, enabled full portfolio diversification. Assets were about $28 billion in July 2016. RSIC aims to fund long-term benefits, reduce unfunded liabilities, and earn strong returns at prudent risk in compliance with state law. Its diversified portfolio includes traditional and alternative investments—private equity and debt, real estate, hedge funds, global asset allocation, and opportunistic credit—accessed directly and through strategic partnerships. Additional sources listed include 2015 financial reports, agency and investment-report websites, relevant constitutional and statutory provisions, and the annual report’s current fund and manager list."
+    },
+    {
+      "title": "III. SCOPE OF SERVICES, DELIVERABLES, AND MINIMUM QUALIFICATIONS",
+      "node_id": "0004",
+      "start_index": 8,
+      "end_index": 11,
+      "summary": "The section defines portfolio consulting services, including annual asset-allocation, risk/return, benchmark, policy, and portfolio reviews; asset-liability analysis at least every three years or after material changes; assessment of asset-class changes; quarterly performance reporting with benchmark and peer comparisons; Commission presentations; custodian connectivity; and ongoing research, advice, and special projects. Optional public-markets advice covers investments outside private equity, private debt, and private-market real assets, including manager due diligence; it must be separately priced. The consultant must attend regular and reasonably requested meetings, provide timely technical support, direct Commission-related communications appropriately, and alert Commission leadership to matters warranting inquiry as a fiduciary. Minimum qualifications include 10 years’ firm experience, financial stability, a defined-benefit client with at least $10 billion in assets, investment-adviser registration, fiduciary commitment, conflict and affiliation disclosures, specified lead and secondary consultant experience, and required workers’ compensation, general, and professional liability insurance.",
+      "nodes": [
+        {
+          "title": "3.1.1 Asset Allocation and Asset Liability Modeling.",
+          "node_id": "0005",
+          "start_index": 8,
+          "end_index": 9,
+          "summary": "The consultant will support the Commission’s Portfolio through strategic asset allocation and asset-liability modeling: establish objectives and risk parameters; analyze risk and return using current market assumptions annually; review allocation at least annually and recommend changes; conduct comprehensive asset-liability analysis at least every three years or when requested after material changes; assess adding or removing asset classes; and ratify benchmarks. The consultant will provide quarterly performance reports by manager, asset class, and total fund, with benchmark and peer comparisons, an executive summary, Commission presentations, and a satisfactory online connection to the custodian at its own expense. It will conduct annual quantitative and qualitative Portfolio reviews, review investment policies annually, and provide ongoing advice, off-the-shelf research, and requested projects. RSIC may include public-markets advisory services covering investments outside private equity, private debt, and private-market real assets, including equities, fixed income, commodities, hedged strategies, listed infrastructure, REITs, and other implementation strategies; requested research and manager due-diligence materials must be available."
+        },
+        {
+          "title": "Portfolio Review, Policy, and Consulting Services",
+          "node_id": "0006",
+          "start_index": 9,
+          "end_index": 9,
+          "key_items": [
+            "3.1.2 Review and Evaluation of the Portfolio.",
+            "3.1.3 Annual Portfolio Review.",
+            "3.1.4 Policy Review.",
+            "3.1.5 Other Required Services."
+          ],
+          "summary": "The consultant will annually analyze portfolio risk and return using current capital market assumptions; review strategic asset allocation annually or when requested after material changes; conduct asset-liability analyses at least every three years or upon request; assess adding or removing asset classes; and ratify performance benchmarks. Quarterly reports will cover performance by manager, asset class, and total fund, with benchmark and peer comparisons, an executive summary, and presentation to the Commission; the consultant must maintain an online interface with RSIC’s custodian at its own expense. Annual portfolio reviews will assess quantitative measures, including performance and risk, and qualitative factors such as implementation effectiveness. The consultant will also review investment policies annually and provide ad hoc advice, research access, and Commission-requested special projects."
+        },
+        {
+          "title": "3.1.6 Public Markets Advisory Services.",
+          "node_id": "0007",
+          "start_index": 9,
+          "end_index": 10,
+          "summary": "RSIC may choose to include public markets advisory services in the mandate. “Public markets” means all Portfolio investments except private equity, private debt, and private market real assets, and includes traditional equities and fixed income, commodities, hedged strategies, listed infrastructure, REITs, and investments or implementation strategies that do not fit clearly into public/private categories. The Consultant must provide requested asset-class research and investment-manager due diligence, and assess Staff-recommended public markets managers by reviewing the recommendation, evaluating manager quality, and determining alignment with the Portfolio’s strategic goals. Capabilities must be addressed in the Exhibit C RFP Questionnaire. This service must be priced separately as an add-on in the Exhibit D Fee Proposal, not included in the mandate’s primary pricing."
+        },
+        {
+          "title": "3.1.7 General Provisions Relating to the Scope of Services.",
+          "node_id": "0008",
+          "start_index": 10,
+          "end_index": 10,
+          "summary": "The consultant must attend investment-related Commission meetings, generally held on the third or fourth Thursday in February, April, June, September, and November in South Carolina, and attend reasonable-request special or ad hoc meetings. Most meetings have been in Columbia; the Commission has averaged two to three special meetings annually, not all investment-related. The consultant may also be asked to meet with legislative oversight committees, Retirement System co-trustees, stakeholder groups, or the Commission elsewhere in South Carolina on reasonable notice. Commission-related communications must be directed only to the Commission or its agents/designees unless instructed otherwise. The consultant must provide Staff timely technical assistance, including access to a principal and alternate consultant and, when needed, written support such as market research, FOIA requests, and surveys. As a fiduciary, the consultant must alert the Commission Chair or Vice-Chair to information warranting inquiry about the conduct or plans of employees, agents, Commissioners, or other matters. The next heading introduces minimum qualifications but provides no details."
+        },
+        {
+          "title": "3.2.1 Qualifications.",
+          "node_id": "0009",
+          "start_index": 11,
+          "end_index": 11,
+          "summary": "The RFP requires offerors to certify in Exhibit B that they meet all minimum qualifications; failure to meet any requirement results in immediate rejection. The firm must have at least 10 years of institutional investment consulting experience and demonstrate stability and financial strength; serve at least one defined-benefit general consulting client with $10 billion or more in assets; be a registered investment adviser under the Investment Company Act of 1940; agree to act as a fiduciary under cited South Carolina law; and disclose all conflicts, revenue sources, and affiliations. Lead consultants must each have at least 10 years’ public defined-benefit plan experience, including 5 years as a primary consultant; secondary consultants must each have at least 5 years’ such consulting experience. Required insurance, held or applied for by contract execution, includes workers’ compensation and employer’s liability of at least $1 million, general liability of at least $1 million, and professional liability of at least $5 million."
+        }
+      ]
+    },
+    {
+      "title": "IV. INSTRUCTIONS TO OFFEROR AND INFORMATION",
+      "node_id": "0010",
+      "start_index": 11,
+      "end_index": 18,
+      "summary": "The section explains RSIC’s discretion not to award, reject or cancel the RFP, or award multiple contracts, and that proposal costs are not reimbursed. It sets notice-of-intent and question deadlines, response-format and organization rules, and requirements for an authorized, signed cover letter, contacts, offer validity, certifications, contents, executive summary, Exhibits A–H, Form ADV documents, and audited financial statements. It specifies subcontractor disclosures and commitments, Offeror responsibility, personnel review and substitution controls, the designated RFP contact, and restrictions on procurement communications. Submission instructions cover the deadline, signed original, copies, electronic and redacted versions, withdrawal, addenda, and late or nonresponsive proposals; RSIC may seek clarification or oral presentations and waive immaterial deviations. It also addresses public-record disclosure, specific confidentiality and trade-secret markings, redacted copies, information that remains public, and Offeror indemnification related to withholding marked information.",
+      "nodes": [
+        {
+          "title": "4.1.1 Right of Non-Commitment or Rejection.",
+          "node_id": "0011",
+          "start_index": 11,
+          "end_index": 11,
+          "summary": "IV. INSTRUCTIONS TO OFFEROR AND INFORMATION\n4.1.0 General Instructions.\n4.1.1 Right of Non-Commitment or Rejection.\nThis RFP does not commit RSIC to award a contract, to pay any costs incurred in the preparation of a proposal, or to procure or contract for the articles of goods or services. RSIC reserves the right to accept or reject any or all proposals received as a result of this request, or to cancel in part or in its entirety this proposal if it is in the best interest of RSIC and/or the Retirement System to do so. RSIC reserves the right to award contracts to more than one investment consultant if deemed appropriate and desirable."
+        },
+        {
+          "title": "4.1.2 Notice of Intent to Respond.",
+          "node_id": "0012",
+          "start_index": 11,
+          "end_index": 12,
+          "summary": "Firms must email RSIC a non-binding Notice of Intent to Respond by October 7, 2016, at 5:00 p.m. EST, using the specified subject line and providing firm and primary-contact details; failure may make a proposal nonresponsive or unqualified. Written questions are due by email October 21, 2016, at 5:00 p.m. EST. RSIC will circulate answers without identifying questioners to firms that submitted intent notices; late questions will not be considered. Proposals should be clear, concise, complete, and economical, with each copy bound in one volume where practical and marketing materials supplied separately. Responses must follow the RFP’s requirement order, number pages, reference corresponding paragraph numbers, and include a cross-referenced table of contents; other material belongs in an appropriate section or separate appendix. A signed, dated cover letter from someone authorized to bind the Offeror must give the firm’s contact details, the signatory’s title or position, and contact and authority-document information for personnel authorized to execute the contract."
+        },
+        {
+          "title": "RFP Questions and Proposal Preparation Requirements",
+          "node_id": "0013",
+          "start_index": 12,
+          "end_index": 12,
+          "key_items": [
+            "4.1.3 Submission of Written Questions.",
+            "4.1.4 Preparation of Proposal – General Requirements.",
+            "4.1.5 Proposal Format."
+          ],
+          "summary": "The page lists contact-address fields and warns that failure to submit a Notice of Intent to Respond by October 7, 2016, at 5:00 p.m. EST may make a proposal nonresponsive or non-qualified. Written RFP questions must be emailed to RSIC by October 21, 2016, at 5:00 p.m. EST; answers will be shared without identifying questioners with firms that submitted a notice, and late questions will not be considered. Proposals should be straightforward, concise, complete, and clear, with each copy bound in one volume where practical; company and marketing materials should be separate. Responses must follow the RFP’s requirement order, number all pages, reference corresponding paragraph numbers, and include a table of contents cross-referencing requirements. Additional information should be placed appropriately or attached as a separate appendix."
+        },
+        {
+          "title": "4.1.6 Cover Letter.",
+          "node_id": "0014",
+          "start_index": 12,
+          "end_index": 13,
+          "summary": "The proposal must include a signed and dated cover letter from someone authorized to bind the Offeror. It must identify the Offeror and signer; provide contact details for contract signatories (with evidence of authority), proposal/contract negotiators (available throughout negotiations), and engagement managers (available throughout any contract); summarize the Offeror’s capability and willingness to perform and contract with RSIC; state the offer remains valid for acceptance through 7/31/17; and certify agreement to the RFP, proposal, and resulting contract and that proposal information is true and correct. Immediately afterward, include a comprehensive table of contents with sections, subsections, and page numbers. Include an executive summary of no more than three one-sided pages, with the firm’s name on page one; it may be shared before finalist interviews. Submit Exhibits A (Offeror Questionnaire), B (Minimum Qualifications Certification, substantiating qualifications), C (RFP Questionnaire, in exact question order with each numbered question repeated in bold before its answer), D (Fee Proposal), and E (Key Employee List)."
+        },
+        {
+          "title": "Proposal Contents and Submission Requirements",
+          "node_id": "0015",
+          "start_index": 13,
+          "end_index": 13,
+          "key_items": [
+            "4.1.7 Table of Contents.",
+            "4.1.8 Executive Summary.",
+            "4.1.9 Offeror Questionnaire.",
+            "4.1.10 Minimum Qualifications Certification.",
+            "4.1.11 RFP Questionnaire.",
+            "4.1.12 Fee Proposal.",
+            "4.1.13 Key Employee List."
+          ],
+          "summary": "The proposal must identify authorized contacts for questions and contract negotiations, who remain accessible during negotiations, and the engagement manager, who remains accessible throughout any contract. It must summarize the offeror’s ability and willingness to provide the services, include the required offer-validity statement through July 31, 2017, and certify that submission binds the offeror to the RFP, proposal, and resulting contract and that its information is true. Following the cover letter, include a page-numbered table of contents and a firm-identified executive summary of no more than three one-sided pages. Submit Exhibits A–E: Offeror Questionnaire; Minimum Qualifications Certification with supporting detail; RFP Questionnaire, answered in the exact question order with each numbered question repeated in bold; Fee Proposal; and Key Employee List."
+        },
+        {
+          "title": "Proposal Certifications and Supporting Documents",
+          "node_id": "0016",
+          "start_index": 14,
+          "end_index": 14,
+          "key_items": [
+            "4.1.14 Iran Divestment Act of 2014 Certification.",
+            "4.1.15 Open Trade Representation.",
+            "4.1.16 RSIC Cloud Computing Security Assessment Questionnaire.",
+            "4.1.17 Appendix A - Form ADV Parts I and II.",
+            "4.1.18 Appendix B - Annual Financial Report."
+          ],
+          "summary": "The South Carolina Retirement System Investment Commission RFP requires offerors to submit Exhibit F, the Iran Divestment Act certification; Exhibit G, the Open Trade Representation; and Exhibit H, the RSIC Cloud Computing Security Assessment Questionnaire. Offerors must also provide current Form ADV Parts I and II for their firm and affiliated or related registered investment advisers, and the firm’s most recent audited financial statements, including at least an income statement, balance sheet, and statement of cash flows."
+        },
+        {
+          "title": "4.1.19 Subcontractors.",
+          "node_id": "0017",
+          "start_index": 14,
+          "end_index": 15,
+          "summary": "Proposals must identify subcontractors and their work, include each subcontractor official’s signed agreement to follow the Offeror’s obligations, and confirm the Offeror remains responsible and will indemnify and hold harmless the named retirement entities and their personnel against subcontractor-related claims. After the deadline, proposals become public records except information protected by South Carolina FOIA; see Section 4.5 for confidentiality and trade-secret rules. The successful proposal and attachments become part of the negotiated contract. RSIC may interview or reject proposed personnel, require preapproval for key-personnel substitutions, and remove unsatisfactory or conflicted personnel. RFP communications must go through the designated contact, Ashli Aslin, subject to limited exceptions for existing business; Offerors may not discuss or negotiate the procurement with unauthorized parties. RSIC may clarify responsive proposals, and current providers must follow contact restrictions. Submit one signed, labeled master and ten copies in specified binders, an electronic flash-drive copy, and, when applicable, a same-pagination redacted copy showing spaces where information was removed."
+        },
+        {
+          "title": "RFP Contact and Communication Rules",
+          "node_id": "0018",
+          "start_index": 15,
+          "end_index": 15,
+          "key_items": [
+            "4.2.1 The Contact for this RFP:",
+            "4.2.3 Discussion/Negotiation."
+          ],
+          "summary": "The page identifies Ashli Aslin, Investment Officer at the South Carolina Retirement System Investment Commission, as the RFP contact and provides her mailing address and email. Prospective consultants must not contact other state commissioners or employees about the RFP, or discuss it with BNY, investment managers, consultants, legal counsel, or other advisors. Firms already doing business with RSIC, the Retirement System, or the State Treasurer’s Office may contact others only about that existing business, not this RFP. By submitting a proposal, an Offeror agrees not to discuss the procurement with anyone other than parties designated by RSIC before contract award, and not to attempt to discuss or negotiate any aspect of it with RSIC."
+        },
+        {
+          "title": "4.2.4 Discussion with Responsive Offerors.",
+          "node_id": "0019",
+          "start_index": 15,
+          "end_index": 17,
+          "summary": "RSIC may hold clarification discussions with responsive Offerors it judges need them. Current providers must limit business contact to usual RSIC contacts and avoid direct contact during the proposal period except at scheduled meetings or while performing existing contracts. Proposals require one signed, labeled master original, ten copies, a flash drive, and—if confidential or trade-secret material is claimed—a pagination-matched redacted copy showing blanked spaces. Delivery is due December 1, 2016, at 5:00 p.m. EST; late submissions are excluded. RSIC may reject incomplete, conditional, irregular, nonresponsive, or unqualified proposals, waive immaterial deviations, and need not reimburse preparation costs or identify submission errors. Proposals may be changed only by withdrawal and timely resubmission; written withdrawal is allowed. RSIC may issue written addenda; Offerors must promptly report known RFP errors before the deadline. Verbal statements do not amend the RFP, and failure to report errors precludes extra time or compensation. Confidentiality claims must be conspicuously and specifically marked under applicable South Carolina FOIA and trade-secret laws; blanket marking may make a proposal nonresponsive. Certain pre-decisional evaluations are exempt from disclosure."
+        },
+        {
+          "title": "Confidential and Trade Secret Proposal Submissions",
+          "node_id": "0020",
+          "start_index": 17,
+          "end_index": 17,
+          "key_items": [
+            "4.5.1 Overview.",
+            "4.5.2 Instructions for Submitting Privileged/Confidential or Trade Secret Information."
+          ],
+          "summary": "The page explains that proposals submitted to RSIC may be publicly disclosed under South Carolina FOIA and urges Offerors to review the applicable FOIA and Trade Secrets Act provisions. It defines privileged and confidential information and gives examples, including customer lists, design recommendations and concepts, and key employees’ biographical data. Certain pre-decisional evaluation memoranda are exempt unless adopted or incorporated into the contract award. Offerors must conspicuously mark each relevant page or portion “CONFIDENTIAL” and/or “TRADE SECRET,” as applicable, and provide a separate redacted proposal copy. They must not mark the entire proposal confidential or trade secret; improper marking may make it nonresponsive, and blanket marking does not comply with FOIA."
+        },
+        {
+          "title": "4.5.3 Agreement to Release.",
+          "node_id": "0021",
+          "start_index": 18,
+          "end_index": 18,
+          "summary": "Submitting a proposal consents to public disclosure of all pre-contract RFP-related documents unless pages are properly marked “CONFIDENTIAL” or “TRADE SECRET.” Unmarked information is not considered a trade secret, and prices, commissions, discounts, other award-related financial figures, and the final contract amount remain publicly disclosable regardless of markings. RSIC will rely on offerors’ markings when deciding whether to release documents. Offerors must defend, indemnify, and hold harmless the listed State entities and personnel against claims and costs arising from withholding information marked confidential or trade secret. RSIC may also request oral presentations to the Commission or staff to clarify proposals and ensure understanding."
+        }
+      ]
+    },
+    {
+      "title": "V. EVALUATION PROCESS AND AWARD CRITERIA",
+      "node_id": "0022",
+      "start_index": 18,
+      "end_index": 19,
+      "key_items": [
+        "5.1.0 Proposal Evaluation Process.",
+        "5.1.1 Evaluation and Selection Procedure.",
+        "Criteria",
+        "p.19",
+        "5.1.3 Non-Qualifying or Nonresponsive Proposals.",
+        "5.1.4 Clarifications may be requested from an Offeror at any phase of the evaluation process for the purpose of clarifying ambiguities in the information presented in the Proposal.",
+        "5.1.6 Award."
+      ],
+      "summary": "RSIC or its designees will review timely proposals, which may be accepted as submitted or used for negotiations. Evaluation weights are 25% each for the consulting team’s relevant professionals, organizational strength (including asset-allocation experience, research, operations, and administrative support), investment approach, and fees. RSIC may validate proposal claims through site visits, record reviews, or third-party confirmations; unverifiable proposals may be rejected. Proposals must meet RFP requirements and minimum criteria; nonresponsive or nonqualifying proposals, except those eligible for minor-information waiver or cure, will be rejected and firms notified. RSIC may request clarifications at any stage. Offerors should submit their most favorable terms. If RSIC cannot contract with the apparent winner, it may select another responsive and responsible Offeror. The award goes to the proposal deemed most advantageous, considering price when required and stated evaluation factors. RSIC may reject any or all proposals and has sole authority to judge compliance."
+    },
+    {
+      "title": "VI. TERMS AND CONDITIONS",
+      "node_id": "0023",
+      "start_index": 19,
+      "end_index": 27,
+      "summary": "The section sets out contract formation and scope: RSIC may reject proposals, negotiate terms, require its provisions, and specify services; final terms depend on the engagement. The Consultant is an independent fiduciary, not a Client agent or employee, bears its own taxes and costs, and receives no benefits. The agreement runs through June 30, 2022, subject to extension, termination for convenience or breach, funding limits, delivery duties, damages, and fee refunds with a 12% penalty. It covers confidentiality, permitted disclosure and publicity, ownership of Client work and limited licensing of Consultant materials. It requires conflict and relationship disclosures, professional and SEC-registration warranties, record retention and audits, South Carolina law and exclusive courts, sovereign immunity, consent for assignment, force majeure procedures, and indemnification. It also addresses legal and anti-discrimination compliance, restricted investments, licenses, Form ADV, timely reporting of investigations, material changes and insolvency, drug-free workplace rules, fiduciary duties and limits, insurance disclosure, waivers, notices, document precedence, and rejection of compulsory arbitration and waiver of jury trial.",
+      "nodes": [
+        {
+          "title": "6.1.1 Scope of Work.",
+          "node_id": "0024",
+          "start_index": 19,
+          "end_index": 19,
+          "summary": "A proposal may be selected as the basis for negotiating a contract or partnership agreement containing applicable RFP terms and RSIC-required provisions. Terms may vary in the final documents according to the engagement type. RSIC may reject any or all proposals and negotiate additions, deletions, or modifications, and will not sign an Offeror’s standard contract if it lacks required provisions. Any resulting contract’s form and content will depend on the services and relationship structure. The Consultant must perform the services described in the RFP Scope of Services."
+        },
+        {
+          "title": "6.1.2 Relationship between the Parties.",
+          "node_id": "0025",
+          "start_index": 19,
+          "end_index": 20,
+          "summary": "The Consultant acts as a fiduciary to the Client and Retirement System participants and as an independent contractor, not a Client employee or agent, with no authority to bind the Client except as agreed. The Consultant pays its own taxes and receives no Client-funded employee benefits. The Agreement runs from its effective date through June 30, 2022, with possible agreed extensions. The Client may terminate for convenience on at least three business days’ written notice or immediately by written notice for breach; the Consultant must provide required materials through termination. The Consultant is liable for losses from specified termination-related causes, including completion costs and reasonable legal fees, and the Client may withhold sums to cover damages. Fees are paid for services; prepaid fees for unrendered services must be refunded with a 12% penalty, without waiving other claims. Contracts may be canceled without damages if funding is unavailable for a later fiscal period. A confidentiality section heading is included."
+        },
+        {
+          "title": "Agreement Termination and Fees",
+          "node_id": "0026",
+          "start_index": 20,
+          "end_index": 20,
+          "key_items": [
+            "6.1.3 Term of Agreement and Termination.",
+            "6.1.4 Fees."
+          ],
+          "summary": "The consultant cannot bind the Client and is responsible for applicable taxes and licenses; the Client provides no employee benefits to the consultant or its personnel. The agreement runs from its effective date through June 30, 2022, with extensions by mutual agreement. The Client may terminate for convenience on at least three business days’ written notice, or immediately by written notice for breach. On termination, the consultant must deliver required materials through the termination date. The consultant is liable for losses and completion costs resulting from specified misconduct or breach, and the Client may withhold amounts owed to cover losses. Fees are payable for services rendered; prepaid fees for unperformed services must be refunded with a 12% penalty, without waiving other Client claims. State contracts may be canceled without damages or further obligation if funds are unavailable for a subsequent fiscal period."
+        },
+        {
+          "title": "6.1.5 Confidentiality.",
+          "node_id": "0027",
+          "start_index": 20,
+          "end_index": 21,
+          "summary": "The clause requires the Consultant to protect non-public Client and Custodian information and confidential investment-related work, use it only to perform the Agreement, and disclose it only as necessary, legally required, or with written Client consent. For subpoenas, judicial process, or FOIA requests, the Consultant must promptly notify Client and release information only as permitted by law, with Client’s written consent, or under legal process. Publicity requires prior Client approval: client-list inclusion, limited news-release details, staff quotations, and any announcement of the award; advertising may not imply Client endorsement. Reports, analyses, and data prepared exclusively for Client belong to Client, while the Consultant retains its pre-existing and developed methods, ideas, know-how, and expertise; Client receives a limited, non-transferable license to embedded intellectual capital. Client must not disclose information the Consultant identifies as proprietary without written approval, except for legal or governmental proceedings or required disclosure; approval cannot be unreasonably withheld for audits or inquiries. Client must notify Consultant of legal demands so it can challenge them."
+        },
+        {
+          "title": "Consultant Conduct, Warranties, and Governing Law",
+          "node_id": "0028",
+          "start_index": 22,
+          "end_index": 22,
+          "key_items": [
+            "6.1.6 Conflicts of Interest; Code of Conduct.",
+            "6.1.7 Representations and Warranties.",
+            "6.1.8 Choice-of-Law."
+          ],
+          "summary": "The consultant must disclose known relationships with RSIC investment managers, service providers, or vendors, as well as actual or potential conflicts of interest, and comply with the applicable South Carolina statutory code of conduct. It warrants its investment-advisory expertise, professional staff, and facilities; current SEC investment-adviser registration and good standing throughout the agreement; and disclosure of related pending or future litigation and regulatory investigations. It must immediately report notice that it is not in good standing; failures to meet the registration or litigation/investigation disclosure requirements are material breaches. The consultant must retain service-related records and make them available for authorized audits on prior written notice during the agreement and for six years afterward. The agreement is deemed made in Richland County, South Carolina, and South Carolina law governs its interpretation, enforcement, and related disputes, claims, rights, and liabilities."
+        },
+        {
+          "title": "6.1.9 Choice of Forum.",
+          "node_id": "0029",
+          "start_index": 22,
+          "end_index": 23,
+          "summary": "The agreement requires exclusive jurisdiction and venue in South Carolina state courts or the U.S. District Court for the District of South Carolina, with both parties waiving venue objections; South Carolina and its related entities reserve sovereign and Eleventh Amendment immunity. Consultant may not assign the agreement without Client’s written consent, which may be withheld at Client’s sole discretion. If an uncontrollable event prevents performance, the affected party must give timely notice and details; affected obligations are suspended and liability excused during the inability, the cause must be remedied with reasonable dispatch, and changes and resumption must be reported immediately. Force majeure includes events such as natural disasters, terrorism, fire, accidents, labor or public disturbances, and governmental restrictions. Consultant must indemnify and hold harmless Client-related parties for losses and expenses arising from Consultant’s breach, negligence, fiduciary breach, misconduct, bad faith, or fraud; these rights are cumulative. Client must promptly give written notice and copies of papers for indemnifiable claims, but delay or failure does not affect Consultant’s liability."
+        },
+        {
+          "title": "Assignment, Force Majeure, and State Immunity",
+          "node_id": "0030",
+          "start_index": 23,
+          "end_index": 23,
+          "key_items": [
+            "6.1.10 Non-Assignment.",
+            "6.1.11 Force Majeure."
+          ],
+          "summary": "The page references venue for legal proceedings in South Carolina and states that South Carolina, the Commission, RSIC, and the Retirement System reserve sovereign immunity, including immunity under the Eleventh Amendment. The Consultant may not assign the Agreement, as defined under the Investment Advisers Act of 1940, without the Client’s written consent, which the Client may withhold at its discretion. Force majeure or other causes beyond a party’s reasonable control may suspend affected obligations if the party promptly provides notice and details; the party is relieved of liability during the suspension and must remedy the cause as reasonably possible. It must notify the other party of changed circumstances and when performance resumes. Examples include acts of God, terrorism, natural elements, fire, accidents, breakdowns, strikes, disturbances, actions beyond reasonable control, and governmental restrictions or orders."
+        },
+        {
+          "title": "6.1.12 Indemnification.",
+          "node_id": "0031",
+          "start_index": 23,
+          "end_index": 24,
+          "summary": "The consultant must indemnify and hold the Client Parties harmless for losses, costs, and reasonable legal fees arising from the consultant’s contractual breach, negligence, fiduciary breach, misconduct, bad faith, or fraud; these rights are cumulative. The Client must promptly provide written notice and relevant papers for indemnifiable claims, but delay does not relieve liability. The consultant may not settle Agreement-related claims without the Client’s prior written consent, not unreasonably withheld. The consultant must comply with fair-employment and anti-discrimination laws, all applicable laws and industry standards, and South Carolina restrictions concerning investments linked to Sudan or Iran and business with entities boycotting qualifying jurisdictions. It must maintain required licenses, permits, and inspections in good standing and provide its latest SEC-filed Form ADV at least 48 hours before contract execution. Within one business day, it must disclose events reasonably likely to adversely affect performance or investment-adviser registration; listed events include known government or self-regulatory investigations, excluding routine examinations."
+        },
+        {
+          "title": "Consultant Conduct and Legal Compliance",
+          "node_id": "0032",
+          "start_index": 24,
+          "end_index": 24,
+          "key_items": [
+            "6.1.13 Affirmative Action (Anti-Discrimination).",
+            "6.1.14 Compliance with State Law and Industry Standards."
+          ],
+          "summary": "The consultant may not settle claims related to the agreement without the client’s prior written consent, which cannot be unreasonably withheld. The consultant must follow applicable fair-employment and anti-discrimination requirements, including protections regardless of race, color, religion, sex, national origin, or physical disability. Throughout the agreement, the consultant must comply with applicable laws, regulations, and industry standards, and ensure its advice respects South Carolina restrictions on investments involving specified Sudanese and Iranian companies or operations, as well as the state’s prohibition on doing business with offerors engaged in certain jurisdiction-related boycotts."
+        },
+        {
+          "title": "6.1.15 Maintain Licenses and Disclosure of Changes to Registrations.",
+          "node_id": "0033",
+          "start_index": 24,
+          "end_index": 25,
+          "summary": "The consultant must maintain all required licenses, permits, and inspections in good standing and provide its latest SEC-filed Form ADV at least 48 hours before contracting. Within one business day, it must report events reasonably likely to affect performance or investment-advisor registration, including investigations (excluding routine examinations), complaints, proceedings, and disciplinary actions. It must report material structural, key-employee compensation or personnel, and ownership changes within 10 business days; ownership changes of 20% or more are material. Bankruptcy proceedings must be reported in writing within two days, including filing date and court; insolvency or bankruptcy permits immediate termination. Drug-Free Workplace Act violations may trigger immediate termination, payment suspension, or both. The consultant acknowledges fiduciary duties, statutory liability, invalidity of liability limits, insurance-term disclosure within 20 business days of obtaining coverage, and employee conduct requirements; it is not liable for another fiduciary’s breach and has no discretionary control over portfolio assets. Investment managers considered must use disciplines consistent with statutorily authorized property types."
+        },
+        {
+          "title": "Consultant Reporting and Contract Compliance",
+          "node_id": "0034",
+          "start_index": 25,
+          "end_index": 25,
+          "key_items": [
+            "6.1.16 Corporate Changes.",
+            "6.1.17 Bankruptcy.",
+            "6.1.18 Drug-Free Workplace."
+          ],
+          "summary": "The text covers disclosures and compliance obligations for the Consultant. It lists reporting of known complaints, proceedings, and disciplinary actions by federal or state agencies or self-regulatory organizations. The Consultant must notify the Client within 10 business days of material changes to its structure, key-employee compensation plans or personnel, and ownership; ownership changes of 20% or more are material. If bankruptcy proceedings begin, the Consultant must notify the Client in writing within two days, stating the petition date and filing court. Consultant insolvency, including a bankruptcy filing, allows the Client to void and immediately terminate the contract. Under South Carolina’s Drug Free Workplace Act, noncompliance may result in immediate termination, suspension of payment, or both."
+        },
+        {
+          "title": "6.1.19 Fiduciary Status.",
+          "node_id": "0035",
+          "start_index": 25,
+          "end_index": 27,
+          "summary": "The Consultant acknowledges fiduciary status and statutory duties, liability, the invalidity of liability limits, required disclosure of liability-insurance terms within 20 business days of obtaining coverage, and compliance by it and its employees with the statutory code of conduct. It is not responsible for another fiduciary’s breach and has no discretionary control over Portfolio assets. It must consider investment managers whose disciplines align with legally authorized property types. Waivers do not waive later or other provisions or breaches, and failure to demand performance or continued payment does not limit enforcement. Notices must be written and are effective upon hand delivery, confirmed electronic/facsimile delivery, or three business days after certified-mail deposit; Client notice contacts are specified and Consultant details are blank. Contract documents are the Agreement, Consultant’s Proposal, and RFP, in that precedence order, with dominant documents construed as a whole first. Client does not consent to compulsory arbitration or waive jury-trial rights in disputes arising from the contractual relationship."
+        }
+      ]
+    },
+    {
+      "title": "EXHIBIT A - OFFEROR QUESTIONNAIRE",
+      "node_id": "0036",
+      "start_index": 28,
+      "end_index": 28,
+      "summary": "South Carolina Retirement System Investment Commission\nGeneral Investment Consulting Services RFP\nEXHIBIT A - OFFEROR QUESTIONNAIRE\n_______________________________________ Offeror Name\n________________________________________________________________________ Offeror’s Legal Name\n________________________________________________________________________ Type of Business (Corporation, Partnerships, Individual, etc.) Website\n________________________________________________________________________ Address of Headquarters\n________________________________________________________________________ Address of Office Managing the Account (if different)\n________________________________________________________________________ RFP Contact Name\n________________________________________________________________________ Telephone Number Fax Number Email Address\n________________________________________________________________________ RFP Back-Up Contact Name\n________________________________________________________________________ Telephone Number Fax Number Email Address\n________________________________________________________________________ Authorized Signer (authorized to contractually bind the Organization) Date\n________________________________________________________________________ Name and Title of Authorized Signer (Please print)\n________________________________________________________________________ Authorized Signer (authorized to contractually bind the Organization) Date\n________________________________________________________________________ Name and Title of Authorized Signer (Please print)\n28"
+    },
+    {
+      "title": "EXHIBIT B - MINIMUM QUALIFICATIONS CERTIFICATION",
+      "node_id": "0037",
+      "start_index": 29,
+      "end_index": 30,
+      "summary": "Exhibit B is a minimum-qualifications certification for the South Carolina Retirement System Investment Commission’s general investment consulting RFP. The offeror must certify that it meets every Section III requirement; insufficient proof or failure to qualify, as determined by RSIC, results in disqualification. An authorized representative warrants that qualifications were met by December 1, 2016, while required insurance must be in place by contract execution. The form requests up to three public defined benefit consulting clients with assets of at least $10 billion; confirmation of registered investment advisor status and fiduciary service; at least ten years providing institutional consulting; and required experience for primary and secondary consultants, with identifying and experience details. The firm must disclose conflicts, revenue sources, and affiliations. Insurance minimums are $1 million each for workers’ compensation/employer’s liability and general liability, and $5 million for professional liability/errors and omissions. Signature, title, printed name, and date fields are provided."
+    },
+    {
+      "title": "EXHIBIT C - RFP QUESTIONNAIRE",
+      "node_id": "0038",
+      "start_index": 31,
+      "end_index": 38,
+      "summary": "The questionnaire evaluates the offeror’s history, ownership, locations, affiliates and subcontractors; organizational changes, fiduciary and regulatory standing, litigation, business lines, revenues, plans, services, differentiators and performance measures. It seeks client counts and assets by category and mandate, project experience, references and client terminations. It covers organizational structure, staffing, consultant qualifications, account-team coverage, workloads, turnover, compensation and retention. Conflict disclosures include compensation, political activity, affiliated services and client relationships; firms must describe conduct standards, recommendation oversight, quality control and regulatory censures. General consulting questions address portfolio strategy, asset allocation, liabilities, markets, investment approaches, risk, policy, reporting, benchmarks, technology and coordination with other advisors. Public-markets questions cover manager research, databases, due diligence, monitoring, costs, screening, watch lists, transitions, evaluation and sample hire/termination recommendations. Other requests include research and report samples, trustee education, capital-market assumptions, continuity and emergency plans, and client-benefiting technology. Submitted materials must identify the applicable question number.",
+      "nodes": [
+        {
+          "title": "A) Stability and Experience of the Offeror",
+          "node_id": "0039",
+          "start_index": 31,
+          "end_index": 31,
+          "summary": "The questionnaire asks about the offeror’s stability and experience: firm history and founding year, headquarters and branch locations and which will serve RSIC, ownership and affiliations, and subcontractors and their expected fees. It covers significant organizational changes over the past five years and anticipated changes within 12 months; SEC registration, fiduciary classification and commitment to serve as a fiduciary; regulatory audits and oversight; and relevant litigation, legal proceedings, or government investigations and their status. Firms must describe business lines, revenue contributions, research reinvestment, and any share of parent-company revenue, as well as future objectives, growth plans, and areas of emphasis. They must list services, identify their strongest or distinctive expertise and services unavailable from peers, and discuss specialties, competitive differentiators, and limitations. Finally, they must explain how clients should evaluate investment consultants and how the firm measures its own performance."
+        },
+        {
+          "title": "B) Strength of Client Base",
+          "node_id": "0040",
+          "start_index": 32,
+          "end_index": 32,
+          "summary": "The RFP asks firms to report, as of June 30, 2016, their client base by type (U.S. public defined benefit pension funds, corporate pension funds, endowments/foundations, and other), including total clients, discretionary and non-discretionary client counts, and assets under advisement. Firms must list how often they performed specified projects in each of the prior three years: asset allocation, asset-liability studies, manager searches, and specialty consulting. They must provide three comparable public defined benefit plan references, including client and engagement details and contact information, after obtaining permission for RSIC to contact them. Finally, they must state how many clients terminated services in the past three years and explain each reason."
+        },
+        {
+          "title": "C) Quality, Stability, Depth, and Experience of Personnel",
+          "node_id": "0041",
+          "start_index": 32,
+          "end_index": 33,
+          "summary": "The section requests information on personnel quality, stability, depth, and experience: organizational charts showing parent/subsidiary relationships, firm leadership, and consulting-unit functions, key staff, staffing totals, and any role overlaps; staff counts and percentages by job class; and resumes and experience, tenure, education, and designations of proposed primary consultants. It also asks how the account team, including primary consultants, backups, quality control, and support, will operate and provide coverage when staff are unavailable; consultants’ other client relationships and associated assets; client-to-staff ratios and workload-management policies; professional staff turnover over five years; and senior-management compensation, bonuses and incentive criteria, staff equity or profit sharing, and measures to retain key professionals."
+        },
+        {
+          "title": "D) Conflicts of Interest and Standards of Conduct",
+          "node_id": "0042",
+          "start_index": 34,
+          "end_index": 35,
+          "summary": "The RFP asks firms to disclose potential conflicts and compensation, including benefits or loans from managers, fees for database inclusion or conferences, sponsored organizations, soft-dollar revenue, gifts, travel, and entertainment. It asks whether firms include their own or affiliated vehicles in searches, manage client assets, or offer outsourced CIO services, and how conflicts between mandates and pension clients are handled. Firms must explain conflicts related to representing RSIC, including parent-company activities and other client relationships. The questions also cover political contributions and employee monitoring; written conduct standards and adoption and enforcement of CFA Institute ethics rules; review, monitoring, and consistency of consultant recommendations; quality-control procedures for the proposed mandate; and any regulatory censures."
+        },
+        {
+          "title": "E) General Consulting Services",
+          "node_id": "0043",
+          "start_index": 35,
+          "end_index": 36,
+          "summary": "The questions request the firm’s approach to portfolio analysis, investment strategy and asset allocation, including models, assumptions, asset-liability studies, and how liabilities, funding, contributions, and market changes inform decisions. They ask about post-2008 recommendations for large public defined-benefit plans, areas of asset-class expertise, long-term and actuarial considerations, and identifying new opportunities. The firm must explain its views on investment management styles, account structures, co-investments, fees, tactical allocation, risk protections, quantitative and fundamental approaches, alternatives, and placement agents; define and measure risk; and discuss public-pension risks and investment-policy priorities and development. They also seek performance-report samples, customization and costs, peer comparisons, electronic custodian connectivity, benchmark-setting for funds, managers, asset classes and private assets, and coordination with actuaries, custodians, and other system advisors."
+        },
+        {
+          "title": "F) Public Markets Consulting Services",
+          "node_id": "0044",
+          "start_index": 36,
+          "end_index": 37,
+          "summary": "The section requests information on public-markets consulting, including oversight of staff investment recommendations and related challenges; processes for selecting, evaluating, and conducting due diligence on managers; performance-analysis methods and data sources; and manager database access, size, categorization, collection, verification, maintenance, and analysis. It asks how managers are monitored against client goals and policy, including performance, risk, style, compliance, restrictions, conflicts, reporting, and trading and foreign-exchange costs. It also covers watch-list and termination criteria, asset transitions, quantitative screening tools and whether they are purchased or proprietary, how manager-selection success is measured, relevant review criteria beyond returns, recommended monitoring practices, and suitable evaluation periods for active managers. Finally, it requests recent written client recommendations to hire and terminate a manager, with supporting documents labeled by question number."
+        },
+        {
+          "title": "G) Other",
+          "node_id": "0045",
+          "start_index": 37,
+          "end_index": 38,
+          "summary": "The section requests: a list of research reports prepared for clients or the investment industry in the past three years, with topic, publication name, and date, plus report samples; standard reports and documents on asset allocation and public-markets manager selection; the firm’s process for educating pension trustees and staff, and its five most relevant board-education topics; current capital-market assumptions, whether they changed in the past year, and how often they are revised; current business-continuity and disaster-recovery policies; emergency preparedness and backup office/computer plans, including any activation, effectiveness, and subsequent changes; and how the firm uses technology to benefit clients, including unique tools. Requested materials must be attached to the proposal, with the applicable question number noted at the top of each submitted page."
+        }
+      ]
+    },
+    {
+      "title": "EXHIBIT D - FEE PROPOSAL",
+      "node_id": "0046",
+      "start_index": 39,
+      "end_index": 39,
+      "summary": "Exhibit D requests the consultant’s lowest US-dollar fees for five years of non-discretionary general fund consulting, based on the RFP scope and inclusive of travel, taxes, and other expenses. Proponents must identify services and costs excluded from the annual retainer and their prices, state whether fees are negotiable, provide hourly project-consulting rates for excluded services, and quote separate add-on pricing for public-markets advisory services. After selection, fee negotiations may not produce a fee above the proposal. Fees cover services in the current fiscal quarter and are billed quarterly at one-quarter of the negotiated annual rate. Any services beyond the scope must be negotiated in advance."
+    },
+    {
+      "title": "EXHIBIT E - KEY EMPLOYEE LIST",
+      "node_id": "0047",
+      "start_index": 40,
+      "end_index": 40,
+      "summary": "South Carolina Retirement System Investment Commission\nGeneral Investment Consulting Services RFP\nEXHIBIT E - KEY EMPLOYEE LIST\nThe following is a list of Key Employees of Offeror who would directly perform services for the Commission pursuant to this Agreement:\n40"
+    },
+    {
+      "title": "EXHIBIT F - IRAN DIVESTMENT ACT OF 2014 CERTIFICATION",
+      "node_id": "0048",
+      "start_index": 41,
+      "end_index": 41,
+      "summary": "South Carolina Retirement System Investment Commission\nGeneral Investment Consulting Services RFP\nEXHIBIT F - IRAN DIVESTMENT ACT OF 2014 CERTIFICATION\n41"
+    },
+    {
+      "title": "EXHIBIT G – OPEN TRADE REPRESENTATION",
+      "node_id": "0049",
+      "start_index": 42,
+      "end_index": 42,
+      "summary": "South Carolina Retirement System Investment Commission\nGeneral Investment Consulting Services RFP\nEXHIBIT G – OPEN TRADE REPRESENTATION\n42"
+    },
+    {
+      "title": "EXHIBIT H - RSIC CLOUD COMPUTING SECURITY ASSESSMENT QUESTIONNAIRE",
+      "node_id": "0050",
+      "start_index": 43,
+      "end_index": 45,
+      "summary": "The questionnaire asks cloud service providers to detail safeguards for RSIC data, including ownership and access by employees or others; protection against unauthorized use; storage, backup, and disaster-recovery locations; encryption in transit, at rest, and in backups, applicable standards, and key management; and breach definitions and notification. It covers RSIC audit rights, SOC reports and other certifications, vulnerability testing, and forensic records; staff background checks, vetting, and third-party access; SLAs, separate data restoration, restoration encryption, and tested business-continuity and disaster-recovery plans. Providers must describe documented security controls and activity logging, data export and destruction at contract termination, and destruction certification. It also asks about responses to legal requests and notification of material litigation or regulatory action; employee and contractor access levels, least privilege, and segregation of duties; software-development methods and advance notice of changes; and expected service uptime and maintenance windows."
+    },
+    {
+      "title": "ATTACHMENT A - IMPORTANT TAX NOTICE - NONRESIDENTS ONLY",
+      "node_id": "0051",
+      "start_index": 46,
+      "end_index": 47,
+      "summary": "The notice explains South Carolina nonresident tax withholding rules. Under Section 12-8-550, entities contracting with nonresidents doing business or temporary personal services in the state must withhold 2% of each payment, except for specified tangible-property purchases without in-state services, nonresidents not doing business in the state, contracts totaling no more than $10,000 per calendar year, or registered nonresidents who provide Form I-312. A separate affidavit must be submitted to each paying governmental entity; it covers all contracts with that entity unless the exemption is revoked. Under Section 12-8-540, annual South Carolina property rentals or royalties of at least $1,200 require withholding of 7% for noncorporations or 5% for corporations, subject to exceptions. The notice provides Department of Revenue contacts for registration, withholding, and other withholding questions, and states that it is informational only and the issuing agency has no tax authority."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

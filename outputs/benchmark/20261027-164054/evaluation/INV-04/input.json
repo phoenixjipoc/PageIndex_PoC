@@ -1,0 +1,7 @@
+{
+  "question": "In the Illinois Firefighters' Pension Investment Fund (FPIF) February 2023 RFP for private markets investment consulting and discretionary OCIO advisory services, what long-term target allocation to private markets is FPIF building, and how is it split across asset classes?",
+  "gold_answer": "A long-term target of 31% to private market asset classes: 10% private equity, 7% private debt, 10% real estate and 4% infrastructure. (FPIF seeks one non-discretionary consultant and approximately three discretionary OCIO advisors for this portfolio.)",
+  "acceptance": "Require total 31% and 10% PE / 7% private debt / 10% real estate / 4% infrastructure. Consultant/advisor counts and core/non-core splits are optional.",
+  "scope": "single_document",
+  "candidate_answer": "FPIF was building toward a **31% long-term allocation to private markets**, split as follows:\n\n| Asset class | Target allocation |\n|---|---:|\n| Private equity | 10% |\n| Private debt | 7% |\n| Real estate | 10% |\n| Infrastructure | 4% |\n\nThe RFP says that **half of each real estate and infrastructure target** is intended for core open-ended vehicles, with the remainder for non-core commitments. [Source: FPIF February 2023 RFP, p. 1](https://ifpif.org/investments/investment-procurement/)"
+}

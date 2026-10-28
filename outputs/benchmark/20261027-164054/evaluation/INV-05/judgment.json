@@ -1,0 +1,15 @@
+{
+  "question_id": "INV-05",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "6419350e8586ccae75af4a3b7e997d0892823a803998be82989a4ff86eba1db6",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "正确说明公司或主要负责人经验，客户PE资产合计至少100亿美元。",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:23:52.978640+00:00"
+}

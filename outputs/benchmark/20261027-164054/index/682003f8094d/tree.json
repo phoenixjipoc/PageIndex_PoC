@@ -1,0 +1,85 @@
+{
+  "doc_id": "pi-e53e8446a6d74ad799733166d4ae8711",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 2,
+      "summary": "Attachment 3 is the Boston Retirement System’s proposal questionnaire for its Investment Consulting Services RFP. BRS seeks a General Investment Services Consultant covering public markets, private markets, hedge funds, and real estate. All prospective consultants must complete every section with clear, concise, complete responses and identify their organization on every submitted page. Respondents must provide their firm name, main address, and contact person’s name, title, phone number, and email. The questionnaire gathers information about the firm’s ability to provide the general, public, and private markets consulting services described in the RFP. Responses should be limited to one page per question where possible and submitted in questionnaire order."
+    },
+    {
+      "title": "A. Stability and Experience of the Firm",
+      "node_id": "0001",
+      "start_index": 2,
+      "end_index": 2,
+      "summary": "The questionnaire requests information on the firm’s history and founding year, headquarters and branch locations, ownership, parent/affiliate relationships and joint ventures; years and categories of pension consulting for pension funds, tax-exempt clients and public pension funds; and, for finalists, financial statements for the preceding three years. It asks about significant organizational changes since January 1, 2019, anticipated ownership or other changes, SEC investment-adviser registration and fiduciary status under ERISA, and any relevant litigation, legal proceedings or government investigations since January 1, 2017, including outcomes or current status. Firms must describe errors-and-omissions and other liability insurance, coverage levels, carriers and adequacy; all business lines and their approximate revenue contributions, research reinvestment, and the firm’s share of a parent’s revenue; and the services or capabilities that distinguish them from competitors."
+    },
+    {
+      "title": "B. Quality, Stability, Depth and Experience of Personnel",
+      "node_id": "0002",
+      "start_index": 3,
+      "end_index": 3,
+      "summary": "The questionnaire requests information on the firm’s consulting staff and organizational chart; proposed Primary Consultants and their resumes; firm principals and personnel assigned to the BRS account, including office location, tenure, pension consulting experience, expertise, education/designations, and roles. It asks how the BRS team, backups, quality control, and support services will operate, and how coverage is maintained during absences or staff departures, including examples. Respondents must report each Primary Consultant’s other clients and their asset values, firm-wide client-to-staff ratios, and anticipated time commitments to BRS. It also requests professional staff turnover since January 1, 2020, with reasons, replacements, positions, and departure dates, plus details of senior management compensation, bonuses and award criteria, employee ownership or profit-sharing, and incentives to retain key professionals."
+    },
+    {
+      "title": "C. Research Capabilities",
+      "node_id": "0003",
+      "start_index": 4,
+      "end_index": 4,
+      "summary": "C. Research Capabilities\n1. Describe your firm’s philosophy and resources, including history of experience in the following areas:\n• Performance Evaluation and Reporting; • Marketing;\n• Research (by areas); • Asset Allocation; • Investment Policy; • Manager Search (by asset class).\n2. Describe the internal structure and organization of your research department (if no separate department exists, describe how this function is performed).\n3. Describe the manner in which internal and external resources and sources of information are used in the research process. How does your firm integrate internal and external research?\n4. Outline your process for monitoring and reporting on market trends. Describe your capabilities for reporting and tracking international trends and influences.\n5. Describe your computer capabilities and relate them to your consulting services or products. Do you provide any customized computer based analytical tools to your clients? If so, please include in your description the computer language in which the programs are written."
+    },
+    {
+      "title": "D. Client Relations and Reference",
+      "node_id": "0004",
+      "start_index": 4,
+      "end_index": 5,
+      "key_items": [
+        "1. Please indicate in the chart below the composition of your client base."
+      ],
+      "summary": "Requests a breakdown of the firm’s client base by client type and asset-size range, including account counts, total assets under management, and public-fund assets for 2017–2021. It also requests up to 10 current public-fund clients with assets over $1 billion for whom the firm has performed similar work, with each client’s name, contact details, asset value, years retained, and product or service used; BRS may contact them as references. Finally, it asks for the number, names, and asset values of client relationships terminated or not renewed since January 1, 2020, and the reasons."
+    },
+    {
+      "title": "E. Conflicts of Interest and Standards of Conduct",
+      "node_id": "0005",
+      "start_index": 5,
+      "end_index": 6,
+      "summary": "The questionnaire asks about the firm’s business lines and their revenue/profit contributions, including the affiliate’s share of parent-company results, consulting’s contribution, and other parent services; whether the firm or parent manages client money; broker-dealer status, client-account trading, and acceptance of soft dollars; potential conflicts in serving BRS, including parent activities and other clients; compensation from investment managers; and management of conflicts with pension clients. It also covers written conduct standards and enforcement, adoption and monitoring of CFA Institute ethics standards, review and consistency of consultant recommendations, quality-control procedures for the proposed mandate, experience and client examples in developing risk-management procedures, and any regulatory censures."
+    },
+    {
+      "title": "F. General Consulting Services",
+      "node_id": "0006",
+      "start_index": 6,
+      "end_index": 7,
+      "summary": "The request asks the firm to describe its consulting philosophy and processes for developing investment policies and objectives, particularly for public pensions; analyzing portfolio structure and legal constraints; setting fund, manager, and asset-class benchmarks; defining and measuring risk; and identifying key public-pension policy issues. It also covers shareholder-responsibility and proxy-voting policies, ongoing policy reviews, and performance evaluation methods and data, including illiquid real estate and private markets. The firm should explain its investment strategy and asset-allocation methodology, models, assumptions, and areas of expertise; essential variables and actuarial analyses for BRS long-range planning; policies for allocation changes as markets shift; and processes for assessing private-market conditions affecting plan security. Finally, it asks about strategic versus tactical allocation, active versus passive management, and methods for identifying and evaluating new investment opportunities."
+    },
+    {
+      "title": "G. Public Markets",
+      "node_id": "0007",
+      "start_index": 7,
+      "end_index": 8,
+      "summary": "The text requests information on public-markets consulting capabilities: benchmark development, customization, prior work and recommendations for the client’s equity and fixed-income portfolios; manager selection and performance evaluation, including due diligence across organizational, investment, operational, financial and fee factors, alignment with client objectives and fiduciary duties, data sources, and verification of performance records. It asks about manager databases—their size and classifications, data collection and maintenance, screening, custom reporting, international and currency-overlay coverage, and inclusion of diverse-owned firms. It also seeks views on fee structures and manager oversight, including performance, risk, style, compliance, restrictions, conflicts, reporting and trading costs. Further topics include international, emerging-market, currency-overlay, hedging and small/emerging-manager expertise; criteria for probation or termination and asset transitions; and advice on minimizing trading and foreign-exchange costs and using client commissions to obtain research or services."
+    },
+    {
+      "title": "H. Hedge Funds",
+      "node_id": "0008",
+      "start_index": 8,
+      "end_index": 12,
+      "key_items": [
+        "I. Private Markets"
+      ],
+      "summary": "The questionnaire covers hedge-fund manager skill assessment, competitive advantages, databases and sourcing, manager qualifications, due diligence, collaboration with BRS, risk tools, transparency, team structure, ranking methods, reports, ongoing monitoring, peer performance, redemption recommendations, and responses to drawdowns, gates, suspended redemptions, and side pockets. For private equity, it asks about investment philosophy, objectives, allocation models and assumptions, services, client/manager relationships, experience across fund types, historical recommendations and commitments, portfolio oversight and valuation, benchmarks, manager selection and diligence, review volumes, database coverage and updates, winding-down partnerships, partnership-agreement compliance, style and policy monitoring, advisory-board roles, poor-performance responses, and fair allocation of opportunities and reporting. For real estate, it addresses investment philosophy, goals, allocation ranges and assumptions, services and relationships, partnership-meeting participation, database coverage, monitoring staff and visit frequency, information sources, style and guideline compliance, manager meetings, debt/equity search experience and recommendations by property type, due diligence including onsite work, and responses to poorly performing investments."
+    },
+    {
+      "title": "J. FEE PROPOSAL",
+      "node_id": "0009",
+      "start_index": 12,
+      "end_index": 12,
+      "summary": "Prospective consultants must submit fees in the prescribed schedule, covering all costs for the General and Public Market Consultant and Private Markets Consulting services described in Section III. Any additional or optional fees and the services they cover must be clearly itemized. Fees may be revised after selection but cannot exceed the proposal amount. The agreement runs five years, with two optional one-year extensions; the schedule lists fees for Years 1–5 and each extension. Submit the fee schedule alone in a large, separate sealed envelope labeled “INVESTMENT CONSULTANT SERVICES FEE SCHEDULE FOR (NAME OF YOUR FIRM)” and include it with the other RFP response materials."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

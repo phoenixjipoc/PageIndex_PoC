@@ -1,0 +1,43 @@
+{
+  "file": "Boston__RFP_Actuarial_and_Consulting_Services_for_Pension_Benefits_08-30-2022.pdf",
+  "sha256": "d9365587f56fbaa1266ba771553d99616b61509a4e682c88aa850ea14d594125",
+  "bytes": 436410,
+  "pages": 24,
+  "public_source_url": "https://search.boston.gov/sites/default/files/file/2022/09/RFP%20Actuarial%20and%20Consulting%20Services%20for%20Pension%20Benefits%2008-30-2022.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:46:53.058747+00:00",
+  "doc_id": "pi-e127eeeaa4eb4378ac5f842188c452bd",
+  "stored_name": "Boston__RFP_Actuarial_and_Consulting_Services_for_Pension_Benefits_08-30-2022.pdf",
+  "reported_usage": {
+    "prompt_tokens": 20749,
+    "completion_tokens": 5868,
+    "total_tokens": 26617,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 8246
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1360
+    }
+  },
+  "elapsed_seconds": 16.357,
+  "finished_at_utc": "2026-10-27T08:47:09.429988+00:00",
+  "model_calls": 22,
+  "http_attempts": 22,
+  "observed_usage": {
+    "input_tokens": 20749,
+    "output_tokens": 5868,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 8246,
+    "reasoning_tokens": 1360,
+    "total_tokens": 26617
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

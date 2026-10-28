@@ -1,0 +1,15 @@
+{
+  "question_id": "SVC-14",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "0a7ec110cc46efe0a1ae093d8cb785e030f0e7d7100b4acf832f3bbc5a0b9bec",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct four criteria and weights 30/40/5/25.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:12.427714+00:00"
+}

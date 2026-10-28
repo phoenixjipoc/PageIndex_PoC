@@ -1,0 +1,149 @@
+{
+  "id": "CONS-08",
+  "question": "Which retirement plan's investment consulting RFP requires that, as of December 31, 2024, the firm have at least three public fund clients each with at least $1B in assets and have been in business at least ten years?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:19:16.870398+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "It is the **Retirement Plan for CTA Employees**. Its investment consulting RFP lists both requirements in the qualifications section: at least three public fund clients with $1 billion or more in assets each, and at least ten years in business, as of December 31, 2024. [Source: RFP, p. 3](CTA_Retirement_Plan__RP_Investment_Consultant_RFP_4_29_25.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 43658,
+    "input_tokens_details": {
+      "cached_tokens": 30888,
+      "cache_write_tokens": 12752
+    },
+    "output_tokens": 298,
+    "output_tokens_details": {
+      "reasoning_tokens": 47
+    },
+    "total_tokens": 43956,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1237,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1234
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1252
+      },
+      {
+        "input_tokens": 2403,
+        "input_tokens_details": {
+          "cached_tokens": 1234,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 43,
+        "output_tokens_details": {
+          "reasoning_tokens": 18
+        },
+        "total_tokens": 2446
+      },
+      {
+        "input_tokens": 7649,
+        "input_tokens_details": {
+          "cached_tokens": 2400,
+          "cache_write_tokens": 5246
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 13
+        },
+        "total_tokens": 7687
+      },
+      {
+        "input_tokens": 9652,
+        "input_tokens_details": {
+          "cached_tokens": 7646,
+          "cache_write_tokens": 2003
+        },
+        "output_tokens": 58,
+        "output_tokens_details": {
+          "reasoning_tokens": 16
+        },
+        "total_tokens": 9710
+      },
+      {
+        "input_tokens": 9962,
+        "input_tokens_details": {
+          "cached_tokens": 9649,
+          "cache_write_tokens": 310
+        },
+        "output_tokens": 47,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10009
+      },
+      {
+        "input_tokens": 12755,
+        "input_tokens_details": {
+          "cached_tokens": 9959,
+          "cache_write_tokens": 2793
+        },
+        "output_tokens": 97,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 12852
+      }
+    ]
+  },
+  "elapsed_seconds": 13.216,
+  "finished_at_utc": "2026-10-27T09:19:30.091227+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 43658,
+    "output_tokens": 298,
+    "cached_input_tokens": 30888,
+    "cache_write_tokens": 12752,
+    "reasoning_tokens": 47,
+    "total_tokens": 43956
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":60}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"CTA_Retirement_Plan__RP_Investment_Consultant_RFP_4_29_25.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"CTA_Retirement_Plan__RP_Investment_Consultant_RFP_4_29_25.pdf\",\"pages\":\"1-5\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "CTA_Retirement_Plan__RP_Investment_Consultant_RFP_4_29_25.pdf",
+      "pages": "1-5",
+      "success": true,
+      "call_id": "call_zG38c5vhzB8gHOWGg9NCatIA"
+    }
+  ],
+  "successfully_read_documents": [
+    "CTA_Retirement_Plan__RP_Investment_Consultant_RFP_4_29_25.pdf"
+  ]
+}

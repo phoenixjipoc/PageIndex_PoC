@@ -1,0 +1,7 @@
+{
+  "question": "How many comments did the PRI receive from LPs and GPs during the 2021 update of its Limited Partners Private Equity Responsible Investment DDQ?",
+  "gold_answer": "NOT IN CORPUS",
+  "acceptance": "Accept no count disclosed / cannot determine from corpus with narrative explanation. Do not require literal NOT IN CORPUS; 31 participants is not a comment count.",
+  "scope": "negative",
+  "candidate_answer": "The PRI did not give a numerical count. It said LPs and GPs provided “significant amounts of comments,” both written and verbal, during the 2021 update. [Source: PRI covering note, p. 1](PRI__PRI-DDQ-ILPA-Covering-Note.pdf)"
+}

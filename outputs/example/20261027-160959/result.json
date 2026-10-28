@@ -1,0 +1,40 @@
+{
+  "status": "interrupted",
+  "run_id": "20261027-160959",
+  "scope": "single_document_smoke_test",
+  "question_id": "INV-04",
+  "question": "In the Illinois Firefighters' Pension Investment Fund (FPIF) February 2023 RFP for private markets investment consulting and discretionary OCIO advisory services, what long-term target allocation to private markets is FPIF building, and how is it split across asset classes?",
+  "document": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+  "pdf_sha256": "8babdc152651e80fd4ce6aacbee0887b049fabef9575dd2d82422db74498432e",
+  "pdf_pages": 33,
+  "models_requested": {
+    "index": "gpt-6-luna",
+    "chat": "gpt-6-sol"
+  },
+  "previous_container_default": "gpt-5.4",
+  "endpoint_host": "api.openai.com",
+  "pageindex_version": "0.2.10",
+  "source_commit": "e38b40ebaeea26d2c7206b80ce7bc9bf2935cdec",
+  "python_version": "3.11.15",
+  "index_mode": "flash",
+  "index_reasoning_effort": "medium",
+  "chat_protocol": "responses",
+  "chat_reasoning_effort": "medium",
+  "max_chat_turns": 8,
+  "per_request_timeout_seconds": 90,
+  "summary_concurrency": 2,
+  "index_storage": "C:\\Users\\XUJI\\OneDrive - Capco\\Desktop\\PageIndex_PoC\\.pageindex\\example-20261027-160959",
+  "reference_answers_used_in_generation": false,
+  "routing_note": "The source document is supplied for this smoke test; this is not whole-corpus retrieval.",
+  "instruction_note": "Official default agent instructions; no additional guidance.",
+  "error_type": "InstrumentationError",
+  "error": "The observer incorrectly treated LiteLLM openai/ provider prefixes as a model mismatch. Execution was stopped and the observer was corrected. This is an incomplete attempt, not an example result.",
+  "model_call_count": 13,
+  "unique_response_count": 13,
+  "observed_usage": {
+    "prompt_tokens": 12525,
+    "completion_tokens": 3410,
+    "total_tokens": 15935
+  },
+  "note": "Observed usage from completed responses only; interrupted or unobserved requests may be additional."
+}

@@ -1,0 +1,43 @@
+{
+  "file": "ILPA__ILPA-ESG-Assessment-Framework.pdf",
+  "sha256": "81787f42fd3ef3cb26b0f5500d8c5841e383d819ea0c3758fb33cae1f97ec6f5",
+  "bytes": 261766,
+  "pages": 12,
+  "public_source_url": "https://ilpa.org/wp-content/uploads/2021/07/ILPA-ESG-Assessment-Framework.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:53:31.760694+00:00",
+  "doc_id": "pi-d5b1a2debadc41089d60431f1712a511",
+  "stored_name": "ILPA__ILPA-ESG-Assessment-Framework.pdf",
+  "reported_usage": {
+    "prompt_tokens": 8471,
+    "completion_tokens": 2461,
+    "total_tokens": 10932,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 4128
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 583
+    }
+  },
+  "elapsed_seconds": 8.5,
+  "finished_at_utc": "2026-10-27T08:53:40.271046+00:00",
+  "model_calls": 10,
+  "http_attempts": 10,
+  "observed_usage": {
+    "input_tokens": 8471,
+    "output_tokens": 2461,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 4128,
+    "reasoning_tokens": 583,
+    "total_tokens": 10932
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

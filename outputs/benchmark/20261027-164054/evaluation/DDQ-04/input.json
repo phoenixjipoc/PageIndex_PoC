@@ -1,0 +1,7 @@
+{
+  "question": "Under the ILPA ESG Assessment Framework, how often does a GP review its ESG policy at the 'Intermediate' and at the 'Advanced' level of the 'Approach to Policy Review' component?",
+  "gold_answer": "Intermediate: the GP reviews its ESG policy periodically, i.e. every 2-3 years, and can share recent findings and updates. Advanced: the GP reviews its ESG policy annually and can comment on its evolution.",
+  "acceptance": "Intermediate every 2–3 years; Advanced annually. Sharing findings and explaining evolution are optional because question asks frequency.",
+  "scope": "single_document",
+  "candidate_answer": "At the **Intermediate** level, the GP reviews its ESG policy periodically—about **every 2–3 years**. At the **Advanced** level, it reviews the policy **annually**. [ILPA ESG Assessment Framework, p. 2]"
+}

@@ -1,0 +1,43 @@
+{
+  "file": "KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf",
+  "sha256": "3b968abf7fa0f8539d825c4265a2b313935e0f16f28b29a60b41318ae221b965",
+  "bytes": 2825104,
+  "pages": 55,
+  "public_source_url": "https://www.kcera.org/files/9b36be9a3/KCERA+RFP+for+Audit+Services+with+Attachments+&+Exhibits.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:57:32.613994+00:00",
+  "doc_id": "pi-9e6d047cc536414a9c3d23c413787de1",
+  "stored_name": "KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf",
+  "reported_usage": {
+    "prompt_tokens": 36609,
+    "completion_tokens": 9861,
+    "total_tokens": 46470,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 26941
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 4001
+    }
+  },
+  "elapsed_seconds": 44.826,
+  "finished_at_utc": "2026-10-27T08:58:17.450349+00:00",
+  "model_calls": 31,
+  "http_attempts": 31,
+  "observed_usage": {
+    "input_tokens": 36609,
+    "output_tokens": 9861,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 26941,
+    "reasoning_tokens": 4001,
+    "total_tokens": 46470
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

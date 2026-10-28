@@ -1,0 +1,43 @@
+{
+  "file": "SBCERS__01_2023-SBCERS-Custody-RFP-CONSOLIDATED-Final-Updated.pdf",
+  "sha256": "61bc9f8160870e19e83d3b6e959e7c6d52b9cb7e7f38a5f977e963601c13faaa",
+  "bytes": 1598389,
+  "pages": 97,
+  "public_source_url": "https://www.sbcers.org/wp-content/uploads/01_2023-SBCERS-Custody-RFP-CONSOLIDATED-Final-Updated.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:06:15.732113+00:00",
+  "doc_id": "pi-c7b19b8f7603453cbb0b143f2e3f1f75",
+  "stored_name": "SBCERS__01_2023-SBCERS-Custody-RFP-CONSOLIDATED-Final-Updated.pdf",
+  "reported_usage": {
+    "prompt_tokens": 182457,
+    "completion_tokens": 20782,
+    "total_tokens": 203239,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 161353
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 8992
+    }
+  },
+  "elapsed_seconds": 55.83,
+  "finished_at_utc": "2026-10-27T09:07:11.576404+00:00",
+  "model_calls": 59,
+  "http_attempts": 59,
+  "observed_usage": {
+    "input_tokens": 182457,
+    "output_tokens": 20782,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 161353,
+    "reasoning_tokens": 8992,
+    "total_tokens": 203239
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

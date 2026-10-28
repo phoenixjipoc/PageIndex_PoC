@@ -1,0 +1,7 @@
+{
+  "question": "According to the San Bernardino County Employees' Retirement Association (SBCERA) investment consultant RFP, approximately how large is SBCERA's investment portfolio?",
+  "gold_answer": "Approximately $12.0 billion in assets.",
+  "acceptance": "$12bn approximately suffices; do not require or invent an as-of date.",
+  "scope": "single_document",
+  "candidate_answer": "SBCERA’s investment portfolio was approximately **$12.0 billion**. [Source: SBCERA investment consultant RFP, p. 3](SBCERA__investment_consultant_-_request_for_proposals.pdf)."
+}

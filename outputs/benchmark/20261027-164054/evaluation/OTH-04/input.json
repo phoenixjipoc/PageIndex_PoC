@@ -1,0 +1,7 @@
+{
+  "question": "According to the Santa Barbara County Employees' Retirement System (SBCERS) custody RFP, how much in assets did SBCERS have as of September 30, 2023?",
+  "gold_answer": "Approximately $4.06 billion (the OPEB Plan separately had approximately $53 million).",
+  "acceptance": "Approximately $4.06bn suffices; OPEB figure is optional and should not be added to the requested figure.",
+  "scope": "single_document",
+  "candidate_answer": "According to the custody RFP, SBCERS had approximately **$4.06 billion** in assets as of September 30, 2023. The RFP lists the OPEB Plan separately at approximately $53 million. [Source: SBCERS custody RFP, p. 3](SBCERS__01_2023-SBCERS-Custody-RFP-CONSOLIDATED-Final-Updated.pdf)"
+}

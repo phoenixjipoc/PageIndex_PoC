@@ -1,0 +1,23 @@
+{
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "independent_grading_api_calls": 0,
+  "human_verified": false,
+  "all_answers_frozen_before_review": true,
+  "score_mapping": {
+    "correct": 1,
+    "partial": 0.5,
+    "incorrect": 0
+  },
+  "reference": "standards_snapshot.json gold_answer and acceptance",
+  "original_grading_plan_executed": false,
+  "change_reason": "Automatic approval review rejected transmitting local answers and scoring references to api.openai.com without explicit authorization for that scoring payload. Use the safer current-conversation review alternative; do not resend the rejected grading request.",
+  "limitations": "AI-assisted review in the same conversation, not independent model adjudication or human ground truth. Ambiguous cases are flagged for follow-up.",
+  "review_completed_at_utc": "2026-10-27T09:29:41.781541+00:00",
+  "questions_reviewed": 110,
+  "source_spot_checks": 4,
+  "human_review_flagged_questions": [
+    "CONS-16"
+  ],
+  "codex_session_usage_in_api_cost_estimate": false
+}

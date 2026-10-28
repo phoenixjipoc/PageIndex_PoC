@@ -1,0 +1,149 @@
+{
+  "id": "DDQ-04",
+  "question": "Under the ILPA ESG Assessment Framework, how often does a GP review its ESG policy at the 'Intermediate' and at the 'Advanced' level of the 'Approach to Policy Review' component?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:15:09.664298+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "At the **Intermediate** level, the GP reviews its ESG policy periodically—about **every 2–3 years**. At the **Advanced** level, it reviews the policy **annually**. [ILPA ESG Assessment Framework, p. 2]",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 40802,
+    "input_tokens_details": {
+      "cached_tokens": 29419,
+      "cache_write_tokens": 11365
+    },
+    "output_tokens": 205,
+    "output_tokens_details": {
+      "reasoning_tokens": 9
+    },
+    "total_tokens": 41007,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1228,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1225
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1243
+      },
+      {
+        "input_tokens": 2394,
+        "input_tokens_details": {
+          "cached_tokens": 1225,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 9
+        },
+        "total_tokens": 2428
+      },
+      {
+        "input_tokens": 7631,
+        "input_tokens_details": {
+          "cached_tokens": 2391,
+          "cache_write_tokens": 5237
+        },
+        "output_tokens": 31,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7662
+      },
+      {
+        "input_tokens": 7882,
+        "input_tokens_details": {
+          "cached_tokens": 7628,
+          "cache_write_tokens": 251
+        },
+        "output_tokens": 32,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7914
+      },
+      {
+        "input_tokens": 10299,
+        "input_tokens_details": {
+          "cached_tokens": 7879,
+          "cache_write_tokens": 2417
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10335
+      },
+      {
+        "input_tokens": 11368,
+        "input_tokens_details": {
+          "cached_tokens": 10296,
+          "cache_write_tokens": 1069
+        },
+        "output_tokens": 57,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 11425
+      }
+    ]
+  },
+  "elapsed_seconds": 12.864,
+  "finished_at_utc": "2026-10-27T09:15:22.534918+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 40802,
+    "output_tokens": 205,
+    "cached_input_tokens": 29419,
+    "cache_write_tokens": 11365,
+    "reasoning_tokens": 9,
+    "total_tokens": 41007
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-ESG-Assessment-Framework.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-ESG-Assessment-Framework.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-ESG-Assessment-Framework.pdf\",\"pages\":\"2\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "ILPA__ILPA-ESG-Assessment-Framework.pdf",
+      "pages": "2",
+      "success": true,
+      "call_id": "call_GgQhg83qhX0glvKcQP6PG7qE"
+    }
+  ],
+  "successfully_read_documents": [
+    "ILPA__ILPA-ESG-Assessment-Framework.pdf"
+  ]
+}

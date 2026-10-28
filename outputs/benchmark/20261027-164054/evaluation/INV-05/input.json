@@ -1,0 +1,7 @@
+{
+  "question": "In the Teachers' Retirement System of the State of Illinois (TRS) FY25 RFP for private equity investment consultant services, what minimum private equity client experience must a firm certify?",
+  "gold_answer": "The firm and/or its principals must have experience providing private equity consulting services to clients with, in aggregate, private equity portfolio assets of at least $10 billion.",
+  "acceptance": "Require aggregate client private-equity assets of at least $10bn and firm/principal consulting experience. Do not require $10bn for each client or personnel tenure.",
+  "scope": "single_document",
+  "candidate_answer": "The firm must certify that **it and/or its principals have provided private equity consulting services to clients whose private equity portfolio assets total at least $10 billion in aggregate**. Source: *FY25 RFP, Appendix B: Statement of Minimum Qualifications*, p. 15."
+}

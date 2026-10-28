@@ -1,0 +1,149 @@
+{
+  "id": "XD-10",
+  "question": "How many lettered appendices does the ILPA Due Diligence Questionnaire 2.0 list in its table of contents, and what are they?",
+  "type": "pair_b",
+  "pair_id": "P17",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:18:57.883641+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The table of contents lists **eight lettered appendices**, A through H: fileciteILPA__ILPA-DDQ-2.0.pdf\n\n- **A:** Requested Documents\n- **B:** Templates: Team Members\n- **C:** Templates: References\n- **D:** Templates: Third-Parties and Technology Tools\n- **E:** Templates: Fund\n- **F:** Templates: Portfolio Investments\n- **G:** Templates: GP-Led Secondaries / Continuation Funds\n- **H:** Templates: Credit Facilities",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 37818,
+    "input_tokens_details": {
+      "cached_tokens": 28173,
+      "cache_write_tokens": 9627
+    },
+    "output_tokens": 301,
+    "output_tokens_details": {
+      "reasoning_tokens": 39
+    },
+    "total_tokens": 38119,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1219,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1216
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1234
+      },
+      {
+        "input_tokens": 2385,
+        "input_tokens_details": {
+          "cached_tokens": 1216,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 51,
+        "output_tokens_details": {
+          "reasoning_tokens": 26
+        },
+        "total_tokens": 2436
+      },
+      {
+        "input_tokens": 7676,
+        "input_tokens_details": {
+          "cached_tokens": 2382,
+          "cache_write_tokens": 5291
+        },
+        "output_tokens": 30,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7706
+      },
+      {
+        "input_tokens": 7948,
+        "input_tokens_details": {
+          "cached_tokens": 7673,
+          "cache_write_tokens": 272
+        },
+        "output_tokens": 31,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7979
+      },
+      {
+        "input_tokens": 8960,
+        "input_tokens_details": {
+          "cached_tokens": 7945,
+          "cache_write_tokens": 1012
+        },
+        "output_tokens": 52,
+        "output_tokens_details": {
+          "reasoning_tokens": 13
+        },
+        "total_tokens": 9012
+      },
+      {
+        "input_tokens": 9630,
+        "input_tokens_details": {
+          "cached_tokens": 8957,
+          "cache_write_tokens": 670
+        },
+        "output_tokens": 122,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9752
+      }
+    ]
+  },
+  "elapsed_seconds": 12.298,
+  "finished_at_utc": "2026-10-27T09:19:10.187214+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 37818,
+    "output_tokens": 301,
+    "cached_input_tokens": 28173,
+    "cache_write_tokens": 9627,
+    "reasoning_tokens": 39,
+    "total_tokens": 38119
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":0}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\",\"pages\":\"1-2\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "ILPA__ILPA-DDQ-2.0.pdf",
+      "pages": "1-2",
+      "success": true,
+      "call_id": "call_cIjcXFBq3CAHQqSCNUWT82mi"
+    }
+  ],
+  "successfully_read_documents": [
+    "ILPA__ILPA-DDQ-2.0.pdf"
+  ]
+}

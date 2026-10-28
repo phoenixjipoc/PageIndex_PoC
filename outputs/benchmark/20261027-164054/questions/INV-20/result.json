@@ -1,0 +1,149 @@
+{
+  "id": "INV-20",
+  "question": "Which meetings must the investment consultant attend under the IMRF sample RFP for investment consulting, real estate consulting and performance measurement services, and how many days of meetings per year does IMRF estimate?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:18:23.118305+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The consultant must attend monthly IMRF Board meetings, Investment Committee meetings, the annual IMRF Roundtable, regional meetings with investment managers, related investment meetings and discussions, formal interviews with existing and prospective investment managers, and ad hoc due-diligence meetings with managers and staff. IMRF estimates **60 days of meetings per year** with trustees and/or staff. [IMRF sample RFP, p. 6](IMRF__sample-investment-consulting-rfp.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 63782,
+    "input_tokens_details": {
+      "cached_tokens": 40948,
+      "cache_write_tokens": 22816
+    },
+    "output_tokens": 249,
+    "output_tokens_details": {
+      "reasoning_tokens": 10
+    },
+    "total_tokens": 64031,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1227,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1224
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1242
+      },
+      {
+        "input_tokens": 2393,
+        "input_tokens_details": {
+          "cached_tokens": 1224,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 10
+        },
+        "total_tokens": 2428
+      },
+      {
+        "input_tokens": 7631,
+        "input_tokens_details": {
+          "cached_tokens": 2390,
+          "cache_write_tokens": 5238
+        },
+        "output_tokens": 30,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7661
+      },
+      {
+        "input_tokens": 7872,
+        "input_tokens_details": {
+          "cached_tokens": 7628,
+          "cache_write_tokens": 241
+        },
+        "output_tokens": 31,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7903
+      },
+      {
+        "input_tokens": 21840,
+        "input_tokens_details": {
+          "cached_tokens": 7869,
+          "cache_write_tokens": 13968
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 21877
+      },
+      {
+        "input_tokens": 22819,
+        "input_tokens_details": {
+          "cached_tokens": 21837,
+          "cache_write_tokens": 979
+        },
+        "output_tokens": 101,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 22920
+      }
+    ]
+  },
+  "elapsed_seconds": 13.761,
+  "finished_at_utc": "2026-10-27T09:18:36.885430+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 63782,
+    "output_tokens": 249,
+    "cached_input_tokens": 40948,
+    "cache_write_tokens": 22816,
+    "reasoning_tokens": 10,
+    "total_tokens": 64031
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"IMRF__sample-investment-consulting-rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"IMRF__sample-investment-consulting-rfp.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"IMRF__sample-investment-consulting-rfp.pdf\",\"pages\":\"6-7\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "IMRF__sample-investment-consulting-rfp.pdf",
+      "pages": "6-7",
+      "success": true,
+      "call_id": "call_DV7vo9QNbkitsARq3xblIlfY"
+    }
+  ],
+  "successfully_read_documents": [
+    "IMRF__sample-investment-consulting-rfp.pdf"
+  ]
+}

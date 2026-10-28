@@ -1,0 +1,43 @@
+{
+  "file": "Oklahoma_OPERS__RFP_Inv_Mgmt_Index_mandates_July-2023_Final.pdf",
+  "sha256": "3ad89e0457272e17960e361dff688fc587efea255a0ba4aa17447ffd68e532fe",
+  "bytes": 292309,
+  "pages": 17,
+  "public_source_url": "https://www.opers.ok.gov/wp-content/uploads/2023/07/RFP_Inv_Mgmt_Index_mandates_July-2023_Final.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:04:51.002809+00:00",
+  "doc_id": "pi-879269fbb06842c5b48c1ffb3408172b",
+  "stored_name": "Oklahoma_OPERS__RFP_Inv_Mgmt_Index_mandates_July-2023_Final.pdf",
+  "reported_usage": {
+    "prompt_tokens": 12831,
+    "completion_tokens": 3766,
+    "total_tokens": 16597,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 6199
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1005
+    }
+  },
+  "elapsed_seconds": 16.948,
+  "finished_at_utc": "2026-10-27T09:05:07.970047+00:00",
+  "model_calls": 13,
+  "http_attempts": 13,
+  "observed_usage": {
+    "input_tokens": 12831,
+    "output_tokens": 3766,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 6199,
+    "reasoning_tokens": 1005,
+    "total_tokens": 16597
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

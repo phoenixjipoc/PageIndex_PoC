@@ -1,0 +1,180 @@
+{
+  "id": "DDQ-01",
+  "question": "Which due diligence questionnaire in the corpus asks the manager 'What kills a deal for your team?', and who published it?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:15:18.301291+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The question appears in the **Private Markets Due Diligence Questionnaire**, under “Investment Strategy.” The document is credited to **Calamos Investments and Aksia**.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 55750,
+    "input_tokens_details": {
+      "cached_tokens": 31770,
+      "cache_write_tokens": 23962
+    },
+    "output_tokens": 637,
+    "output_tokens_details": {
+      "reasoning_tokens": 188
+    },
+    "total_tokens": 56387,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1212,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1209
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1227
+      },
+      {
+        "input_tokens": 2378,
+        "input_tokens_details": {
+          "cached_tokens": 1209,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 45,
+        "output_tokens_details": {
+          "reasoning_tokens": 20
+        },
+        "total_tokens": 2423
+      },
+      {
+        "input_tokens": 7626,
+        "input_tokens_details": {
+          "cached_tokens": 2375,
+          "cache_write_tokens": 5248
+        },
+        "output_tokens": 73,
+        "output_tokens_details": {
+          "reasoning_tokens": 48
+        },
+        "total_tokens": 7699
+      },
+      {
+        "input_tokens": 9664,
+        "input_tokens_details": {
+          "cached_tokens": 7623,
+          "cache_write_tokens": 2038
+        },
+        "output_tokens": 203,
+        "output_tokens_details": {
+          "reasoning_tokens": 38
+        },
+        "total_tokens": 9867
+      },
+      {
+        "input_tokens": 10905,
+        "input_tokens_details": {
+          "cached_tokens": 9661,
+          "cache_write_tokens": 1241
+        },
+        "output_tokens": 179,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 11084
+      },
+      {
+        "input_tokens": 23965,
+        "input_tokens_details": {
+          "cached_tokens": 10902,
+          "cache_write_tokens": 13060
+        },
+        "output_tokens": 122,
+        "output_tokens_details": {
+          "reasoning_tokens": 82
+        },
+        "total_tokens": 24087
+      }
+    ]
+  },
+  "elapsed_seconds": 16.615,
+  "finished_at_utc": "2026-10-27T09:15:34.922132+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 55750,
+    "output_tokens": 637,
+    "cached_input_tokens": 31770,
+    "cache_write_tokens": 23962,
+    "reasoning_tokens": 188,
+    "total_tokens": 56387
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":60}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf\",\"pages\":\"1-4\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf\",\"pages\":\"1-7\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf",
+      "pages": "1-4",
+      "success": true,
+      "call_id": "call_1MHOkdIqgqT1PJwfIiAqGzQQ"
+    },
+    {
+      "document": "NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf",
+      "pages": "1-7",
+      "success": true,
+      "call_id": "call_94lkdakxvVhYwW0JEQwuusoF"
+    }
+  ],
+  "successfully_read_documents": [
+    "AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf",
+    "NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf"
+  ]
+}

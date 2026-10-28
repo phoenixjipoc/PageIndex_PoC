@@ -1,0 +1,15 @@
+{
+  "question_id": "DDQ-07",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "71c8fb466e0bb5df9eacf71b34a7d50d00fda97d7c572717b324937bfa7d3867",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct twenty topics and final DEI topic.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:27:10.814877+00:00"
+}

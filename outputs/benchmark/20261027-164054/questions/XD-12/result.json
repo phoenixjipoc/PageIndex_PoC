@@ -1,0 +1,149 @@
+{
+  "id": "XD-12",
+  "question": "What 'Red Flag Questions' does the Calamos/Aksia Private Markets Due Diligence Questionnaire tell investors to ask a manager?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:19:49.272533+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "Under **“Red Flag Questions,”** the questionnaire tells investors to ask a manager:\n\n- Have any senior investment professionals left in the last five years? If so, what happened?\n- Has the firm or any of its principals faced client complaints, regulatory actions, or pending litigation?\n- What is the strategy’s current capacity limit, and at what asset level would growth impair its ability to deploy capital?\n- What might cause the manager to close the fund to new investors?\n- What is the biggest risk to the strategy that keeps the manager up at night?\n\nSource: *Calamos/Aksia Private Markets Due Diligence Questionnaire*, p. 2.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 43716,
+    "input_tokens_details": {
+      "cached_tokens": 30693,
+      "cache_write_tokens": 13005
+    },
+    "output_tokens": 287,
+    "output_tokens_details": {
+      "reasoning_tokens": 11
+    },
+    "total_tokens": 44003,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1215,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1212
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1230
+      },
+      {
+        "input_tokens": 2381,
+        "input_tokens_details": {
+          "cached_tokens": 1212,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 2417
+      },
+      {
+        "input_tokens": 7620,
+        "input_tokens_details": {
+          "cached_tokens": 2378,
+          "cache_write_tokens": 5239
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7643
+      },
+      {
+        "input_tokens": 9608,
+        "input_tokens_details": {
+          "cached_tokens": 7617,
+          "cache_write_tokens": 1988
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9643
+      },
+      {
+        "input_tokens": 9884,
+        "input_tokens_details": {
+          "cached_tokens": 9605,
+          "cache_write_tokens": 276
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9926
+      },
+      {
+        "input_tokens": 13008,
+        "input_tokens_details": {
+          "cached_tokens": 9881,
+          "cache_write_tokens": 3124
+        },
+        "output_tokens": 136,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 13144
+      }
+    ]
+  },
+  "elapsed_seconds": 11.725,
+  "finished_at_utc": "2026-10-27T09:20:01.003162+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 43716,
+    "output_tokens": 287,
+    "cached_input_tokens": 30693,
+    "cache_write_tokens": 13005,
+    "reasoning_tokens": 11,
+    "total_tokens": 44003
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"offset\":10,\"limit\":50}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"offset\":60,\"limit\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf\",\"pages\":\"1-4\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf",
+      "pages": "1-4",
+      "success": true,
+      "call_id": "call_UG0NFEKINpVV0QVjXoeEMZfP"
+    }
+  ],
+  "successfully_read_documents": [
+    "AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf"
+  ]
+}

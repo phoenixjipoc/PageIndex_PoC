@@ -1,0 +1,112 @@
+{
+  "doc_id": "pi-ef99fadd68bd40b9a64f6580257c4a80",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 3,
+      "summary": "The City of York, Pennsylvania, issued a November 28, 2016 RFP seeking an investment manager, adviser, or consultant for its three municipal defined-benefit pension plans, which have approximately $100 million in assets. Services include setting and reviewing investment policy, managing assets, monitoring, and reporting. The RFP calls for separate service and sealed cost proposals, three paper copies and an electronic submission; it lists the required service, firm, personnel, client-service, compliance, governance, trading, risk, conflicts, investment-process, research, performance, GIPS, and fee information. Questions and proposals go to Business Administrator Michael Doweary. The City may amend requirements or dates, waive nonconformities, or reject proposals, and will not reimburse submission costs. The schedule runs from RFP release November 28, 2016, through questions (December 12), responses (December 16), proposals due January 6, 2017, interviews March 13–17, selection notification May 19, agreement signing June 16, and mandate start July 1, 2017."
+    },
+    {
+      "title": "York Municipal Pension Investment Services RFP",
+      "node_id": "0001",
+      "start_index": 3,
+      "end_index": 3,
+      "key_items": [
+        "OVERVIEW",
+        "PROPOSALS",
+        "TIMETABLE"
+      ],
+      "summary": "The City of York seeks a qualified investment manager, adviser, or consultant for its approximately $100 million municipal pension funds, covering the Officers and Employees, Police Officers, and Firefighters plans. Services include establishing, reviewing, and maintaining investment policy; managing assets; monitoring; reporting; and related work. Proposals must include separate service and sealed cost proposals, three paper copies, and an electronic version; lengthy materials may be electronic only. Submit proposals and questions to Business Administrator Michael Doweary by the stated deadlines. Responses may use any format but should address requested information; questions and additional information are welcomed. The City may amend the RFP or schedule, waive non-conformities, or reject proposals, and will not reimburse proposal expenses. Schedule: RFP issued Nov. 28, 2016; questions due Dec. 12; answers posted Dec. 16; proposals due Jan. 6, 2017; interviewees notified Feb. 17; interviews Mar. 13–17; selected manager notified May 19; agreement signed June 16; mandate begins July 1."
+    },
+    {
+      "title": "SERVICE PROPOSAL",
+      "node_id": "0002",
+      "start_index": 4,
+      "end_index": 8,
+      "summary": "The section specifies the firm, service, performance, and certification information required in a proposal. Firm disclosures cover identity, legal status, history, ownership, organization, affiliates, regulators, insurance, staffing, key-person changes, client service and reporting, compliance and licensing, inspections and proceedings, proxy voting, governance, ethics, conflicts, trading and brokerage practices, risk management, and succession or crisis planning. Firms must certify independence, disclose conflicts and City affiliations, and report specified employment, lobbying, communications, contributions, financial relationships, and gifts under Act 44. Service information covers personnel and qualifications, service scope and fiduciary duties, investment-policy work, client education, assets and account history, clients and references, investment philosophy and process, manager oversight, fees, specialized strategies, research, risk controls, benchmark monitoring, and stress testing. Performance materials require benchmark comparisons and GIPS status and, where applicable, compliant presentations and verification; otherwise, ten-year returns and supporting composite, portfolio, asset, dispersion, currency, and methodology disclosures. An authorized representative must sign certifying both proposals’ information is truthful and complete.",
+      "nodes": [
+        {
+          "title": "FIRM INFORMATION",
+          "node_id": "0003",
+          "start_index": 4,
+          "end_index": 6,
+          "key_items": [
+            "Organizational Information; Firm Personnel; Client Service; Compliance",
+            "Organizational Information",
+            "Firm Personnel",
+            "Client Service",
+            "Compliance",
+            "Proxy Voting; Governance; Trading; Brokerage/Soft Dollars; Firm Risk",
+            "Proxy Voting",
+            "Governance",
+            "Trading",
+            "Brokerage/Soft Dollars",
+            "Firm Risk",
+            "Independence & Conflicts of Interest"
+          ],
+          "summary": "The RFP requests firm identity, legal status, contacts, proposal date and authorization, history, ownership changes, organizational chart, affiliates, regulators, and insurance. It seeks staffing levels, experience, tenure, key-person turnover and reasons; client-service duties, reporting methods and samples, and satisfaction processes and reports. Compliance submissions include procedures, assessments, CCO reporting line, Pennsylvania licensing, registration forms, inspection results, and relevant proceedings or litigation. It requests proxy-voting policies and any third-party service details; governance controls, conflicts and ethics code; trading, best-execution, allocation, cost-monitoring, turnover and client-directed transaction policies; brokerage, soft-dollar and commission-recapture arrangements and conflict controls; risk-manager biographies and succession/crisis plans. Firms must certify independence and disclose conflicts or City affiliations, comply with Act 44, and report specified City employment, lobbying, communications, contributions, financial relationships, and gifts, including required details and time periods."
+        },
+        {
+          "title": "SERVICE INFORMATION",
+          "node_id": "0004",
+          "start_index": 6,
+          "end_index": 7,
+          "key_items": [
+            "Personnel",
+            "Proposed Service"
+          ],
+          "summary": "The RFP requests information for evaluating firms’ proposed services and history, including key personnel’s roles, qualifications, experience, and biographies; service scope (advisory or discretionary), fiduciary responsibility, servicing and communications, firm history, objectives, investment-policy development and review, benchmarks, compliance monitoring, and client education. Firms must report assets and account counts by client/account type, accounts gained and lost over five years with amounts, percentages, and termination reasons, representative clients, and three references with contact details and relationship length. Investment philosophy and process should cover strategy, screening, selection, allocation and portfolio construction, trading decisions and turnover, management structure and discretion, manager selection, monitoring and termination, fees, use of leverage or other specialized strategies, and meeting frequency. The RFP also asks about investment-risk controls, measurement, benchmark deviations and stress testing; research methods and style; and performance evaluation against benchmarks, including GIPS compliance and a compliant presentation if applicable."
+        },
+        {
+          "title": "Investment Manager RFP: Firm, Process, Risk and Performance",
+          "node_id": "0005",
+          "start_index": 7,
+          "end_index": 7,
+          "key_items": [
+            "References",
+            "Investment Philosophy and Process",
+            "Risk",
+            "Research"
+          ],
+          "summary": "Requests assets under management by account type, client gains and losses over five years (including account counts, values, asset shares and termination reasons), and representative clients. Seeks three client references with contact details and relationship lengths. Covers firm and service investment philosophy; strategy, screening, selection, portfolio construction and allocation; buy/sell decisions, turnover, management approach and permitted deviations; manager evaluation, monitoring, termination and turnover; fee negotiation; use of leverage, derivatives and securities lending; and investment-policy meeting frequency. Asks how portfolio risk is controlled, measured against benchmarks and stress-tested, and for an overview of research methods and style. The performance section requests detailed performance information, evaluation against benchmarks, and GIPS-compliance status and, if compliant, a GIPS-compliant presentation."
+        },
+        {
+          "title": "PERFORMANCE",
+          "node_id": "0006",
+          "start_index": 7,
+          "end_index": 8,
+          "key_items": [
+            "Performance",
+            "GIPS Compliance"
+          ],
+          "summary": "The RFP requests assets under management by account type and size; accounts gained or lost over five years, including values, asset-type percentages and termination reasons; representative clients and three references. It asks about firm and service investment philosophy, strategy, screening, portfolio construction and allocation, trading decisions and turnover, management approach and discretion, manager selection, monitoring and termination, fees, use of leverage and complex strategies, and investment-policy meeting frequency. It also covers risk controls, measurement versus benchmarks and stress testing, plus research methods and style. Performance is assessed against benchmarks: firms must provide GIPS compliance status and, if compliant, a presentation and verification history; otherwise, ten-year annual gross/net returns and supporting portfolio, composite, asset, dispersion and currency data. Noncompliant firms must also explain composite definitions, deductions, benchmarks, dispersion, tax and exchange-rate treatment, cash allocation, sub-advisers, inclusion thresholds, valuation timing, and availability of reporting policies. Additional information may be supplied."
+        },
+        {
+          "title": "SIGNATURE OF AUTHORIZED REPRESENTATIVE",
+          "node_id": "0007",
+          "start_index": 8,
+          "end_index": 8,
+          "summary": "SIGNATURE OF AUTHORIZED REPRESENTATIVE\nStatement of Firm that all information in both the Service and Sealed Cost Proposals is truthful and complete The Service Proposal shall be signed by a duly Authorized Representative of the Firm.\n\n\nP a g e 8 | 9"
+        }
+      ]
+    },
+    {
+      "title": "SEALED COST PROPOSAL",
+      "node_id": "0008",
+      "start_index": 9,
+      "end_index": 9,
+      "key_items": [
+        "PROPOSED FEES AND FEE STRUCTURE; SIGNATURE OF AUTHORIZED REPRESENTATIVE",
+        "PROPOSED FEES AND FEE STRUCTURE",
+        "SIGNATURE OF AUTHORIZED REPRESENTATIVE"
+      ],
+      "summary": "The RFP requires a separate, sealed Cost Proposal describing the proposed fee structure. It must cover service fees and any performance-based fee basis; all other direct or indirect fees and compensation benefiting the firm, related entities, or employees, including recapture, rebates, and referral fees; trading costs, account minimums, minimum annual fees, negotiable fee elements, and other costs relevant to the Trustees; fees for additional services requested during the mandate; and billing frequency and payment method. The proposal must be signed by a duly authorized firm representative."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

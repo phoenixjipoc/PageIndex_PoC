@@ -1,0 +1,133 @@
+{
+  "id": "OTH-03",
+  "question": "In Rice University's 2021 RFP for audit services for its retirement plans, how many participants did the 401(a) plan and the 403(b) plan have as of December 31, 2020?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:20:21.662623+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "As of December 31, 2020, Rice University’s **401(a) plan had 8,828 participants** and its **403(b) plan had 7,533 participants**. [Source: Rice University 2021 audit-services RFP, p. 1]",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 29327,
+    "input_tokens_details": {
+      "cached_tokens": 19167,
+      "cache_write_tokens": 10145
+    },
+    "output_tokens": 191,
+    "output_tokens_details": {
+      "reasoning_tokens": 12
+    },
+    "total_tokens": 29518,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1232,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1229
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1247
+      },
+      {
+        "input_tokens": 2398,
+        "input_tokens_details": {
+          "cached_tokens": 1229,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 12
+        },
+        "total_tokens": 2435
+      },
+      {
+        "input_tokens": 7638,
+        "input_tokens_details": {
+          "cached_tokens": 2395,
+          "cache_write_tokens": 5240
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7673
+      },
+      {
+        "input_tokens": 7911,
+        "input_tokens_details": {
+          "cached_tokens": 7635,
+          "cache_write_tokens": 273
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7953
+      },
+      {
+        "input_tokens": 10148,
+        "input_tokens_details": {
+          "cached_tokens": 7908,
+          "cache_write_tokens": 2237
+        },
+        "output_tokens": 62,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10210
+      }
+    ]
+  },
+  "elapsed_seconds": 11.119,
+  "finished_at_utc": "2026-10-27T09:20:32.800397+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 29327,
+    "output_tokens": 191,
+    "cached_input_tokens": 19167,
+    "cache_write_tokens": 10145,
+    "reasoning_tokens": 12,
+    "total_tokens": 29518
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Rice_University__2021_Benefit_Plan_RFP_-_final.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Rice_University__2021_Benefit_Plan_RFP_-_final.pdf\",\"pages\":\"1-3\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Rice_University__2021_Benefit_Plan_RFP_-_final.pdf",
+      "pages": "1-3",
+      "success": true,
+      "call_id": "call_OFryHPMI5EB3OyiiOBBJqC3l"
+    }
+  ],
+  "successfully_read_documents": [
+    "Rice_University__2021_Benefit_Plan_RFP_-_final.pdf"
+  ]
+}

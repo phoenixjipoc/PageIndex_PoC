@@ -1,0 +1,15 @@
+{
+  "question_id": "INV-23",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "7088f37cab5502f5442e8c3274350c0641a5554e832de0bfffb0fbccdc276c4c",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "All ten named mandates have matching initial terms and options, including two unspecified terms.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:25:58.868024+00:00"
+}

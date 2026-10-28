@@ -1,0 +1,43 @@
+{
+  "file": "SC_RSIC__2016_09_30_General_Consultant_FINAL.pdf",
+  "sha256": "7b9bd5913c84103f283ca31334e06fffb8e8ba4b740a59c582b28a5b25526d7c",
+  "bytes": 795256,
+  "pages": 47,
+  "public_source_url": "https://www.rsic.sc.gov/PDFs/2016%2009%2030%20General%20Consultant%20FINAL.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:07:32.511358+00:00",
+  "doc_id": "pi-f3110ab7370a48f5ae1da2090f02675c",
+  "stored_name": "SC_RSIC__2016_09_30_General_Consultant_FINAL.pdf",
+  "reported_usage": {
+    "prompt_tokens": 44021,
+    "completion_tokens": 12013,
+    "total_tokens": 56034,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 20662
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3015
+    }
+  },
+  "elapsed_seconds": 24.613,
+  "finished_at_utc": "2026-10-27T09:07:57.136211+00:00",
+  "model_calls": 47,
+  "http_attempts": 47,
+  "observed_usage": {
+    "input_tokens": 44021,
+    "output_tokens": 12013,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 20662,
+    "reasoning_tokens": 3015,
+    "total_tokens": 56034
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

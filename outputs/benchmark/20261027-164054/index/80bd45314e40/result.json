@@ -1,0 +1,43 @@
+{
+  "file": "ILPA__240901-ESG-Assessment-Framework-FAQ.pdf",
+  "sha256": "61a7ea098da7653704c39931ba28f757cc6e4be530c845c5d46b8fb37a0abaf0",
+  "bytes": 120000,
+  "pages": 3,
+  "public_source_url": "https://ilpa.org/wp-content/uploads/2024/09/240901-ESG-Assessment-Framework-FAQ.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:52:42.477328+00:00",
+  "doc_id": "pi-893606bf5606417e9f3b5e97ec3d4160",
+  "stored_name": "ILPA__240901-ESG-Assessment-Framework-FAQ.pdf",
+  "reported_usage": {
+    "prompt_tokens": 2473,
+    "completion_tokens": 703,
+    "total_tokens": 3176,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 1328
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 184
+    }
+  },
+  "elapsed_seconds": 7.647,
+  "finished_at_utc": "2026-10-27T08:52:50.132189+00:00",
+  "model_calls": 3,
+  "http_attempts": 3,
+  "observed_usage": {
+    "input_tokens": 2473,
+    "output_tokens": 703,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 1328,
+    "reasoning_tokens": 184,
+    "total_tokens": 3176
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

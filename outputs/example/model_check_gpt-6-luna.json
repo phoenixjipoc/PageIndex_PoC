@@ -1,0 +1,8 @@
+{
+  "requested_model": "gpt-6-luna",
+  "previous_container_default": "gpt-5.4",
+  "endpoint_host": "api.openai.com",
+  "http_status": 200,
+  "returned_model": "gpt-6-luna",
+  "available": true
+}

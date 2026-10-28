@@ -1,0 +1,263 @@
+{
+  "doc_id": "pi-8f36a4b9666e4482bdd97e12a13d29c1",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 2,
+      "summary": "The City of Baltimore Employees’ Retirement System and OPEB Trust seeks an alternatives consultant through an RFP. The process was approved August 15, 2024; written questions are due October 4, proposals November 8, and interviews are tentatively scheduled for January 16, 2025. Proposals require one emailed PDF copy and one hard copy delivered to Donna S. Bowen at the Employees’ Retirement System, 7 East Redwood Street, 12th Floor, Baltimore, Maryland 21202. The RFP covers background and required services, including the investment program, scope, qualifications, evaluation criteria, independence certification, and FAQs; submission procedures, timeline, communications, addenda, interpretation, preparation, and cancellation; and proposal contents: transmittal letter, questionnaire, references, fees, and supporting materials. Appendices provide representations and warranties, a fee schedule, and workforce ethnicity breakdown."
+    },
+    {
+      "title": "SECTION I: Background & Nature of Services Required",
+      "node_id": "0001",
+      "start_index": 3,
+      "end_index": 9,
+      "summary": "The section describes BCERS—the Baltimore City Employees’ Retirement System, a defined-benefit plan, and its OPEB Trust—and the Board’s fiduciary and governance structure. It outlines each fund’s size, target asset allocations, investment program, and existing managers. BCERS seeks a full-retainer, non-discretionary alternatives consultant, principally to structure and oversee private equity while coordinating with its general consultant. Duties include opportunity screening, due diligence, recommendations and negotiations; portfolio, manager, risk and compliance monitoring; policy and allocation advice; data, performance and cash-flow reporting and reconciliation; Board attendance, education, research and other requested support. Minimum requirements cover consulting experience, qualified staff and clients, public-pension experience, fiduciary status, SEC registration, conflict-free advice and specified insurance. The Board evaluates team, understanding, methods, reporting, fees and objectivity; finalists disclose independence before interviews. The FAQ confirms a genuine search: Meketa may apply, Marquette may not; the selected firm will assess existing private-equity structures, and the Board meets monthly with consultant attendance expected.",
+      "nodes": [
+        {
+          "title": "BCERS Background and Alternatives Consultant Solicitation",
+          "node_id": "0002",
+          "start_index": 3,
+          "end_index": 3,
+          "key_items": [
+            "A. Introduction",
+            "B. BCERS"
+          ],
+          "summary": "The section introduces the Baltimore City Employees’ Retirement System (ERS) and Retiree Benefit Trust (OPEB Trust), together called BCERS for the RFP, which seeks one non-discretionary, full-service alternatives consultant to support the Board and staff. Established in 1926, ERS is a contributory defined-benefit plan for non-uniformed City employees and their survivors, providing retirement, disability, and death benefits; member contributions were 5% in 2024, and membership totaled 17,869 on June 30, 2024. The City established the OPEB Trust in 2007 to pre-fund retiree healthcare and other post-employment benefits. The BCERS Board is fiduciary for both funds and has nine trustees: two ex-officio, four mayoral appointees (two following City Council President recommendations), two elected by active members, and one elected by retirees. Elected and appointed trustees serve four-year terms; appointees continue until replaced or the end of two consecutive full terms. The Board and Executive Director set policies and make administrative and investment decisions."
+        },
+        {
+          "title": "C. Investment Program",
+          "node_id": "0003",
+          "start_index": 3,
+          "end_index": 4,
+          "summary": "The investment program is governed by BCERS’ Statement of Investment Objectives, Policies and Guidelines in its online Governance Manual; ERS investment managers are listed in the online ACFR. As of June 30, 2024, the ERS portfolio was about $2.1 billion, targeted to U.S. equity (22%), U.S. fixed income (18%), international equity (15%), real estate (15%), private equity (15%), defensive equity (7%), low volatility (4%) and private credit (4%); private credit is excluded from the RFP search. The OPEB Trust was valued at $963.9 million, with targets of U.S. equity (29%), non-U.S. equity (22%), U.S. fixed income (19%), real estate (13%), private equity (9%) and defensive equity (8%). OPEB managers include Neuberger Berman (defensive equity); Cooke & Bieler, Edgar Lomax and Mellon Index (domestic equity); Baird Advisors, Invesco and MCM Aggregate Bond Index (fixed income); Earnest Partners and MCM All-Country World Index Ex-US Fund (international equity); and the listed private equity firms: Ares–Landmark Partners, Avance, BlackRock, Chicago Pacific Founders, GenNx360 Capital Partners, I Squared Global Infrastructure, Lightspeed Venture Partners, Oaktree Special Situations Fund, Reverence Capital Partners, RLJ Equity Partners, Siris Partners, Tailwater Energy, Vistria Fund, Vivo Capital and Vitruvian Investment Partnership."
+        },
+        {
+          "title": "D. Scope of Service",
+          "node_id": "0004",
+          "start_index": 4,
+          "end_index": 7,
+          "summary": "BCERS seeks a full-retainer alternatives consultant, primarily responsible for structuring and overseeing its private equity program under Board and staff direction. A separate general consultant handles broader investment planning and monitoring. Duties include developing program goals and processes; screening global opportunities; conducting due diligence and presenting recommendations; negotiating fund documents; coordinating advisers; monitoring managers, investments, compliance, and workout issues; and advising on policies, manager selection, allocations, structures, guidelines, and benchmarks. The consultant must maintain portfolio, commitment, cash-flow, fee, valuation, and return databases; calculate performance metrics; and provide quarterly performance reports and monthly commitment/cash-flow reports, reconcile them with custodian records, and support accounting and public disclosures. The role also includes attending Board meetings and workshops, presenting analysis and updates, providing periodic education, responding to inquiries, sharing research and staff access, reporting firm staffing or organizational changes, and undertaking other requested services such as manager due diligence."
+        },
+        {
+          "title": "E. Minimum Qualifications",
+          "node_id": "0005",
+          "start_index": 7,
+          "end_index": 8,
+          "summary": "Proposers must satisfy BCERS’s minimum qualifications by November 8, 2024, at 3:00 p.m. EDT or risk rejection: at least seven years providing general and private-equity or alternatives consulting; senior staff together at least five years; account managed directly by firm employees; consulting for at least five pension funds with assets over $1.5 billion and clients whose private-equity programs are at least 10% of assets; and a lead consultant with five years’ public defined-benefit pension experience and three years at the firm. Firms must serve as fiduciaries, accept Board policies in writing, have no material conflicts, maintain SEC investment-adviser registration, and carry or have applied for insurance of at least $5 million general liability, $5 million professional liability, and $1 million fiduciary liability; BCERS may require more. The Board selects finalists based on team and experience, understanding, process and research, reporting and monitoring, fees, and objectivity. Finalists must submit an independence certificate before interviews. The search seeks the best alternatives consultant; incumbent Meketa Group may also apply."
+        },
+        {
+          "title": "Consultant Qualifications, Evaluation, and Independence",
+          "node_id": "0006",
+          "start_index": 8,
+          "end_index": 8,
+          "key_items": [
+            "F. Evaluation Criteria",
+            "G. Certificate of Independence"
+          ],
+          "summary": "Firms must have no existing or potential material conflicts involving BCERS and its associated parties, maintain SEC investment-adviser registration, and carry or have applied for insurance by the RFP deadline: $5 million each for general liability, errors and omissions/professional liability, and fiduciary liability. BCERS may require higher coverage. All minimum qualifications must be met by November 8, 2024, at 3:00 p.m. EDT. The Board of Trustees will review proposal summaries and select finalists for oral presentations, considering personnel, stability, experience and team; understanding of BCERS objectives; process, due diligence, analytical tools and research; performance reporting and monitoring; fees; and objectivity of advice. Before interviews, finalists must submit a Certificate of Independence to the Executive Director disclosing possible conflicts or relationships with Board members or specified BCERS staff."
+        },
+        {
+          "title": "H. Frequently Asked Questions (FAQ)",
+          "node_id": "0007",
+          "start_index": 8,
+          "end_index": 9,
+          "summary": "The FAQ for Baltimore’s BCERS and OPEB Trust alternatives consultant RFP explains that the Board is conducting a genuine search, consistent with best practices and fiduciary duties, for a firm suited to its alternative investment needs. Incumbent Meketa Group may submit a proposal, while general investment consultant Marquette Associates may not. At the start of the engagement, the selected consultant is expected to assess current private equity portfolio structures and recommend changes as needed. The Board meets monthly, and the alternatives consultant is expected to attend."
+        }
+      ]
+    },
+    {
+      "title": "SECTION II: Process for Submitting Proposal",
+      "node_id": "0008",
+      "start_index": 10,
+      "end_index": 13,
+      "key_items": [
+        "A. Submission of Proposal; B. Timeline for Search and Selection Process; C. Intent to Respond",
+        "A. Submission of Proposal",
+        "B. Timeline for Search and Selection Process",
+        "C. Intent to Respond",
+        "D. Quiet Period, Questions and Communication regarding the RFP; E. Addenda to Request for Proposals; F. Ambiguity and Omissions in RFP",
+        "D. Quiet Period, Questions and Communication regarding the RFP",
+        "E. Addenda to Request for Proposals",
+        "F. Ambiguity and Omissions in RFP",
+        "G. Preparation of the Proposal",
+        "H. Cancellation of the RFP"
+      ],
+      "summary": "Proposals are due by 3:00 p.m. EDT November 8, 2024: email one PDF to rfpers@bcers.org and deliver one fully signed and sealed paper copy to the specified BCERS contact in Baltimore. Late submissions are rejected; BCERS is not responsible for misdelivery, and received proposals cannot be altered or replaced. The timeline runs from RFP publication September 4 through questions/intent October 4, proposal deadline November 8, finalist report December 19, interviews and selection January 16, 2025, and contract/Board of Estimates approval by February’s end; BCERS may amend it. Intent notices are requested but not required. During the quiet period, questions must be emailed in writing to David A. Randall by October 4; answers and any RFP changes are posted as addenda, which firms must track and incorporate. Proposals must be paginated, indexed in the specified order, answer Section III questions clearly, include requested exhibits, and contain authorized signatures on the transmittal letter and fee proposal. Revisions are allowed before the deadline; BCERS may seek clarification. Firms bear costs, submissions become BCERS property, Baltimore/Maryland law applies, and public-record disclosure rules govern confidentiality markings. BCERS may cancel the RFP, reject proposals, or end negotiations at any time."
+    },
+    {
+      "title": "SECTION III: Information To Be Provided",
+      "node_id": "0009",
+      "start_index": 14,
+      "end_index": 25,
+      "summary": "Section III specifies proposal content. Part A requires an authorized, signed transmittal letter with firm and contact identification, authority, a 180-day irrevocable offer, qualifications and delivery assurances, acceptance or written objections to mandatory contract terms, public-record acknowledgment, and completed Appendix A. Part B provides response instructions and a broad questionnaire covering firm structure, staffing, experience, clients, assets, services, fees, investment consulting and research, databases, manager sourcing and diligence, portfolio and risk practices, performance and reporting, conflicts, conduct, disclosure, transitions, continuity, references, and DEI. It requests public-disclosure policies, incumbent-program transition plans, and continuity-plan history. Part C requires three permitted client references, preferably comparable large public funds. Part D requires Appendix B fees, fee duration and extension terms, five-year increase policy, and DEI goals, practices, local business participation, and Appendix C workforce data. Part E requires organizational and staff materials, SEC Forms ADV, diligence reports, policy and report examples, conflict procedures, and up to three client-facing research pieces.",
+      "nodes": [
+        {
+          "title": "Part A: Letter of Transmittal",
+          "node_id": "0010",
+          "start_index": 14,
+          "end_index": 14,
+          "summary": "The proposal must include an integral Letter of Transmittal or cover letter signed by an individual authorized to bind the firm. It must provide the proposer’s contact details and applicable federal and corporate identification numbers; the signatory’s and, if different, primary contact/account administrator’s details; and confirm the signatory’s authority. It must state that the offer is firm and irrevocable for 180 days after the submission deadline, that the proposer is willing and able to provide the services, staff, resources, and deliverables on schedule, and that it meets the RFP’s minimum qualifications. The letter must accept BCERS’ mandatory contract provisions, identifying any written objections, acknowledge that submitted documents are public records except materials exempt under the Act, and include a signed, completed Appendix A (Representations and Warranties)."
+        },
+        {
+          "title": "Part B: Questionnaire",
+          "node_id": "0011",
+          "start_index": 15,
+          "end_index": 24,
+          "summary": "The questionnaire sets response-format instructions and requests firm information on organization, offices, ownership, affiliates, staffing, experience, registration, fiduciary status, services, business strategy, outsourcing, and organizational charts. It covers client counts, client gains and losses, assets, termination reasons, and major institutional clients; personnel qualifications, biographies, assignments, turnover, support, capacity, and client portfolios; and service scope, communications, availability, fees, and delivery methods. Firms report non-discretionary AUM by client and investment-vehicle type, and describe consulting philosophy, sector views, GP coverage, portfolio construction, sourcing, due diligence, manager selection and monitoring, emerging and international managers, and fund-of-funds activities. Questions address database coverage, updates, screening, and commercial conflicts; GP relationships and searches; investment policy, allocation, market outlook, and risk management; performance systems, valuations, reporting, and problem resolution; conflicts, investigations, conduct standards, and placement agents. Other topics include publications, accounting standards, disclosure, transitions, continuity, references, fees and extensions, and DEI policies and implementation.",
+          "nodes": [
+            {
+              "title": "(A) Organization",
+              "node_id": "0012",
+              "start_index": 15,
+              "end_index": 16,
+              "summary": "Part B provides instructions for completing the questionnaire: repeat each question before answering, be clear, specific, concise, and follow requested formats; a separate Word version will be available, and irrelevant detail may be disregarded. The Organization section asks about servicing-office locations, phone numbers, staffing, and functions; firm history, ownership percentages, affiliations, controlling and inactive owners, and past or anticipated ownership changes; and Exhibit 1 organizational charts for corporate relationships, respondent leadership, and consulting-unit functions and staffing, noting overlaps. It requests years of private-equity and public-pension consulting experience; investment-adviser registration, fiduciary status, the latest Form ADV Parts I and II as Exhibit 3, and whether the firm will be BCERS’s fiduciary. It also asks about specialties, strengths, limitations, competitive differences, services to private-equity managers and conflict controls; five-year business lines and revenue contributions, including related organizations; outsourced functions, reasons, and providers; and current and future business strategy, ownership, growth plans, capacity, and effects on existing-client service."
+            },
+            {
+              "title": "(B) Clients",
+              "node_id": "0013",
+              "start_index": 16,
+              "end_index": 16,
+              "summary": "Section B (Clients) requests information as of June 30, 2024, excluding project-based clients without long-term retainers. Question 12 asks for client counts by type—U.S. public pension funds, corporate pension funds, endowments/foundations, and other specified clients—including non-discretionary and total client numbers. Question 13 asks for the numbers of non-discretionary private equity consulting clients gained and lost, AUM, and termination reasons for fiscal years 2024 through 2020. Question 14 requests the five largest non-discretionary institutional clients by total plan size, with client name, plan size, private equity program size (total capital commitments), client type, and years as a client; mark clients used to satisfy RFP minimum qualifications with ‡."
+            },
+            {
+              "title": "(C) Personnel",
+              "node_id": "0014",
+              "start_index": 17,
+              "end_index": 18,
+              "summary": "Requests information on personnel providing private equity consulting, including total staffing and a table of names, titles, roles, credentials, education, experience, and identification of those directly assigned to BCERS. Requires profiles and biographies for primary, backup, and support personnel, covering office, accounts, firm tenure, private equity experience, responsibilities, and contingency plans for departures. Asks about research and technical support available to the primary consultant and any account limits. Seeks five years of key-professional turnover by client consultants, technical staff, and management, including hires and departures, positions, tenure, replacement, and reasons for leaving. Also requests current-client profiles for the primary and backup consultants, with client name, plan type, relationship length, total assets, and private equity portfolio size based on commitments."
+            },
+            {
+              "title": "(D) Services",
+              "node_id": "0015",
+              "start_index": 18,
+              "end_index": 19,
+              "summary": "The RFP asks firms to identify standard and special services for non-discretionary private equity consulting, distinguishing services beyond the stated scope and any referenced services they will not provide. It requests their philosophy for working with boards, staff, and managers; communication methods, service expectations, availability for meetings and reviews, and plan for a successful BCERS relationship. Firms must state whether they attend annual manager or partnership meetings, whether they will do so on request, and any charge. They must describe differentiating capabilities and value to BCERS. Finally, they must explain the approach, frequency, and staffing for sourcing; due diligence and reports; ongoing monitoring; strategic, pacing, allocation, and risk advice; legal review and negotiations; workouts; performance reporting; annual GP meetings; policy and program structuring; cash-flow modeling; capital-call and distribution reviews and controls; and other services."
+            },
+            {
+              "title": "(E) Assets Under Management",
+              "node_id": "0016",
+              "start_index": 19,
+              "end_index": 19,
+              "summary": "(E) Assets Under Management\n26. Complete the table below for the total amount of non-discretionary assets under management (based on market value plus unfunded commitments) as of June 30, 2024.\nFirm Assets Under Management by Client Type (US$ millions) Non-Discretionary AUM Total AUM\nU.S. Public Pensions Corporate Pensions Endowments/Foundations Other (specify) Totals\n27. Indicate the total amount of non-discretionary assets under management (as of June 30 of each fiscal year) by investment vehicle type in the table below.\nNon-Discretionary AUM by Investment Vehicle Type (US$ millions)\nFiscal Year Direct Commingled Co-Investment Secondary Other (specify)\nTotal\n2024 2023 2022 2021 2020"
+            },
+            {
+              "title": "(F) Philosophy and Approach",
+              "node_id": "0017",
+              "start_index": 19,
+              "end_index": 20,
+              "summary": "(F) Philosophy and Approach\n28. Please describe your firm’s current consulting philosophy and approach to non-discretionary private equity consulting services.\n29. Does your firm favor or specialize in a particular sector of the private equity market (e.g., mega buyout, large buyout, middle market buyout, early stage venture, late stage venture, growth\nEMPLOYEES’ RETIREMENT SYSTEM and OPEB Trust-- CITY OF BALTIMORE\nREQUEST FOR PROPOSAL – ALTERNATIVES CONSULTANT\nPage 19 of 28equity, mezzanine debt, distressed debt, etc.)? Please elaborate on the pros and cons of the various sectors and how you might position BCERS’ private equity portfolio to gain diversification.\n30. How does your firm ensure that it is obtaining broad coverage of the best (i.e., top quartile) general partners?"
+            },
+            {
+              "title": "(G) Firm Capabilities & Investment Process",
+              "node_id": "0018",
+              "start_index": 20,
+              "end_index": 21,
+              "summary": "The questionnaire asks about the firm’s non-discretionary investment and portfolio-construction process, including diversification, GP sourcing, balancing existing and new relationships, and support for BCERS. It requests annual GP meeting counts; the method, pros, and cons of identifying top-quartile managers; and first-time-fund evaluation, commitment counts, examples, strategies, vintages, and gross returns. It also seeks market investment and exit outlooks and projected regional portfolio weights for 2025 and 2026; private equity strategic-allocation methods and client customization; and due-diligence practices with reports on both recommended and declined investments. Further topics include referring client-sourced partnerships, evaluating non-U.S. and non-Western European investments, opportunistic alternatives, and emerging managers—including Africa and the Middle East, their definition, sourcing, and examples. Finally, it asks whether the firm manages private equity funds-of-funds, their strategies and return expectations, comparisons with external funds, allocation and conflict controls, and other assets managed."
+            },
+            {
+              "title": "(H) Database",
+              "node_id": "0019",
+              "start_index": 21,
+              "end_index": 21,
+              "summary": "Questions cover the investment manager system/database’s capabilities; which managers/advisors, direct investments, commingled funds, and specialized or non-traditional funds it tracks; how often private equity manager information is updated, its sources, safeguards for unbiased coverage, strategy-classification criteria, and verification methods; the screening detail available (such as assets under management, clients, staffing, research capabilities, and fees); and whether managers pay to be listed, whether database information is sold, any direct or indirect compensation from those sales, and the share of revenue from manager sales or subscriptions."
+            },
+            {
+              "title": "(I) General Partner Searches",
+              "node_id": "0020",
+              "start_index": 21,
+              "end_index": 22,
+              "summary": "The section asks about the firm’s general partner searches and oversight: identify its five strongest GP relationships with commitments to at least two funds each, describe fund strategies and why each relationship ranks highly, using placeholder fund names if needed for confidentiality; explain how private equity opportunities are identified and how many have been evaluated annually since 2022; outline manager due diligence, evaluation criteria, the role of on-site diligence, who approves commitments, and whether approvals are client-specific; and report monitoring staff numbers, internal and external manager-visit frequency, and annual site visits conducted by key staff."
+            },
+            {
+              "title": "(J) Investment Policy & Asset Allocation",
+              "node_id": "0021",
+              "start_index": 22,
+              "end_index": 22,
+              "summary": "The section asks about experience and methods for developing investment policies and objectives for diversified pension funds within comprehensive strategic plans; analyzing portfolios, recommending changes, and helping boards monitor policy, strategy, and asset allocation. It requests a private-equity-specific investment policy, including economic and market assumptions and responses to interest rates, inflation, and supply-and-demand constraints (as Exhibit #5). It seeks views on major global developments across the U.S., Europe, Asia, Africa, and the Middle East, inflation’s role, and strategies and policies to achieve strong risk-adjusted returns for public pensions. It also asks about program-level private equity risk-management tools and whether they provide portfolio-company look-through. Finally, it asks how the respondent would revise BCERS’s Alternative Investments Policy, considering the total program’s direction, performance, and risk."
+            },
+            {
+              "title": "(K) Performance Measurement",
+              "node_id": "0022",
+              "start_index": 22,
+              "end_index": 23,
+              "summary": "The section requests details on the firm’s performance measurement system, including whether it is proprietary or off-the-shelf and any planned changes; GIPS compliance or reasons for noncompliance; and partnership-return methodology, formula, calculation frequency, and treatment of cash flows, stock distributions, and fees. It asks how portfolios are valued, whether general partners’ valuations are used and independently checked, and which tools or services support verification. It also requests sample performance and standard reports as Exhibit #6, the process for identifying and addressing general-partner activity or performance problems, and actions taken for clients with poorly performing investments, legal issues, or non-performing general partners."
+            },
+            {
+              "title": "(L) Standards of Conduct",
+              "node_id": "0023",
+              "start_index": 23,
+              "end_index": 23,
+              "summary": "The section asks whether the firm has written conflict-of-interest policies (to be provided as Exhibit 7); whether, in the past 10 years, the firm, its officers, principals, or affiliates faced non-routine regulatory inquiries or investigations, fiduciary or investment-related litigation or settlements, or claims against insurance or fidelity-bond carriers, and requests details and current status or disposition for any such matters. It also asks about adoption of the CFA Code of Ethics, any written professional-conduct standards, and how employee compliance is monitored. Finally, it asks the firm’s position on third-party placement agents, whether it uses them, its disclosure policy, who pays their fees and when, and whether those fees reduce fund management fees dollar for dollar."
+            },
+            {
+              "title": "(M) Other",
+              "node_id": "0024",
+              "start_index": 23,
+              "end_index": 24,
+              "summary": "The RFP asks firms to provide up to three private-equity publications; explain the effects of FASB 157 and GASB 72 on operations, timely valuations, compliance issues, and public pension clients’ concerns; describe policies for FOIA and other disclosure requests, particularly for venture capital funds; explain transition risks when taking over an active private-equity program; and outline business-continuity plans, activation experience, effectiveness, and updates. It requests three pre-approved references from current, comparable public-sector clients with assets over $1.5 billion receiving primary—not project-based—consulting, using the specified contact details. Fee proposals must follow Appendix B and the stated scope, identify how long fees remain valid, price two optional two-year extensions after the five-year contract, and confirm whether fees will remain unchanged for five years. Firms must also describe DEI goals and adoption date, implementation and recruitment procedures for employees and subcontractors, and potential use of Baltimore-area minority- and women-owned businesses."
+            }
+          ]
+        },
+        {
+          "title": "Disclosure, Transition, Continuity, and References",
+          "node_id": "0025",
+          "start_index": 24,
+          "end_index": 24,
+          "key_items": [
+            "Part C: References",
+            "References"
+          ],
+          "summary": "Requests the firm’s policy on Freedom of Information Act and other public-disclosure requests, especially for venture capital funds; details on transitioning an active private equity program from an incumbent consultant, including potential issues and problems; and a description of the business continuity plan, any activations, effectiveness, and resulting modifications. Part C requests three current client references for comparable RFP work, preferably public-sector funds over $1.5 billion receiving primary consulting services, excluding project-based clients, with advance permission to contact. The reference format includes client name, plan size, contact title and number, phone, and email."
+        },
+        {
+          "title": "Part D: Fee Proposal",
+          "node_id": "0026",
+          "start_index": 24,
+          "end_index": 25,
+          "summary": "Submit a fee proposal using Appendix B, based on the Section I-D scope of services. State how long fees remain effective, whether the firm accepts two two-year options after the five-year contract and the fees for them, and whether it will avoid fee increases for five years. Describe DEI goals, adoption dates, processes for meeting employment and contracting goals, and outreach and recruitment policies for minority and women employees and subcontractors. Explain how the firm could use minority- and women-owned businesses in Baltimore, or near its home office if outside Baltimore, and complete Appendix C’s workforce ethnicity breakdown."
+        },
+        {
+          "title": "Part E: Additional Materials and Documents",
+          "node_id": "0027",
+          "start_index": 25,
+          "end_index": 25,
+          "summary": "Part E requests additional materials under Section III, Parts A and B: organizational charts and firm, parent/subsidiary, organizational, and consulting-unit information; biographies of key staff assigned to the BCERS account; the latest SEC Form ADV Parts I and II on CD; due diligence reports for both recommended commitments and declined investments; private-equity investment-policy examples; sample performance and other standard reports; written conflict-of-interest policies or procedures; and up to three client-facing private-equity white papers or short research communications. Appendices required are representations and warranties, the consultant fee schedule, and a workforce breakdown by ethnicity. This is page 25 of 28 of the City of Baltimore Employees’ Retirement System and OPEB Trust Alternatives Consultant RFP."
+        }
+      ]
+    },
+    {
+      "title": "Appendix A ",
+      "node_id": "0028",
+      "start_index": 26,
+      "end_index": 26,
+      "key_items": [
+        "REPRESENTATIONS AND WARRANTIES"
+      ],
+      "summary": "Appendix A requires every firm to submit the executed representations and warranties with its RFP cover letter. The firm warrants that it: maintains at least $5 million in errors-and-omissions coverage applicable to its agreement duties and will provide the policy to the Board upon selection; accepts fiduciary responsibility to BCERS and will act with care, skill, prudence, and diligence under the Baltimore City Code and other applicable laws, recognizing the Board’s reliance on its expertise; has completed all required regulatory registrations, filings, approvals, authorizations, consents, and examinations; meets the RFP’s minimum criteria; and has authorized the proposal submitter and signatory. The form provides spaces for the firm’s name, signature, date, title, city, and state, plus a notary’s sworn-attestation date, seal, and commission expiration. It cites the Baltimore City Code and identifies the document as page 26 of the City of Baltimore Employees’ Retirement System and OPEB Trust Alternatives Consultant RFP."
+    },
+    {
+      "title": "Appendix B ",
+      "node_id": "0029",
+      "start_index": 27,
+      "end_index": 27,
+      "key_items": [
+        "ALTERNATIVES CONSULTANT FEE SCHEDULE",
+        "PROPOSED FEES"
+      ],
+      "summary": "Appendix B provides the required fee schedule for alternative consulting services. Firms must quote annual fees for Years 1–5 and four option years, with a total, covering all services in the RFP scope and including travel, taxes, and other costs and expenses. It asks whether the proposed fees are negotiable; any post-selection negotiations cannot result in a fee higher than the proposal. The form includes fields for the firm’s name, signature, and title and is part of the City of Baltimore Employees’ Retirement System and OPEB Trust RFP."
+    },
+    {
+      "title": "Appendix C ",
+      "node_id": "0030",
+      "start_index": 28,
+      "end_index": 28,
+      "summary": "Appendix C\nBREAKDOWN OF WORK FORCE BY ETHNICITY\nOverall total (sum of Column B thru K A\nJOB CATEGORIES\nOfficials and Managers Professionals Technicians Sales Workers Office and Clerical Total\nWhite (not of Hispanic Origin) B\nNumber of Employees Male\nHispanicAsian orAmerican\nBlack (not ofD Hispanic Origin) C\nPacificIndian or IslanderAlaskan E Native F\nWhite (not of Hispanic Origin) G\nFemale\nHispanicAmerican IIndian or\nBlack (not of HispanicAsian orAlaskan Origin) PacificNative H IslanderK J\nEMPLOYEES’ RETIREMENT SYSTEM and OPEB Trust-- CITY OF BALTIMORE\nREQUEST FOR PROPOSAL – ALTERNATIVES CONSULTANT\nPage 28 of 28"
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

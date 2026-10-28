@@ -1,0 +1,7 @@
+{
+  "question": "What 'Red Flag Questions' does the Calamos/Aksia Private Markets Due Diligence Questionnaire tell investors to ask a manager?",
+  "gold_answer": "Five red flag questions: (1) Have any senior investment professionals left in the last 5 years? (2) Is there any history of client complaints, regulatory actions or pending litigation against the firm or its principals? (3) What is the current capacity limit, and at what asset level would growth impair the ability to keep deploying the strategy? (4) What might cause the manager to close the fund to new investors? (5) What is the biggest risk to the strategy that 'keeps you up at night'?",
+  "acceptance": "Accept paraphrases of departures, complaints/regulatory/litigation history, capacity limits, closing to new investors, and biggest strategy risk. Adjacent liquidity questions are not part of this list.",
+  "scope": "single_document",
+  "candidate_answer": "Under **“Red Flag Questions,”** the questionnaire tells investors to ask a manager:\n\n- Have any senior investment professionals left in the last five years? If so, what happened?\n- Has the firm or any of its principals faced client complaints, regulatory actions, or pending litigation?\n- What is the strategy’s current capacity limit, and at what asset level would growth impair its ability to deploy capital?\n- What might cause the manager to close the fund to new investors?\n- What is the biggest risk to the strategy that keeps the manager up at night?\n\nSource: *Calamos/Aksia Private Markets Due Diligence Questionnaire*, p. 2."
+}

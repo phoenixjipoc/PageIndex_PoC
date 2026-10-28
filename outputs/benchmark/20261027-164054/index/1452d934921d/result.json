@@ -1,0 +1,43 @@
+{
+  "file": "ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf",
+  "sha256": "627a91ad11a6724bae9831b2b40da6b61cd3013ec8698e199d03cbf7a2412f1a",
+  "bytes": 639339,
+  "pages": 29,
+  "public_source_url": "https://ilpa.org/wp-content/uploads/2018/09/ILPA_Due_Diligence_Questionnaire_v1.2.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:53:40.299462+00:00",
+  "doc_id": "pi-b06bc09def1a48b6b530935431d0bb48",
+  "stored_name": "ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf",
+  "reported_usage": {
+    "prompt_tokens": 20010,
+    "completion_tokens": 3974,
+    "total_tokens": 23984,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 12597
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 947
+    }
+  },
+  "elapsed_seconds": 19.263,
+  "finished_at_utc": "2026-10-27T08:53:59.572079+00:00",
+  "model_calls": 15,
+  "http_attempts": 15,
+  "observed_usage": {
+    "input_tokens": 20010,
+    "output_tokens": 3974,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 12597,
+    "reasoning_tokens": 947,
+    "total_tokens": 23984
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

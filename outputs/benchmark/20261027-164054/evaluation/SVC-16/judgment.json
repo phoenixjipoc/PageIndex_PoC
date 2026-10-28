@@ -1,0 +1,15 @@
+{
+  "question_id": "SVC-16",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "f1ecdda61c3ea43a3a6ddfe36e7360338c2c91ea13247667aead868ce32b8794",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct three-year term and two one-year renewals.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:12.449542+00:00"
+}

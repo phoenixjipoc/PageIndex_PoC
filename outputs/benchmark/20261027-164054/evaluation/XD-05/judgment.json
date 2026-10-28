@@ -1,0 +1,15 @@
+{
+  "question_id": "XD-05",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "1f484b278cd3ccafbb8030a3184209c5a59513d6f5af5a92289b0bbde976015f",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct release month and all three revision groups.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:29.003648+00:00"
+}

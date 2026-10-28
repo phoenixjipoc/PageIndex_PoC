@@ -1,0 +1,15 @@
+{
+  "question_id": "XD-22",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "c39f6cac277a813ff833d6386a5832f0d2cbca1abdb81757242cff78f731637f",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correctly distinguishes an open manager question from a prescribed position cap.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:37.345884+00:00"
+}

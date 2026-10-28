@@ -1,0 +1,7 @@
+{
+  "question": "In Rice University's 2021 RFP for audit services for its retirement plans, how many participants did the 401(a) plan and the 403(b) plan have as of December 31, 2020?",
+  "gold_answer": "401(a) plan: 8,828 participants; 403(b) plan: 7,533 participants (as of December 31, 2020).",
+  "acceptance": "Accept 8,828 for 401(a) and 7,533 for 403(b); do not transpose.",
+  "scope": "single_document",
+  "candidate_answer": "As of December 31, 2020, Rice University’s **401(a) plan had 8,828 participants** and its **403(b) plan had 7,533 participants**. [Source: Rice University 2021 audit-services RFP, p. 1]"
+}

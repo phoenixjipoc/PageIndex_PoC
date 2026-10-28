@@ -1,0 +1,7 @@
+{
+  "question": "According to the ILPA Due Diligence Questionnaire v1.2, when was version 1.1 released and what changes did it introduce?",
+  "gold_answer": "Version 1.1 was released in September 2016. It (1) added new questions on compliance with the ILPA Reporting Template (released January 2016) to the Accounting / Valuation / Reporting sections; (2) revised the original Governance and Risk / Compliance / ESG sections to reflect PRI's new LP Responsible Investment DDQ, and re-ordered, merged and edited existing questions in those sections; and (3) refreshed existing web links, font and formatting as needed.",
+  "acceptance": "September 2016 plus the three substantive revision groups; concise paraphrases accepted.",
+  "scope": "single_document",
+  "candidate_answer": "Version 1.1 was released in **September 2016**. It added questions about compliance with the ILPA Reporting Template to the Accounting / Valuation / Reporting sections; revised the Governance and Risk / Compliance / ESG sections to reflect PRI’s LP Responsible Investment DDQ, including reordering, merging, and editing existing questions; and refreshed web links, fonts, and formatting. [ILPA Due Diligence Questionnaire v1.2, p. 2]"
+}

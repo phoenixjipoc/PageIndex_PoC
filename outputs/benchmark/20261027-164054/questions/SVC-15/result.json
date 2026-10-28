@@ -1,0 +1,149 @@
+{
+  "id": "SVC-15",
+  "question": "What contract term, including any extension options, does the Kern County Employees' Retirement Association (KCERA) RFP for audit services contemplate?",
+  "type": "pair_a",
+  "pair_id": "P15",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:17:49.885544+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "KCERA contemplates an initial **three-year agreement**, subject to annual Board of Retirement review and recommendation and satisfactory negotiation of terms and price. KCERA and the selected firm may mutually agree to extend it for **up to three additional years**, for a potential total of six years. [KCERA Audit Services RFP, p. 2](KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf#page=6)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 52380,
+    "input_tokens_details": {
+      "cached_tokens": 35113,
+      "cache_write_tokens": 17249
+    },
+    "output_tokens": 286,
+    "output_tokens_details": {
+      "reasoning_tokens": 20
+    },
+    "total_tokens": 52666,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1216,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1213
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1231
+      },
+      {
+        "input_tokens": 2382,
+        "input_tokens_details": {
+          "cached_tokens": 1213,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 13
+        },
+        "total_tokens": 2420
+      },
+      {
+        "input_tokens": 7623,
+        "input_tokens_details": {
+          "cached_tokens": 2379,
+          "cache_write_tokens": 5241
+        },
+        "output_tokens": 48,
+        "output_tokens_details": {
+          "reasoning_tokens": 7
+        },
+        "total_tokens": 7671
+      },
+      {
+        "input_tokens": 7927,
+        "input_tokens_details": {
+          "cached_tokens": 7620,
+          "cache_write_tokens": 304
+        },
+        "output_tokens": 40,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7967
+      },
+      {
+        "input_tokens": 15980,
+        "input_tokens_details": {
+          "cached_tokens": 7924,
+          "cache_write_tokens": 8053
+        },
+        "output_tokens": 46,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 16026
+      },
+      {
+        "input_tokens": 17252,
+        "input_tokens_details": {
+          "cached_tokens": 15977,
+          "cache_write_tokens": 1272
+        },
+        "output_tokens": 99,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 17351
+      }
+    ]
+  },
+  "elapsed_seconds": 12.152,
+  "finished_at_utc": "2026-10-27T09:18:02.044602+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 52380,
+    "output_tokens": 286,
+    "cached_input_tokens": 35113,
+    "cache_write_tokens": 17249,
+    "reasoning_tokens": 20,
+    "total_tokens": 52666
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"offset\":10,\"limit\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf\",\"pages\":\"5-6\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf",
+      "pages": "5-6",
+      "success": true,
+      "call_id": "call_yzASPUJGbJbECWcxWTVdNp7C"
+    }
+  ],
+  "successfully_read_documents": [
+    "KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf"
+  ]
+}

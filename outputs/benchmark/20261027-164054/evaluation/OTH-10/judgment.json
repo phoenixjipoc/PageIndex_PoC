@@ -1,0 +1,15 @@
+{
+  "question_id": "OTH-10",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "07ba5db1fe8a7ed76fad108f9d2d6aafc25443c41bd904fcf8222a8ce3c4e921",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct $73,000 prior-year audit fees.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:28:01.579816+00:00"
+}

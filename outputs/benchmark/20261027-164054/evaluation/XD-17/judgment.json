@@ -1,0 +1,15 @@
+{
+  "question_id": "XD-17",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "aaa79e2d3dae5a1bfa4e7ffc7e343e3a9e597debf9b5e1cf6f359bd233bc650c",
+  "score": 0.5,
+  "verdict": "partial",
+  "reason": "Correct Illinois and NYC requirements and LAFPP exemption, but omits the operative South Carolina RSIC Iran provision.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:37.300624+00:00"
+}

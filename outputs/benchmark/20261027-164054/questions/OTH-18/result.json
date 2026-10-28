@@ -1,0 +1,318 @@
+{
+  "id": "OTH-18",
+  "question": "What contract terms (initial length and any renewal or extension options) do the actuarial services RFPs in the corpus propose?",
+  "type": "broad",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:16:20.692487+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The actuarial-services RFPs propose these terms. Where an RFP gives no specific renewal period, I have not inferred one.\n\n| RFP | Initial term and renewal or extension option |\n|---|---|\n| [Stoneham, pp. 3, 5](Stoneham_MA__Request-for-proposals---Actuarial-Services-PDF.pdf#page=3) | Agreement **not to exceed seven years**, covering the 2020, 2022, and 2024 valuations. It does not separate an initial term from an extension option. |\n| [Boston, p. 5](Boston__RFP_Actuarial_and_Consulting_Services_for_Pension_Benefits_08-30-2022.pdf#page=5) | **Five years**, with the Board able to extend it for **one or two additional years** without readvertising. |\n| [Illinois SRS, pp. 3, 34](Illinois_SRS__RFP--Actuarial_Consulting_Services--SRS.pdf#page=3) | **Five years**, July 1, 2024–June 30, 2029; no specific renewal option stated. |\n| [COAERS, pp. 4, 18](COAERS__COAERS_Actuarial_Services_RFP_June_26_2025.pdf#page=4) | **Five-year master agreement**, January 1, 2026–December 31, 2030, with annual engagement letters; no specific extension option stated. |\n| [LACERS, p. 3](LACERS__2025_actuarial_consulting_services_rfp.pdf#page=3) | **Three years**, potentially followed by **up to two one-year extensions**. |\n| [Apple Valley Fire Protection District, pp. 3–4](AVFPD__RFP-Actuatial-Services-2024.pdf#page=3) | Work is specified through **June 2029**—2024, 2026, and 2028 valuations plus intervening roll-forwards. The RFP mentions **optional contract extensions**, with fees negotiated when exercised, but does not specify their length or a separately stated initial contract term. |\n| [St. Louis Police Retirement System, p. 7](St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf#page=7) | An initial **one-time engagement**, with PRS retaining an **option to renew**; no renewal length is specified. |\n| [KCERA, p. 17](KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf#page=17) | **One year** from final contract execution; no renewal option stated. |",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 265372,
+    "input_tokens_details": {
+      "cached_tokens": 177701,
+      "cache_write_tokens": 87650
+    },
+    "output_tokens": 2027,
+    "output_tokens_details": {
+      "reasoning_tokens": 352
+    },
+    "total_tokens": 267399,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1214,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1211
+        },
+        "output_tokens": 28,
+        "output_tokens_details": {
+          "reasoning_tokens": 7
+        },
+        "total_tokens": 1242
+      },
+      {
+        "input_tokens": 6482,
+        "input_tokens_details": {
+          "cached_tokens": 1211,
+          "cache_write_tokens": 5268
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 17
+        },
+        "total_tokens": 6524
+      },
+      {
+        "input_tokens": 9456,
+        "input_tokens_details": {
+          "cached_tokens": 6479,
+          "cache_write_tokens": 2974
+        },
+        "output_tokens": 364,
+        "output_tokens_details": {
+          "reasoning_tokens": 63
+        },
+        "total_tokens": 9820
+      },
+      {
+        "input_tokens": 11809,
+        "input_tokens_details": {
+          "cached_tokens": 9453,
+          "cache_write_tokens": 2353
+        },
+        "output_tokens": 356,
+        "output_tokens_details": {
+          "reasoning_tokens": 23
+        },
+        "total_tokens": 12165
+      },
+      {
+        "input_tokens": 65418,
+        "input_tokens_details": {
+          "cached_tokens": 11806,
+          "cache_write_tokens": 53609
+        },
+        "output_tokens": 359,
+        "output_tokens_details": {
+          "reasoning_tokens": 27
+        },
+        "total_tokens": 65777
+      },
+      {
+        "input_tokens": 83340,
+        "input_tokens_details": {
+          "cached_tokens": 65415,
+          "cache_write_tokens": 17922
+        },
+        "output_tokens": 76,
+        "output_tokens_details": {
+          "reasoning_tokens": 18
+        },
+        "total_tokens": 83416
+      },
+      {
+        "input_tokens": 87653,
+        "input_tokens_details": {
+          "cached_tokens": 83337,
+          "cache_write_tokens": 4313
+        },
+        "output_tokens": 802,
+        "output_tokens_details": {
+          "reasoning_tokens": 197
+        },
+        "total_tokens": 88455
+      }
+    ]
+  },
+  "elapsed_seconds": 34.123,
+  "finished_at_utc": "2026-10-27T09:16:54.819715+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 265372,
+    "output_tokens": 2027,
+    "cached_input_tokens": 177701,
+    "cache_write_tokens": 87650,
+    "reasoning_tokens": 352,
+    "total_tokens": 267399
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Stoneham_MA__Request-for-proposals---Actuarial-Services-PDF.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"LACERS__2025_actuarial_consulting_services_rfp.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Illinois_SRS__RFP--Actuarial_Consulting_Services--SRS.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"COAERS__COAERS_Actuarial_Services_RFP_June_26_2025.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Boston__RFP_Actuarial_and_Consulting_Services_for_Pension_Benefits_08-30-2022.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"AVFPD__RFP-Actuatial-Services-2024.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Illinois_SRS__RFP--Actuarial_Consulting_Services--SRS.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"COAERS__COAERS_Actuarial_Services_RFP_June_26_2025.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Boston__RFP_Actuarial_and_Consulting_Services_for_Pension_Benefits_08-30-2022.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Stoneham_MA__Request-for-proposals---Actuarial-Services-PDF.pdf\",\"pages\":\"1-4\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf\",\"pages\":\"1-5\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"LACERS__2025_actuarial_consulting_services_rfp.pdf\",\"pages\":\"1-5\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"AVFPD__RFP-Actuatial-Services-2024.pdf\",\"pages\":\"1-4\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Stoneham_MA__Request-for-proposals---Actuarial-Services-PDF.pdf\",\"pages\":\"5-9\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"AVFPD__RFP-Actuatial-Services-2024.pdf\",\"pages\":\"5-9\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf\",\"pages\":\"9-12,15-16\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf\",\"pages\":\"17,40-42\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Illinois_SRS__RFP--Actuarial_Consulting_Services--SRS.pdf\",\"pages\":\"3,34-35\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"COAERS__COAERS_Actuarial_Services_RFP_June_26_2025.pdf\",\"pages\":\"4-5,18-19\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Boston__RFP_Actuarial_and_Consulting_Services_for_Pension_Benefits_08-30-2022.pdf\",\"pages\":\"5,10\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf\",\"pages\":\"6-8,13-14,17-19\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Stoneham_MA__Request-for-proposals---Actuarial-Services-PDF.pdf",
+      "pages": "1-4",
+      "success": true,
+      "call_id": "call_Kzv7xjjsZxjUC2X3HDiEBC2T"
+    },
+    {
+      "document": "St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf",
+      "pages": "1-5",
+      "success": true,
+      "call_id": "call_7kN5a6df7JCew98IhrVCJLRO"
+    },
+    {
+      "document": "LACERS__2025_actuarial_consulting_services_rfp.pdf",
+      "pages": "1-5",
+      "success": true,
+      "call_id": "call_Zyt2ji4NGupVaQI9REhxhOnq"
+    },
+    {
+      "document": "AVFPD__RFP-Actuatial-Services-2024.pdf",
+      "pages": "1-4",
+      "success": true,
+      "call_id": "call_TNn3UPedd38iH8o2vbJylYNf"
+    },
+    {
+      "document": "Stoneham_MA__Request-for-proposals---Actuarial-Services-PDF.pdf",
+      "pages": "5-9",
+      "success": true,
+      "call_id": "call_AEMOVYpTlROmU3sWRPV7jdt1"
+    },
+    {
+      "document": "AVFPD__RFP-Actuatial-Services-2024.pdf",
+      "pages": "5-9",
+      "success": true,
+      "call_id": "call_ZgFDE7VUn05A4wDYsvngg0ir"
+    },
+    {
+      "document": "St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf",
+      "pages": "9-12,15-16",
+      "success": true,
+      "call_id": "call_DqTIL4sJVYaAceOiZ4eJP8jh"
+    },
+    {
+      "document": "KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf",
+      "pages": "17,40-42",
+      "success": true,
+      "call_id": "call_KpV8wZApxU7zGryZVDcVTINf"
+    },
+    {
+      "document": "Illinois_SRS__RFP--Actuarial_Consulting_Services--SRS.pdf",
+      "pages": "3,34-35",
+      "success": true,
+      "call_id": "call_kS6wwEjFDJrim6jtVYcQ7xgC"
+    },
+    {
+      "document": "COAERS__COAERS_Actuarial_Services_RFP_June_26_2025.pdf",
+      "pages": "4-5,18-19",
+      "success": true,
+      "call_id": "call_FHNlyacNsy5JsJyXmI93dp98"
+    },
+    {
+      "document": "Boston__RFP_Actuarial_and_Consulting_Services_for_Pension_Benefits_08-30-2022.pdf",
+      "pages": "5,10",
+      "success": true,
+      "call_id": "call_5g1igsZzNkWcwKJYBFbLvpoF"
+    },
+    {
+      "document": "St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf",
+      "pages": "6-8,13-14,17-19",
+      "success": true,
+      "call_id": "call_s1ncIZrlsFVc8pFMJamWq687"
+    }
+  ],
+  "successfully_read_documents": [
+    "AVFPD__RFP-Actuatial-Services-2024.pdf",
+    "Boston__RFP_Actuarial_and_Consulting_Services_for_Pension_Benefits_08-30-2022.pdf",
+    "COAERS__COAERS_Actuarial_Services_RFP_June_26_2025.pdf",
+    "Illinois_SRS__RFP--Actuarial_Consulting_Services--SRS.pdf",
+    "KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf",
+    "LACERS__2025_actuarial_consulting_services_rfp.pdf",
+    "St_Louis_PRS__PRS_Actuarial_Auditor_Services_RFP_and_Questionnaire.pdf",
+    "Stoneham_MA__Request-for-proposals---Actuarial-Services-PDF.pdf"
+  ]
+}

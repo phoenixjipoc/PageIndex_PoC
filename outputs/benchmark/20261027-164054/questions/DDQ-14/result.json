@@ -1,0 +1,208 @@
+{
+  "id": "DDQ-14",
+  "question": "How many general partners had adopted the ILPA DDQ 2.0 by 2024?",
+  "type": "unanswerable",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:18:03.661725+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "I couldn’t verify a 2024 adoption count from the documents available. The ILPA DDQ 2.0 was published in 2021 and does not state how many general partners had adopted it by 2024. fileciteILPA__ILPA-DDQ-2.0.pdf",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 91465,
+    "input_tokens_details": {
+      "cached_tokens": 74116,
+      "cache_write_tokens": 17322
+    },
+    "output_tokens": 622,
+    "output_tokens_details": {
+      "reasoning_tokens": 261
+    },
+    "total_tokens": 92087,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1208,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1205
+        },
+        "output_tokens": 25,
+        "output_tokens_details": {
+          "reasoning_tokens": 8
+        },
+        "total_tokens": 1233
+      },
+      {
+        "input_tokens": 2384,
+        "input_tokens_details": {
+          "cached_tokens": 1205,
+          "cache_write_tokens": 1176
+        },
+        "output_tokens": 54,
+        "output_tokens_details": {
+          "reasoning_tokens": 29
+        },
+        "total_tokens": 2438
+      },
+      {
+        "input_tokens": 7678,
+        "input_tokens_details": {
+          "cached_tokens": 2381,
+          "cache_write_tokens": 5294
+        },
+        "output_tokens": 49,
+        "output_tokens_details": {
+          "reasoning_tokens": 24
+        },
+        "total_tokens": 7727
+      },
+      {
+        "input_tokens": 10659,
+        "input_tokens_details": {
+          "cached_tokens": 7675,
+          "cache_write_tokens": 2981
+        },
+        "output_tokens": 67,
+        "output_tokens_details": {
+          "reasoning_tokens": 35
+        },
+        "total_tokens": 10726
+      },
+      {
+        "input_tokens": 10968,
+        "input_tokens_details": {
+          "cached_tokens": 10656,
+          "cache_write_tokens": 309
+        },
+        "output_tokens": 31,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10999
+      },
+      {
+        "input_tokens": 11980,
+        "input_tokens_details": {
+          "cached_tokens": 10965,
+          "cache_write_tokens": 1012
+        },
+        "output_tokens": 57,
+        "output_tokens_details": {
+          "reasoning_tokens": 22
+        },
+        "total_tokens": 12037
+      },
+      {
+        "input_tokens": 12269,
+        "input_tokens_details": {
+          "cached_tokens": 11977,
+          "cache_write_tokens": 289
+        },
+        "output_tokens": 89,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 12358
+      },
+      {
+        "input_tokens": 16994,
+        "input_tokens_details": {
+          "cached_tokens": 12266,
+          "cache_write_tokens": 4725
+        },
+        "output_tokens": 123,
+        "output_tokens_details": {
+          "reasoning_tokens": 91
+        },
+        "total_tokens": 17117
+      },
+      {
+        "input_tokens": 17325,
+        "input_tokens_details": {
+          "cached_tokens": 16991,
+          "cache_write_tokens": 331
+        },
+        "output_tokens": 127,
+        "output_tokens_details": {
+          "reasoning_tokens": 52
+        },
+        "total_tokens": 17452
+      }
+    ]
+  },
+  "elapsed_seconds": 21.414,
+  "finished_at_utc": "2026-10-27T09:18:25.081394+00:00",
+  "model_calls": 9,
+  "http_attempts": 9,
+  "observed_usage": {
+    "input_tokens": 91465,
+    "output_tokens": 622,
+    "cached_input_tokens": 74116,
+    "cache_write_tokens": 17322,
+    "reasoning_tokens": 261,
+    "total_tokens": 92087
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":0}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__240901-ESG-Assessment-Framework-FAQ.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\",\"pages\":\"1-4\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"ILPA__240901-ESG-Assessment-Framework-FAQ.pdf\",\"pages\":\"1-3\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ESG-Assessment-Framework-FAQ.pdf\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "ILPA__ILPA-DDQ-2.0.pdf",
+      "pages": "1-4",
+      "success": true,
+      "call_id": "call_3RdOKcfNKOVYuHKIc1qgr9To"
+    },
+    {
+      "document": "ILPA__240901-ESG-Assessment-Framework-FAQ.pdf",
+      "pages": "1-3",
+      "success": true,
+      "call_id": "call_vfYXfXDztnKpvFTCrtFlswe2"
+    }
+  ],
+  "successfully_read_documents": [
+    "ILPA__240901-ESG-Assessment-Framework-FAQ.pdf",
+    "ILPA__ILPA-DDQ-2.0.pdf"
+  ]
+}

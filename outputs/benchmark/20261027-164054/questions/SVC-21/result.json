@@ -1,0 +1,149 @@
+{
+  "id": "SVC-21",
+  "question": "What project oversight services does OCERS require from the consultant in its 2023 RFP for Pension Administration Project Oversight and Consultation Services?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:17:49.887297+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "OCERS requires an **on-site implementation partner** to oversee selection and implementation of a new pension administration system (PAS). The consultant’s project oversight services include:\n\n- **Planning and procurement:** Assess needs and requirements, coordinate the IT roadmap and solution design, write PAS RFPs, support demonstrations, vendor interviews and best-and-final-offer evaluations, help select the vendor, and review vendor contracts.\n- **Implementation oversight:** Coordinate with OCERS staff, its Enterprise Project Management Office, and the PAS vendor on design, development, testing, training and implementation. Verify that the vendor addresses RFP requirements and establish sign-off procedures throughout the system-development lifecycle.\n- **Project controls and deliverables:** Develop or review the implementation plan, staffing and resource plans, milestones, budget, requirements matrix, statements of work, data-conversion and reconciliation plans, test and user-acceptance plans, schedule, and cutover plan. Maintain a rigorous methodology; manage communications, issues, risks and change control; and develop quality-testing procedures.\n- **Change and stakeholder support:** Help plan data cleansing, migration and conversion; lead organizational change management and staff training; coordinate implementation meetings with employers and third-party vendors; and provide post-implementation support as agreed.\n- **Reporting:** Provide project metrics and a **monthly oversight status report** to the Steering Committee and OCERS Board of Retirement, plus external-stakeholder updates when requested.\n\nThe requirements assessment should also account for OCERS’ strategic initiatives involving robotic process automation, machine learning and artificial intelligence. [Source: OCERS 2023 RFP, Exhibit A, pp. 11–13](OCERS__ocers_pas_consultant_rfp.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 65432,
+    "input_tokens_details": {
+      "cached_tokens": 41502,
+      "cache_write_tokens": 23912
+    },
+    "output_tokens": 480,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 65912,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1216,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1213
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1231
+      },
+      {
+        "input_tokens": 2382,
+        "input_tokens_details": {
+          "cached_tokens": 1213,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2405
+      },
+      {
+        "input_tokens": 7608,
+        "input_tokens_details": {
+          "cached_tokens": 2379,
+          "cache_write_tokens": 5226
+        },
+        "output_tokens": 30,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7638
+      },
+      {
+        "input_tokens": 7855,
+        "input_tokens_details": {
+          "cached_tokens": 7605,
+          "cache_write_tokens": 247
+        },
+        "output_tokens": 31,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7886
+      },
+      {
+        "input_tokens": 22456,
+        "input_tokens_details": {
+          "cached_tokens": 7852,
+          "cache_write_tokens": 14601
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 22493
+      },
+      {
+        "input_tokens": 23915,
+        "input_tokens_details": {
+          "cached_tokens": 22453,
+          "cache_write_tokens": 1459
+        },
+        "output_tokens": 344,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 24259
+      }
+    ]
+  },
+  "elapsed_seconds": 13.754,
+  "finished_at_utc": "2026-10-27T09:18:03.647883+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 65432,
+    "output_tokens": 480,
+    "cached_input_tokens": 41502,
+    "cache_write_tokens": 23912,
+    "reasoning_tokens": 0,
+    "total_tokens": 65912
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"OCERS__ocers_pas_consultant_rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"OCERS__ocers_pas_consultant_rfp.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"OCERS__ocers_pas_consultant_rfp.pdf\",\"pages\":\"11-13\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "OCERS__ocers_pas_consultant_rfp.pdf",
+      "pages": "11-13",
+      "success": true,
+      "call_id": "call_r4KlJQqaQj37Ar2PWxgKzLDu"
+    }
+  ],
+  "successfully_read_documents": [
+    "OCERS__ocers_pas_consultant_rfp.pdf"
+  ]
+}

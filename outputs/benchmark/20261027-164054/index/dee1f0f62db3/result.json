@@ -1,0 +1,43 @@
+{
+  "file": "SDCERS__sdcers-2026-general-investment-consultant-rfp.pdf",
+  "sha256": "eb962b2b7c5779ffb7b714c73fee183443b169083e8268217f8ab53cebccce24",
+  "bytes": 389091,
+  "pages": 21,
+  "public_source_url": "https://content.sdcers.gov/wp-content/uploads/2026/08/sdcers-2026-general-investment-consultant-rfp.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:07:57.178446+00:00",
+  "doc_id": "pi-8e16e862101745daaadce2c776b01d6c",
+  "stored_name": "SDCERS__sdcers-2026-general-investment-consultant-rfp.pdf",
+  "reported_usage": {
+    "prompt_tokens": 9717,
+    "completion_tokens": 2768,
+    "total_tokens": 12485,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 4414
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 716
+    }
+  },
+  "elapsed_seconds": 12.614,
+  "finished_at_utc": "2026-10-27T09:08:09.807475+00:00",
+  "model_calls": 12,
+  "http_attempts": 12,
+  "observed_usage": {
+    "input_tokens": 9717,
+    "output_tokens": 2768,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 4414,
+    "reasoning_tokens": 716,
+    "total_tokens": 12485
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

@@ -1,0 +1,43 @@
+{
+  "file": "TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf",
+  "sha256": "4096da76c8247ed96e0f8537f5e7fbb36e20879fd40bb82527740e7a5643f5d5",
+  "bytes": 770536,
+  "pages": 79,
+  "public_source_url": "https://www.tmrs.com/uploads/files/general/down/investments/TMRS_RFP_Global_Custody_Related_Services.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:10:22.618132+00:00",
+  "doc_id": "pi-db5db29c86954461837c1714aeda7ac6",
+  "stored_name": "TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf",
+  "reported_usage": {
+    "prompt_tokens": 137346,
+    "completion_tokens": 19735,
+    "total_tokens": 157081,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 123373
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 9273
+    }
+  },
+  "elapsed_seconds": 60.551,
+  "finished_at_utc": "2026-10-27T09:11:23.181113+00:00",
+  "model_calls": 53,
+  "http_attempts": 53,
+  "observed_usage": {
+    "input_tokens": 137346,
+    "output_tokens": 19735,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 123373,
+    "reasoning_tokens": 9273,
+    "total_tokens": 157081
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

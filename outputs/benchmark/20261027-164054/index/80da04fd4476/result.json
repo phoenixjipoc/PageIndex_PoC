@@ -1,0 +1,43 @@
+{
+  "file": "Boston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf",
+  "sha256": "94d4bc5c43b8483ffd8e18d1ba842c986273e7a637d37af761078fbb6daa3d7f",
+  "bytes": 223136,
+  "pages": 15,
+  "public_source_url": "https://www.boston.gov/sites/default/files/file/2022/02/BRS%20Inv%20Consult%20Serv%20RFP%202022.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:46:39.319195+00:00",
+  "doc_id": "pi-63862a1d154c4024980470f8797a084f",
+  "stored_name": "Boston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf",
+  "reported_usage": {
+    "prompt_tokens": 8063,
+    "completion_tokens": 2385,
+    "total_tokens": 10448,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 5102
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 484
+    }
+  },
+  "elapsed_seconds": 13.705,
+  "finished_at_utc": "2026-10-27T08:46:53.035756+00:00",
+  "model_calls": 9,
+  "http_attempts": 9,
+  "observed_usage": {
+    "input_tokens": 8063,
+    "output_tokens": 2385,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 5102,
+    "reasoning_tokens": 484,
+    "total_tokens": 10448
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

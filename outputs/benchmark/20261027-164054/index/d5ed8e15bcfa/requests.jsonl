@@ -1,0 +1,8 @@
+{"at_utc": "2026-10-27T09:02:03.089387+00:00", "lane": "index", "model": "gpt-6-luna", "reasoning_effort": "medium", "host": "api.openai.com", "path": "/v1/chat/completions", "model_matches": true, "effort_matches": true}
+{"at_utc": "2026-10-27T09:02:03.094239+00:00", "lane": "index", "model": "gpt-6-luna", "reasoning_effort": "medium", "host": "api.openai.com", "path": "/v1/chat/completions", "model_matches": true, "effort_matches": true}
+{"at_utc": "2026-10-27T09:02:03.098319+00:00", "lane": "index", "model": "gpt-6-luna", "reasoning_effort": "medium", "host": "api.openai.com", "path": "/v1/chat/completions", "model_matches": true, "effort_matches": true}
+{"at_utc": "2026-10-27T09:02:03.102635+00:00", "lane": "index", "model": "gpt-6-luna", "reasoning_effort": "medium", "host": "api.openai.com", "path": "/v1/chat/completions", "model_matches": true, "effort_matches": true}
+{"at_utc": "2026-10-27T09:02:03.105935+00:00", "lane": "index", "model": "gpt-6-luna", "reasoning_effort": "medium", "host": "api.openai.com", "path": "/v1/chat/completions", "model_matches": true, "effort_matches": true}
+{"at_utc": "2026-10-27T09:02:03.109080+00:00", "lane": "index", "model": "gpt-6-luna", "reasoning_effort": "medium", "host": "api.openai.com", "path": "/v1/chat/completions", "model_matches": true, "effort_matches": true}
+{"at_utc": "2026-10-27T09:02:08.303205+00:00", "lane": "index", "model": "gpt-6-luna", "reasoning_effort": "medium", "host": "api.openai.com", "path": "/v1/chat/completions", "model_matches": true, "effort_matches": true}
+{"at_utc": "2026-10-27T09:02:12.492911+00:00", "lane": "index", "model": "gpt-6-luna", "reasoning_effort": "medium", "host": "api.openai.com", "path": "/v1/chat/completions", "model_matches": true, "effort_matches": true}

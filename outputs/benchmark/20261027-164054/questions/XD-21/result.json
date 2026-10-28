@@ -1,0 +1,133 @@
+{
+  "id": "XD-21",
+  "question": "How many comments did the PRI receive from LPs and GPs during the 2021 update of its Limited Partners Private Equity Responsible Investment DDQ?",
+  "type": "unanswerable",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:16:23.303402+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The PRI did not give a numerical count. It said LPs and GPs provided “significant amounts of comments,” both written and verbal, during the 2021 update. [Source: PRI covering note, p. 1](PRI__PRI-DDQ-ILPA-Covering-Note.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 28056,
+    "input_tokens_details": {
+      "cached_tokens": 19096,
+      "cache_write_tokens": 8945
+    },
+    "output_tokens": 199,
+    "output_tokens_details": {
+      "reasoning_tokens": 19
+    },
+    "total_tokens": 28255,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1218,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1215
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1233
+      },
+      {
+        "input_tokens": 2384,
+        "input_tokens_details": {
+          "cached_tokens": 1215,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 2420
+      },
+      {
+        "input_tokens": 7623,
+        "input_tokens_details": {
+          "cached_tokens": 2381,
+          "cache_write_tokens": 5239
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 8
+        },
+        "total_tokens": 7665
+      },
+      {
+        "input_tokens": 7883,
+        "input_tokens_details": {
+          "cached_tokens": 7620,
+          "cache_write_tokens": 260
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7922
+      },
+      {
+        "input_tokens": 8948,
+        "input_tokens_details": {
+          "cached_tokens": 7880,
+          "cache_write_tokens": 1065
+        },
+        "output_tokens": 67,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9015
+      }
+    ]
+  },
+  "elapsed_seconds": 11.723,
+  "finished_at_utc": "2026-10-27T09:16:35.094485+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 28056,
+    "output_tokens": 199,
+    "cached_input_tokens": 19096,
+    "cache_write_tokens": 8945,
+    "reasoning_tokens": 19,
+    "total_tokens": 28255
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"PRI__PRI-DDQ-ILPA-Covering-Note.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"PRI__PRI-DDQ-ILPA-Covering-Note.pdf\",\"pages\":\"1-2\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "PRI__PRI-DDQ-ILPA-Covering-Note.pdf",
+      "pages": "1-2",
+      "success": true,
+      "call_id": "call_sl24quLijVvopD4hih0vIvIy"
+    }
+  ],
+  "successfully_read_documents": [
+    "PRI__PRI-DDQ-ILPA-Covering-Note.pdf"
+  ]
+}

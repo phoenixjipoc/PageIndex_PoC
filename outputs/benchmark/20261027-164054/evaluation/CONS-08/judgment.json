@@ -1,0 +1,15 @@
+{
+  "question_id": "CONS-08",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "5670ecf737901affc2e153ee93820fdde0f4a8c9720a1bc1699da3d9b567d09c",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct CTA retirement plan identification.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:51.565838+00:00"
+}

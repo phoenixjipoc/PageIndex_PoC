@@ -1,0 +1,15 @@
+{
+  "question_id": "OTH-09",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "b6157fa8d9ab64829b552a2d1276f2971f375fc9686a013f9d70e66f8ed62089",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct mandate ceiling and strictly-below firm AUM limit.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:27:19.704095+00:00"
+}

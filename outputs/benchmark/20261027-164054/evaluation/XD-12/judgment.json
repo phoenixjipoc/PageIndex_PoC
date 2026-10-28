@@ -1,0 +1,15 @@
+{
+  "question_id": "XD-12",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "4e2066465d1bb1ccb273900629a6e3b97a7ae860b82912c1362d60c1fd8f29e0",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "All five red-flag topics are retained.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:29.043510+00:00"
+}

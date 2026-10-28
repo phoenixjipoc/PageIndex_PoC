@@ -1,0 +1,149 @@
+{
+  "id": "SVC-17",
+  "question": "What evaluation criteria and point values are used to score proposals in the Delaware Office of the State Treasurer's 2021 RFP for deferred compensation plan recordkeeping and administration services?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:17:00.310472+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The RFP scores qualifying proposals on a **100-point scale**:\n\n| Evaluation criterion | Points |\n|---|---:|\n| Vendor history and depth of public defined-contribution plan experience | 10 |\n| Scope of vendor operations and ability to provide the full range of requested services | 20 |\n| Plan sponsor experience, including website access, administration and compliance, relationship management, reporting, and industry/trend communication | 30 |\n| Participant communication and education, including website and call-center services, issue resolution, customized materials, onsite representatives, and guidance tools | 30 |\n| Overall cost to the plans and participants | 10 |\n| **Total** | **100** |\n\nProposals are first screened for timeliness and compliance with minimum qualifications and other requirements. The RFP notes that neither the lowest-priced nor the highest-scoring proposal is necessarily selected. Source: *Delaware Office of the State Treasurer, 2021 RFP*, Section VI.B, pp. 19–20.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 68876,
+    "input_tokens_details": {
+      "cached_tokens": 43382,
+      "cache_write_tokens": 25476
+    },
+    "output_tokens": 366,
+    "output_tokens_details": {
+      "reasoning_tokens": 13
+    },
+    "total_tokens": 69242,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1223,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1220
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1238
+      },
+      {
+        "input_tokens": 2389,
+        "input_tokens_details": {
+          "cached_tokens": 1220,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 13
+        },
+        "total_tokens": 2427
+      },
+      {
+        "input_tokens": 7630,
+        "input_tokens_details": {
+          "cached_tokens": 2386,
+          "cache_write_tokens": 5241
+        },
+        "output_tokens": 33,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7663
+      },
+      {
+        "input_tokens": 7905,
+        "input_tokens_details": {
+          "cached_tokens": 7627,
+          "cache_write_tokens": 275
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7939
+      },
+      {
+        "input_tokens": 24250,
+        "input_tokens_details": {
+          "cached_tokens": 7902,
+          "cache_write_tokens": 16345
+        },
+        "output_tokens": 40,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 24290
+      },
+      {
+        "input_tokens": 25479,
+        "input_tokens_details": {
+          "cached_tokens": 24247,
+          "cache_write_tokens": 1229
+        },
+        "output_tokens": 206,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 25685
+      }
+    ]
+  },
+  "elapsed_seconds": 13.258,
+  "finished_at_utc": "2026-10-27T09:17:13.573638+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 68876,
+    "output_tokens": 366,
+    "cached_input_tokens": 43382,
+    "cache_write_tokens": 25476,
+    "reasoning_tokens": 13,
+    "total_tokens": 69242
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Delaware__TRE21101-RECDKEEPR-rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Delaware__TRE21101-RECDKEEPR-rfp.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Delaware__TRE21101-RECDKEEPR-rfp.pdf\",\"pages\":\"19-21\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Delaware__TRE21101-RECDKEEPR-rfp.pdf",
+      "pages": "19-21",
+      "success": true,
+      "call_id": "call_nlcVmT8xKYKpyAjBt7KAdcJp"
+    }
+  ],
+  "successfully_read_documents": [
+    "Delaware__TRE21101-RECDKEEPR-rfp.pdf"
+  ]
+}

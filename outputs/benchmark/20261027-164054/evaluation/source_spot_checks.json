@@ -1,0 +1,45 @@
+{
+  "method": "Codex comparison against original PDF text extracted with PyPDF2; no extra grading API",
+  "human_verified": false,
+  "checked_at_utc": "2026-10-27T09:29:41.759014+00:00",
+  "checks": [
+    {
+      "question_id": "INV-19",
+      "source": "Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf",
+      "pdf_pages": [
+        6
+      ],
+      "finding": "Quarterly item xii explicitly aggregates items vi-xi; vi is commitment amount. The answer aggregates vii-xi but omits vi. Partial score confirmed.",
+      "source_sha256": "0b99ee1d127d33dba151c6e2ccd774f72520aa88b4748b8f84ffa8cdce811ee5"
+    },
+    {
+      "question_id": "XD-17",
+      "source": "SC_RSIC__2016_09_30_General_Consultant_FINAL.pdf",
+      "pdf_pages": [
+        14,
+        24,
+        41
+      ],
+      "finding": "Section 4.1.14 requires Exhibit F Iran certification and section 6 contains investment-advice compliance. The answer omits this required source and never successfully reads its pages. Partial score confirmed.",
+      "source_sha256": "7b9bd5913c84103f283ca31334e06fffb8e8ba4b740a59c582b28a5b25526d7c"
+    },
+    {
+      "question_id": "XD-18",
+      "source": "Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf",
+      "pdf_pages": [
+        3
+      ],
+      "finding": "Manager deal-history databases must contain ILPA-recommended portfolio metrics. The answer omits Arizona and never successfully reads its pages. Partial score confirmed.",
+      "source_sha256": "ae2a0b861b9193bf89692627dce0af0d13ec248c7013cd25c85f4f8a3d8d5866"
+    },
+    {
+      "question_id": "CONS-16",
+      "source": "COAERS__COAERS_General_Investment_Consultant_RFP.pdf",
+      "pdf_pages": [
+        27
+      ],
+      "finding": "Five-year firm threshold has an alternative: senior principals with at least ten years of relevant experience. The modal five-year answer and counts are correct. Awarded 1 under narrow-question acceptance, but keep a human-review flag because the short issuer list omits this caveat.",
+      "source_sha256": "638ad85e9fb7bf3a2e361a6b10475be214f33e8dc469e57e2df17499f20ad5f5"
+    }
+  ]
+}

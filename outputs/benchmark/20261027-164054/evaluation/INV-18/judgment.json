@@ -1,0 +1,15 @@
+{
+  "question_id": "INV-18",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "4fed9c37d197ad79745e2a361abb53d8002188a6d14e3eaae2c65f2b33ee7b97",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "All nine milestones and dates match.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:25:50.192701+00:00"
+}

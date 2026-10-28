@@ -1,0 +1,81 @@
+{
+  "doc_id": "pi-0e3864d4522e4dcf8ed3bb96759f7929",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Rice University Retirement Plan Audit Services",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 1,
+      "key_items": [
+        "INTRODUCTION",
+        "SCOPE OF THE PROFESSIONAL AUDIT SERVICES"
+      ],
+      "summary": "Rice University seeks proposals for external audits of its Defined Contribution 401(a) and Supplemental 403(b) plans under Department of Labor requirements. The University typically appoints auditors annually but may initially engage a firm for up to three years, subject to Audit Committee approval. The review follows retaining the current auditor since 2014; there have been no accounting or auditing-standards disagreements. Rice values open communication and strategic discussion of best practices and compliance trends. The work includes limited-scope audit opinions on financial statements and ERISA-required supplemental schedules for the calendar year ended December 31. TIAA and Fidelity are custodians, with Fidelity as lead record-keeper; Joan Nelson, Associate Vice President for Human Resources, administers both plans. At December 31, 2020, the plans had 8,828 and 7,533 participants, respectively. Testing selection is usually in March, testing in early to mid-May, and Controller’s Office staff coordinate the audit with HR support. Completion is due by June 15 for mailing statements by July 31."
+    },
+    {
+      "title": "SYSTEM AND PLAN INFORMATION",
+      "node_id": "0001",
+      "start_index": 1,
+      "end_index": 3,
+      "summary": "Rice processes payroll centrally in Oracle Cloud (since July 2021), with earlier 2021 data in Banner; demographic and plan-specific census data are maintained, and auditors receive combined 401(a)/403(b) disbursement details. The 403(b) is universally available; the 401(a) covers eligible faculty and staff after six months. In 2020, 401(a) eligibility changed from day one to six months and vesting from one-year to three-year cliff. No relevant mergers, litigation, investigations, regulatory inquiries, prohibited or non-exempt transactions, delinquent contributions, service-provider changes, or current-year amendments are reported. TIAA and Fidelity provide investments and participant services; Fidelity drafts Form 5500s, which Rice finalizes. Rice’s accountant prepares the complete plan trial balance. The 403(b) dates to 1998, while the TIAA legacy plan is older; historical data before plan creation is unavailable. RPIC uses Captrust as co-fiduciary/advisor. Proposals must price three years with hours/rates and annual committee reporting; provide opinions and a management letter; describe firm experience, regulatory approach, emerging issues, five references, and partner/manager qualifications and year-round availability."
+    },
+    {
+      "title": "Retirement Plan Audit Fees and Reporting Responsibilities",
+      "node_id": "0002",
+      "start_index": 3,
+      "end_index": 3,
+      "key_items": [
+        "FEES",
+        "REPORTING RESPONSIBILITIES"
+      ],
+      "summary": "The current 403(b) plan began in 1998 and was amended and restated effective January 1, 2013; the older TIAA RA plan dates back over 50 years. Beginning balances are available, but no data predates the current plan. Rice has a Retirement Plan Investment Committee and uses Captrust as co-fiduciary and strategic investment advisor. Proposals should provide sustainable fees and related expenses for the 2021 audit and following two years, with hours and hourly rates by staff level. Fees must include annual Audit Committee preparation and meetings, in person or online; additional meetings may be needed if issues arise. Rice seeks its best provider, and fees matter but are not decisive. The auditor must opine on each plan’s financial statements and provide a concluding management letter with improvement recommendations, if applicable."
+    },
+    {
+      "title": "CONTENTS OF PROPOSAL",
+      "node_id": "0003",
+      "start_index": 3,
+      "end_index": 4,
+      "key_items": [
+        "Staffing",
+        "Other Items"
+      ],
+      "summary": "The proposal must include an executive summary explaining why the firm should be selected; experience auditing defined contribution plans, especially 401(a), 403(b), nonprofit-sponsored plans, and plans using TIAA or Fidelity; approaches to new regulations, accounting standards, and emerging issues; key issues expected over the next three to five years; and at least five similar-sized plan clients willing to serve as references. Staffing information must identify the responsible partner and manager, provide resumes and plan-audit experience, explain year-round availability, rotation policies, and how staff continuity is maintained. Other items include the latest peer review and responses, educational resources for management, access to prior-year work papers and predecessor-auditor cooperation, successor-firm work-paper access, comments on schedules or disclosures in current financial statements and Form 5500, and transition plans covering timing, startup costs, contingencies, additional costs, and matters needed to issue comparative 2021 plan-year financial statements."
+    },
+    {
+      "title": "MISCELLANEOUS",
+      "node_id": "0004",
+      "start_index": 4,
+      "end_index": 5,
+      "summary": "The selected auditor’s proposal will inform the contract; deviations from the requested specifications are at the firm’s risk. Firms must identify confidential material, and submissions become University property; proposals are limited to 30 pages. The University treats the RFP and attachments as confidential, will not reimburse proposal-related costs, and may negotiate with finalists, request campus meetings, modify proposal terms in the contract, change its selection, or end negotiations before an agreement is finalized. Timeline: RFP issued Dec. 13, 2021; questions accepted Jan. 5–13; proposals due Jan. 14 at 5 p.m.; finalist presentations in January/February; Audit Committee decision March 2, 2022. Submit electronically to Director of Internal Audit Janet Covington. Proposals are evaluated on relevant qualifications, ability to meet scope and deliverables, price, team diversity, and compliance with requirements. Proposals may be withdrawn in writing before the deadline. Questions or meeting requests should be directed to Ms. Covington."
+    },
+    {
+      "title": "Proposal Submission and Selection Information",
+      "node_id": "0005",
+      "start_index": 5,
+      "end_index": 5,
+      "key_items": [
+        "SELECTION TIMETABLE",
+        "SUBMISSION OF PROPOSAL",
+        "EVALUATION CRITERIA",
+        "WITHDRAWAL OF PROPOSAL",
+        "INQUIRIES"
+      ],
+      "summary": "The University is not responsible for costs incurred preparing or submitting proposals or arranging related services and supplies. The timetable lists the RFP distribution on December 13, 2021; questions from January 5–13, 2022; proposals due January 14; finalist presentations in January/February; and the Audit Committee decision on March 2. Proposals must be submitted electronically by 5:00 p.m. on January 14 to Director of Internal Audit Janet Covington. A selection committee will review, analyze, and rank timely proposals based on qualifications and experience with similar institutions, ability to meet scope and deliverable requirements, pricing, team diversity, and fulfillment of stated requirements. Proposals may be withdrawn before the deadline by written request to Ms. Covington. She is also the contact for questions and for arranging campus or virtual meetings about the benefit plan audit."
+    },
+    {
+      "title": "REJECTION OR ACCEPTANCE OF PROPOSALS; ATTACHMENTS",
+      "node_id": "0006",
+      "start_index": 6,
+      "end_index": 6,
+      "key_items": [
+        "REJECTION OR ACCEPTANCE OF PROPOSALS",
+        "ATTACHMENTS"
+      ],
+      "summary": "REJECTION OR ACCEPTANCE OF PROPOSALS\nProposals submitted shall impose no liability or obligation on the University and the University reserves the right to accept or reject any or all proposals in full or in part and further reserves the right to request future quotations at its discretion. The University also reserves the right to condition the award on successful additional clarification and/or negotiations of scope and fees.\nATTACHMENTS\n• Defined Contribution Retirement Plan for the Calendar Year Ended December 31, 2020 • Supplemental 403(b) Retirement Plan for the Calendar Year Ended December 31, 2020 • IRS Forms 5500 for the Calendar Year Ended December 31, 2020\n***End of Request for Proposal***\n6 | P a g e"
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

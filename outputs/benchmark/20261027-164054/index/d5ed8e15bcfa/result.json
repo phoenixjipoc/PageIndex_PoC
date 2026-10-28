@@ -1,0 +1,43 @@
+{
+  "file": "NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf",
+  "sha256": "fca44f24d76a0c909029b9ff1b91ab807d23781c5a74fdcd50e901f162732fc5",
+  "bytes": 201996,
+  "pages": 7,
+  "public_source_url": "https://www.njeda.gov/wp-content/uploads/2023/02/NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-APPENDIX-A.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:02:01.278928+00:00",
+  "doc_id": "pi-ddb9562b8e8f46c1814533ad160b985c",
+  "stored_name": "NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf",
+  "reported_usage": {
+    "prompt_tokens": 7624,
+    "completion_tokens": 1911,
+    "total_tokens": 9535,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 4298
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 564
+    }
+  },
+  "elapsed_seconds": 13.564,
+  "finished_at_utc": "2026-10-27T09:02:14.854652+00:00",
+  "model_calls": 8,
+  "http_attempts": 8,
+  "observed_usage": {
+    "input_tokens": 7624,
+    "output_tokens": 1911,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 4298,
+    "reasoning_tokens": 564,
+    "total_tokens": 9535
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

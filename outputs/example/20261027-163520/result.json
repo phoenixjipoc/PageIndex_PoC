@@ -1,0 +1,124 @@
+{
+  "status": "completed",
+  "run_id": "20261027-163520",
+  "scope": "single_document_smoke_test",
+  "question_id": "INV-04",
+  "question": "In the Illinois Firefighters' Pension Investment Fund (FPIF) February 2023 RFP for private markets investment consulting and discretionary OCIO advisory services, what long-term target allocation to private markets is FPIF building, and how is it split across asset classes?",
+  "document": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+  "pdf_sha256": "8babdc152651e80fd4ce6aacbee0887b049fabef9575dd2d82422db74498432e",
+  "pdf_pages": 33,
+  "models_requested": {
+    "index": "gpt-6-luna",
+    "chat": "gpt-6-sol"
+  },
+  "previous_container_default": "gpt-5.4",
+  "endpoint_host": "api.openai.com",
+  "pageindex_version": "0.2.10",
+  "source_commit": "e38b40ebaeea26d2c7206b80ce7bc9bf2935cdec",
+  "python_version": "3.11.15",
+  "index_mode": "flash",
+  "index_reasoning_effort": "medium",
+  "chat_protocol": "responses",
+  "chat_reasoning_effort": "medium",
+  "max_chat_turns": 10,
+  "summary_concurrency": 64,
+  "backend_timeout_override": null,
+  "backend_retries_override": null,
+  "max_output_tokens_override": null,
+  "citations_option": false,
+  "custom_instructions_supplied": false,
+  "index_storage": "C:\\Users\\XUJI\\OneDrive - Capco\\Desktop\\PageIndex_PoC\\.pageindex\\example-20261027-163520",
+  "reference_answers_used_in_generation": false,
+  "routing_note": "The source document is supplied for this smoke test; this is not whole-corpus retrieval.",
+  "instruction_note": "Official default agent instructions only. No custom instructions or optional citation prompt.",
+  "official_chat_instructions_sha256": "62139bc295ae87105849be38157ecf0cd95a13443a0a7f3e49f64150b8e5ba86",
+  "index_seconds": 17.072,
+  "index_usage": {
+    "prompt_tokens": 22809,
+    "completion_tokens": 4418,
+    "total_tokens": 27227,
+    "prompt_tokens_details": {
+      "cached_tokens": 14825,
+      "cache_write_tokens": 4050
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 912
+    }
+  },
+  "doc_id": "pi-bfde39219a0744b1b3fbb3d6e50f7467",
+  "stored_document_name": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+  "chat_seconds": 9.058,
+  "chat_usage": {
+    "input_tokens": 15253,
+    "input_tokens_details": {
+      "cached_tokens": 7410,
+      "cache_write_tokens": 7834
+    },
+    "output_tokens": 175,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 15428,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1430,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1427
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1466
+      },
+      {
+        "input_tokens": 5986,
+        "input_tokens_details": {
+          "cached_tokens": 1427,
+          "cache_write_tokens": 4556
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 6028
+      },
+      {
+        "input_tokens": 7837,
+        "input_tokens_details": {
+          "cached_tokens": 5983,
+          "cache_write_tokens": 1851
+        },
+        "output_tokens": 97,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7934
+      }
+    ]
+  },
+  "response_status": "completed",
+  "answer": "FPIF is building toward a **31% long-term allocation to private markets**, split as follows:\n\n| Asset class | Target allocation |\n|---|---:|\n| Private equity | 10% |\n| Private debt | 7% |\n| Real estate | 10% |\n| Infrastructure | 4% |\n\nSource: *FPIF February 2023 RFP*, Section 1.2, p. 1 (PDF p. 3).",
+  "citations": [],
+  "tool_calls": [
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\",\"pages\":\"3-4\"}"
+    }
+  ],
+  "model_response_ids": [
+    "gpt-6-luna",
+    "gpt-6-sol"
+  ],
+  "model_call_count": 20,
+  "all_models_match": true,
+  "wire_request_count": 20,
+  "all_wire_settings_match": true,
+  "all_chat_requests_use_official_instructions": true,
+  "total_seconds": 26.184
+}

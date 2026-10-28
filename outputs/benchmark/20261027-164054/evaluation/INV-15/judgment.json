@@ -1,0 +1,15 @@
+{
+  "question_id": "INV-15",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "881566b30026b3550fd8352a472f06ad51887c9e9b40e7eec45823a94e78f450",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct seven-year firm history.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:25:50.159844+00:00"
+}

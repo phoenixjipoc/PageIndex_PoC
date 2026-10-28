@@ -1,0 +1,573 @@
+{
+  "doc_id": "pi-d5c243e5a0c640bd9272ef8e94d50433",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 2,
+      "summary": "A State Retirement Systems request for proposals for actuarial consulting services (System Reference #24100), issued February 2, 2024, with responses due by 2:00 p.m. CST on March 4, 2024. The document covers the introduction, system overview, required services, proposal contents and submission, evaluation process, anticipated timeline, and general conditions. Appendices include a reference authorization letter, minimum qualifications, fee proposal, and sample agreement."
+    },
+    {
+      "title": "I. INTRODUCTION",
+      "node_id": "0001",
+      "start_index": 3,
+      "end_index": 4,
+      "summary": "The State Retirement Systems (SRS) seeks competitive proposals from qualified vendors for actuarial consulting and advice to its Boards of Trustees and staff. The potential contract would run five years, from July 1, 2024, through June 30, 2029, and cover the State Employees’ (SERS), Judges’ (JRS), and General Assembly (GARS) Retirement Systems. Each administers a defined-benefit plan providing retirement, disability, death, and survivor benefits; system details are provided in Section II. Interested vendors should review the full solicitation and submit proposals according to its instructions. SRS encourages proposals from minority-, women-, disability-, and veteran-owned businesses, consistent with financial and fiduciary prudence. Preparing or submitting a proposal, or negotiating a contract, does not obligate SRS to award a contract or reimburse costs. Proposals and related materials will be retained and subject to disclosure under the Illinois Freedom of Information Act."
+    },
+    {
+      "title": "II. SUMMARY DESCRIPTION OF SYSTEM",
+      "node_id": "0002",
+      "start_index": 4,
+      "end_index": 6,
+      "summary": "The text describes three Illinois public employee retirement systems. SERS has over $23 billion in assets and serves more than 140,000 state agency and board employees, retirees, and beneficiaries; its board includes the State Comptroller, six elected members, and six appointed members. JRS has over $1.3 billion in assets and serves more than 2,200 judges, retirees, and beneficiaries; its board includes the Illinois Supreme Court Chief Justice, State Treasurer, and three active judges appointed by the Court. GARS has over $80 million in assets and serves more than 500 elected state officials, retirees, and beneficiaries; its board has three Senate President appointees, three House Speaker appointees, and one elected retired member. All operate under the Illinois Pension Code. Each uses a statutory level-percentage-of-payroll funding policy targeting a 90% funded ratio by 2045, with the Projected Unit Credit method. Annual valuations determine required state contributions, and triennial experience studies review assumptions under Public Act 99-0232; studies were completed in 2022. Further information is available in the June 30, 2022 annual financial reports and 2022 actuarial valuations."
+    },
+    {
+      "title": "III. REQUIRED SERVICES",
+      "node_id": "0003",
+      "start_index": 6,
+      "end_index": 7,
+      "summary": "The State Retirement Systems seek actuarial consulting services and may request additional ad hoc work. Required services include annual funding and GASB 67/68 valuations and employer contribution calculations; experience reviews (every three years, with the next covering the period ending June 30, 2024); economic assumption reviews in other designated years; Level Income Tables after assumption changes; COGFA data, 415 Limitation Tables, and State Actuary responses. The vendor must attend quarterly board meetings, support trustee education, and provide analyses and data to the State Actuary and Commission on Government Forecasting and Accountability. Other duties include assessing proposed legislation, participating in special projects, advising trustees of relevant GASB and industry developments, and providing other reasonable public-pension actuarial services. The systems’ funding formula and plan provisions are in Articles 2, 14, and 18 of the Illinois Pension Code (40 ILCS 5). Services must comply with federal and State law and the contract."
+    },
+    {
+      "title": "IV. PROPOSAL CONTENTS",
+      "node_id": "0004",
+      "start_index": 7,
+      "end_index": 14,
+      "summary": "Proposals must follow the required indexed, numbered-page format and be accurate; noncompliance or misleading information may cause rejection, and vendors may be interviewed or asked to present. The authorized cover letter must make required capability, compliance, election-registration, integrity, agreement, disclosure, and accuracy certifications, including acknowledgment of public-records laws and penalties for falsifying records. Proposals must describe the firm, offices, experience, and assigned staff, with resumes and confirmation of the lead actuary’s continuing qualifications. Vendors must demonstrate statutory actuarial expertise, familiarity with the Illinois Pension Code, sound assumptions, legislative and technical support, compliant data systems, clear communication, and resources and commitment to meet deliverables. They must explain valuation review methods, additional services, and relevant insurance; provide similar public-sector project examples and authorized client references; and submit a fixed, all-inclusive fee in the prescribed format. Proposals must identify contract concerns, regulatory or disciplinary proceedings, and potential conflicts. Vendors must state qualifying diversity status and describe cybersecurity controls, validation, breaches, responses, and insurance. Required disclosures and certifications vary by IPG registration status.",
+      "nodes": [
+        {
+          "title": "A. Cover Letter",
+          "node_id": "0005",
+          "start_index": 7,
+          "end_index": 8,
+          "summary": "Proposals must address each requirement in a separately indexed section, use consecutively numbered pages and a table of contents, and be accurate; noncompliant formatting or false or misleading information may lead to rejection. SRS may require an interview, potentially a presentation to the SERS Board on April 16, 2024, at 10:00 a.m. CST, jointly by videoconference from Springfield and Chicago offices. The signed, authorized cover letter must state the vendor’s capability and compliance, offer validity until July 1, 2024, election-registration status and obligations, absence of fraud, collusion, or improper remuneration, willingness to accept Appendix D’s agreement and nonnegotiable terms, reference required disclosures, acknowledge FOIA and Open Meetings Act disclosure, and certify accuracy and awareness of the felony penalty for knowingly falsifying pension-system records. Proposals must describe the firm, offices, years in business, and public/private experience; identify assigned professional and clerical staff with resumes; confirm the lead actuary’s continuing qualification; and demonstrate ability to evaluate, validate, and endorse valuations for all three retirement systems under applicable law."
+        },
+        {
+          "title": "Proposal Disclosures, Vendor Background, and Actuary Staff",
+          "node_id": "0006",
+          "start_index": 8,
+          "end_index": 8,
+          "key_items": [
+            "B. Background",
+            "C. Actuary Staff Support"
+          ],
+          "summary": "The proposal must state that the vendor will sign the RFP’s Appendix D agreement, including its certifications, disclosures, exhibits, and representations, and understands that certain Illinois-mandated terms are nonnegotiable. It must reference disclosures required under Paragraph I, acknowledge that proposal documents are subject to the Illinois Freedom of Information and Open Meetings Acts, and certify that the signer’s information is true and accurate, noting the Illinois Pension Code’s Class 3 felony penalty for knowingly falsifying pension-system records to defraud. The vendor must describe its firm, home and branch office locations, the office serving SRS, years in business, and experience with private and public entities. It must identify all professional and clerical staff available for the SRS account and provide resumes detailing relevant education, qualifications, and work experience. The lead actuary must meet American Academy of Actuaries Qualification Standards for an Enrolled Pension Actuary throughout the contract."
+        },
+        {
+          "title": "D. Technical Ability & Experience",
+          "node_id": "0007",
+          "start_index": 8,
+          "end_index": 9,
+          "summary": "Vendors must demonstrate the actuarial expertise to evaluate and endorse valuations for all three retirement systems under applicable statutes, develop reasonable plan- and demographic-based assumptions consistent with Actuarial Standards of Practice, and have a lead actuary familiar with the Illinois Pension Code. They must advise staff on legislative changes affecting funding and valuation methods, program required projected unit credit changes, maintain an electronic data-processing interface compliant with Illinois Public Act 99-0503, complete required services to the Agency’s satisfaction, and explain technical issues clearly."
+        },
+        {
+          "title": "E. Ability to Meet Deliverables",
+          "node_id": "0008",
+          "start_index": 9,
+          "end_index": 9,
+          "summary": "E. Ability to Meet Deliverables\n(1) Vendor must disclose its commitment, at the company and staff level, to working with the Systems to meet appropriate timetables and statutory requirements.\n(2) Vendor shall describe the resources available to coordinate with the Systems and to meet deliverables.\n(3) Vendor shall provide a detailed description on how they will evaluate and validate the actuarial valuations produced under the assumptions utilized by the Systems in accordance with the provisions of the Illinois Pension Code.\n(4) Vendor shall provide actuarial support on an as needed basis during the contract term. The vendor shall describe the resources available to coordinate with the Systems and meet deliverables.\n(5) State specifically any other information or professional services to be provided by your firm, such as newsletters, tax expertise, legislative information, etc.\n(6) Provide information on any insurance policy maintained by your firm as it might pertain to this consulting assignment."
+        },
+        {
+          "title": "F. Prior Performance",
+          "node_id": "0009",
+          "start_index": 9,
+          "end_index": 10,
+          "summary": "Vendors must provide examples of completed, similar work for public-sector clients, including each client’s name and contact information, project period and description, current commitment, and other relevant experience such as fund size and work with regulatory agencies. They must also submit contact details and completed Reference Authorization Letters for references SRS may contact: at least three former clients and one current client for whom they performed similar actuarial services or consulting within the past three years. Letters must include the text specified in Appendix A."
+        },
+        {
+          "title": "G. Fee Proposal",
+          "node_id": "0010",
+          "start_index": 10,
+          "end_index": 10,
+          "summary": "G. Fee Proposal\nVendor must submit a written fixed fee proposal for the services described in Section III (“Services Required”). The fee proposal shall cover and include all planning, fieldwork, administrative, third-party, travel, and other costs, and it shall be in the format prescribed in Appendix C. Any deviation from the prescribed format which in the opinion of SRS is material may result in the rejection of the proposal. The proposed fee shall include all expenses for providing the services to SRS as described in this RFP.\nIf SRS does not consider the proposal price to be fair and reasonable and cannot negotiate an acceptable price, then SRS reserves the right to cancel the award and take appropriate action to meet its needs. SRS will determine whether the cost is fair and reasonable by considering the proposal, including the vendor’s qualifications, the price proposed, other known prices, the project budget, and other relevant factors."
+        },
+        {
+          "title": "H. Contract",
+          "node_id": "0011",
+          "start_index": 10,
+          "end_index": 11,
+          "key_items": [
+            "I. Other Disclosures"
+          ],
+          "summary": "The RFP is not a contract, but a proposal may be selected for contract negotiations. The anticipated contract will include at least the Appendix D sample agreement and the vendor’s proposal as finally negotiated and approved; SRS may modify either. Some sample terms required by Illinois are nonnegotiable. Vendors must clearly identify contractual concerns in their proposals, since material changes or objections raised only during negotiations may remove a proposal from consideration. Proposals must also describe any investigations, unusual examinations, complaints, disciplinary actions, or other proceedings initiated against the vendor by a state or federal regulator or professional organization in the past five years, and disclose potential conflicts of interest—including current business relationships or negotiations involving SRS, its trustees or staff, or parties serving SRS—along with an explanation of why each relationship is not a conflict."
+        },
+        {
+          "title": "J. Measuring Progress Toward System’s Diversity Goal",
+          "node_id": "0012",
+          "start_index": 11,
+          "end_index": 12,
+          "summary": "Vendors must state whether they qualify as minority-owned, woman-owned, or owned by a person with a disability under the cited Illinois law. The System’s Inclusion Policy sets an aspirational goal for contracting with such businesses at the statutory percentage. The selected vendor must certify its status using the Supplemental Diversity Certification in Exhibit B of the sample agreement. Vendors must also describe current cybersecurity practices, including: security standards, practices, and policies (and copies if available); how they validate those practices and policy compliance; cybersecurity standards implemented; breaches in the past five years and responses; and insurance that could cover System losses from cybersecurity or identity-theft breaches, including coverage amounts maintained while providing actuarial auditing services."
+        },
+        {
+          "title": "L. Standard Forms Required for a Responsive Proposal",
+          "node_id": "0013",
+          "start_index": 12,
+          "end_index": 14,
+          "summary": "Responsive proposals require different disclosures depending on whether the vendor uses an Illinois Procurement Gateway (IPG) registration. Vendors not using an IPG number must complete Vendor Disclosure Parts 1–8: business and directory information; Illinois Department of Human Rights public contracts number; authorization to transact business or conduct affairs in Illinois (with legal-entity requirements for non-sole proprietors); standard certifications; State Board of Elections registration information, including possible political-contribution restrictions; Iran business-operations disclosure; financial disclosures and conflicts of interest; and taxpayer identification. Vendors using an IPG number must provide an active registration number and expiration date, disclose lobbyists for the vendor and parent entities, disclose pending and current contracts, and submit certifications applicable to the solicitation."
+        }
+      ]
+    },
+    {
+      "title": "V. SUBMISSION OF PROPOSALS",
+      "node_id": "0014",
+      "start_index": 14,
+      "end_index": 15,
+      "summary": "Proposals must arrive by 2:00 P.M. CST on March 4, 2024, at the specified Springfield, Illinois address for Robert Cooper. Submit four (3) hard copies and one PDF copy on CD-ROM or thumb/jump drive in sealed package(s). Mark one hard copy “Master Copy,” place it in a loose-leaf three-ring binder displaying the vendor’s name, and do not use spiral binding. Mark each package with the vendor’s name and return address and the required sealed-proposal statement; improper labeling may lead to rejection, and SRS is not responsible for receipt. Vendors are responsible for timely delivery; late proposals will not be considered or returned, regardless of cause. Fax, electronic, or magnetic-media submissions are prohibited unless specifically requested by SRS. Submitted proposals become SRS property, and vendors bear all proposal-development and presentation/interview costs. Only one proposal per individual, vendor, partnership, corporation, or combination will be considered."
+    },
+    {
+      "title": "VI. EVALUATION PROCESS",
+      "node_id": "0015",
+      "start_index": 15,
+      "end_index": 18,
+      "key_items": [
+        "A. Pre-Evaluation Review; B. Proposal Evaluation",
+        "A. Pre-Evaluation Review",
+        "B. Proposal Evaluation",
+        "C. Vendor Responsiveness and Responsibility",
+        "II. ANTICIPATED TIMELINE (SUBJECT TO CHANGE AT SRS DISCRETION)"
+      ],
+      "summary": "Proposals are date-stamped and checked for proper sealing, labeling, completeness, and required format; failures may be rejected. SRS staff evaluate eligible proposals for best value, considering responsiveness/responsibility, background, actuarial support, technical ability and experience, deliverables, past performance, and price (not necessarily the primary factor). SRS may request clarification or information, but vendors cannot otherwise revise proposals after filing. SRS may amend the RFP, allowing timely bidders to revise, reject any or all proposals, and provides no proposal-preparation reimbursement. Responsiveness means material compliance with the RFP and required forms; negligible deviations may be accepted or corrected, and unmet requirements may be waived. Responsibility includes capability, integrity, reliability, and eligibility: prohibited bidders include those improperly involved in preparing procurement documents or specifications. Other checks may cover contributions, certifications, conflicts, disclosures, tax identification, references and performance, legal compliance, finances, insurance, equal opportunity, wages, supply capacity, and service ability. SRS may demand adequate financial proof, a performance bond, corrective action, or terminate for inadequate resources. Timeline: RFP issued Feb. 2, 2024; questions Feb. 15; responses Feb. 22; proposals due Mar. 4; board presentation Apr. 16; contract signing by June 15."
+    },
+    {
+      "title": "VIII. GENERAL CONDITIONS",
+      "node_id": "0016",
+      "start_index": 18,
+      "end_index": 21,
+      "summary": "Vendors must direct RFP questions and error reports to the designated contact by February 15, 2024, monitor SRS website updates, avoid unauthorized contacts or discussions, and meet eligibility requirements; violations or specified performance, debt, contract, or evasion concerns may lead to disqualification. Proposals become SRS property and are generally public under FOIA; limited confidentiality requests require legal justification, a redacted copy, and a supporting memorandum, and vendors bear related defense costs and warrant copying rights. The Systems reserve broad rights to amend or reject the RFP, waive immaterial defects, verify and clarify proposals, request best-and-final offers, determine compliance and terms, reject noncooperation, and obtain services elsewhere; proposal costs are unreimbursed and billable work requires prior contract execution or written approval. No award is guaranteed; any award goes to the responsible, responsive proposal best meeting needs, subject to fair-reasonable pricing, and apparent awards may be posted online. Finalists may undergo reference checks and must provide authorization letters. SRS commits to equal opportunity and compliance with applicable nondiscrimination laws.",
+      "nodes": [
+        {
+          "title": "RFP Communications and Vendor Eligibility",
+          "node_id": "0017",
+          "start_index": 18,
+          "end_index": 18,
+          "key_items": [
+            "A. Clarification of the RFP",
+            "B. Restrictions on Communications",
+            "C. Prior Deficiencies"
+          ],
+          "summary": "Vendors should review the RFP carefully and direct any error reports or information requests by February 15, 2024, only to Robert Cooper, the solicitation’s single point of contact. SRS may issue clarifications or modifications on its website before February 22, 2024; information from other sources is not the responsibility of the State or SRS. Vendors must not contact SRS staff or Trustees except as authorized, or discuss proposal contents with other vendors; violations may result in disqualification. Vendors may also be disqualified for uncontrolled deficiencies in current or recent performance, defaults on debts or obligations, or failure to fulfill prior SRS contracts. A newly formed business linked by substantially the same owners or leaders to a previously non-responsible vendor may be disqualified unless it proves it was not created to evade that finding."
+        },
+        {
+          "title": "D. No Confidentiality",
+          "node_id": "0018",
+          "start_index": 18,
+          "end_index": 19,
+          "summary": "Submitted proposals become SRS property; late proposals are not returned. Proposals are generally public under FOIA and other applicable law. Vendors may request confidentiality for specific information, but must cite legal grounds; requests cannot override disclosure obligations or cover an entire proposal. If a contract is awarded, the successful vendor’s name, proposal substance, and price will be disclosed. A vendor seeking confidential treatment must provide a redacted proposal describing removed material and retaining as much as possible, plus a separate legal memorandum listing each redaction and explaining its statutory basis for exemption. The vendor must indemnify and hold harmless the State, the Systems, their boards, staff, and consultants for costs and damages from defending the request. The Systems may copy proposals for evaluation or public-records responses, and the vendor warrants copying will not infringe third-party rights."
+        },
+        {
+          "title": "E. Reservation of Rights",
+          "node_id": "0019",
+          "start_index": 19,
+          "end_index": 19,
+          "summary": "Vendors must understand the RFP and ensure proposals and activities comply with its requirements, applicable laws and regulations, and SRS policies. The Systems may amend or reject the solicitation, award by item, group, or total, waive immaterial defects without relaxing compliance, and verify proposals through clarifications, inspections, interviews, presentations, or other means, including checks on subcontractors and suppliers; they may also request best-and-final proposals. They decide compliance, evaluation, and contract terms in accordance with their best interests, procurement policies, and applicable law. Vendors must provide requested information and cooperate or risk rejection as non-responsive. A proposal or website listing guarantees neither an award nor a contract, and proposal costs are not reimbursed. Awardees may not begin billable work before contract execution unless the SRS Director of Administrative Services approves it in writing beforehand. SRS may obtain similar services from other sources."
+        },
+        {
+          "title": "F. Award",
+          "node_id": "0020",
+          "start_index": 19,
+          "end_index": 20,
+          "summary": "F. Award\nThe Systems are not obligated to award a contract pursuant to this RFP. If the Systems issue an award, the award will be made to the responsible and responsive vendor whose proposal best meets the needs of the Systems as articulated in Section VI of this RFP. However, if the Systems do not consider the price to be fair and reasonable and negotiations fail to meet an acceptable price, then the Systems reserve the right to cancel the award and take appropriate\n17action to meet the needs of the Systems. The Systems will determine whether the price is fair and reasonable by considering the proposal, including the vendor’s qualifications, the vendor’s reputation, all prices submitted, other known prices, the project budget, and other relevant factors. The Systems may post a notice to its website identifying the apparent responsible and responsive vendor whose proposal best meets the needs of the Systems as articulated in Section VI of this RFP. Vendors are responsible for monitoring the website."
+        },
+        {
+          "title": "G. Reference Checks",
+          "node_id": "0021",
+          "start_index": 20,
+          "end_index": 20,
+          "summary": "G. Reference Checks\nReference checks may be conducted for each finalist. Please provide a reference authorization letter in the format prescribed in Appendix A for each reference."
+        },
+        {
+          "title": "H. Equal Opportunity",
+          "node_id": "0022",
+          "start_index": 20,
+          "end_index": 21,
+          "summary": "H. Equal Opportunity\nSRS does not discriminate because of race, color, religion, creed, sex, sexual orientation, age, marital status, military status, certain unfavorable discharges from military service, political affiliation, citizenship, ancestry, national origin, physical or mental handicap or disability or any other characteristic protected by law. It is the Systems’ intent to comply with all state, federal, and local equal employment and opportunity laws and public policies.\n18"
+        }
+      ]
+    },
+    {
+      "title": "Appendix A: Reference Authorization Letter",
+      "node_id": "0023",
+      "start_index": 21,
+      "end_index": 43,
+      "summary": "The appendices provide a reference authorization letter allowing the System to obtain information about a prospective vendor and its personnel; minimum actuarial qualifications, with vendor representative attestation; fee-proposal instructions covering five-year fixed pricing by retirement system, annual project costs, staffing hours and rates, ad hoc work, expenses, taxes, travel, totals, and certification; and a sample agreement outlining anticipated contract terms. The agreement covers actuarial services, qualifications and staffing, professional and safety duties, subcontractors and U.S.-based work, compensation and expenses, contract term and termination, payment and audits, disputes, confidentiality, ownership, indemnity, insurance, legal compliance, notices, public-records obligations, performance, required disclosures and certifications, and data-security safeguards.",
+      "nodes": [
+        {
+          "title": "Appendix A: Reference Authorization Letter (intro)",
+          "node_id": "0024",
+          "start_index": 21,
+          "end_index": 21,
+          "summary": "Appendix A: Reference Authorization Letter\n[On prospective vendor letterhead]\n[Month, Day, Year]\n[Reference Name] [Reference Title] [Company Name] [Reference Address] [City, State, Zip]\nDear [Reference Name]:\n(Prospective Vendor Name) has submitted a proposal to the State Retirement Systems (“System”) with regard to providing actuarial consulting services. The System is conducting its due diligence with regard to (Prospective Vendor Name). Through this written authorization, (Prospective Vendor Name) hereby authorizes any individual, business, corporation, retirement system, state agency, or other entity to release any facts and information it may have concerning (Prospective Vendor Name), its principals, employees, and agents, to the System.\nA copy of this authorization may be used as if it were an original. Thank you for your assistance.\nSincerely,\n(Prospective Vendor Name)\n(Authorized Signature and Title)\n19"
+        },
+        {
+          "title": "Appendix B:  Minimum Qualifications",
+          "node_id": "0025",
+          "start_index": 22,
+          "end_index": 23,
+          "summary": "Appendix B: Minimum Qualifications\nThe following experience and qualifications are required for this project. If the requirement is met by the vendor, the representative for the vendor must initial on the line to the left of the requirement and sign and date this form.\n_____ (1)\nThe primary (senior) supervising actuary to be employed on this project is a Fellow of the Society of Actuaries (FSA) or an Enrolled Actuary.\n_____ (2)\nEach supporting actuary to be employed on the project is a Fellow of the Society of Actuaries (FSA), an Enrolled Actuary, or has at least five years of public pension consulting service.\n_____________________________________________ Representative Signature\n____________________ Date\n20"
+        },
+        {
+          "title": "Appendix C: Fee Proposal",
+          "node_id": "0026",
+          "start_index": 23,
+          "end_index": 25,
+          "summary": "Appendix C requires vendors to provide identifying and contact information and submit fixed-fee pricing in the prescribed format for each retirement system. Fees must cover the five-year contract period and list annual costs for actuarial valuations, experience reviews, economic assumption reviews, level income tables, COGFA data, 415 limitation tables, state actuary responses, and the total. Experience studies are required every three years, with economic assumption reviews in intervening years; level income tables must be updated when assumptions change. Vendors must provide estimated hours and hourly rates by employee title for each project, including rates effective July 1, 2024 and for each contract year. Ad hoc work may be charged at the assigned employees’ hourly rates. The fixed fee must include all expenses, including travel, and taxes must be excluded unless the System’s tax liability is documented. Vendors may attach additional pages, must state a not-to-exceed total and confirm whether travel is included, and must provide an authorized representative’s certification. Noncompliant pricing may make an offer non-responsive."
+        },
+        {
+          "title": "Appendix D: Sample Agreement",
+          "node_id": "0027",
+          "start_index": 25,
+          "end_index": 43,
+          "summary": "Appendix D provides the sample base agreement and exhibits stating minimum anticipated contract terms, and explains which vendor disclosure and certification forms to submit based on IPG registration. The SERS actuarial consulting contract establishes its components, vendor attestations, execution and agency-use fields, and sections on services, pricing, term, business terms, and disclosures. Services include valuations, contribution recommendations, assumption reviews, board and legislative support, and special analyses, with qualified supervision, professional standards, staffing and safety duties, subcontractor disclosures, successor-vendor requirements, and U.S.-based performance. Pricing covers estimated compensation, included overhead, and unreimbursed expenses. The five-year term, termination rights, cure procedures, replacement staffing, and funding contingencies are specified. Standard terms address payment, audits, disputes, confidentiality, work ownership, indemnity, insurance, compliance, notices, FOIA, and performance. Supplemental provisions identify applicable exhibits, certifications, and disclosures; the data-security exhibit defines protected information and requires safeguards for System Data.",
+          "nodes": [
+            {
+              "title": "Appendix D: Sample Agreement (intro)",
+              "node_id": "0028",
+              "start_index": 25,
+              "end_index": 25,
+              "summary": "Appendix D provides the sample base agreement and exhibits containing minimum terms anticipated for the contract negotiated for the RFP services. The selected vendor must submit either IPG Active Registered Vendor Disclosure (formerly Forms B) plus IPG Certifications and Financial Disclosures, or Vendor Disclosure (formerly Forms A) with Standard Certifications and Financial Disclosures. Vendors without an IPG Registration Number must complete Forms A; those using one must complete Forms B. Both forms are available on the Chief Procurement Officer for General Services website."
+            },
+            {
+              "title": "STATE EMPLOYEES’ RETIREMENT SYSTEM OF ILLINOIS CONTRACT ACTUARIAL CONSULTING SERVICES",
+              "node_id": "0029",
+              "start_index": 26,
+              "end_index": 29,
+              "summary": "This is the Illinois State Employees’ Retirement System (SERS) contract form for actuarial consulting services, reference #24100, between SERS and a vendor. It defines the contract as the signature page, listed sections, and referenced attachments; the vendor affirms attached certifications and disclosures are accurate at signing. It supersedes prior agreements on the subject and may be signed in counterparts. The form indicates no BidBuy purchase order; the IPG certifications/disclosures choice is unmarked. Contract sections cover services, pricing, term and termination, standard business terms, supplemental provisions, standard certifications, and applicable financial/conflict disclosures and Forms B. The parties acknowledge consideration and execute through authorized representatives. Signature fields capture vendor and agency details, official/legal/fiscal signatures, contacts, and dates. An agency-use-only area records procurement and project identifiers, method, publication and award details, funding and obligation, subcontractor use/disclosure and percentages, small-business set-aside, ownership preferences, and other preferences."
+            },
+            {
+              "title": "1. DESCRIPTION OF SERVICES",
+              "node_id": "0030",
+              "start_index": 29,
+              "end_index": 33,
+              "summary": "The section defines actuarial support for SERS, including annual funding and GASB valuations, contribution recommendations, assumption reviews, board and trustee support, legislative and special-project analyses, State Actuary and government data, and other requested services, all compliant with applicable law and contract terms. Work must be supervised by a qualified FSA or Enrolled Actuary; the vendor must disclose disciplinary actions, assume responsibility for staff conduct and injuries, provide protective equipment and infection protocols, validate and endorse valuations, use reasonable ASOP-consistent assumptions, implement methodology changes, and explain technical matters. Deliverables should be emailed where possible, with requested board-meeting hard copies. Subcontracting is allowed subject to value-based certifications, disclosure of subcontractor details and conflicts information, and notice of changes; pre-award arrangements are at the vendor’s risk. Applicable successor-vendor rules require offers concerning bargaining obligations and existing employees. Services are to be performed in the United States, with locations and values disclosed; 100% is specified for the United States.",
+              "nodes": [
+                {
+                  "title": "Retirement System Actuarial Services and Deliverables",
+                  "node_id": "0031",
+                  "start_index": 29,
+                  "end_index": 29,
+                  "key_items": [
+                    "1.1. SERVICES REQUIRED:",
+                    "1.2. MILESTONES AND DELIVERABLES:",
+                    "1.2.1. Annual Actuarial Valuations (Funding and GASB 67/68) 1.2.2. Economic Assumption Review; 1.2.3. State Actuary Response 1.2.4. Level Income Tables; 1.2.5. COGFA data; 1.2.6. 415 Limitation Tables",
+                    "1.2.1. Annual Actuarial Valuations (Funding and GASB 67/68) 1.2.2. Economic Assumption Review",
+                    "1.2.3. State Actuary Response 1.2.4. Level Income Tables",
+                    "1.2.5. COGFA data",
+                    "1.2.6. 415 Limitation Tables"
+                  ],
+                  "summary": "The consultant will support retirement-system administration by preparing annual actuarial valuations and statutory employer contribution recommendations; attending quarterly board meetings and supporting trustee education; providing analyses and data to the State Actuary and legislative and executive branches; assessing proposed legislation, undertaking assigned special projects, and advising on accounting standards and public-pension trends. Other reasonable actuarial services may be requested. SERS may request additional ad hoc projects. Deliverables include annual funding and GASB 67/68 valuations, economic assumption reviews, State Actuary responses, level income tables, COGFA data, and Section 415 limitation tables. All services must comply with applicable federal and state laws and the contract."
+                },
+                {
+                  "title": "1.3. VENDOR / STAFF SPECIFICATIONS:",
+                  "node_id": "0032",
+                  "start_index": 29,
+                  "end_index": 30,
+                  "summary": "The vendor must provide actuarial services under a qualified FSA or Enrolled Actuary supervisor, supported by qualified actuaries, and disclose and promptly report any relevant disciplinary actions. It bears liability for employees’ and agents’ wrongful acts, negligence, and injuries connected to System work, and must supply protective equipment and implement infection-exposure protocols. The firm must evaluate, validate, and endorse valuations under applicable law; develop reasonable assumptions consistent with Actuarial Standards of Practice; analyze requested legislative changes affecting funding or valuation; program required projected unit credit methodology changes; explain technical issues clearly; and provide actuarial support as needed throughout the contract."
+                },
+                {
+                  "title": "1.4. TRANSPORTATION AND DELIVERY:",
+                  "node_id": "0033",
+                  "start_index": 30,
+                  "end_index": 30,
+                  "summary": "1.4. TRANSPORTATION AND DELIVERY:\nThe vendor shall deliver work products via electronic mail whenever possible. Such materials provided to Trustees at Board meetings shall be provided by the firm in hardcopy form as may be requested by the Executive Secretary."
+                },
+                {
+                  "title": "1.5. SUBCONTRACTING",
+                  "node_id": "0034",
+                  "start_index": 30,
+                  "end_index": 31,
+                  "key_items": [
+                    "1.5.1. Will subcontractors be utilized?"
+                  ],
+                  "summary": "Subcontracting is permitted, and the form asks whether subcontractors will be used. A subcontractor is an entity with a contract worth at least $100,000 with a State-contracted party to provide goods, services, property, or other consideration under the primary contract, including certain subleases. Subcontracts with annual value over $50,000 must include completed Standard Illinois Certifications. For subcontracts with annual value of $100,000 or more, the vendor must identify each subcontractor’s name, address, payment amount, and work description; additional pages may be attached. Identified subcontractors must also complete the certifications. If a subcontract’s annual value exceeds $100,000, the vendor must provide the State that subcontractor’s Financial Disclosures and Conflicts of Interest. During the contract, the vendor must promptly notify the Agency Purchasing Officer in writing of new or replacement subcontractors’ names, addresses, and expected payments. Pre-award subcontracts are at the vendor’s and subcontractors’ sole risk."
+                },
+                {
+                  "title": "1.6. SUCCESSOR VENDOR",
+                  "node_id": "0035",
+                  "start_index": 31,
+                  "end_index": 31,
+                  "summary": "The successor vendor requirement applies to services covered by 30 ILCS 500/25-80, but excludes heating and air conditioning, plumbing, and electrical service contracts, as well as non-service, construction, qualification-based selection, and professional and artistic services contracts. If “Yes” is checked, the vendor certifies it will offer to assume the prior employer’s collective bargaining obligations, including existing agreements for bargaining units performing substantially similar work, and offer employment to all current employees in those units performing such work. This certification supersedes the response to certification 4, Form F, of the Illinois Procurement Gateway."
+                },
+                {
+                  "title": "1.7. WHERE SERVICES ARE TO BE PERFORMED:",
+                  "node_id": "0036",
+                  "start_index": 31,
+                  "end_index": 33,
+                  "summary": "1.7. WHERE SERVICES ARE TO BE PERFORMED: Unless otherwise disclosed in this section all services shall be performed in the United States. If the Vendor performs the services purchased hereunder in another country in violation of this provision, such action may be deemed by the State as a breach of the contract by Vendor. Vendor shall disclose the locations where the services required shall be performed and the known or anticipated value of the services to be performed at each location. If the Vendor receivedadditional consideration in the evaluation based on work being performed in the United States, it shall be a breach of contract if the Vendor shifts any such work outside the United States. Location where services will be performed: United States. Value of services performed at this location: 100%."
+                }
+              ]
+            },
+            {
+              "title": "2. PRICING",
+              "node_id": "0037",
+              "start_index": 33,
+              "end_index": 34,
+              "key_items": [
+                "2.1 TYPE OF PRICING:; 2.2 DISCOUNT: The System will not receive a discount for early or prompt payment.",
+                "2.1 TYPE OF PRICING:",
+                "2.2 DISCOUNT: The System will not receive a discount for early or prompt payment.",
+                "2.3 VENDOR’S COMPENSATION:",
+                "2.3.1 [AS AGREED]",
+                "2.4 ESTIMATED AMOUNT:"
+              ],
+              "summary": "The contract’s total value is estimated, and no discount is available for early or prompt payment. Vendor compensation is as agreed; the fee includes normal business and overhead expenses, such as clerical work, overtime, computer and phone use, copying, and mailing or express delivery. The Vendor must pay all out-of-pocket service expenses, including travel, lodging, and meals, with no reimbursement from the System. The estimated amount payable is the amount specified in Section 2.3.1."
+            },
+            {
+              "title": "3. TERM AND TERMINATION",
+              "node_id": "0038",
+              "start_index": 34,
+              "end_index": 36,
+              "key_items": [
+                "3.1 TERM OF THIS CONTRACT:; 3.2 TERMINATION FOR CAUSE:; 3.3 TERMINATION FOR CONVENIENCE:",
+                "3.1 TERM OF THIS CONTRACT:",
+                "3.2 TERMINATION FOR CAUSE:",
+                "3.3 TERMINATION FOR CONVENIENCE:",
+                "3.4 AVAILABILITY OF APPROPRIATION:"
+              ],
+              "summary": "The contract runs July 1, 2024–June 30, 2029, unless terminated earlier; billable work may not begin before final execution except as allowed by law. The System may immediately terminate for health, safety, or property risks or Vendor’s inability or unwillingness to perform. For unsatisfactory material performance, material violations, or inadequate financial resources, it must give written notice and a cure deadline; if uncured, it may terminate or enforce the contract. Consultants deemed unable to perform during the first two weeks are unpaid for that period, and the State may cancel. If a proposed candidate cannot complete the term, Vendor has three days to propose an agency-approved replacement. The System retains legal and equitable remedies. It may terminate for convenience with 30 days’ written notice, without penalty or further obligation; Vendor may claim, with invoices and proof, payment for compliant services and supplies through termination. The contract depends on available appropriations: the System may suspend or terminate it without penalty or further payment for insufficient or reduced funding, or budgetary reasons, with written notice to Vendor."
+            },
+            {
+              "title": "4. STANDARD BUSINESS TERMS AND CONDITIONS",
+              "node_id": "0039",
+              "start_index": 36,
+              "end_index": 42,
+              "summary": "These terms govern payment under the Illinois Prompt Payment Act, applicable fees, allowable costs, wage and supplier compliance, federal-funding disclosure, invoice deadlines and documentation, offsets, and payment addresses. They require prior approval and documentation for assignments and subcontractors, record retention and audit cooperation, continued performance during disputes, and recognize that time is essential. They address non-waiver, force majeure and cancellation, confidentiality and its exceptions, return or destruction of protected information, and System ownership of vendor-created work. Vendor indemnity, limits on damages, required insurance, independent-contractor status, restrictions on hiring System employees, legal and tax compliance, permits, and security checks are specified. Illinois law, equal-opportunity requirements, Court of Claims jurisdiction, no arbitration or immunity waiver, antitrust claims, expatriated-entity restrictions, written notices and amendments, severability, survival, System-term precedence, performance review, FOIA, and on-site work rules also apply. Services must meet contract standards through competent personnel, with reassignment of unsuitable staff and prompt notice of material performance risks. The section also notes possible employment tax credits for hiring qualified veterans and certain ex-offenders.",
+              "nodes": [
+                {
+                  "title": "4.1 PAYMENT TERMS AND CONDITIONS:",
+                  "node_id": "0040",
+                  "start_index": 36,
+                  "end_index": 37,
+                  "summary": "Payment follows the Illinois Prompt Payment Act, which is Vendor’s sole late-payment remedy; invoice payment terms do not apply. Certain Illinois Procurement Code contracts of $1,000 or more incur a $15 fee deducted from the first payment. Pre-execution costs are not reimbursed. Payment requires contract compliance, legally required prevailing wages, supplier payment, and requested lien waivers; DOL rates and updates apply. Expected federal funding shares and amounts will be disclosed. Invoices certify compliant delivery and charges, are due by July 31 for services through June 30, are subject to statutory offset, and must substantiate any taxes; final invoices follow completion and contract pricing. They go to the State Employees’ Retirement System, attn. Jeff Houch, at the listed address/email. Assignment and subcontracting require prior written approval; subcontractors, work, compensation, certifications, and changes must be documented, with requested subcontract copies supplied within 15 days. Records must be retained three years, or five for federally funded costs, and made available for audits; Vendor must cooperate, and missing records create a recovery presumption. Time is essential, performance continues during disputes unless directed otherwise, and non-enforcement does not waive rights."
+                },
+                {
+                  "title": "Contract Administration and Compliance Requirements",
+                  "node_id": "0041",
+                  "start_index": 37,
+                  "end_index": 37,
+                  "key_items": [
+                    "4.2 ASSIGNMENT:",
+                    "4.3 SUBCONTRACTING:",
+                    "4.4 AUDIT/RETENTION OF RECORDS:",
+                    "4.5 TIME IS OF THE ESSENCE:"
+                  ],
+                  "summary": "Invoices should be sent to the State Employees’ Retirement System, Attn: Jeff Houch, P.O. Box 19255, Springfield, IL 62794-9255, jeff.houch@srs.illinois.gov. Vendor may not assign or transfer the contract without the System’s prior written consent. Subcontractors require prior written approval; Vendor must disclose their names, addresses, work, and expected compensation, provide subcontracts within 15 days if required, include required State certifications, and promptly report additions or replacements by written amendment. Vendor must retain supporting records for three years after final payment or completion, or five years when federal funds are used. Records must be available for audits and investigations on reasonable notice during business hours, with Vendor’s full cooperation and no audit charge. Missing records create a presumption favoring the System in recovery of unsupported payments. Time is essential, and Vendor must continue performance during disputes unless directed otherwise by the System."
+                },
+                {
+                  "title": "4.6 NO WAIVER OF RIGHTS:",
+                  "node_id": "0042",
+                  "start_index": 37,
+                  "end_index": 38,
+                  "summary": "Failure to enforce a right does not waive future enforcement unless waived in writing. Force majeure excuses non-negligent failures caused by unforeseeable events beyond reasonable control; if performance does not resume within 30 days, the other party may cancel without penalty. Confidential information must be protected, handled in compliance with Illinois Public Act 99-0503, not disclosed without legal authorization and written consent, and returned or its destruction reported at contract end or on request. Vendor information is public unless clearly marked confidential and FOIA-exempt. Exceptions cover information previously held lawfully, received in good faith from an unrestricted third party, publicly available without breach, or independently developed. Vendor-created work is work for hire, exclusively owned by the System, with rights assigned and moral-rights claims waived; confidential content remains protected. Vendor must indemnify the System and State of Illinois parties for losses, fees, and claims arising from Vendor’s breaches, negligence-related injury or damage, acts or omissions, or alleged third-party intellectual-property infringement."
+                },
+                {
+                  "title": "Force Majeure, Confidentiality, and Work Ownership",
+                  "node_id": "0043",
+                  "start_index": 38,
+                  "end_index": 38,
+                  "key_items": [
+                    "4.7 FORCE MAJEURE:",
+                    "4.8 CONFIDENTIAL INFORMATION:",
+                    "4.9 USE AND OWNERSHIP:"
+                  ],
+                  "summary": "Performance failures caused by unforeseeable events beyond a party’s reasonable control and not its negligence—including natural disasters, terrorism, riots, labor disputes, fire, flood, explosions, or government prohibitions—are excused; if performance does not resume within 30 days, the other party may cancel without penalty. Parties and their agents must protect confidential information. Vendor must presume System information confidential and comply with Illinois Public Act 99-0503 when handling retirement-system member information; Vendor information is public unless clearly marked confidential and FOIA-exempt. Confidential information may be disclosed only as authorized by law and with written consent, and must be returned or its destruction certified upon request or contract end. Exceptions cover prior lawful possession, good-faith receipt from an unbound third party, public information without breach, and independent development. Vendor-created work is work for hire, exclusively owned by the System; Vendor assigns its rights, waives related claims including moral rights, and acknowledges the System may use it for any purpose. Confidential content in work remains protected."
+                },
+                {
+                  "title": "4.10 INDEMNIFICATION AND LIABILITY:",
+                  "node_id": "0044",
+                  "start_index": 38,
+                  "end_index": 39,
+                  "summary": "The vendor must indemnify and hold harmless the System and State of Illinois and their personnel for losses, fees, and claims arising from vendor breaches, negligent performance, acts or omissions, or alleged third-party intellectual-property violations. The State and System cannot indemnify private parties without statutory authority, and neither party is liable for incidental, special, consequential, or punitive damages. Throughout the contract and extensions, the vendor must maintain required insurance and name the System as additionally insured: commercial general liability ($1 million per occurrence/$2 million aggregate), auto liability ($1 million per occurrence), and workers’ compensation as legally required. Certificates require 30 days’ notice before change or cancellation; insurance does not limit indemnity duties. The vendor is an independent contractor, may not hire System employees for contract work, and must promptly report solicitation. It must obey applicable laws and System policies, meet tax obligations, and obtain necessary permits. The System may conduct security-related background checks at its expense and require reassignment of individuals who fail. Illinois law applies, including equal-opportunity requirements; claims go exclusively to the Illinois Court of Claims, arbitration is prohibited, and sovereign immunity is retained."
+                },
+                {
+                  "title": "Vendor Contract Requirements and Liability",
+                  "node_id": "0045",
+                  "start_index": 39,
+                  "end_index": 39,
+                  "key_items": [
+                    "4.11 INSURANCE:",
+                    "4.12 INDEPENDENT CONTRACTOR:",
+                    "4.13 SOLICITATION AND EMPLOYMENT:",
+                    "4.14 COMPLIANCE WITH THE LAW:",
+                    "4.15 BACKGROUND CHECK:"
+                  ],
+                  "summary": "The text states that the State and System cannot indemnify private parties without statutory authority and excludes liability for specified consequential and other damages. The Vendor must maintain required general, auto, and workers’ compensation insurance, name the System as additionally insured, provide advance cancellation or modification notice, and retain its indemnity obligations. The Vendor is an independent contractor, not an agent, employee, or joint venture partner. It may not hire System employees for contract work and must promptly notify the Executive Secretary if it solicits or plans to solicit them. The Vendor and its personnel must follow applicable laws, System policies, tax requirements, and licensing and permit rules, obtaining necessary permissions at its own expense. For security reasons, the System may conduct criminal and driving-history checks at its expense, and the Vendor must promptly reassign anyone the System deems to have failed a check."
+                },
+                {
+                  "title": "4.16 APPLICABLE LAW:",
+                  "node_id": "0046",
+                  "start_index": 39,
+                  "end_index": 40,
+                  "summary": "The contract is governed by Illinois law and incorporates the Department of Human Rights’ equal-opportunity requirements and official statutory texts. Claims against the State or System must be brought exclusively in the Illinois Court of Claims; the System will not arbitrate disputes, and sovereign immunity is not waived. At the Attorney General’s request, the Vendor must assign qualifying antitrust claims it does not pursue to the State. The System alone is responsible for contract performance and payment. Except in limited circumstances, expatriated entities and members of their unitary business groups may not bid or contract with the System or State. Notices must be written, preferably by email, sent to the signatories, and take effect upon receipt; contact details may be changed by notice. Changes and waivers require signed writing; invalid terms are severed, expected-to-survive terms remain effective, and System terms prevail over conflicting Vendor terms. The System may review performance and consider continuation, suspension, or future responsibility. The contract and related records are subject to FOIA. On-site work must follow System hours and avoid disruption. Services must meet contract requirements and be efficiently delivered by competent, trained personnel meeting the RFP requirements."
+                },
+                {
+                  "title": "Contract Administration and Compliance Provisions",
+                  "node_id": "0047",
+                  "start_index": 40,
+                  "end_index": 40,
+                  "key_items": [
+                    "4.17 ANTI-TRUST ASSIGNMENT:",
+                    "4.18 CONTRACTUAL AUTHORITY:",
+                    "4.19 EXPATRIATED ENTITIES:",
+                    "4.20 NOTICES",
+                    "4.21 MODIFICATIONS AND SURVIVAL",
+                    "4.22 PERFORMANCE RECORD / SUSPENSION",
+                    "4.23 FREEDOM OF INFORMATION ACT",
+                    "4.24 SCHEDULE OF WORK"
+                  ],
+                  "summary": "The cited statutes’ official text is incorporated by reference, with an unofficial version available online. If the Vendor does not pursue a contract-related antitrust claim, it must assign its rights to the State upon the Illinois Attorney General’s request. The System alone is responsible for contract performance and payment. Restrictions apply to bids and contracts involving expatriated entities, subject to limited exceptions. Notices must be written, sent by email when possible or by specified alternatives, directed to contract signatories, and are effective upon receipt; either party may update its contact details. Changes and waivers require signed writing; invalid terms are severed, naturally continuing provisions survive termination, and System terms prevail in conflicts. The Vendor may be required to discuss or report performance, which may inform continuation, suspension, or future responsibility decisions. The contract and related records are subject to Illinois FOIA. Work on System premises must follow designated hours and avoid interference."
+                },
+                {
+                  "title": "4.25 WARRANTIES FOR SERVICES",
+                  "node_id": "0048",
+                  "start_index": 40,
+                  "end_index": 41,
+                  "summary": "4.25 WARRANTIES FOR SERVICES: Vendor warrants that all services will be performed to meet the requirements of this contract in an efficient and effective manner by trained and competent personnel meeting the requirements specified in the request for proposal issued by the System on February 2, 2024.Vendor shall monitor performances of each individual and shall immediately reassign any individual who does not perform in accordance with this contract, who is disruptive or not respectful of others in the workplace, or who in any way violates the contract or State or System policies."
+                },
+                {
+                  "title": "4.26 REPORTING, STATUS AND MONITORING SPECIFICATIONS",
+                  "node_id": "0049",
+                  "start_index": 41,
+                  "end_index": 41,
+                  "summary": "4.26 REPORTING, STATUS AND MONITORING SPECIFICATIONS: Vendor shall immediately notify the System of any event that may have a material impact on Vendor’s ability to perform this contract."
+                },
+                {
+                  "title": "EMPLOYMENT TAX CREDIT",
+                  "node_id": "0050",
+                  "start_index": 41,
+                  "end_index": 42,
+                  "summary": "EMPLOYMENT TAX CREDIT: Vendors who hire qualified veterans and certain ex-offenders may be eligible for tax credits. 35 ILCS 5/216, 5/217. Please contact the Illinois Department of Revenue (telephone #: 217-524-4772) for information about tax credits."
+                }
+              ]
+            },
+            {
+              "title": "5. SUPPLEMENTAL PROVISIONS",
+              "node_id": "0051",
+              "start_index": 42,
+              "end_index": 43,
+              "key_items": [
+                "5.1. SYSTEM SUPPLEMENTAL PROVISIONS",
+                "5.2. VENDOR SUPPLEMENTAL PROVISIONS"
+              ],
+              "summary": "Section 5 lists most supplemental provisions as not applicable: agency definitions, federal clauses, public-works and prevailing-wage requirements, other provisions, and vendor supplemental provisions. Agency-specific terms are Exhibit A (Data Security Clauses) and Exhibit B (Supplemental Diversity Certification). Sections 6 and 7 reference standard certifications and, if applicable, financial disclosures and conflicts of interest. Exhibit A defines highly sensitive personal information, personal information (including identifying or authentication data and information covered by Illinois law), security breach (including compromised data or safeguards, related complaints, and unauthorized access or disclosure), the covered Illinois retirement systems, System Data, and the contracted actuarial-audit vendor. The vendor acknowledges it may create, receive, or access System Data, including personal information, and must comply with the agreement when creating, collecting, receiving, transmitting, storing, disposing of, using, or disclosing it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exhibit A Data Security Definitions",
+      "node_id": "0052",
+      "start_index": 43,
+      "end_index": 43,
+      "key_items": [
+        "EXHIBIT A: DATA SECURITY CLAUSES",
+        "1. Definitions.",
+        "As used in this Exhibit A:",
+        "\"Highly Sensitive Personal Information\" means (i) an individual's government-issued identification number (including Social Security number, driver's license number, or State- or System-issued identification number); (ii) an individual’s account numbe...",
+        "\"Personal Information\" means System Data that: (i) identifies or can be used to identify an individual (including, without limitation, names, signatures, addresses, telephone numbers, email addresses, and other unique identifiers); or (ii) can be used...",
+        "\"Security Breach\" means (i) any act or omission that compromises either the security, confidentiality, or integrity of System Data or the safeguards put in place by Vendor, or by System should Vendor have access to System’s information technology infr...",
+        "\"System\" means the State Employees’ Retirement System of Illinois and, to the extent that the Vendor has access to data of the General Assembly Retirement System or the Judges’ Retirement System of Illinois, the General Assembly Retirement System and ...",
+        "\"System Data\" any information concerning the System or its participants, annuitants, agents, employees, or trustees that is provided to the Vendor by or at the direction of the System or any of its agents or employees or by or at the direction of the ...",
+        "\"Vendor\" means the Vendor with whom the State Employees’ Retirement System of Illinois contracts to have performed the actuarial audit services described in the Request for Proposals issued by it on May 21, 2021."
+      ],
+      "summary": "Exhibit A defines key terms for data security clauses. Highly Sensitive Personal Information includes government-issued IDs, financial account and credit information, biometric, genetic, health and medical data, and birth dates. Personal Information is System Data that identifies or authenticates an individual, including specified identifiers and sensitive information, and information covered by Illinois’s Personal Information Protection Act. A Security Breach includes compromised data or safeguards, related privacy complaints or alleged contractual breaches, statutory breaches, and other unauthorized access, disclosure, or acquisition. System refers to the Illinois State Employees’ Retirement System and, where applicable, the General Assembly and Judges’ retirement systems. System Data covers information supplied to, created, obtained, stored by, or made accessible to the Vendor in connection with System services. Vendor is the contractor providing actuarial audit services under the May 21, 2021 Request for Proposals."
+    },
+    {
+      "title": "2. Standard of Care.",
+      "node_id": "0053",
+      "start_index": 43,
+      "end_index": 44,
+      "key_items": [
+        "(a) Vendor acknowledges and agrees that, in the course of its engagement by System, Vendor may create, receive, or have access to System Data, including, but not limited to, System Data that is Personal Information. Vendor shall comply with the terms ...",
+        "EXHIBIT A: DATA SECURITY CLAUSES",
+        "System Data, including, but not limited to, System Data that is Personal Information, is deemed to be Confidential Information of System and is not Confidential Information of Vendor. In the event of a conflict or inconsistency between this Section an...",
+        "(b) In recognition of the foregoing, Vendor agrees and covenants that it shall:",
+        "p.44",
+        "(i) not copy or transfer any System Data to a physical data storage device (e.g., a CD, DVD, portable USB flash drive, external hard drive, memory cards, or printed report) or to a personal computing device or data storage platform (e.g., PCs, laptops...",
+        "(ii) not send Personal Information through the mail or unencrypted e-mail;",
+        "(iii) keep and maintain all System Data in strict confidence, using such degree of care as is appropriate to avoid unauthorized access, use, or disclosure;",
+        "(iv) not create, collect, receive, access, or use System Data in violation of law;",
+        "(v) use and disclose System Data solely and exclusively for the purposes for which the System Data, or access to it, is provided pursuant to the terms and conditions of this Agreement, and not use, sell, rent, transfer, distribute, or otherwise disclo...",
+        "(vi) not, directly or indirectly, disclose System Data to any Unauthorized Third Party without System's prior written consent unless and to the extent expressly required, by applicable law, in which case, Vendor shall (A) notify System before such dis..."
+      ],
+      "summary": "Vendor is responsible for System Data it creates, receives, accesses, or controls and must handle it in accordance with the Agreement; unauthorized handling is its responsibility. System Data, including Personal Information, is System’s Confidential Information, not Vendor’s, and this section prevails in any conflict. Vendor must not copy or transfer data to physical or personal devices or platforms except as System instructs; send Personal Information by mail or unencrypted email; or handle data unlawfully. Vendor must safeguard data with appropriate care and use or disclose it only for the Agreement’s purposes and for System’s benefit—not its own or another party’s. Vendor may not disclose data to an Unauthorized Third Party without System’s prior written consent, except as legally required. For legally required disclosure, Vendor must notify System beforehand, remain liable for the third party’s handling as if its own, and require the third party to sign a written agreement to comply with the Agreement."
+    },
+    {
+      "title": "3. Information Security.",
+      "node_id": "0054",
+      "start_index": 44,
+      "end_index": 45,
+      "key_items": [
+        "p.44",
+        "(a) Vendor represents and warrants that its creation, collection, receipt, access, use, storage, disposal, and disclosure of System Data, including, but not limited to System Data that is Personal Information, does and will comply with all applicable ...",
+        "(b) Without limiting Vendor's obligations under Section 3(a), Vendor shall implement administrative, physical, and technical safeguards to protect System Data from unauthorized access, acquisition, or disclosure, destruction, alteration, accidental lo...",
+        "(c) At a minimum, Vendor's safeguards for the protection of System Data shall include: (i) limiting access to System Data to the Vendor; (ii) using encrypted file transfer protocol (or another secure data transfer method specified in writing by the Sy..."
+      ],
+      "summary": "Vendor warrants that all handling of System Data, including Personal Information, complies with applicable federal and state privacy and data-protection laws, regulations, the Agreement, and System directives. Vendor must implement administrative, physical, and technical safeguards against unauthorized access, acquisition, disclosure, destruction, alteration, loss, misuse, or damage. At minimum, safeguards must limit access to Vendor; use encrypted file transfer or another System-approved secure transfer method; secure paper files, backups, computing equipment, and mobile devices; protect networks, applications, databases, and platforms; secure data transmission, storage, and disposal; implement authentication and access controls; encrypt stored data and data transmitted over public or wireless networks; and strictly segregate System Data from Vendor information."
+    },
+    {
+      "title": "4. Security Breach Procedures.",
+      "node_id": "0055",
+      "start_index": 45,
+      "end_index": 46,
+      "key_items": [
+        "(a) Vendor shall:",
+        "p.45",
+        "(i) notify System in writing of a Security Breach as soon as practicable, but no later than 4 hours after Vendor becomes aware of it;",
+        "(ii) identify in the notification any System Data that may have been compromised and the period of time during which the data may have been compromised;",
+        "(iii) provide in the notification the phone number and e-mail address the System should use to communicate with the Vendor regarding the Security Breach; and",
+        "(iv) provide the notification to the System’s Administrative Services Division Manager at robert.cooper@srs.illinois.gov.",
+        "p.45",
+        "(b) Immediately following Vendor’s notification to System of a Security Breach, the parties shall coordinate with each other to investigate the Security Breach. Vendor agrees to fully cooperate with System in System’s handling of the matter, including...",
+        "(c) Vendor shall at its own expense immediately contain and remedy any Security Breach and prevent any further Security Breach, including, but not limited to taking any and all actions necessary to comply with applicable privacy rights, laws, regulati...",
+        "(d) Vendor agrees that it shall not inform any third party of any Security Breach without first obtaining System's prior written consent, other than to inform a complainant that the matter has been forwarded to System's legal counsel. Further, Vendor ...",
+        "(e) Vendor agrees to maintain and preserve all documents, records, and other data related to any Security Breach.",
+        "(f) Vendor agrees to fully cooperate at its own expense with System in any litigation, investigation, or other action deemed necessary by System to protect its rights relating to the use, disclosure, protection, and maintenance of System Data.",
+        "In the event of any Security Breach, Vendor shall promptly use its best efforts to prevent a recurrence of any such Security Breach."
+      ],
+      "summary": "Vendor must notify System in writing of a security breach within four hours of awareness, identify affected System Data and the possible compromise period, provide contact details, and send notice to the specified Administrative Services Division Manager. The parties will investigate together; Vendor must fully cooperate, provide relevant materials, contain and remedy the breach at its expense, reimburse System’s response and mitigation costs, preserve related records, assist with System-directed legal or investigative actions, and use best efforts to prevent recurrence. Vendor may not notify third parties without System’s written consent, except to refer a complainant to System’s counsel; System controls whether notices or remediation are provided and their content and scope. System may audit Vendor’s relevant security controls, with Vendor providing access and cooperation. On request or contract end, Vendor must securely destroy all System Data through three overwrites or physical destruction and certify specified equipment, method, and operator details. Vendor must provide a System contact and update changes within five business days, safeguard data physically and digitally, and acknowledges equitable relief may be sought for breaches. Any Exhibit A violation is a material breach."
+    },
+    {
+      "title": "Vendor Security, Data Handling, and Remedies",
+      "node_id": "0056",
+      "start_index": 46,
+      "end_index": 46,
+      "key_items": [
+        "5. Oversight of Security Compliance.",
+        "Upon System's request, to confirm Vendor’s compliance with this Agreement, as well as any applicable laws, regulations, and industry standards, Vendor grants System or, upon System’s election, a third party on System's behalf, permission to perform an...",
+        "6. Destruction of System Data.",
+        "At any time during the term of this Agreement at System's request or upon the termination or expiration of this Agreement for any reason, Vendor shall securely dispose of all System Data in its possession or the possession of any of its employees or a...",
+        "7. Vendor Contact Information.",
+        "Vendor agrees to provide the phone number and e-mail address of the person who will serve as the point of contact for the System. If there is a change in this contact information, Vendor agrees to provide the System with updated contact information wi...",
+        "8. Record Retention.",
+        "Vendor agrees to safeguard all System Data through both physical and digital security means which may include locking filing cabinets, restricted or locked offices, and encryption of digital data.",
+        "9. Equitable Relief.",
+        "Vendor acknowledges that any breach of its covenants or obligations set forth in this Exhibit A may cause System irreparable harm for which monetary damages would not be adequate compensation and agrees that, in the event of such breach or threatened ...",
+        "10. Material Breach."
+      ],
+      "summary": "The page gives System the right to audit Vendor’s relevant security controls and requires Vendor to cooperate. Vendor must securely erase or physically destroy System Data upon request or contract end and provide written certification with specified equipment, method, and operator details. Vendor must provide a System contact and update the contact information within five business days of a change. Vendor must protect System Data with physical and digital safeguards. Breaches or threatened breaches may entitle System to seek equitable relief, including injunctions and specific performance, alongside other available remedies. A “Material Breach” section heading is included, but no details follow."
+    },
+    {
+      "title": "Vendor's failure to comply with any of the provisions of Exhibit A is a material breach of this Agreement.",
+      "node_id": "0057",
+      "start_index": 46,
+      "end_index": 47,
+      "summary": "Vendor's failure to comply with any of the provisions of Exhibit A is a material breach of this Agreement."
+    },
+    {
+      "title": "Vendor Certification",
+      "node_id": "0058",
+      "start_index": 47,
+      "end_index": 48,
+      "key_items": [
+        "EXHIBIT B: SUPPLEMENTAL DIVERSITY CERTIFICATION"
+      ],
+      "summary": "The Vendor’s signature certifies full compliance with Exhibit A, including the Personal Information Protection Act when handling System Data; fields are provided for the Vendor and authorized official’s name, position, signature, and date. Exhibit B makes full compliance with the supplemental diversity certification a material contract condition throughout the contract and renewals, requires reporting noncompliance and annual confirmation (by the System’s specified date, no later than July 1) for multiyear contracts, and permits inapplicable provisions to be stricken. The Vendor certifies it is not barred from contracting with the System or Illinois and has no known conflicts. False information or failure to comply with standard certification requirements may void the contract and result in suspension, debarment, payment denial, civil fines, or criminal penalties; other sanctions remain possible. The Vendor must indicate whether it is a minority-, woman-, or disability-owned business under the cited Illinois statute, or is not one, in connection with the System’s aspirational goal for such businesses. Signature fields are included."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

@@ -1,0 +1,7 @@
+{
+  "question": "In the Shrewsbury Contributory Retirement System RFP for investment consultant services, how long is the chosen consultant expected to be retained?",
+  "gold_answer": "For five (5) years, not to exceed seven (7) years including any renewal, extension or option. The Board can terminate on thirty (30) days written notice.",
+  "acceptance": "Five years and seven-year total ceiling including renewals/extensions/options. Thirty-day termination is optional.",
+  "scope": "single_document",
+  "candidate_answer": "The chosen consultant is expected to be retained for **five years**, with a maximum of **seven years** including any renewals or extensions. [Source: Shrewsbury RFP, p. 1]"
+}

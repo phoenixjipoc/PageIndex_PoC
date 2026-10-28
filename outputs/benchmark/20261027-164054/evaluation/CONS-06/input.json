@@ -1,0 +1,7 @@
+{
+  "question": "Which retirement system's general investment consultant RFP requires respondents to currently provide non-discretionary general investment advice to at least 5 public pension plans larger than $5 billion and at least 2 public plans over $20 billion?",
+  "gold_answer": "Texas Municipal Retirement System (TMRS).",
+  "acceptance": "TMRS or the full system name is sufficient; repeating thresholds is optional.",
+  "scope": "single_document",
+  "candidate_answer": "It is the **Texas Municipal Retirement System (TMRS)**. Its general investment consulting RFP lists those client thresholds under “Minimum Eligibility Requirements.” [Source: TMRS General Investment Consulting Services RFP, p. 8](TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf#page=8)"
+}

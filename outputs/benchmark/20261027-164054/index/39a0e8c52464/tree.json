@@ -1,0 +1,369 @@
+{
+  "doc_id": "pi-ac8b57ec2164459ca02850b541e3ea9e",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 4,
+      "summary": "The City of Austin Employees’ Retirement System’s Request for Proposal seeks a General Investment Consultant; proposals are due by 5:00 p.m. CST on February 9, 2024. The document provides the retirement system’s contact details and outlines: general provisions, including purpose, contract period, definitions, cancellation, notices, and amendments; consulting services covering fiduciary support, investment strategy and policies, asset allocation, manager selection and monitoring, performance analysis, and meeting attendance; and contract terms addressing travel, personnel, termination, confidentiality, insurance, indemnification, legal matters, audits, conflicts, gifts, and professional standards. It also describes the proposal schedule, registration, conference, submission format and requirements, inquiries, opening, evaluation and award, due diligence, and post-contract contacts. Eight exhibits provide submission, conflict-of-interest, contact, trade-secret, pricing, qualification, questionnaire/document, and checklist forms."
+    },
+    {
+      "title": "INTRODUCTION",
+      "node_id": "0001",
+      "start_index": 4,
+      "end_index": 7,
+      "key_items": [
+        "Investments Overview",
+        "Authority for Investment Consulting Services",
+        "Structure of the RFP"
+      ],
+      "summary": "COAERS is a Texas-governed, tax-qualified defined-benefit pension established in 1941, with $3.0 billion in assets in September 2023. It provides retirement, disability, and death benefits to over 10,000 employees and 7,500 retirees; eligible members contribute 9% of base pay and the City contributes 20.5%. Police and firefighters are excluded. The Board oversees investments with staff and external providers; 38 mandates were managed by 17 firms, with no internal management. Its Investment Committee develops policy, guidelines, and performance monitoring. The Board targets median risk and regards asset allocation as a principal driver of returns. A 2023 study produced a revised strategic allocation, comparing current targets, new targets, and September 2023 weights. One-year net return was 9.73%. The assumed return is 6.75%; 2022 funded status was 55.9%, with $5.3 billion in liabilities, $3.4 billion in actuarial assets, and a 34-year amortization period. The text also describes consultant-selection authority, the RFP’s four sections, submission exhibits/checklist, and supporting reports, policies, financial statements, and Texas investment law."
+    },
+    {
+      "title": "SECTION I: GENERAL PROVISIONS",
+      "node_id": "0002",
+      "start_index": 7,
+      "end_index": 8,
+      "key_items": [
+        "1.1. PURPOSE; 1.2. CONTRACT PERIOD; 1.3. DEFINITIONS; 1.4. CANCELLATION; 1.5. WAIVER OF NONMATERIAL ERRORS; 1.6. NOTICES AND COMMUNICATIONS",
+        "1.1. PURPOSE",
+        "1.2. CONTRACT PERIOD",
+        "1.3. DEFINITIONS",
+        "1.4. CANCELLATION",
+        "1.5. WAIVER OF NONMATERIAL ERRORS",
+        "1.6. NOTICES AND COMMUNICATIONS",
+        "1.7. AMENDMENTS",
+        "SECTION I: GENERAL PROVISIONS",
+        "p.7",
+        "1.3. DEFINITIONS For purposes of this RFP, the following definitions apply:",
+        "1.4. CANCELLATION COAERS reserves the right to cancel this RFP at any time.",
+        "1.5. WAIVER OF NONMATERIAL ERRORS",
+        "1.6. NOTICES AND COMMUNICATIONS",
+        "1.7. AMENDMENTS COAERS can amend this RFP at any time at its discretion."
+      ],
+      "summary": "COAERS seeks a general investment consultant to work alongside its staff and help the Board rigorously assess investment options for strong long-term returns at acceptable risk. The contract will run for an initial three years, with two possible two-year renewals by mutual written agreement. The RFP defines BAFO, Board, COAERS, Contractor, Fund, and Respondent. COAERS may cancel or amend the RFP at any time and may waive nonmaterial technicalities or errors at its discretion. Notices and communications will be emailed to addresses in the records of registered proposers."
+    },
+    {
+      "title": "SECTION II: SCOPE OF SERVICES",
+      "node_id": "0003",
+      "start_index": 8,
+      "end_index": 11,
+      "summary": "COAERS seeks a non-discretionary, full-service investment consultant, including private-markets planning; OCIO, discretionary, and specialist-advisor proposals are excluded. The consultant must address Sections 2.1–2.6 and complete Exhibit 6, serving as an independent, conflict-free fiduciary and collaborative extension of Staff. Duties include advising on Board-approved policies, asset allocation, liabilities, investment structures, risks, strategic planning, and private-markets strategy and pacing; providing research, education, market updates, and bespoke analysis; and supporting strategy implementation, reporting, the Annual Comprehensive Financial Report, and fee-invoice performance reconciliation. The consultant will establish manager criteria and benchmarks; conduct searches, screening, and investment and operational due diligence; monitor managers, compliance, and operational concerns; and provide quarterly performance, attribution, risk, and peer analysis, including advice on retention, investment, redemption, or termination and underperformance. It will develop policies and performance standards, deliver written monthly and quarterly reports, and attend scheduled Austin Board, Investment Committee, and Workshop meetings, meeting virtually with Staff as needed.",
+      "nodes": [
+        {
+          "title": "2.1. ASSIST THE BOARD IN FULFILLING ITS FIDUCIARY OBLIGATIONS",
+          "node_id": "0004",
+          "start_index": 8,
+          "end_index": 9,
+          "key_items": [
+            "SECTION II: SCOPE OF SERVICES"
+          ],
+          "summary": "COAERS seeks a non-discretionary, full-service general investment consultant, including private-markets strategic planning and analysis; proposals for OCIO, discretionary consulting, or specialist-advisor services will not be considered. Proposers must address Sections 2.1–2.6 and submit completed Exhibit 6. The consultant will provide independent, unbiased, proactive research and advice as a collaborative extension of Staff. Responsibilities include serving as a fiduciary under applicable laws and professional standards; giving transparent, conflict-free recommendations; supporting Board-approved asset allocation, investment policies, reporting, strategic planning, and private-markets pacing; reporting in person on fund status and net-of-fee performance; developing policies, procedures, guidelines, and performance standards; providing requested or relevant research; delivering market and investment education; monitoring and reporting portfolio and manager performance through ongoing written monthly and quarterly reports; and advising on manager retention, additional investment, redemption, or discharge."
+        },
+        {
+          "title": "2.2. SUPPORT STAFF IN DEVELOPMENT AND IMPLEMENTATION OF STRATEGY",
+          "node_id": "0005",
+          "start_index": 9,
+          "end_index": 9,
+          "summary": "Support staff in developing and implementing strategy by providing investment research tools; style-factor and risk-budgeting analyses for manager selection, portfolio construction, asset allocation, and risk management; and input on implementing Board decisions. Respond promptly to research and bespoke-analysis requests, analyze fees, communicate portfolio developments, and collaborate on due diligence for prospective and existing managers. Provide written economic and capital-markets updates at least monthly, support preparation of the Annual Comprehensive Financial Report, and reconcile manager performance with fee invoices for accuracy."
+        },
+        {
+          "title": "2.3. INVESTMENT POLICIES AND ASSET ALLOCATION STRUCTURE",
+          "node_id": "0006",
+          "start_index": 9,
+          "end_index": 10,
+          "key_items": [
+            "2.2. SUPPORT STAFF IN DEVELOPMENT AND IMPLEMENTATION OF STRATEGY"
+          ],
+          "summary": "The text outlines investment consulting responsibilities for COAERS: understand liabilities with Staff and the actuary, conduct periodic asset/liability studies and annual investment-policy and strategic-allocation reviews, advise on investment structures, asset-class and asset-mix risks and returns, new investment ideas, and the annual Private Markets strategy and risk, pacing, and management procedures. It covers manager selection and oversight, including criteria and searches, Premier List due diligence, candidate screening, onsite investment and operational reviews, and reporting compliance or operational concerns. Performance duties include setting benchmarks; quarterly performance, attribution, risk, and peer analysis; assessing managers against peers, mandates, guidelines, and benchmarks; discussing performance and organizational changes; improving reviews and surveillance; and evaluating underperformance. The consultant also attends annual schedules of Investment Committee, Board, and Board Workshop meetings in Austin, meets with Staff as needed (mostly virtually), and provides investment education."
+        },
+        {
+          "title": "Manager Selection, Monitoring, and Performance Evaluation",
+          "node_id": "0007",
+          "start_index": 10,
+          "end_index": 10,
+          "key_items": [
+            "2.4. MANAGER SELECTION AND MONITORING",
+            "2.5. PERFORMANCE EVALUATION AND ANALYSIS"
+          ],
+          "summary": "The page covers support for setting qualitative and quantitative manager selection criteria, conducting searches, identifying and screening candidates, and performing comprehensive investment and operational due diligence, including onsite reviews. It also describes ongoing monitoring of pre-approved managers and advising the Board and Staff about compliance violations or operational concerns. Performance responsibilities include selecting asset-class and manager benchmarks; providing quarterly performance, attribution, risk, and peer analyses for managers, composites, and the total fund; and assessing results against peers, mandates, guidelines, and benchmarks. The work also includes discussing performance and organizational developments with managers, improving review and surveillance processes, advising on retention or termination, and evaluating underperformance or irregular results."
+        },
+        {
+          "title": "2.6. ATTENDANCE AT PERIODIC MEETINGS",
+          "node_id": "0008",
+          "start_index": 10,
+          "end_index": 11,
+          "key_items": [
+            "2.4. MANAGER SELECTION AND MONITORING",
+            "2.5. PERFORMANCE EVALUATION AND ANALYSIS"
+          ],
+          "summary": "2.6. ATTENDANCE AT PERIODIC MEETINGS\n• Attend Investment Committee (8 per year in Austin, Texas) and Board meetings (4 per year in Austin, Texas) to review performance, assess investment program and make recommendations. In addition, attendance is typically required for the Board Workshop (1 per year in Austin, Texas).\n• Meet with COAERS Staff, as needed, to provide information and investment insights/strategies and ensure completion of tasks. Most of this function is performed virtually.\n• Assist Staff and the Investment Committee with education on various investment issues.\n10"
+        }
+      ]
+    },
+    {
+      "title": "SECTION III: GENERAL TERMS AND CONDITIONS",
+      "node_id": "0009",
+      "start_index": 11,
+      "end_index": 16,
+      "summary": "The section sets contractor and subcontractor requirements for travel, qualified and approved personnel, performance evaluations, COAERS contacts, subcontracting, and continuing responsibility for services; specified obligations survive contract end. Either party may terminate for uncured breach after notice or without cause on 60 days’ notice, with payment for eligible expenses and services, return of COAERS information, and transition protections. It addresses confidentiality alongside Texas public-records duties, and vests engagement work and intellectual-property rights in COAERS. Contractors must maintain specified insurance and defend and indemnify COAERS for contractor-related and intellectual-property claims, subject to stated limits; Texas law and Travis County venue apply, sovereign immunity is preserved, and contractors are independent of COAERS. The section also requires records retention and audit access, warrants against conflicts, improper gifts, and specification-preparation compensation, and addresses required disclosures and ethics policies. Investment consultants must follow CFA Institute ethics and applicable law, meet high institutional standards, use GIPS-compliant materials when applicable, and maintain relevant qualifications through continuing education.",
+      "nodes": [
+        {
+          "title": "Travel, Personnel, and Surviving Contract Terms",
+          "node_id": "0010",
+          "start_index": 11,
+          "end_index": 11,
+          "key_items": [
+            "3.1. TRAVEL",
+            "3.2. PERSONNEL",
+            "3.3. TERMS THAT SURVIVE TERMINATION"
+          ],
+          "summary": "Contractors and subcontractors must comply with the general terms. The contractor must fund at least one consultant’s travel to Austin for Investment Committee and Board of Trustees meetings, complete an annual conflict-of-interest questionnaire, report changes within 30 days, and participate in periodic performance evaluations, including questionnaires or Austin meetings if required. The contractor must assign qualified personnel; substitutions must be equally qualified, reported in writing to COAERS, and approved, with unapproved changes grounds for termination. Subcontractors must meet the contractor’s qualification and experience requirements, and the contractor remains responsible for services. Proposed subcontractors must be identified; subcontracting is at the contractor’s expense, subject to COAERS background checks and approval or rejection. The contractor is COAERS’s sole contact and must name a contact person. Confidentiality, indemnification, transition, records, audit rights, independent audit, property rights, dispute resolution, invoice and fee verification, and default provisions survive termination or expiration."
+        },
+        {
+          "title": "3.4. TERMINATION",
+          "node_id": "0011",
+          "start_index": 11,
+          "end_index": 12,
+          "key_items": [
+            "SECTION III: GENERAL TERMS AND CONDITIONS",
+            "3.3. TERMS THAT SURVIVE TERMINATION"
+          ],
+          "summary": "Either party may terminate for an uncured breach after 30 days’ written notice or without cause on 60 days’ notice. On termination, Contractor receives payment for non-cancellable expenses actually incurred and services performed through termination, and must return COAERS information. Contractor must protect confidential information, while acknowledging COAERS’ duties under Texas open-meetings and public-information laws; COAERS will notify Contractor of relevant requests, and Contractor will assist with responsive documents and notify General Counsel within 72 hours of certain third-party requests. The contract and related materials may be subject to public disclosure. All work and materials created or gathered for the engagement belong to COAERS as work made for hire, with any necessary rights irrevocably assigned; Contractor must assist in perfecting those rights at no extra charge and provide work for retention upon request. Within 10 business days of signing, Contractor must provide proof of workers’ compensation, errors and omissions, and commercial general liability insurance, including personal and advertising injury, naming COAERS as additional insured, with limits of at least $500,000 per occurrence and $1 million aggregate, from licensed insurers rated “A” by Best."
+        },
+        {
+          "title": "Termination, Confidentiality, Public Records, and Work Ownership",
+          "node_id": "0012",
+          "start_index": 12,
+          "end_index": 12,
+          "key_items": [
+            "3.5. CONFIDENTIALITY AND OPEN RECORDS",
+            "3.6. WORK MADE FOR HIRE"
+          ],
+          "summary": "Upon termination, Contractor is owed non-cancellable expenses actually incurred and prorated compensation for services through the effective date, and must return all COAERS information. Contractor must protect confidential information, while recognizing COAERS’s duties under Texas open-meetings and public-information laws. COAERS will reasonably notify Contractor of related information requests; Contractor must assist with responsive documents, and COAERS decides whether to seek an Attorney General ruling. Contractor must notify COAERS General Counsel within 72 hours of third-party requests for State-provided information. The contract and related data may be subject to public disclosure. Work and materials created or obtained through the relationship belong exclusively to COAERS upon creation; any rights not automatically vested or qualifying as work for hire are irrevocably assigned. COAERS may secure intellectual-property protections, and Contractor must assist without additional charge and provide work for storage upon request."
+        },
+        {
+          "title": "3.7. INSURANCE",
+          "node_id": "0013",
+          "start_index": 12,
+          "end_index": 13,
+          "key_items": [
+            "3.5. CONFIDENTIALITY AND OPEN RECORDS"
+          ],
+          "summary": "The contractor must provide, within 10 business days of signing, proof of workers’ compensation, errors and omissions, and commercial general liability insurance (including personal and advertising injury), naming COAERS as an additional insured with minimum limits of $500,000 per occurrence and $1 million aggregate. Insurers must be licensed and A-rated; policies must require 30 days’ prior written cancellation notice. Coverage must continue throughout the contract, with policy copies supplied on request. The contractor must defend and indemnify COAERS and related personnel against claims arising from contractor-side acts or omissions, but not COAERS’s own negligence. Texas law governs, with venue in Travis County. The contract preserves COAERS’s sovereign immunity and other rights and defenses. The contractor and its personnel and subcontractors are independent contractors, not COAERS employees; COAERS is not liable to subcontractors, while the contractor remains responsible for compliant services. The contractor also indemnifies COAERS against intellectual-property infringement claims involving provided services or items and must reimburse claims and damages; the excerpt ends mid-clause."
+        },
+        {
+          "title": "Contract Insurance, Indemnity, Law, Immunity, and Contractor Status",
+          "node_id": "0014",
+          "start_index": 13,
+          "end_index": 13,
+          "key_items": [
+            "3.8. INDEMNIFICATION",
+            "3.9. APPLICABLE LAW AND VENUE",
+            "3.10. NO WAIVER OF SOVEREIGN IMMUNITY",
+            "3.11. INDEPENDENT CONTRACTOR"
+          ],
+          "summary": "Contractor must maintain the required insurance, ensure policies provide at least 30 days’ prior written cancellation notice to COAERS, and provide executed policy copies upon request. Contractor must defend and indemnify COAERS and its officers, employees, and contractors against claims and costs arising from contractor-side acts or omissions, but not COAERS’s own negligence. Texas law governs, with venue in competent courts in Travis County. The contract does not waive COAERS’s sovereign immunity or other privileges, rights, defenses, remedies, or immunities; non-enforcement or delay does not waive them or create estoppel. Contractor and its personnel and subcontractors are independent contractors, not COAERS employees. COAERS is not liable to subcontractors, while Contractor remains responsible for subcontracted services complying with the RFP."
+        },
+        {
+          "title": "3.12. PATENT, TRADEMARK, COPYRIGHT AND OTHER INFRINGEMENT CLAIMS",
+          "node_id": "0015",
+          "start_index": 13,
+          "end_index": 14,
+          "summary": "Contractor must indemnify COAERS against intellectual-property infringement claims arising from services or items provided, reimburse related losses and legal costs (including multiple counsel where needed to avoid conflicts), and confirm it obtained required licenses, patents, and permits. It must retain fiscal and other supporting records for five years after final invoices or until billing issues are resolved, whichever is later, and provide reasonable access for COAERS inspections, monitoring, audits, or evaluations. Contractor warrants no actual or potential conflicts or appearance of impropriety; the text identifies proposal reviewers, references the Conflict-of-Interest Questionnaire (Exhibit 2), and requires RFPs to include the respondent’s current ethics policy. Contractor also warrants that neither it nor financial participants were compensated by COAERS or Texas agencies for preparing contract specifications, and that it has not offered or plans to offer public servants or employees gifts, benefits, employment, or favors connected to the contract. Texas law requires disclosure of affiliations and business relationships with governing-body members and executive officers; respondents must assess whether to submit Exhibit 2, using COAERS website listings, as COAERS will not advise them."
+        },
+        {
+          "title": "Contractor Obligations, Records, and Conflicts",
+          "node_id": "0016",
+          "start_index": 14,
+          "end_index": 14,
+          "key_items": [
+            "3.13. SUPPORTING DOCUMENTS, RETENTION, RIGHT TO AUDIT, INDEPENDENT AUDITS",
+            "3.14. NO CONFLICTS"
+          ],
+          "summary": "Contractor must cover specified claim-related losses and reasonable COAERS legal costs, including multiple counsel when needed to avoid conflicts, and represents it has obtained required licenses, patents, and permits. It must retain fiscal and other supporting records for five years after final invoices or until billing questions are resolved, whichever is later, and make relevant work and records available for COAERS inspection, monitoring, audit, or evaluation. Contractor warrants it has no actual or potential conflicts and its services will not create an appearance of impropriety. The text references a conflict-of-interest questionnaire, identifies proposal reviewers, and requires all RFPs to include the respondent’s current ethics policy."
+        },
+        {
+          "title": "3.15. FINANCIAL INTERESTS; GIFTS",
+          "node_id": "0017",
+          "start_index": 14,
+          "end_index": 15,
+          "key_items": [
+            "3.13. SUPPORTING DOCUMENTS, RETENTION, RIGHT TO AUDIT, INDEPENDENT AUDITS"
+          ],
+          "summary": "The contractor warrants that neither it nor financially participating parties received COAERS or Texas agency compensation for preparing contract specifications, and that it has not provided or intends to provide public servants contract-related gifts, benefits, favors, or services. Texas law requires certain contractors to disclose affiliations and business relationships with governing-body members and executives; proposers should review the rules and determine whether to submit Exhibit 2, the Conflict of Interest Questionnaire. COAERS provides trustee and staff listings online but cannot advise whether the exhibit is required. Consultants must follow CFA Institute ethics standards and applicable law, deliver services meeting the highest institutional investment-consultant standards, and make presentation materials GIPS-compliant when applicable; existing performance reports are unaudited and do not comply with GIPS. Consultants must have relevant education and experience and maintain expertise through continuing education."
+        },
+        {
+          "title": "3.16. PROFESSIONAL CONDUCT.; 3.17. STANDARDS OF PRACTICE.",
+          "node_id": "0018",
+          "start_index": 15,
+          "end_index": 15,
+          "key_items": [
+            "3.16. PROFESSIONAL CONDUCT.",
+            "3.17. STANDARDS OF PRACTICE."
+          ],
+          "summary": "3.16. PROFESSIONAL CONDUCT. Anyone performing consulting services for COAERS must comply with the Code of Ethics & Standards of Professional Conduct promulgated by the CFA Institute and applicable state or federal law governing investment consulting services and professional conduct.\n3.17. STANDARDS OF PRACTICE. Consulting services performed for COAERS shall be of the type and quality associated with the highest standards of institutional investment consultants. All associated presentation materials will strive to conform to the Global Investment Performance Standards (GIPS) as promulgated by the CFA Institute when applicable. COAERS recognizes that existing performance reports do not comply with GIPS standards as they have not been audited."
+        },
+        {
+          "title": "3.18. QUALIFICATION STANDARDS.",
+          "node_id": "0019",
+          "start_index": 15,
+          "end_index": 16,
+          "summary": "3.18. QUALIFICATION STANDARDS. Consultants performing services for COAERS must have achieved fundamental education and experience in relevant areas of practice and must maintain necessary expertise through continuing education.\n15"
+        }
+      ]
+    },
+    {
+      "title": "SECTION IV: PROPOSAL DEADLINES, MEETINGS, FORMAT, & INFORMATION",
+      "node_id": "0020",
+      "start_index": 16,
+      "end_index": 22,
+      "summary": "The section sets the RFP timetable from issuance through contract execution, notes dates may change, and requires registration by February 2 to receive notices and an upload link; unregistered firms cannot participate. It describes the optional January 19 video conference, January 12 question deadline, and how answers may amend the RFP. Proposals must be uploaded by deadline as two properly named, paginated PDFs: a complete version and a redacted public-records version. Paper/fax submissions are barred; respondents bear all costs, must address confidentiality and required exhibits, and risk rejection of late or nonresponsive proposals. The prescribed seven-part format covers forms, pricing, qualifications and exceptions, contracts, references, Appendix A responses, and differentiating information. Communications are restricted; proposals open publicly February 12, become COAERS property, and remain offers until selection. COAERS may clarify, seek presentations or best-and-final offers, reject proposals, cancel, waive irregularities, or award all or part based on best value. Evaluation considers fees and broad qualitative, technical, service, experience, performance, and risk factors. Due diligence may include finalist site visits and presentations; post-award communication is with the CIO and Staff.",
+      "nodes": [
+        {
+          "title": "RFP Schedule and Proposer Registration",
+          "node_id": "0021",
+          "start_index": 16,
+          "end_index": 16,
+          "key_items": [
+            "4.1. SCHEDULE OF EVENTS",
+            "4.2. REVISIONS TO SCHEDULE",
+            "4.3. PROPOSER REGISTRATION"
+          ],
+          "summary": "The RFP schedule lists approval on December 19, 2023; issuance January 2, 2024; questions due January 12; pre-proposal conference January 19; proposer registration deadline February 2; proposals due February 9; public opening February 12; due diligence site visits April–May; finalist review in May; selection in June; and contract execution July 1, 2024. COAERS may change dates without notice. Proposers must register at www.coaers.org/gic-rfp by February 2 to receive RFP notices and an upload link; failure to register bars participation. Registration creates no legal obligation or enforceable promise for either party."
+        },
+        {
+          "title": "4.4. PRE-PROPOSAL VIDEO CONFERENCE",
+          "node_id": "0022",
+          "start_index": 16,
+          "end_index": 17,
+          "key_items": [
+            "SECTION IV: PROPOSAL DEADLINES, MEETINGS, FORMAT, & INFORMATION",
+            "4.3. PROPOSER REGISTRATION"
+          ],
+          "summary": "The optional pre-proposal conference is tentatively scheduled for 3:00 p.m. Central Standard Time on Friday, January 19, 2024; COAERS will reconfirm the date and time with registered proposers. Questions about the RFP must be emailed to rfp@coaers.org by 5:00 p.m. Central Standard Time on January 12, 2024. Registered bidders will receive the dial-in number and video link. Attendance is recommended because formal minutes will not be issued. The Chief Investment Officer may decide that some conference questions warrant written answers. Answers given at the conference or issued afterward amend the RFP and will be posted at www.coaers.org/gic-rfp."
+        },
+        {
+          "title": "4.5. PROPOSAL REQUIREMENTS",
+          "node_id": "0023",
+          "start_index": 17,
+          "end_index": 17,
+          "summary": "Proposals submitted on paper or by fax will not be accepted. Respondents must provide two electronic originals, with numbered pages and an organized, paginated table of contents: a complete proposal and a version redacting confidential information for Public Records Act requests. Each must be a single PDF named using the specified firm-name and submission-date format, uploaded through the link emailed to registered proposers by the stated deadline. Respondents bear all proposal-related costs, including preparation, submission, and onsite visits. COAERS will not consider copyrighted proposals; submissions are subject to the Texas Public Information Act and may be disclosed. Respondents are responsible for properly redacting protected information and should complete Exhibit 4 to declare whether trade secrets or confidential information are included. COAERS may reject late submissions."
+        },
+        {
+          "title": "4.6. PROPOSAL FORMAT",
+          "node_id": "0024",
+          "start_index": 17,
+          "end_index": 19,
+          "key_items": [
+            "4.5. PROPOSAL REQUIREMENTS"
+          ],
+          "summary": "Proposals must be submitted as one PDF in the prescribed order, using the Exhibit 8 checklist, with seven sections: (1) completed Exhibits 1–4, including review of whether Texas conflict-of-interest disclosure Exhibit 2 is required; COAERS cannot advise on this; (2) Exhibit 5 pricing and relevant details, with initial-term prices fixed and any renewal inflation adjustments specified; (3) Exhibit 6 qualifications and clearly stated exceptions or alternatives, noting COAERS may reject nonresponsive proposals; (4) standard service contracts and confidentiality agreements; (5) at least three similar-service references and two clients ending the relationship within three years, with contact details; (6) completed Appendix A, reproducing questions, answers, and requested documents in order; and (7) relevant differentiating information. RFP questions go by email to the named contacts by January 12, 2024, at 5 p.m. CST; responses may amend the RFP and will be posted online. Other communications are restricted, with violations potentially disqualifying. Proposals open publicly by video conference February 12 at 11 a.m. CST, become COAERS property, and remain offers until selection. COAERS may reject proposals, cancel procurement, waive irregularities, seek timely clarifications, and award on best value."
+        },
+        {
+          "title": "RFP Inquiries and Proposal Opening",
+          "node_id": "0025",
+          "start_index": 19,
+          "end_index": 19,
+          "key_items": [
+            "4.7. INQUIRIES",
+            "4.8. PROPOSAL OPENING"
+          ],
+          "summary": "Proposals should include information distinguishing the organization and explaining why it is the best candidate for COAERS. RFP contacts are David Kushner, Chief Investment Officer, and Christopher Hanson, Executive Director. Questions must be emailed to rfp@coaers.org by 5:00 p.m. Central Standard Time on January 12, 2024. COAERS may issue written answers to registered respondents after the pre-proposal conference; answers may amend the RFP and will be posted at coaers.org/gic-rfp. Employees generally will not discuss the RFP, and ethics rules restrict communications with Trustees and Staff; violations may disqualify a proposal. Proposals will be publicly opened by video conference at 11:00 a.m. Central Standard Time on February 12, 2024, become COAERS property, and remain offers until COAERS makes a selection."
+        },
+        {
+          "title": "4.9. PROPOSAL EVALUATION AND AWARD PROCESS",
+          "node_id": "0026",
+          "start_index": 19,
+          "end_index": 20,
+          "summary": "COAERS may reject proposals, cancel the procurement, or waive proposal irregularities. It will award the contract to the respondent offering the best value. During evaluation, it may request proposal clarifications, which respondents must provide as specified to remain eligible. COAERS decides at its sole discretion whether to request written Best and Final Offers; it may award without them. It may also invite respondents to present onsite in Austin or at their offices and may award a contract for all or part of a proposal."
+        },
+        {
+          "title": "4.10. PROPOSAL EVALUATION CRITERIA",
+          "node_id": "0027",
+          "start_index": 20,
+          "end_index": 21,
+          "summary": "COAERS may consider any information about respondents and proposals; fees matter but do not determine awards alone, and no fixed formula weighs cost against other criteria. Best-value evaluation may draw on the RFP, pre-proposal conference, and finalist discussions. Factors include transparency, objectivity, alignment of investment beliefs, reputation and references, collegial support for CIO/staff, client-service quality, thought leadership, public-pension experience, communication and education, accountability, research expertise, substantiation of claims, and minimum-qualification compliance. COAERS may also assess business transparency and conflicts, allocation and portfolio design, policy/reporting/planning and private-market pacing support, insight into long-term trends, adaptability, risk management, comparable-client performance and alpha, analytics, manager selection and removal, negotiated fee savings, and overall fees and portfolio efficiency. It will consider how thoroughly proposals and presentations document and substantiate claims, and may qualitatively benchmark or rate strategic, tactical, or technical responses."
+        },
+        {
+          "title": "4.11. ON-SITE DUE DILIGENCE",
+          "node_id": "0028",
+          "start_index": 21,
+          "end_index": 21,
+          "summary": "4.11. ON-SITE DUE DILIGENCE It is expected that COAERS Trustees, accompanied by the CIO, other Staff and/or Executive Director, may visit finalists’ headquarters and/or regional offices if such due diligence is deemed appropriate before making final decisions. Alternatively, the Board may conduct on-site due diligence with the one Respondent selected provisionally by the full Investment Committee. The ground rules for on-site visitations would be issued prior to such travel and a follow-up questionnaire would be provided to elicit additional information for this phase of the process. Because of the scheduling complexity of this process, COAERS expects that the selection process will require 3-5 months to complete following receipt of the initial Proposals. If needed, finalist presentations will most likely be conducted at a regular Investment Committee meeting."
+        },
+        {
+          "title": "4.12. POST CONTRACT POINT OF CONTACT",
+          "node_id": "0029",
+          "start_index": 21,
+          "end_index": 22,
+          "summary": "4.12. POST CONTRACT POINT OF CONTACT (a) After the award of contract, Contractor will work and communicate directly with the COAERS Chief Investment Officer and Staff.\n21"
+        }
+      ]
+    },
+    {
+      "title": "EXHIBIT 1: PROPOSAL SUBMISSION SHEET",
+      "node_id": "0030",
+      "start_index": 22,
+      "end_index": 23,
+      "summary": "The exhibit is a proposal submission sheet in which the respondent certifies that its submission is accurate, complete, follows the required format, and accepts the RFP terms subject to exceptions stated in Section 3. It affirms no improper benefits were offered or intended for COAERS trustees, employees, or their immediate families; no antitrust violations or prohibited sharing of proposal contents occurred; and no contact about the RFP was made or will be made with COAERS personnel except the authorized contact. The respondent is not on the federal terrorism watch list, will honor the proposal through contract execution, and offers firm prices for the initial three-year term, with possible inflation adjustments during two optional two-year renewals. The signer confirms authority to bind the respondent. The form requests company, signature, printed name, title, address, telephone, email, facsimile, federal tax ID, and date."
+    },
+    {
+      "title": "EXHIBIT 2: CONFLICT OF INTEREST QUESTIONNAIRE",
+      "node_id": "0031",
+      "start_index": 23,
+      "end_index": 24,
+      "summary": "EXHIBIT 2: CONFLICT OF INTEREST QUESTIONNAIRE\nSection 176 of Texas law requires a person who contracts or seeks to contract with a local governmental entity to file a questionnaire disclosing the person’s affiliation and business relationship with each member of the governing body and local government officers of the entity. You should review these rules regarding this disclosure to determine whether your organization should complete and include this exhibit with your Proposal. A listing of COAERS Trustees and Staff can be found on our website at www.coaers.org. COAERS will not be able to give you an opinion as to whether or not you should submit this exhibit.\n23"
+    },
+    {
+      "title": "EXHIBIT 3: CONTRACTOR CONTACT INFORMATION",
+      "node_id": "0032",
+      "start_index": 24,
+      "end_index": 25,
+      "summary": "EXHIBIT 3: CONTRACTOR CONTACT INFORMATION\nPRIMARY CONTACT\nName: Address: City, State, Zip: Office Telephone: Cellular Telephone: Fax:\nEmail Address:\nSECONDARY CONTACT\nName: Address: City, State, Zip: Office Telephone: Cellular Telephone: Fax:\nEmail Address:\n24"
+    },
+    {
+      "title": "EXHIBIT 4: TRADE SECRET ACKNOWLEDGEMENT",
+      "node_id": "0033",
+      "start_index": 25,
+      "end_index": 26,
+      "key_items": [
+        "ACKNOWLEDGED BY:"
+      ],
+      "summary": "The exhibit is a trade secret acknowledgement explaining that COAERS is not responsible for protecting trade secret information unless it is clearly redacted on every page where it appears in the electronic submission. If information is redacted, COAERS will notify the respondent of records requests and submit a letter to the Texas Attorney General asserting applicable exceptions; the respondent must provide supporting legal arguments and facts. The respondent must check one option: it submitted and redacted trade secret or confidential information in a file named “[firm name] – COAERS GIC RFP REDACTED – yyyy-mm-dd,” using its firm name and submission date, or it submitted no such marked information. The form includes spaces for an authorized ink signature, printed name, title, and date."
+    },
+    {
+      "title": "EXHIBIT 5: PROPOSED PRICING INFORMATION SHEET",
+      "node_id": "0034",
+      "start_index": 26,
+      "end_index": 27,
+      "summary": "Exhibit 5 requests annual pricing for the initial three-year term and each of two optional two-year renewal terms, using the consulting pricing matrix. Prices must cover all RFP scope and requirements; performance-based fees are not accepted. Identify any additional fee-based services in detail and state whether renewal increases are fixed dollar amounts, fixed percentages, or index-linked. Initial-term prices are fixed; renewal terms may include adjustments. Attach a sample contract separately as Section 4 of the response. Also describe consultant travel terms for visits to COAERS offices in Austin, and provide details of additional services, assumptions, exclusions, proposed adjustments, and preferred payment terms."
+    },
+    {
+      "title": "EXHIBIT 6: REQUIRED QUALIFICATIONS",
+      "node_id": "0035",
+      "start_index": 27,
+      "end_index": 29,
+      "summary": "Exhibit 6 lists minimum qualifications for investment-consulting proposers, requiring YES/NO responses and explanation of any exceptions at the document’s end. Requirements include registration as an investment adviser under the Investment Company Act of 1940; contractual fiduciary duties and indemnification for specified misconduct; competitive errors-and-omissions, fiduciary-liability, and general-liability insurance; at least two U.S. public pension clients each exceeding $1 billion in assets as of December 31, 2023; and five years in business providing similar services, or senior principals with ten years’ relevant institutional experience. The assigned primary consultant must have five years of client-facing pension consulting experience, including three with the current firm or team and a comparable public pension client. The firm must have relevant public-system experience in asset-liability modeling and asset allocation, access to a substantial investment-fund database, dedicated manager research staff, electronic custodian data-interface capability, ongoing conflict/revenue/affiliation disclosure, and warrant that its proposal information is complete and truthful. Assigned Staff alone determines compliance; proposals failing to demonstrate these requirements by the deadline are nonresponsive and ineligible for award."
+    },
+    {
+      "title": "EXHIBIT 7: QUESTIONNAIRE & DOCUMENT SUBMISSION REQUEST",
+      "node_id": "0036",
+      "start_index": 29,
+      "end_index": 30,
+      "summary": "EXHIBIT 7: QUESTIONNAIRE & DOCUMENT SUBMISSION REQUEST\nInvestment consulting firms must complete the Questionnaire titled Appendix A, which can be found as a separate document on our website at www.coaers.org/gic-rfp.\nResponses to the questions should repeat the question and be answered in order.\n29"
+    },
+    {
+      "title": "EXHIBIT 8: CONTRACTOR RESPONSE CHECKLIST",
+      "node_id": "0037",
+      "start_index": 30,
+      "end_index": 30,
+      "summary": "Exhibit 8 is a contractor proposal response checklist. Section 1 requests the proposal submission sheet, conflict-of-interest questionnaire (if applicable), contractor contact information, and trade secret acknowledgment. Section 2 requests proposed pricing and any other relevant pricing information. Section 3 requests required-qualifications exceptions, if applicable. Section 4 requests the standard contract and any confidentiality agreements. Section 5 requests client references. Section 6 requests Exhibit 7/Appendix A materials: the questionnaire and document request, executive summary, code of conduct/ethics policy/standard of conduct (A-20), sample indemnification language (A-35), statement of investment beliefs (A-46, if applicable), risk budget model (A-48, if applicable), and sample performance report (A-51). Section 7 allows additional information from the respondent, if applicable."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

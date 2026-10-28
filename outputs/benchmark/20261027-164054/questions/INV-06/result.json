@@ -1,0 +1,149 @@
+{
+  "id": "INV-06",
+  "question": "A real assets investment consulting solicitation states that the funds' strategic asset allocation targets were adopted by the Board in 2003. As of September 30, 2010, how much did the Board have in its separate account private real estate program, its separate account private infrastructure program, and public real estate securities, and how large were its unfunded commitments?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:17:13.583971+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "As of September 30, 2010, the Board had approximately **$164 million** in its separate-account private real estate program, **$59 million** in its separate-account private infrastructure program, and **$25 million** in public real estate securities. It also had approximately **$88 million in unfunded commitments** to real estate and infrastructure funds. [Source: D.C. Retirement Board real-assets consulting RFP, p. 4](DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf#page=4)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 47697,
+    "input_tokens_details": {
+      "cached_tokens": 32513,
+      "cache_write_tokens": 15166
+    },
+    "output_tokens": 312,
+    "output_tokens_details": {
+      "reasoning_tokens": 23
+    },
+    "total_tokens": 48009,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1260,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1257
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1275
+      },
+      {
+        "input_tokens": 2426,
+        "input_tokens_details": {
+          "cached_tokens": 1257,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 2462
+      },
+      {
+        "input_tokens": 7665,
+        "input_tokens_details": {
+          "cached_tokens": 2423,
+          "cache_write_tokens": 5239
+        },
+        "output_tokens": 53,
+        "output_tokens_details": {
+          "reasoning_tokens": 12
+        },
+        "total_tokens": 7718
+      },
+      {
+        "input_tokens": 7967,
+        "input_tokens_details": {
+          "cached_tokens": 7662,
+          "cache_write_tokens": 302
+        },
+        "output_tokens": 40,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 8007
+      },
+      {
+        "input_tokens": 13210,
+        "input_tokens_details": {
+          "cached_tokens": 7964,
+          "cache_write_tokens": 5243
+        },
+        "output_tokens": 46,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 13256
+      },
+      {
+        "input_tokens": 15169,
+        "input_tokens_details": {
+          "cached_tokens": 13207,
+          "cache_write_tokens": 1959
+        },
+        "output_tokens": 122,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 15291
+      }
+    ]
+  },
+  "elapsed_seconds": 13.191,
+  "finished_at_utc": "2026-10-27T09:17:26.780986+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 47697,
+    "output_tokens": 312,
+    "cached_input_tokens": 32513,
+    "cache_write_tokens": 15166,
+    "reasoning_tokens": 23,
+    "total_tokens": 48009
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf\",\"pages\":\"3-5\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf",
+      "pages": "3-5",
+      "success": true,
+      "call_id": "call_8pf1uKIQZgyOetGZNubf8ML6"
+    }
+  ],
+  "successfully_read_documents": [
+    "DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf"
+  ]
+}

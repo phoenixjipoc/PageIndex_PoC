@@ -1,0 +1,43 @@
+{
+  "file": "NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf",
+  "sha256": "b099aec3f112734fa1458a7c8bb474ef2863e0a30910e4be8a51337c6090a738",
+  "bytes": 792177,
+  "pages": 64,
+  "public_source_url": "https://www.bers.nyc.gov/assets/bers/downloads/pdf/requests-for-proposals/rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:02:14.895923+00:00",
+  "doc_id": "pi-e9b2990bdb324686b56c174be9bfda0a",
+  "stored_name": "NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf",
+  "reported_usage": {
+    "prompt_tokens": 63682,
+    "completion_tokens": 16908,
+    "total_tokens": 80590,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 35641
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 5283
+    }
+  },
+  "elapsed_seconds": 43.156,
+  "finished_at_utc": "2026-10-27T09:02:58.154425+00:00",
+  "model_calls": 57,
+  "http_attempts": 57,
+  "observed_usage": {
+    "input_tokens": 63682,
+    "output_tokens": 16908,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 35641,
+    "reasoning_tokens": 5283,
+    "total_tokens": 80590
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

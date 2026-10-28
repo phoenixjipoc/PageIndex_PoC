@@ -1,0 +1,133 @@
+{
+  "id": "SVC-11",
+  "question": "According to the City of Temple City's 457 deferred compensation plan administration and recordkeeping RFP, how many participants did the plan have and what were its total assets?",
+  "type": "pair_a",
+  "pair_id": "P13",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:17:26.252392+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "As of March 31, 2020, the plan had **46 participants with balances** and **$1,894,729 in total assets**. Of those participants, 31 were actively contributing and 15 were non-active. [Source: City of Temple City 457 Plan RFP, p. 5]",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 41018,
+    "input_tokens_details": {
+      "cached_tokens": 22730,
+      "cache_write_tokens": 18273
+    },
+    "output_tokens": 177,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 41195,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1221,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1218
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1236
+      },
+      {
+        "input_tokens": 2387,
+        "input_tokens_details": {
+          "cached_tokens": 1218,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 28,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2415
+      },
+      {
+        "input_tokens": 2629,
+        "input_tokens_details": {
+          "cached_tokens": 2384,
+          "cache_write_tokens": 242
+        },
+        "output_tokens": 29,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2658
+      },
+      {
+        "input_tokens": 16505,
+        "input_tokens_details": {
+          "cached_tokens": 2626,
+          "cache_write_tokens": 13876
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 16540
+      },
+      {
+        "input_tokens": 18276,
+        "input_tokens_details": {
+          "cached_tokens": 16502,
+          "cache_write_tokens": 1771
+        },
+        "output_tokens": 70,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 18346
+      }
+    ]
+  },
+  "elapsed_seconds": 10.406,
+  "finished_at_utc": "2026-10-27T09:17:36.664082+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 41018,
+    "output_tokens": 177,
+    "cached_input_tokens": 22730,
+    "cache_write_tokens": 18273,
+    "reasoning_tokens": 0,
+    "total_tokens": 41195
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Temple_City_CA__Recordkeeping-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Temple_City_CA__Recordkeeping-RFP.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Temple_City_CA__Recordkeeping-RFP.pdf\",\"pages\":\"5-6\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Temple_City_CA__Recordkeeping-RFP.pdf",
+      "pages": "5-6",
+      "success": true,
+      "call_id": "call_hY0OAIg3LJ4wDr0wPAvdUQWa"
+    }
+  ],
+  "successfully_read_documents": [
+    "Temple_City_CA__Recordkeeping-RFP.pdf"
+  ]
+}

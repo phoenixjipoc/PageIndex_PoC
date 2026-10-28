@@ -1,0 +1,43 @@
+{
+  "file": "SBCERS__2020-Private-Equity-RFP.pdf",
+  "sha256": "e4c5ec0c7828a9a769399014d2c9bcf7d5ede0ae795adf3101e1ee0922c29092",
+  "bytes": 271669,
+  "pages": 34,
+  "public_source_url": "https://www.sbcers.org/wp-content/uploads/2020-Private-Equity-RFP.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:07:11.627499+00:00",
+  "doc_id": "pi-17e0c5bf96f84730a591a58a5791649d",
+  "stored_name": "SBCERS__2020-Private-Equity-RFP.pdf",
+  "reported_usage": {
+    "prompt_tokens": 24846,
+    "completion_tokens": 8245,
+    "total_tokens": 33091,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 8767
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2102
+    }
+  },
+  "elapsed_seconds": 20.817,
+  "finished_at_utc": "2026-10-27T09:07:32.462063+00:00",
+  "model_calls": 32,
+  "http_attempts": 32,
+  "observed_usage": {
+    "input_tokens": 24846,
+    "output_tokens": 8245,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 8767,
+    "reasoning_tokens": 2102,
+    "total_tokens": 33091
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

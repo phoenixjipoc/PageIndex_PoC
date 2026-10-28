@@ -1,0 +1,43 @@
+{
+  "file": "COAERS__COAERS_General_Investment_Consultant_RFP.pdf",
+  "sha256": "638ad85e9fb7bf3a2e361a6b10475be214f33e8dc469e57e2df17499f20ad5f5",
+  "bytes": 566831,
+  "pages": 30,
+  "public_source_url": "https://www.coaers.org/files/6e7f2639b/COAERS+General+Investment+Consultant+RFP.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:48:24.027511+00:00",
+  "doc_id": "pi-ac8b57ec2164459ca02850b541e3ea9e",
+  "stored_name": "COAERS__COAERS_General_Investment_Consultant_RFP.pdf",
+  "reported_usage": {
+    "prompt_tokens": 26348,
+    "completion_tokens": 8234,
+    "total_tokens": 34582,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 10629
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2229
+    }
+  },
+  "elapsed_seconds": 17.506,
+  "finished_at_utc": "2026-10-27T08:48:41.540221+00:00",
+  "model_calls": 31,
+  "http_attempts": 31,
+  "observed_usage": {
+    "input_tokens": 26348,
+    "output_tokens": 8234,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10629,
+    "reasoning_tokens": 2229,
+    "total_tokens": 34582
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

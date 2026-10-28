@@ -1,0 +1,7 @@
+{
+  "question": "What contract term, including any extension options, does the Kern County Employees' Retirement Association (KCERA) RFP for audit services contemplate?",
+  "gold_answer": "A three-year agreement (audits of fiscal year ending June 30, 2023 and the two subsequent fiscal years), subject to annual Board review; the original term may be extended for up to an additional three years by mutual agreement of KCERA and the firm.",
+  "acceptance": "Accept 3+up to3 years, mutual extension. Audit fiscal years and annual-review/negotiation detail need not all be volunteered.",
+  "scope": "single_document",
+  "candidate_answer": "KCERA contemplates an initial **three-year agreement**, subject to annual Board of Retirement review and recommendation and satisfactory negotiation of terms and price. KCERA and the selected firm may mutually agree to extend it for **up to three additional years**, for a potential total of six years. [KCERA Audit Services RFP, p. 2](KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf#page=6)"
+}

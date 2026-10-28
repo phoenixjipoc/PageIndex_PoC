@@ -1,0 +1,15 @@
+{
+  "question_id": "DDQ-05",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "ceebc424c44d85fb410a0c2847a44b534dc115810fcf3dfa34a37663128c7000",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct launch date and all three update years.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:27:02.538922+00:00"
+}

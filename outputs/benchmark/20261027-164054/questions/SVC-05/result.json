@@ -1,0 +1,149 @@
+{
+  "id": "SVC-05",
+  "question": "In the Indiana Public Retirement System (INPRS) RFP 24-05 for audit services, which firm has provided INPRS's external audit services and since when, and what limit does INPRS's procurement policy place on contract length?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:20:16.685298+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "RSM has provided INPRS’s external audit services since 2014. INPRS’s procurement policy limits contracts to **10 years** and requires new bids to be solicited at least every 10 years. [Source: INPRS RFP 24-05, p. 4](INPRS__RFP24-05_AuditServices.pdf#page=4)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 51775,
+    "input_tokens_details": {
+      "cached_tokens": 35053,
+      "cache_write_tokens": 16704
+    },
+    "output_tokens": 227,
+    "output_tokens_details": {
+      "reasoning_tokens": 11
+    },
+    "total_tokens": 52002,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1236,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1233
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1251
+      },
+      {
+        "input_tokens": 2402,
+        "input_tokens_details": {
+          "cached_tokens": 1233,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 2438
+      },
+      {
+        "input_tokens": 7641,
+        "input_tokens_details": {
+          "cached_tokens": 2399,
+          "cache_write_tokens": 5239
+        },
+        "output_tokens": 30,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7671
+      },
+      {
+        "input_tokens": 7905,
+        "input_tokens_details": {
+          "cached_tokens": 7638,
+          "cache_write_tokens": 264
+        },
+        "output_tokens": 31,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7936
+      },
+      {
+        "input_tokens": 15884,
+        "input_tokens_details": {
+          "cached_tokens": 7902,
+          "cache_write_tokens": 7979
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 15919
+      },
+      {
+        "input_tokens": 16707,
+        "input_tokens_details": {
+          "cached_tokens": 15881,
+          "cache_write_tokens": 823
+        },
+        "output_tokens": 80,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 16787
+      }
+    ]
+  },
+  "elapsed_seconds": 12.468,
+  "finished_at_utc": "2026-10-27T09:20:29.159493+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 51775,
+    "output_tokens": 227,
+    "cached_input_tokens": 35053,
+    "cache_write_tokens": 16704,
+    "reasoning_tokens": 11,
+    "total_tokens": 52002
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"INPRS__RFP24-05_AuditServices.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"INPRS__RFP24-05_AuditServices.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"INPRS__RFP24-05_AuditServices.pdf\",\"pages\":\"4\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "INPRS__RFP24-05_AuditServices.pdf",
+      "pages": "4",
+      "success": true,
+      "call_id": "call_gYK27irFBydR09yHp0fO0gsd"
+    }
+  ],
+  "successfully_read_documents": [
+    "INPRS__RFP24-05_AuditServices.pdf"
+  ]
+}

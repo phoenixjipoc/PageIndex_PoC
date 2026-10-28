@@ -1,0 +1,133 @@
+{
+  "id": "SVC-12",
+  "question": "According to the Monroe County deferred compensation services RFP, how many participants did the plan have and what were its total assets?",
+  "type": "pair_b",
+  "pair_id": "P13",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:20:19.421897+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "As of December 31, 2022, the Monroe County Deferred Compensation Plan had **4,398 participants** and **$308,676,730 in assets**. The RFP lists its separate OBRA part-time seasonal component as having another 536 participants and $926,785 in assets. [Source: Monroe County deferred compensation services RFP, p. 3]",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 29730,
+    "input_tokens_details": {
+      "cached_tokens": 19060,
+      "cache_write_tokens": 10655
+    },
+    "output_tokens": 197,
+    "output_tokens_details": {
+      "reasoning_tokens": 13
+    },
+    "total_tokens": 29927,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1213,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1210
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1228
+      },
+      {
+        "input_tokens": 2379,
+        "input_tokens_details": {
+          "cached_tokens": 1210,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 13
+        },
+        "total_tokens": 2417
+      },
+      {
+        "input_tokens": 7620,
+        "input_tokens_details": {
+          "cached_tokens": 2376,
+          "cache_write_tokens": 5241
+        },
+        "output_tokens": 28,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7648
+      },
+      {
+        "input_tokens": 7860,
+        "input_tokens_details": {
+          "cached_tokens": 7617,
+          "cache_write_tokens": 240
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7895
+      },
+      {
+        "input_tokens": 10658,
+        "input_tokens_details": {
+          "cached_tokens": 7857,
+          "cache_write_tokens": 2798
+        },
+        "output_tokens": 81,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10739
+      }
+    ]
+  },
+  "elapsed_seconds": 10.73,
+  "finished_at_utc": "2026-10-27T09:20:30.157770+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 29730,
+    "output_tokens": 197,
+    "cached_input_tokens": 19060,
+    "cache_write_tokens": 10655,
+    "reasoning_tokens": 13,
+    "total_tokens": 29927
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Monroe_County_NY__10406.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Monroe_County_NY__10406.pdf\",\"pages\":\"1-5\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Monroe_County_NY__10406.pdf",
+      "pages": "1-5",
+      "success": true,
+      "call_id": "call_sMSyn6vl2VX3EDKjIY6in3H4"
+    }
+  ],
+  "successfully_read_documents": [
+    "Monroe_County_NY__10406.pdf"
+  ]
+}

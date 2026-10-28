@@ -1,0 +1,149 @@
+{
+  "id": "XD-22",
+  "question": "According to the Calamos/Aksia Private Markets Due Diligence Questionnaire, what maximum single-position size, as a percentage of fund assets, should a private credit interval fund hold?",
+  "type": "unanswerable",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:13:48.350171+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The questionnaire does **not specify a maximum percentage**. It asks managers to report the maximum and average position size as a percentage of fund assets, but does not prescribe a limit. [Calamos/Aksia questionnaire, p. 3](AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 43776,
+    "input_tokens_details": {
+      "cached_tokens": 30743,
+      "cache_write_tokens": 13015
+    },
+    "output_tokens": 222,
+    "output_tokens_details": {
+      "reasoning_tokens": 11
+    },
+    "total_tokens": 43998,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1225,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1222
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1240
+      },
+      {
+        "input_tokens": 2391,
+        "input_tokens_details": {
+          "cached_tokens": 1222,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 2427
+      },
+      {
+        "input_tokens": 7630,
+        "input_tokens_details": {
+          "cached_tokens": 2388,
+          "cache_write_tokens": 5239
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7653
+      },
+      {
+        "input_tokens": 9618,
+        "input_tokens_details": {
+          "cached_tokens": 7627,
+          "cache_write_tokens": 1988
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9653
+      },
+      {
+        "input_tokens": 9894,
+        "input_tokens_details": {
+          "cached_tokens": 9615,
+          "cache_write_tokens": 276
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9936
+      },
+      {
+        "input_tokens": 13018,
+        "input_tokens_details": {
+          "cached_tokens": 9891,
+          "cache_write_tokens": 3124
+        },
+        "output_tokens": 71,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 13089
+      }
+    ]
+  },
+  "elapsed_seconds": 15.437,
+  "finished_at_utc": "2026-10-27T09:14:03.801907+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 43776,
+    "output_tokens": 222,
+    "cached_input_tokens": 30743,
+    "cache_write_tokens": 13015,
+    "reasoning_tokens": 11,
+    "total_tokens": 43998
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":60}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf\",\"pages\":\"1-4\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf",
+      "pages": "1-4",
+      "success": true,
+      "call_id": "call_c6T92JPwTWEatg5F9yPLfoSi"
+    }
+  ],
+  "successfully_read_documents": [
+    "AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf"
+  ]
+}

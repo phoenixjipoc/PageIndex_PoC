@@ -1,0 +1,15 @@
+{
+  "question_id": "OTH-05",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "3b321076f15baa182d040020b78251515c34e34c38e9e3ab2d3df63181be0aee",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct client count and per-client minimum assets.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:27:19.661391+00:00"
+}

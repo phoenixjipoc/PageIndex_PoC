@@ -1,0 +1,38 @@
+{
+  "checked_at_utc": "2026-10-27T09:29:51.188458+00:00",
+  "document_count": 78,
+  "index_checkpoints": 78,
+  "index_statuses": {
+    "completed": 78
+  },
+  "question_checkpoints": 110,
+  "question_statuses": {
+    "completed": 110
+  },
+  "all_question_ids_accounted_for": true,
+  "all_questions_unchanged": true,
+  "all_questions_have_full_library": true,
+  "all_source_hints_and_history_empty": true,
+  "http_attempt_count": 2743,
+  "unique_response_count": 2743,
+  "response_count": 2743,
+  "actual_models": {
+    "gpt-6-luna": 2072,
+    "gpt-6-sol": 671
+  },
+  "all_medium": true,
+  "all_models_match": true,
+  "all_chat_instructions_official": true,
+  "checked_core_input_files": 82,
+  "changed_core_inputs": [],
+  "official_python_source_files_checked": 96,
+  "changed_installed_official_sources": [],
+  "changed_frozen_answers": [],
+  "reviewed_questions": 110,
+  "all_questions_reviewed": true,
+  "review_methods": {
+    "in_session_ai_reference_review": 110
+  },
+  "all_review_answer_hashes_match": true,
+  "additional_grading_api_calls": 0
+}

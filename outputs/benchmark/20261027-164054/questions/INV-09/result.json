@@ -1,0 +1,149 @@
+{
+  "id": "INV-09",
+  "question": "An investment manager RFP template for an emerging markets equity strategy (issued February 14, 2022, responses due March 31, 2022) lists required minimum qualifications and 'preferred criteria'. What live track record does it require, and what public pension client base does it prefer?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:15:28.563911+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The RFP requires **at least five years of an established, live track record** managing the proposed emerging-markets equity strategy. Qualified women-, minority-, or disabled-owned businesses are exempt from that minimum, subject to SURS’s discretion.\n\nIt **prefers** a firm with either **at least two existing U.S. public pension fund clients**, each with more than $1 billion in total plan assets, **or one existing public-plan client** with more than $10 billion in total plan assets. 【SURS_Illinois__SURS-Investment-Manager-RFP-Template.pdf, pp. 5–6】",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 52084,
+    "input_tokens_details": {
+      "cached_tokens": 34914,
+      "cache_write_tokens": 17152
+    },
+    "output_tokens": 296,
+    "output_tokens_details": {
+      "reasoning_tokens": 12
+    },
+    "total_tokens": 52380,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1247,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1244
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1262
+      },
+      {
+        "input_tokens": 2413,
+        "input_tokens_details": {
+          "cached_tokens": 1244,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 12
+        },
+        "total_tokens": 2450
+      },
+      {
+        "input_tokens": 7653,
+        "input_tokens_details": {
+          "cached_tokens": 2410,
+          "cache_write_tokens": 5240
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7688
+      },
+      {
+        "input_tokens": 7920,
+        "input_tokens_details": {
+          "cached_tokens": 7650,
+          "cache_write_tokens": 267
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7956
+      },
+      {
+        "input_tokens": 15696,
+        "input_tokens_details": {
+          "cached_tokens": 7917,
+          "cache_write_tokens": 7776
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 15738
+      },
+      {
+        "input_tokens": 17155,
+        "input_tokens_details": {
+          "cached_tokens": 15693,
+          "cache_write_tokens": 1459
+        },
+        "output_tokens": 131,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 17286
+      }
+    ]
+  },
+  "elapsed_seconds": 13.242,
+  "finished_at_utc": "2026-10-27T09:15:41.811645+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 52084,
+    "output_tokens": 296,
+    "cached_input_tokens": 34914,
+    "cache_write_tokens": 17152,
+    "reasoning_tokens": 12,
+    "total_tokens": 52380
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SURS_Illinois__SURS-Investment-Manager-RFP-Template.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SURS_Illinois__SURS-Investment-Manager-RFP-Template.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"SURS_Illinois__SURS-Investment-Manager-RFP-Template.pdf\",\"pages\":\"5-6\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "SURS_Illinois__SURS-Investment-Manager-RFP-Template.pdf",
+      "pages": "5-6",
+      "success": true,
+      "call_id": "call_nMWiMckP8p3cG8rt6cfvbPr2"
+    }
+  ],
+  "successfully_read_documents": [
+    "SURS_Illinois__SURS-Investment-Manager-RFP-Template.pdf"
+  ]
+}

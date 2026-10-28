@@ -1,0 +1,165 @@
+{
+  "id": "OTH-09",
+  "question": "A county pension fund is searching for a single manager of managers covering domestic equity, international equity and fixed income. What is the maximum mandate size, and what is the firm-level AUM limit for responders?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:18:10.916518+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The **maximum mandate is $350 million**. Responders must have **less than $30 billion in firm-level assets under management**. [Cook County manager-of-managers RFP, pp. 3, 6]",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 57998,
+    "input_tokens_details": {
+      "cached_tokens": 43810,
+      "cache_write_tokens": 14167
+    },
+    "output_tokens": 256,
+    "output_tokens_details": {
+      "reasoning_tokens": 16
+    },
+    "total_tokens": 58254,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1229,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1226
+        },
+        "output_tokens": 24,
+        "output_tokens_details": {
+          "reasoning_tokens": 7
+        },
+        "total_tokens": 1253
+      },
+      {
+        "input_tokens": 2404,
+        "input_tokens_details": {
+          "cached_tokens": 1226,
+          "cache_write_tokens": 1175
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 9
+        },
+        "total_tokens": 2438
+      },
+      {
+        "input_tokens": 7641,
+        "input_tokens_details": {
+          "cached_tokens": 2401,
+          "cache_write_tokens": 5237
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7664
+      },
+      {
+        "input_tokens": 9629,
+        "input_tokens_details": {
+          "cached_tokens": 7638,
+          "cache_write_tokens": 1988
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9668
+      },
+      {
+        "input_tokens": 9919,
+        "input_tokens_details": {
+          "cached_tokens": 9626,
+          "cache_write_tokens": 290
+        },
+        "output_tokens": 40,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9959
+      },
+      {
+        "input_tokens": 13006,
+        "input_tokens_details": {
+          "cached_tokens": 9916,
+          "cache_write_tokens": 3087
+        },
+        "output_tokens": 46,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 13052
+      },
+      {
+        "input_tokens": 14170,
+        "input_tokens_details": {
+          "cached_tokens": 13003,
+          "cache_write_tokens": 1164
+        },
+        "output_tokens": 50,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 14220
+      }
+    ]
+  },
+  "elapsed_seconds": 13.68,
+  "finished_at_utc": "2026-10-27T09:18:24.605061+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 57998,
+    "output_tokens": 256,
+    "cached_input_tokens": 43810,
+    "cache_write_tokens": 14167,
+    "reasoning_tokens": 16,
+    "total_tokens": 58254
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"offset\":10,\"limit\":50}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"offset\":60,\"limit\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Cook_County_Pension__Manager_of_Managers_-_RFP_No_25-0004.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Cook_County_Pension__Manager_of_Managers_-_RFP_No_25-0004.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Cook_County_Pension__Manager_of_Managers_-_RFP_No_25-0004.pdf\",\"pages\":\"3,6\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Cook_County_Pension__Manager_of_Managers_-_RFP_No_25-0004.pdf",
+      "pages": "3,6",
+      "success": true,
+      "call_id": "call_hrHcNAefNydQ4hYZp6JhaPnx"
+    }
+  ],
+  "successfully_read_documents": [
+    "Cook_County_Pension__Manager_of_Managers_-_RFP_No_25-0004.pdf"
+  ]
+}

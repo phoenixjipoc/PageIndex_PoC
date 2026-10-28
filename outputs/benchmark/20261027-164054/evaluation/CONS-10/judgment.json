@@ -1,0 +1,15 @@
+{
+  "question_id": "CONS-10",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "dfe2e9311b631a59fc52214e1acb620c99a2679da287b157fcc9bc4e741216d1",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct OPERS date, time and zone.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:51.590174+00:00"
+}

@@ -1,0 +1,7 @@
+{
+  "question": "According to the INREV Due Diligence Questionnaire for Non-Listed Real Estate Investment Vehicles, when was the questionnaire first launched and in which years was it updated?",
+  "gold_answer": "It was first launched in April 2007 and updated in 2010, 2014 and most recently in 2018. The 2018 version introduced a phased approach with Preliminary, Advanced and Supplementary stages.",
+  "acceptance": "Accept April 2007 and 2010/2014/2018. Phased approach and stage labels are not required.",
+  "scope": "single_document",
+  "candidate_answer": "The questionnaire was first launched in **April 2007** and was updated in **2010, 2014, and 2018**. [Source: INREV Due Diligence Questionnaire, p. 3](INREV__INREV_DDQ_Non-Listed_Real_Estate_Investment_Vehicles_2018.pdf#page=3)"
+}

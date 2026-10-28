@@ -1,0 +1,15 @@
+{
+  "question_id": "SVC-03",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "8177312a97f29bf2a425f07ba43034e518e4ffb3e94a850da18b2f4429c2d5d9",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct flat fee and 80/20 split.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:25:58.911191+00:00"
+}

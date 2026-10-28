@@ -1,0 +1,7 @@
+{
+  "question": "In the Illinois Municipal Retirement Fund (IMRF) sample RFP for domestic equity small cap growth investment management, on what factors are respondents evaluated and ranked during the selection process?",
+  "gold_answer": "Four primary factors: (a) People - stability of the organization, ownership structure and documented experience of key professionals; (b) Process - clearly defined, reasonable and repeatable investment strategy; (c) Performance - documented ability to meet investment performance benchmarks; (d) Pricing - fee schedule and associated costs.",
+  "acceptance": "Accept People, Process, Performance, Pricing and faithful descriptions; exact labels are not mandatory.",
+  "scope": "single_document",
+  "candidate_answer": "IMRF evaluates and ranks respondents on four primary factors:\n\n- **People:** Organizational stability, ownership structure, and the documented experience of key professionals.\n- **Process:** A clearly defined, reasonable, and repeatable investment strategy.\n- **Performance:** Documented ability to meet investment-performance benchmarks.\n- **Pricing:** The fee schedule and associated costs.\n\nSource: *IMRF Sample Investment Manager RFP*, §8.1, p. 9."
+}

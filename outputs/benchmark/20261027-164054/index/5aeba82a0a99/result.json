@@ -1,0 +1,43 @@
+{
+  "file": "Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf",
+  "sha256": "521e3656b81886c5d199f51d24fa140daa5bdecfc0d6b16155a21a4ce3de8c3f",
+  "bytes": 521433,
+  "pages": 37,
+  "public_source_url": "https://ers.ehawaii.gov/wp-content/uploads/2022/10/ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:51:55.374221+00:00",
+  "doc_id": "pi-d06ecf0d8aaa433ba74bcf23af722a52",
+  "stored_name": "Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf",
+  "reported_usage": {
+    "prompt_tokens": 31804,
+    "completion_tokens": 10062,
+    "total_tokens": 41866,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 11013
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2888
+    }
+  },
+  "elapsed_seconds": 17.793,
+  "finished_at_utc": "2026-10-27T08:52:13.178918+00:00",
+  "model_calls": 38,
+  "http_attempts": 38,
+  "observed_usage": {
+    "input_tokens": 31804,
+    "output_tokens": 10062,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 11013,
+    "reasoning_tokens": 2888,
+    "total_tokens": 41866
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

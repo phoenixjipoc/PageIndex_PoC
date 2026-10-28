@@ -1,0 +1,7 @@
+{
+  "question": "What contract term, including any extension options, does the Los Angeles Fire and Police Pensions (LAFPP) RFP for financial statement audit services contemplate?",
+  "gold_answer": "A three-year contract (fiscal years ending June 30, 2025, 2026 and 2027) with a maximum fee proposal for each fiscal year; the Board may extend beyond the three-year term through two one-year renewals.",
+  "acceptance": "Three years plus two optional one-year renewals, up to five years, suffices. Fiscal-year dates and fee-proposal details are optional.",
+  "scope": "single_document",
+  "candidate_answer": "The RFP contemplates an **initial three-year contract** for audits of the fiscal years ending June 30, 2025, 2026, and 2027. The LAFPP Board may extend it through **two one-year renewals**, for a potential total of five years. [LAFPP RFP, pp. 3, 7](LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf)"
+}

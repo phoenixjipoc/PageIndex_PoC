@@ -1,0 +1,88 @@
+{
+  "doc_id": "pi-d5b1a2debadc41089d60431f1712a511",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "ILPA ESG Assessment Framework: Use and Considerations",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 1,
+      "key_items": [
+        "OVERVIEW - HOW TO USE THIS FRAMEWORK",
+        "KEY CONSIDERATIONS"
+      ],
+      "summary": "ILPA’s Framework helps limited partners assess and benchmark general partners’ ESG integration, guide goal-setting discussions, and track progress across four stages: Not Present, Developing, Intermediate, and Advanced. It is an adaptable, representative resource—not an exhaustive guide to best practice—and will be updated as practices evolve and feedback is received. Developed with mid/large-cap buyout managers in mind, it may offer a starting point for other asset classes but was not designed for them. Expectations should account for managers’ size and resources. Categories are directional, do not replace local or regulatory requirements, may omit evolving or subjective advanced practices, and are not a one-size-fits-all standard. The Framework is intended to support analysis and dialogue with GPs. Further questions and FAQs are available through ILPA, which invites feedback at esg@ilpa.org."
+    },
+    {
+      "title": "ESG ASSESSMENT FRAMEWORK",
+      "node_id": "0001",
+      "start_index": 2,
+      "end_index": 4,
+      "key_items": [
+        "INTERMEDIATE",
+        "ADVANCED",
+        "ADVANCED"
+      ],
+      "summary": "The ILPA ESG Assessment Framework rates general partners from Not Present through Developing, Intermediate, and Advanced across three areas. Policies, commitments, and governance cover ESG policy scope and review, industry standards, contractual commitments, and ownership: progression runs from no policy or accountability to tailored, regularly reviewed and public policies, formal standards and commitments, and organization-wide leadership-driven integration. Communications and reporting assess staff and portfolio-company training, investor communications, incident reporting, and KPIs: practices advance from absent or ad hoc to systematic training, proactive incident remediation, materiality-based KPIs, and regular qualitative and quantitative reporting linked to value creation and sustainability outcomes. Investment process assesses due diligence, post-investment management, and exit: progression is from no ESG consideration to GP-led materiality-based diligence informing decisions, structured monitoring and value creation, annual portfolio assessments and board accountability, and ESG performance analysis and continuity of sustainable initiatives at sale. LPs should clarify fund-level policy applicability and agree on what constitutes an incident."
+    },
+    {
+      "title": "ESG ASSESSMENT FRAMEWORK: DEI SUPPLEMENT",
+      "node_id": "0002",
+      "start_index": 5,
+      "end_index": 5,
+      "summary": "The DEI supplement rates general partners (GPs) across policies and governance, management-company diversity metrics, and portfolio-company metrics. At “Not Present,” GPs lack DEI, conduct, and applicable family-leave policies; DEI governance ownership; and diversity tracking at either level. “Developing” requires written policies, accountable DEI processes with evidence of compliance, and annual ILPA-template metrics for the GP and portfolio-company boards where legally permitted. “Intermediate” adds three-year policy updates and misconduct/harassment/discrimination disclosures; senior-level ownership, ongoing discussion, and meaningful goals; proactive LP reporting including hiring, promotions, turnover, and portfolio-company executive metrics; and leadership discussions with portfolio companies. “Advanced” requires demonstrated progress toward goals, potential policy evolution, staff-wide understanding, and metrics commentary on pay equity and carry distribution; qualitative portfolio-company commentary and board diversity targets; and results-oriented engagement showing progress in shared data."
+    },
+    {
+      "title": "DEI SUPPLEMENT: CONTINUED",
+      "node_id": "0003",
+      "start_index": 6,
+      "end_index": 6,
+      "summary": "The DEI supplement outlines four maturity levels for recruiting and employee engagement. Recruiting progresses from no DEI references, to references without goals, to inclusive recruiting goals (such as broadening pipelines and partnering with minority-focused organizations) and bias/systemic-racism training for hiring participants. At the advanced level, policies also address systemic racism, unconscious bias, and advancement of diverse and underrepresented staff; recruitment-role incentives may be tied to these goals. Employee engagement progresses from no formal retention programs, to programs such as mentorship, sponsorship, or employee resource networks without measurable objectives, to programs with targets for diverse staff retention and promotion. Advanced practices also include regular, ideally anonymous third-party, firmwide engagement surveys focused on inclusion, with high-level findings shared and forward-looking objectives discussed."
+    },
+    {
+      "title": "ESG ASSESSMENT FRAMEWORK: CLIMATE SUPPLEMENT",
+      "node_id": "0004",
+      "start_index": 7,
+      "end_index": 7,
+      "summary": "The climate supplement rates responsiveness to climate risks and opportunities across governance, strategy, risk management, and metrics and targets at four maturity levels. “Not Present” means no governance, guiding strategy, risk-management framework, or climate KPIs/reporting. “Developing” describes regulator-driven internal compliance, ad hoc or consultant-led assessments, broad sector-level analysis, reactions to regulations and extreme weather, and anecdotal metric reporting. “Intermediate” adds management ownership, staff capacity building, GP-led assessments, deal-level risk and opportunity analysis, climate due diligence and exposure identification, monitoring using material indicators and scenarios, portfolio-company KPI selection, and annual reporting. “Advanced” builds on this with portfolio-company training and implementation monitoring, portfolio-wide and deal-level assessment, a dedicated expert team, climate integrated into portfolio-company strategy, and a metrics-informed implementation plan using robust company-level GHG data and long-term goals. It also includes science-aligned portfolio-company targets, annual progress reporting, and ambition for net zero by or before 2050."
+    },
+    {
+      "title": "WORKSHEET: ESG ASSESSMENT FRAMEWORK",
+      "node_id": "0005",
+      "start_index": 8,
+      "end_index": 8,
+      "summary": "The worksheet accompanies ILPA’s ESG Assessment Framework to help LPs map GP due-diligence responses to relevant ILPA DDQ sections, take notes, and optionally assess response quality. It covers policies and commitments to standards—current policy status, policy review, industry standards and best practices, formal and contractual commitments—and governance, including ESG ownership, capacity building and training. It lists corresponding DDQ references: ESG policy (BQ 10.1; DQ 10.1.1, 10.1.2, 10.2.2, 10.2.3); policy review (DQ 10.1.2); formal commitments (BQ 10.2, 10.3; DQ 10.1.3); contractual commitments (BQ 10.5; DQ 10.1.4); ESG ownership (DQ 10.2.4, 10.2.6); and training (DQ 10.2.7, 10.3.4). ILPA does not assign numerical scores because weighting may differ by organization. BQ means Basic Questions; DQ means Detailed Questions."
+    },
+    {
+      "title": "WORKSHEET: ESG ASSESSMENT FRAMEWORK, CONTINUED",
+      "node_id": "0006",
+      "start_index": 9,
+      "end_index": 9,
+      "summary": "Continued worksheet from the ILPA ESG Assessment Framework. It lists communications and reporting components—approach to communication, incident reporting, and KPIs and reporting—with DDQ references to Communication (DQ 10.4.1–10.4.2), Incident Disclosure (10.4.3), Materiality (DQ 10.2.1–10.2.2), and KPIs and Reporting (DQ 10.4.1). It also lists investment-process components—due diligence, post-investment management, and exit and after sale—with references to Due Diligence (DQ 10.2.2–10.2.3), Post-Investment (DQ 10.3.1–10.3.5 and 10.3.7), and Exit (DQ 10.3.6–10.3.7). Notes sections are present but blank."
+    },
+    {
+      "title": "WORKSHEET: DEI SUPPLEMENT",
+      "node_id": "0007",
+      "start_index": 10,
+      "end_index": 10,
+      "summary": "The DEI Supplement worksheet maps responsiveness components to DDQ questions: Policies and Governance covers DEI, Code of Conduct, and Family Leave policies (BQ 14.1–14.10; DQ 14.1–14.2) and claims of harassment, misconduct, or discrimination (BQ 14.13–14.15; DQ 14.8). GP-level diversity metrics use the ILPA Team Diversity template in Appendix A. Portfolio-company diversity metrics cover promotions (DQ 14.5), departures (DQ 14.6), and board members (DQ 14.7). Recruiting is covered by BQ 14.12 and DQ 14.3; Employee Engagement by BQ 14.11–14.12 and DQ 14.4. The worksheet references the ILPA ESG Assessment Framework."
+    },
+    {
+      "title": "WORKSHEET: CLIMATE SUPPLEMENT",
+      "node_id": "0008",
+      "start_index": 11,
+      "end_index": 11,
+      "summary": "The ILPA ESG Assessment Framework Climate Supplement worksheet (Worksheet 11) covers responsiveness to climate risks and opportunities across Governance, Strategy, Risk Management, and Metrics and Targets. It maps these components to specified DDQ questions: Governance (DQ 10.2.2–10.2.4, 10.2.6–10.2.7, 10.3.4); Strategy (DQ 10.2.2–10.2.6, 10.3.1–10.3.4); Risk Management (DQ 10.2.2–10.2.6, 10.3.1–10.3.4); Materiality (DQ 10.2.1–10.2.2); and Measuring/Reporting (DQ 10.3.2, 10.3.7, 10.4.1)."
+    },
+    {
+      "title": "ACKNOWLEDGEMENTS",
+      "node_id": "0009",
+      "start_index": 12,
+      "end_index": 12,
+      "summary": "ACKNOWLEDGEMENTS\nILPA would like to thank its ESG Assessment Framework Working Group, whose expertise, input and time made this initiative possible. ILPA would also like to thank all who submitted feedback, recommendations and questions to improve the Framework and ensure its continued relevance to the market.\nESG ASSESSMENT FRAMEWORK WORKING GROUP MEMBERS:\n• Funlola Otukoya, McKnight Foundation\n• Jessica Pan and Keren Raz, APG\n• Manuela Fumarola, abrdn\n• Maria Clara Rendon and Madeleine Pollock, Manulife Investment Management\n• Michael Eisenberg, New York State Common Retirement Fund\n• Rui Chang and Tanvi Karambelkar, PGGM\n• Tomas Dauden, Ontario Teachers’ Pension Plan\nILPA ESG Assessment Framework\n12"
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

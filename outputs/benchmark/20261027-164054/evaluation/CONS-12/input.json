@@ -1,0 +1,7 @@
+{
+  "question": "How many printed copies of the proposal must be submitted in the Boston Retirement System 2022 investment consulting services RFP?",
+  "gold_answer": "Seven (7) printed copies plus one (1) electronic version.",
+  "acceptance": "Seven printed copies alone answers the question; electronic copy is optional context.",
+  "scope": "single_document",
+  "candidate_answer": "Seven (7) complete printed copies of the proposal must be submitted, along with one electronic version. citeBoston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf, p. 2"
+}

@@ -1,0 +1,165 @@
+{
+  "id": "INV-15",
+  "question": "In the Baltimore City Employees' Retirement Systems (BCERS) RFP for an alternatives consultant, how many years must the proposing firm have been in business?",
+  "type": "pair_a",
+  "pair_id": "P12",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:20:30.169248+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The proposing firm must have been in business for **at least seven years**. [BCERS Alternatives Consultant RFP, p. 7](Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 66022,
+    "input_tokens_details": {
+      "cached_tokens": 47629,
+      "cache_write_tokens": 18372
+    },
+    "output_tokens": 239,
+    "output_tokens_details": {
+      "reasoning_tokens": 12
+    },
+    "total_tokens": 66261,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1219,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1216
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1234
+      },
+      {
+        "input_tokens": 2385,
+        "input_tokens_details": {
+          "cached_tokens": 1216,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 12
+        },
+        "total_tokens": 2422
+      },
+      {
+        "input_tokens": 7625,
+        "input_tokens_details": {
+          "cached_tokens": 2382,
+          "cache_write_tokens": 5240
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7648
+      },
+      {
+        "input_tokens": 9613,
+        "input_tokens_details": {
+          "cached_tokens": 7622,
+          "cache_write_tokens": 1988
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9648
+      },
+      {
+        "input_tokens": 9889,
+        "input_tokens_details": {
+          "cached_tokens": 9610,
+          "cache_write_tokens": 276
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9925
+      },
+      {
+        "input_tokens": 16916,
+        "input_tokens_details": {
+          "cached_tokens": 9886,
+          "cache_write_tokens": 7027
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 16958
+      },
+      {
+        "input_tokens": 18375,
+        "input_tokens_details": {
+          "cached_tokens": 16913,
+          "cache_write_tokens": 1459
+        },
+        "output_tokens": 51,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 18426
+      }
+    ]
+  },
+  "elapsed_seconds": 13.539,
+  "finished_at_utc": "2026-10-27T09:20:43.713832+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 66022,
+    "output_tokens": 239,
+    "cached_input_tokens": 47629,
+    "cache_write_tokens": 18372,
+    "reasoning_tokens": 12,
+    "total_tokens": 66261
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"offset\":10,\"limit\":50}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"offset\":60,\"limit\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\",\"pages\":\"7-8\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf",
+      "pages": "7-8",
+      "success": true,
+      "call_id": "call_1hIHO9KTQ6t2aK9cWiPijqyl"
+    }
+  ],
+  "successfully_read_documents": [
+    "Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf"
+  ]
+}

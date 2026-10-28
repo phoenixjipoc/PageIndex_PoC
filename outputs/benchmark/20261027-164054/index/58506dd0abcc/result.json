@@ -1,0 +1,43 @@
+{
+  "file": "MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf",
+  "sha256": "f17821da92e5d799811bfe48a074ff9f96ac5829f2ce3d6ffe2acd6879865969",
+  "bytes": 831223,
+  "pages": 82,
+  "public_source_url": "https://www.mapension.com/wp-content/uploads/2026/09/MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:59:39.522682+00:00",
+  "doc_id": "pi-64bf90a3a7df4d43b1c83fc44c1a2fb6",
+  "stored_name": "MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf",
+  "reported_usage": {
+    "prompt_tokens": 79095,
+    "completion_tokens": 19912,
+    "total_tokens": 99007,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 45322
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 4964
+    }
+  },
+  "elapsed_seconds": 47.179,
+  "finished_at_utc": "2026-10-27T09:00:26.714122+00:00",
+  "model_calls": 74,
+  "http_attempts": 74,
+  "observed_usage": {
+    "input_tokens": 79095,
+    "output_tokens": 19912,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 45322,
+    "reasoning_tokens": 4964,
+    "total_tokens": 99007
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

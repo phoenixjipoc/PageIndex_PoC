@@ -1,0 +1,15 @@
+{
+  "question_id": "INV-01",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "de400f87617d8ead01dc8f6b8e8204e14ad16712fc9397bedd14cca18f9a5194",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "正确回答10份，符合允许省略地址的标准。",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:23:52.931891+00:00"
+}

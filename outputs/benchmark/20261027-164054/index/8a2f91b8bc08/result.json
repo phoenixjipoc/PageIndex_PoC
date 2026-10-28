@@ -1,0 +1,43 @@
+{
+  "file": "Temple_City_CA__Recordkeeping-RFP.pdf",
+  "sha256": "c4a9b09d91b8cae22e8e6b681a6c363bbc013ed3a0dbdb1ca8792b278c2b768a",
+  "bytes": 947221,
+  "pages": 57,
+  "public_source_url": "https://www.templecityca.gov/DocumentCenter/View/14641/Recordkeeping-RFP",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:12:57.495220+00:00",
+  "doc_id": "pi-75781f011d1a4ca082d04474f6fdb812",
+  "stored_name": "Temple_City_CA__Recordkeeping-RFP.pdf",
+  "reported_usage": {
+    "prompt_tokens": 44544,
+    "completion_tokens": 14398,
+    "total_tokens": 58942,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 20686
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 5559
+    }
+  },
+  "elapsed_seconds": 36.882,
+  "finished_at_utc": "2026-10-27T09:13:34.389284+00:00",
+  "model_calls": 49,
+  "http_attempts": 49,
+  "observed_usage": {
+    "input_tokens": 44544,
+    "output_tokens": 14398,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 20686,
+    "reasoning_tokens": 5559,
+    "total_tokens": 58942
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

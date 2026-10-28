@@ -1,0 +1,149 @@
+{
+  "id": "INV-11",
+  "question": "In the Illinois Municipal Retirement Fund (IMRF) sample RFP for investment consulting, real estate consulting and performance measurement services, on what factors are respondents evaluated and ranked during the selection process?",
+  "type": "pair_a",
+  "pair_id": "P10",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:15:53.943237+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "IMRF evaluates and ranks respondents on three factors:\n\n1. **Organization:** Stability, ownership, and the documented experience of key professionals.\n2. **Consulting skill:** Investment philosophy; systems for collecting and monitoring investment-manager information; risk-management tools; performance-measurement systems; and the breadth of consulting expertise and experience.\n3. **Fees:** Consulting fees for the requested services and associated costs. [IMRF sample RFP, p. 14](IMRF__sample-investment-consulting-rfp.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 63682,
+    "input_tokens_details": {
+      "cached_tokens": 40946,
+      "cache_write_tokens": 22718
+    },
+    "output_tokens": 258,
+    "output_tokens_details": {
+      "reasoning_tokens": 11
+    },
+    "total_tokens": 63940,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1226,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1223
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1241
+      },
+      {
+        "input_tokens": 2392,
+        "input_tokens_details": {
+          "cached_tokens": 1223,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 2428
+      },
+      {
+        "input_tokens": 7631,
+        "input_tokens_details": {
+          "cached_tokens": 2389,
+          "cache_write_tokens": 5239
+        },
+        "output_tokens": 30,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7661
+      },
+      {
+        "input_tokens": 7872,
+        "input_tokens_details": {
+          "cached_tokens": 7628,
+          "cache_write_tokens": 241
+        },
+        "output_tokens": 31,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7903
+      },
+      {
+        "input_tokens": 21840,
+        "input_tokens_details": {
+          "cached_tokens": 7869,
+          "cache_write_tokens": 13968
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 21877
+      },
+      {
+        "input_tokens": 22721,
+        "input_tokens_details": {
+          "cached_tokens": 21837,
+          "cache_write_tokens": 881
+        },
+        "output_tokens": 109,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 22830
+      }
+    ]
+  },
+  "elapsed_seconds": 13.145,
+  "finished_at_utc": "2026-10-27T09:16:07.096044+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 63682,
+    "output_tokens": 258,
+    "cached_input_tokens": 40946,
+    "cache_write_tokens": 22718,
+    "reasoning_tokens": 11,
+    "total_tokens": 63940
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"IMRF__sample-investment-consulting-rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"IMRF__sample-investment-consulting-rfp.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"IMRF__sample-investment-consulting-rfp.pdf\",\"pages\":\"14-15\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "IMRF__sample-investment-consulting-rfp.pdf",
+      "pages": "14-15",
+      "success": true,
+      "call_id": "call_zKU8MscMIkuBr6EOw5BGy07o"
+    }
+  ],
+  "successfully_read_documents": [
+    "IMRF__sample-investment-consulting-rfp.pdf"
+  ]
+}

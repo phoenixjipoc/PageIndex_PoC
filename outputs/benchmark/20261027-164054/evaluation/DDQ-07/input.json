@@ -1,0 +1,7 @@
+{
+  "question": "How many fund diligence topics does the ILPA Due Diligence Questionnaire 2.0 (2021) list in its Overview, and what is the last one?",
+  "gold_answer": "20 topics, numbered 1-20. The last is 20. Diversity, Equity and Inclusion. New compared with v1.2 are topics such as Succession Planning / Key Persons, Co-Investments, GP-Led Secondaries / Continuation Funds, Credit Facilities, a separate Reporting topic, and Data Security / Technology / Third-Party(s). ESG is topic 19.",
+  "acceptance": "20 and Diversity, Equity and Inclusion. Version-comparison commentary and topic19 label are optional.",
+  "scope": "single_document",
+  "candidate_answer": "The Overview lists **20 fund diligence topics**. The last is **Diversity, Equity and Inclusion**. Source: *ILPA Due Diligence Questionnaire 2.0* (2021), p. 3."
+}

@@ -1,0 +1,165 @@
+{
+  "id": "OTH-12",
+  "question": "What was the proposal deadline in the Hawaii ERS RFP for private equity consulting services published in 2022?",
+  "type": "pair_b",
+  "pair_id": "P3",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:18:52.830887+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The proposal deadline was **September 30, 2022, at 4:30 p.m. Hawaii Standard Time**. The RFP required proposals to be received by then. [Hawaii ERS RFP 2022-04, pp. 6–7](Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 74750,
+    "input_tokens_details": {
+      "cached_tokens": 52376,
+      "cache_write_tokens": 22353
+    },
+    "output_tokens": 281,
+    "output_tokens_details": {
+      "reasoning_tokens": 14
+    },
+    "total_tokens": 75031,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1211,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1208
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1226
+      },
+      {
+        "input_tokens": 2377,
+        "input_tokens_details": {
+          "cached_tokens": 1208,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 14
+        },
+        "total_tokens": 2416
+      },
+      {
+        "input_tokens": 7656,
+        "input_tokens_details": {
+          "cached_tokens": 2374,
+          "cache_write_tokens": 5279
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7679
+      },
+      {
+        "input_tokens": 10611,
+        "input_tokens_details": {
+          "cached_tokens": 7653,
+          "cache_write_tokens": 2955
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10649
+      },
+      {
+        "input_tokens": 10896,
+        "input_tokens_details": {
+          "cached_tokens": 10608,
+          "cache_write_tokens": 285
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10935
+      },
+      {
+        "input_tokens": 19643,
+        "input_tokens_details": {
+          "cached_tokens": 10893,
+          "cache_write_tokens": 8747
+        },
+        "output_tokens": 45,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 19688
+      },
+      {
+        "input_tokens": 22356,
+        "input_tokens_details": {
+          "cached_tokens": 19640,
+          "cache_write_tokens": 2713
+        },
+        "output_tokens": 82,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 22438
+      }
+    ]
+  },
+  "elapsed_seconds": 16.005,
+  "finished_at_utc": "2026-10-27T09:19:08.843956+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 74750,
+    "output_tokens": 281,
+    "cached_input_tokens": 52376,
+    "cache_write_tokens": 22353,
+    "reasoning_tokens": 14,
+    "total_tokens": 75031
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":0}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf\",\"pages\":\"6-8\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf",
+      "pages": "6-8",
+      "success": true,
+      "call_id": "call_n83JCF4Rx1ZTDt26vAhtXOVt"
+    }
+  ],
+  "successfully_read_documents": [
+    "Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf"
+  ]
+}

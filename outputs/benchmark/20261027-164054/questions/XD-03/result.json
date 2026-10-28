@@ -1,0 +1,133 @@
+{
+  "id": "XD-03",
+  "question": "How many working-group participant entries are listed in the appendix of the PRI covering note on the 2021 update of its private equity responsible investment DDQ (counting the joint TPG & Y Analytics entry once), and who represented CalPERS and CalSTRS?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:14:53.925263+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The appendix lists **31 working-group participant entries**, counting TPG & Y Analytics once. **James Andrus** represented CalPERS, and **Nicholas Abel** represented CalSTRS. [PRI covering note, p. 2](PRI__PRI-DDQ-ILPA-Covering-Note.pdf#page=2)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 28270,
+    "input_tokens_details": {
+      "cached_tokens": 19258,
+      "cache_write_tokens": 8997
+    },
+    "output_tokens": 195,
+    "output_tokens_details": {
+      "reasoning_tokens": 12
+    },
+    "total_tokens": 28465,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1242,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1239
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1257
+      },
+      {
+        "input_tokens": 2408,
+        "input_tokens_details": {
+          "cached_tokens": 1239,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 12
+        },
+        "total_tokens": 2445
+      },
+      {
+        "input_tokens": 7685,
+        "input_tokens_details": {
+          "cached_tokens": 2405,
+          "cache_write_tokens": 5277
+        },
+        "output_tokens": 32,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7717
+      },
+      {
+        "input_tokens": 7935,
+        "input_tokens_details": {
+          "cached_tokens": 7682,
+          "cache_write_tokens": 250
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7974
+      },
+      {
+        "input_tokens": 9000,
+        "input_tokens_details": {
+          "cached_tokens": 7932,
+          "cache_write_tokens": 1065
+        },
+        "output_tokens": 72,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9072
+      }
+    ]
+  },
+  "elapsed_seconds": 10.227,
+  "finished_at_utc": "2026-10-27T09:15:04.159054+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 28270,
+    "output_tokens": 195,
+    "cached_input_tokens": 19258,
+    "cache_write_tokens": 8997,
+    "reasoning_tokens": 12,
+    "total_tokens": 28465
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":0}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"PRI__PRI-DDQ-ILPA-Covering-Note.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"PRI__PRI-DDQ-ILPA-Covering-Note.pdf\",\"pages\":\"1-2\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "PRI__PRI-DDQ-ILPA-Covering-Note.pdf",
+      "pages": "1-2",
+      "success": true,
+      "call_id": "call_3GywM5lQHM4WO3mLEjRSGYir"
+    }
+  ],
+  "successfully_read_documents": [
+    "PRI__PRI-DDQ-ILPA-Covering-Note.pdf"
+  ]
+}

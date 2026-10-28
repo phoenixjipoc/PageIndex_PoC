@@ -1,0 +1,181 @@
+{
+  "id": "DDQ-10",
+  "question": "What topics does the ILPA DDQ 2.0 cover under its ESG section?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:16:43.810310+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The **ESG section (Section 19)** of ILPA’s DDQ 2.0 covers seven areas:\n\n- **Policy and governance:** responsible-investment policies, standards and commitments, ESG oversight, staff training, and links to performance reviews or compensation.\n- **Fundraising:** formal ESG commitments in fund documents and marketing materials.\n- **Pre-investment:** identifying material ESG risks and opportunities, conducting due diligence, and incorporating findings into investment decisions and deal terms.\n- **Post-investment:** ESG value-creation plans, portfolio-company resources and board oversight, KPIs and targets, exit preparation, and financial and sustainability outcomes.\n- **Reporting and disclosure:** ESG reporting to limited partners, discussion at investor meetings, and management and disclosure of material ESG incidents.\n- **Climate change:** investment-related greenhouse-gas emissions, climate risks, commitments and targets, and TCFD reporting.\n- **Additional information:** topics not otherwise covered—such as human rights, biodiversity and DEI—and the management company’s own ESG practices.\n\nILPA places the more detailed **diversity, equity and inclusion questionnaire in a separate Section 20**. Source: *ILPA DDQ 2.0*, pp. 38–42.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 122688,
+    "input_tokens_details": {
+      "cached_tokens": 87260,
+      "cache_write_tokens": 35404
+    },
+    "output_tokens": 497,
+    "output_tokens_details": {
+      "reasoning_tokens": 34
+    },
+    "total_tokens": 123185,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1206,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1203
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1221
+      },
+      {
+        "input_tokens": 2372,
+        "input_tokens_details": {
+          "cached_tokens": 1203,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 12
+        },
+        "total_tokens": 2409
+      },
+      {
+        "input_tokens": 7612,
+        "input_tokens_details": {
+          "cached_tokens": 2369,
+          "cache_write_tokens": 5240
+        },
+        "output_tokens": 30,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7642
+      },
+      {
+        "input_tokens": 7884,
+        "input_tokens_details": {
+          "cached_tokens": 7609,
+          "cache_write_tokens": 272
+        },
+        "output_tokens": 31,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7915
+      },
+      {
+        "input_tokens": 8896,
+        "input_tokens_details": {
+          "cached_tokens": 7881,
+          "cache_write_tokens": 1012
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 8931
+      },
+      {
+        "input_tokens": 28157,
+        "input_tokens_details": {
+          "cached_tokens": 8893,
+          "cache_write_tokens": 19261
+        },
+        "output_tokens": 59,
+        "output_tokens_details": {
+          "reasoning_tokens": 22
+        },
+        "total_tokens": 28216
+      },
+      {
+        "input_tokens": 31154,
+        "input_tokens_details": {
+          "cached_tokens": 28154,
+          "cache_write_tokens": 2997
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 31191
+      },
+      {
+        "input_tokens": 35407,
+        "input_tokens_details": {
+          "cached_tokens": 31151,
+          "cache_write_tokens": 4253
+        },
+        "output_tokens": 253,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 35660
+      }
+    ]
+  },
+  "elapsed_seconds": 18.306,
+  "finished_at_utc": "2026-10-27T09:17:02.122572+00:00",
+  "model_calls": 8,
+  "http_attempts": 8,
+  "observed_usage": {
+    "input_tokens": 122688,
+    "output_tokens": 497,
+    "cached_input_tokens": 87260,
+    "cache_write_tokens": 35404,
+    "reasoning_tokens": 34,
+    "total_tokens": 123185
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\",\"part\":2}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\",\"part\":3}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\",\"pages\":\"38-42\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "ILPA__ILPA-DDQ-2.0.pdf",
+      "pages": "38-42",
+      "success": true,
+      "call_id": "call_vdPZmH1bXtuMWTddUJzRnorX"
+    }
+  ],
+  "successfully_read_documents": [
+    "ILPA__ILPA-DDQ-2.0.pdf"
+  ]
+}

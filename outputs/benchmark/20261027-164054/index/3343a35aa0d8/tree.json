@@ -1,0 +1,60 @@
+{
+  "doc_id": "pi-1dd684f602dd4467ae23b2b918e113de",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "1. Introduction and Overview",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 2,
+      "summary": "The Samuel S. Fels Fund seeks proposals from qualified firms to provide outsourced chief investment officer services; contacts are Uma Viswanathan (uma@samfels.org) and Nimrit Kang (kangnkgo@gmail.com). The Fund aims to improve conditions for historically excluded and marginalized Philadelphia communities and align its resources with social, racial, and economic justice. It seeks a long-term partner providing discretionary investment management to support its financial goals and mission. Amid leadership and governance transitions and a changing social-impact landscape, the Fund welcomes fresh thinking and useful networks. Its portfolio must endure in perpetuity across market environments, including difficult conditions. Priority expertise includes values-aligned investing focused on racial, economic, and climate equity and dignity and opportunity in Philadelphia; proactive fiduciary education for the Investment Committee and Board; and sourcing, diligencing, and managing local, place-based Philadelphia investments."
+    },
+    {
+      "title": "2. Foundation Background",
+      "node_id": "0001",
+      "start_index": 2,
+      "end_index": 2,
+      "summary": "The Samuel S. Fels Fund aims to improve conditions and opportunities for historically excluded and marginalized Philadelphia communities and advance social, racial, and economic justice. It seeks to align its resources with this mission. Its endowment is a key tool for doing so: the Fund pursues mission-aligned public and private investments that provide appropriate risk-adjusted returns, applying a racial, social, and economic justice lens to investment due diligence. The Investment Committee seeks a fiduciary partner to manage the portfolio accordingly. The approximately $50 million endowment is currently invested in ESG-screened public equities and fixed income, plus a small allocation to local private equity and debt."
+    },
+    {
+      "title": "3. Scope of Services Requested",
+      "node_id": "0002",
+      "start_index": 2,
+      "end_index": 5,
+      "summary": "The section requests proposals for discretionary fiduciary OCIO services, including a mission- and values-centered Investment Policy Statement, portfolio-wide values alignment, sourcing and oversight of diverse and impact-focused managers, Philadelphia-area private investments meeting financial and impact hurdles, Board education, transparent quarterly reporting, and coordination with custodians and other service providers. Responses are due as a single PDF by email to Uma Viswanathan and Nimrit Kang by February 13, 2026, at 5 PM; office hours are January 23, and firms should answer concisely. The questionnaire covers firm ownership, history, assets, values, team qualifications and engagement, client experience and retention, conflicts, fees, investment philosophy, processes, tools, case studies, sample reports, and proxy voting. It also asks about Board education, private-market and place-based investing capabilities and networks, financial and impact underwriting, GIPS-compliant performance, sample mission-aligned portfolios and reporting, back-office support, asset transitions, and private-investment recordkeeping and reporting.",
+      "nodes": [
+        {
+          "title": "3. Scope of Services Requested (intro)",
+          "node_id": "0003",
+          "start_index": 2,
+          "end_index": 3,
+          "summary": "The Foundation seeks an OCIO partner to provide discretionary fiduciary portfolio management; collaborate on a mission- and values-centered Investment Policy Statement; integrate values-aligned approaches across the portfolio; source and vet best-in-class, diverse, emerging, impact-focused, or values-aligned passive managers; educate the Board and Committee; source, diligence, and manage Philadelphia-area private investments that meet financial and impact hurdles; deliver transparent quarterly financial, risk, and impact reporting; and coordinate investment matters with the custodian, auditors, and administrators. Responses must be submitted as a single PDF by email to Uma Viswanathan and Nimrit Kang by February 13, 2026, at 5 PM. Office hours for questions are January 23, 2026, with sign-up available via a link. Responding firms are asked to answer the questionnaire clearly and concisely."
+        },
+        {
+          "title": "A. Firm Information & Team",
+          "node_id": "0004",
+          "start_index": 3,
+          "end_index": 4,
+          "summary": "The text outlines a due-diligence request for an investment firm. It asks for the firm’s name, address, AUM, ownership, history, mission, and alignment with the foundation’s values; account-team biographies, roles, values-investing experience, and expected Investment Committee access and engagement; foundation/endowment client numbers, $25M–$100M client counts, mission-aligned adoption, and three-year turnover and reasons; potential conflicts of interest and detailed fees. It also requests the firm’s mission-aligned and impact-investing philosophy, approach beyond negative screens, sourcing, due diligence, investment processes and team responsibilities across public and private markets, and tools, frameworks, and data providers used to build and measure portfolios. Further requests include a comparable $50M foundation case study with challenge, actions, and outcomes; a redacted quarterly report showing impact and mission alignment alongside financial performance; and proxy-voting approach and criteria."
+        },
+        {
+          "title": "C. Board & Committee Education (Key Criterion)",
+          "node_id": "0005",
+          "start_index": 4,
+          "end_index": 5,
+          "summary": "The text requests information on board and committee education, including approaches for explaining complex topics, educational formats and recent examples, and onboarding for fiduciary duties and investment principles. It asks about private investment capabilities in private equity, credit, and real assets; experience and redacted case studies in local/place-based investing; regional sourcing processes and networks; and underwriting financial returns and local impact, including minimum investment sizes. It also requests GIPS-compliant performance composites for relevant foundation/endowment strategies, a sample Fels Fund portfolio aligned with its mission’s impact themes, and a sample quarterly report for a comparable client with public and private assets and values-aligned investing."
+        },
+        {
+          "title": "F. Operations and Back-Offi ce support",
+          "node_id": "0006",
+          "start_index": 5,
+          "end_index": 5,
+          "summary": "F. Operations and Back-Offi ce support\n20. Describe the structure of your back office and the type of operational support available to manage clients’ assets.\n21. Describe the transition process of moving assets from the current advisor (if applicable)\n22. What is the process and key personnel involved in record keeping and reporting for the private investments?\nThank you for your time and interest in partnering with the Fels Fund. We look forward to reviewing your response."
+        }
+      ]
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

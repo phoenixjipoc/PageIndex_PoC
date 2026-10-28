@@ -1,0 +1,15 @@
+{
+  "question_id": "INV-02",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "cd474a61602df54843048c8358980eca69caf3eb8245228e8d86505d1aa67656",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "截止日期、下午2点及原件加5份副本均正确。",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:23:52.944308+00:00"
+}

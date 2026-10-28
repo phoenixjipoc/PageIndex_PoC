@@ -1,0 +1,133 @@
+{
+  "id": "INV-05",
+  "question": "In the Teachers' Retirement System of the State of Illinois (TRS) FY25 RFP for private equity investment consultant services, what minimum private equity client experience must a firm certify?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:19:47.042720+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The firm must certify that **it and/or its principals have provided private equity consulting services to clients whose private equity portfolio assets total at least $10 billion in aggregate**. Source: *FY25 RFP, Appendix B: Statement of Minimum Qualifications*, p. 15.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 45967,
+    "input_tokens_details": {
+      "cached_tokens": 25742,
+      "cache_write_tokens": 20210
+    },
+    "output_tokens": 199,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 46166,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1225,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1222
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1240
+      },
+      {
+        "input_tokens": 2391,
+        "input_tokens_details": {
+          "cached_tokens": 1222,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2430
+      },
+      {
+        "input_tokens": 2678,
+        "input_tokens_details": {
+          "cached_tokens": 2388,
+          "cache_write_tokens": 287
+        },
+        "output_tokens": 40,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2718
+      },
+      {
+        "input_tokens": 19460,
+        "input_tokens_details": {
+          "cached_tokens": 2675,
+          "cache_write_tokens": 16782
+        },
+        "output_tokens": 46,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 19506
+      },
+      {
+        "input_tokens": 20213,
+        "input_tokens_details": {
+          "cached_tokens": 19457,
+          "cache_write_tokens": 753
+        },
+        "output_tokens": 59,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 20272
+      }
+    ]
+  },
+  "elapsed_seconds": 10.507,
+  "finished_at_utc": "2026-10-27T09:19:57.555354+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 45967,
+    "output_tokens": 199,
+    "cached_input_tokens": 25742,
+    "cache_write_tokens": 20210,
+    "reasoning_tokens": 0,
+    "total_tokens": 46166
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\",\"pages\":\"15-16\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf",
+      "pages": "15-16",
+      "success": true,
+      "call_id": "call_p9nSCYHqSFTG6951j8fHsRAp"
+    }
+  ],
+  "successfully_read_documents": [
+    "TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf"
+  ]
+}

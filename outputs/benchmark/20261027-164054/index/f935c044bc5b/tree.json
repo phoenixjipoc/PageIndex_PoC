@@ -1,0 +1,261 @@
+{
+  "doc_id": "pi-e127eeeaa4eb4378ac5f842188c452bd",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 3,
+      "summary": "The September 12, 2022 Boston Retirement System (BRS) request for proposals seeks actuarial and consulting services for pension benefits. It sets out procurement and submission rules, including proposal deadlines, corrections or withdrawal, acceptance, conflicts of interest, required formats, pricing, taxes, qualifications, rejection, contract terms, and timetable. It provides BRS background and the service scope; requests offeror organization, role, references, performance, and resources information; and specifies technical-proposal requirements covering independence, professional actuarial membership, staff qualifications, valuation approach, services, problem resolution, and deadlines. It describes minimum and comparative evaluation criteria, including proposal quality, valuation approach, timeliness, qualifications and experience, performance history, and references. The contents also identify the sealed price proposal, general notice to offerors, and appendices containing standard Boston contract forms, minimum evaluation criteria, and a pricing form."
+    },
+    {
+      "title": "1. Public Notice of Procurement",
+      "node_id": "0001",
+      "start_index": 4,
+      "end_index": 9,
+      "summary": "The Boston Retirement System (BRS) solicits sealed proposals from qualified actuarial firms for actuarial and consulting services, including a biennial valuation. The RFP was available online or by email beginning September 12, 2022; questions were due September 15, answers September 21, proposals September 26 at noon EST, and award notice was scheduled for October 20. Offerors must submit one paper original, five copies, and an electronic copy, with technical and price proposals separately sealed; technical materials must contain no pricing. Proposals must follow required formats and include signed letters, qualifications, service responses, contract forms, and affirmative answers to minimum criteria; price forms must be signed, all-inclusive, fixed for the contract term, and consistent with the workplan. BRS evaluates responsiveness, qualifications, experience, references, presentations, and price; it may seek clarification, waive minor defects, reject proposals, or cancel. Offers remain firm for 90 days. The five-year contract may be extended, requires Board and funding approval, and makes the contractor responsible as prime vendor, including approved subcontractors and harmonious labor. Offerors certify independent, conflict-free participation and bear response costs.",
+      "nodes": [
+        {
+          "title": "1. Public Notice of Procurement (intro)",
+          "node_id": "0002",
+          "start_index": 4,
+          "end_index": 4,
+          "summary": "The Boston Retirement System seeks sealed proposals from qualified actuarial firms for actuarial and consulting services, including a biennial valuation. The RFP is available on the Boston Retirement website or by emailing Ellen McCarthy beginning September 12, 2022, at 9:00 a.m. Boston time, and remains available until proposals open at noon EST on September 26, 2022. Proposers should review the RFP and contract documents. BRS may reject any or all proposals, in whole or in part, and award a contract in its best interests. The contract depends on funding approval by a vote of the Boston Retirement Board; proposal acceptance and written award notification may take up to 90 days, and the award requires approval by the five-member Board. The notice is issued by Christine Weir, Interim Executive Director."
+        },
+        {
+          "title": "1.1 Introduction/Proposal Information and Conditions",
+          "node_id": "0003",
+          "start_index": 5,
+          "end_index": 6,
+          "key_items": [
+            "1.1.1 Technical Proposal; 1.1.2 Price Proposal",
+            "1.1.1 Technical Proposal",
+            "1.1.2 Price Proposal"
+          ],
+          "summary": "The RFP requires proposals by noon EST, September 26, 2022: one paper original and five copies plus one electronic submission to Ellen McCarthy at Boston Retirement System. Paper technical/non-price and price proposals must be in separate sealed envelopes; technical submissions must contain no pricing. Late or combined submissions are rejected. Technical proposals are opened privately within 24 hours; prices are opened later to protect evaluators. Proposals must follow Sections 5 and 8. The contract is for five years, with possible one- or two-year extensions and annual performance reviews. Offers remain firm for 90 days; award requires Board approval and funding, and the BRS may seek clarification, corrections, or presentations, reject proposals, and waive minor informalities. Written changes or withdrawals are allowed before the deadline; post-opening changes cannot prejudice the BRS or fair competition. Offerors accept RFP terms, bear their own response costs, and must certify good-faith, independent, conflict-free participation and sign the required Contractor Certification. Submitted materials become BRS property after award; estimates and plans are informational only."
+        },
+        {
+          "title": "Proposal Submission, Changes, Acceptance, and Conflicts",
+          "node_id": "0004",
+          "start_index": 6,
+          "end_index": 6,
+          "key_items": [
+            "1.2 Time for Filing Proposal",
+            "1.3 Correction, Modification and Withdrawal of Proposals",
+            "1.4 Acceptance of the Proposal",
+            "1.5 Basis for Acceptance/Conflict of Interest"
+          ],
+          "summary": "Technical and price proposals must follow their respective RFP formats; the technical proposal must contain no pricing. Both are due by the specified deadline. Before then, written notice may correct, modify, or withdraw a proposal. The Official corrects clear mistakes when the intended proposal is evident, but withdrawal is allowed if it is not; after technical proposals open, prejudicial changes to price or other terms are prohibited. Minor informalities may be waived or corrected. Proposals remain firm for 90 days, and submission signifies acceptance of RFP conditions unless specifically noted and confirmed in the contract. The BRS does not reimburse response costs; requested technical manuals are returned, while other materials become BRS property after award. Offerors must attest to independent, good-faith competition, no undisclosed interests or BRS financial conflicts, and familiarity with contract requirements. Responsiveness requires a signed statutory Contractor Certification."
+        },
+        {
+          "title": "1.6 Required Format and Content of the Technical Proposal",
+          "node_id": "0005",
+          "start_index": 6,
+          "end_index": 7,
+          "key_items": [
+            "p.7",
+            "1.6.1 Transmittal Letter",
+            "1.6.2 Response to the Offeror Profile (Section 4)",
+            "1.6.3 Response to the Proposal for Actuarial and Consulting Services for Pension Benefits (Section 5)",
+            "1.6.4 BRS Required Forms (Appendix A)",
+            "1.6.5 Minimum Evaluation Criteria (Appendix B)"
+          ],
+          "summary": "Offerors must understand the RFP and contract requirements; submitting a proposal signifies agreement to comply. Estimates and other planning information are for proposal comparison only, and BRS and its representatives are not responsible for their accuracy or bound by them. Proposals must follow Section 5 instructions, include all required completed forms, and may place referenced additional materials in an appendix. Required content includes a signed transmittal letter describing the work, timing commitment, qualifications, and irrevocable offer period; a profile of the Offeror’s business and experience; responses to the actuarial and consulting service requests in Section 5; signed Appendix A contract forms; and Appendix B minimum evaluation criteria. Appendix A forms must be returned with the proposal, with other forms possibly required after award. To receive further consideration, Offerors must answer “Yes” unconditionally to every Appendix B question and have an authorized representative sign the form."
+        },
+        {
+          "title": "1.7 Price Proposal (Appendix C)",
+          "node_id": "0006",
+          "start_index": 7,
+          "end_index": 7,
+          "key_items": [
+            "1.7.1 Fixed Pricing; 1.7.2 Sealed Price Proposal",
+            "1.7.1 Fixed Pricing",
+            "1.7.2 Sealed Price Proposal"
+          ],
+          "summary": "1.7 Price Proposal (Appendix C)\nPrice sheets must provide the precise level of detail requested on the form provided and must be signed by an authorized official of the Offeror. Offerors must ensure that the price forms and the workplan reconcile.\nReminder: This section is to be provided in the price submission section only. Under no circumstances shall any price information be included in the technical proposal.\n1.7.1 Fixed Pricing\nAll rates/pricing shall be inclusive of time, materials and expense, and any transitional cost shall constitute a not-to-exceed price of all goods and services. The proposed rates will be accepted by the BRS as fixed rates for the entire contract term.\n1.7.2 Sealed Price Proposal\nThe Offeror shall respond to, and specify, an all-inclusive price for services specified and outlined in this RFP. Please refer to Section 8 of this RFP\n4"
+        },
+        {
+          "title": "Proposal Evaluation, Qualifications, Taxes, and Rejection",
+          "node_id": "0007",
+          "start_index": 8,
+          "end_index": 8,
+          "key_items": [
+            "1.8 Taxes",
+            "1.9 Proposal Acceptance and Evaluation",
+            "1.10 Offeror Qualifications",
+            "1.11 Rejection of Proposals"
+          ],
+          "summary": "Offerors’ prices must include applicable taxes; BRS is sales-tax exempt and will provide a certificate after award upon request. Technical proposals are opened in closed session and checked for required submissions; incomplete proposals are nonresponsive and rejected. The Evaluation Committee considers Offeror qualifications, experience, task responses, and reference-check input, then makes recommendations. The Official considers those recommendations, presentations or interviews, and price to select a responsive, responsible Offeror and issue written award notice; acceptance timing may be extended by mutual agreement. A register of Offerors and proposal modifications is publicly available after technical opening, while proposal contents remain confidential to competitors; the winning proposal may be reviewed after award. The Official may require satisfactory evidence of an Offeror’s ability and experience, cancel the RFP or reject proposals when in BRS’s best interests, and waive minor informalities."
+        },
+        {
+          "title": "1.12 Agreement by Offeror",
+          "node_id": "0008",
+          "start_index": 8,
+          "end_index": 9,
+          "summary": "Submitting a proposal commits the Offeror, if acceptance is sent within 90 days after the submission deadline, to deliver an executed contract and required performance security within 90 calendar days of receiving notice (excluding Saturdays, Sundays, and legal holidays), unless the Official authorizes more time in writing. The RFP incorporates all referenced documents, including the Offeror Profile, Scope of Services, and applicable contract terms. The Contractor is the prime vendor, responsible for all application components and proposed items/services, and is BRS’s sole contractual contact, including for charges. Subcontractors and consultants must be identified in the proposal; changes require prior written approval. Offerors certify they can provide labor able to work harmoniously with other labor. Timetable: RFP available September 12, 2022; questions due noon EST September 15; answers September 21; proposals due noon EST September 26; award notice October 20. The RFP was available online or by email. BRS is a cost-sharing, multi-employer public retirement system serving City of Boston employees, including teachers and staff of several named agencies, under Massachusetts General Laws Chapter 32."
+        },
+        {
+          "title": "RFP Incorporation, Contractor Duties, Labor, and Timetable",
+          "node_id": "0009",
+          "start_index": 9,
+          "end_index": 9,
+          "key_items": [
+            "1.13 RFP Includes by Reference All Documents Referred to and Included Therein",
+            "1.14 Sole Provider",
+            "1.15 Harmonious Labor Relations",
+            "1.16 Timetable"
+          ],
+          "summary": "After notice, the recipient must deliver a properly executed contract and required performance security within the stated or officially extended period. The RFP incorporates all referenced documents, including the Offeror Profile, Scope of Services, and applicable contract terms. The Contractor serves as prime vendor and sole contractual contact, takes responsibility for all proposed items and services, and may use only identified subcontractors or consultants; changes require prior written approval. Proposal submission certifies the Offeror can provide labor able to work harmoniously with other workers. The timetable lists RFP availability on September 12, 2022; questions due September 15 at noon EST; BRS responses on September 21; proposals due September 26 at noon EST; and contract award notice on October 20. The RFP was available online or by email."
+        }
+      ]
+    },
+    {
+      "title": "2. Background",
+      "node_id": "0010",
+      "start_index": 9,
+      "end_index": 10,
+      "key_items": [
+        "2.1 Description of the BRS"
+      ],
+      "summary": "The Boston Retirement System (BRS) is a cost-sharing, multi-employer public retirement system serving active and retired employees of the City of Boston, including school teachers and employees of several city agencies and authorities. Benefits are established under Massachusetts General Laws Chapter 32 for Groups 1, 2, and 4, and include retirement, accidental and ordinary disability, and death benefits. A five-member board administers the system: two participant-elected members, the City Auditor, a mayoral appointee, and a member chosen by the other four. The City adopted Chapter 32, Section 22D, and the system follows an approved funding schedule. At December 31, 2021, it had about 21,000 active and 15,500 retired members. Its 2021 annual statement, prior actuarial valuations, and audited financial statements are available online or through the board office. Segal, based in Boston, performed the last eleven valuations."
+    },
+    {
+      "title": "3. Scope of Services 3.1 General",
+      "node_id": "0011",
+      "start_index": 10,
+      "end_index": 11,
+      "summary": "BRS seeks an actuary for 2023–2027, with an option to extend one or two years, to assess the plan’s year-end financial condition, recommend contributions, and provide GASB/FASB information and the Chapter 32 §22D funding schedule. Required work includes biennial valuations for 2023, 2025, and 2027, compliant with applicable rules and reviewing assumptions; updating the funding schedule; annual GASB Statements 67/68 accounting valuation reports; and annual analysis of the impact of increasing the COLA base. Additional project work may include verifying PERAC appropriations, improving records, liability forecasting/modeling, and supporting Boston financial statements for FY2023–2027 and any extension years. Valuations must address costs to fully fund liabilities by June 30, 2027, and report separately costs, liabilities, and asset allocations for each listed BRS department or agency, including Boston School Teachers and City employees. Reports must meet GASB/FASB requirements, be drafted for Board review, and be supported by staff available to meet at short notice with the Board and relevant City, employer, and audit representatives."
+    },
+    {
+      "title": "4. Offeror Profile",
+      "node_id": "0012",
+      "start_index": 11,
+      "end_index": 13,
+      "key_items": [
+        "4.1 Organization Profile",
+        "4.2 Role",
+        "4.3 References",
+        "4.4 Performance; 4.5 Resources",
+        "4.4 Performance",
+        "4.5 Resources"
+      ],
+      "summary": "The Offeror Profile section requires business and experience details validating the proposal. The organization profile must include company identifiers and contact information, operating and founding history, business description, and—if applicable—corporate incorporation, officers, parent companies and subsidiaries, or partnership details. All assigned subcontractors must be listed with organizational, contact, business-history, and business-type information. Describe the Offeror’s and each subcontractor’s roles in delivering the RFP scope. Provide up to six substantially similar engagements from the past five years, with client, scope, date, partners, and hours; the Evaluation Committee may contact references. Also provide three or four recent client references, at least two public sector, with organization and contact details, valuation date, work description, and proposed project staff involved. Disclose any failure by the Offeror or subcontractors to complete awarded work in the past five years and explain circumstances. For the Offeror and subcontractors, report employee totals, staff experienced in local-government pension valuations, work location, and full-time and part-time professional staffing for the engagement."
+    },
+    {
+      "title": "5. Technical Proposal Submission 5.1 General Requirements",
+      "node_id": "0013",
+      "start_index": 13,
+      "end_index": 19,
+      "summary": "The technical proposal must demonstrate the Offeror’s and staff’s qualifications and compliant valuation approach, contain no prices, address required sections, and be concise; BRS evaluates responsiveness and responsibility using submitted forms, criteria, scope, and proposal. It must affirm independence, disclose BRS relationships, confirm relevant actuarial memberships and Massachusetts-law knowledge, identify and qualify staff, explain quality assurance and replacement rules, and detail staffing, hours, work plan, methodology, procedures, documentation, services, and problem resolution. Reporting deadlines are April 30 annually: 2023–2027 for reports on 2022–2026, including valuations in 2024 and 2026; options extend through 2029, with valuations in 2028. Minimum criteria require unconditional “Yes” responses; committee ratings assess methodology, work plan, timeline, procedures, deliverables, deadlines, experience, performance, leadership, memberships, and references. The sealed price proposal gives fixed all-inclusive annual FY2023–2029 rates, excluding proposal costs, and certifies Offeror and signer authority. Written questions were due September 15, responses September 21, 2022. The Board selects on committee recommendation; exceptions must be specified and contracted.",
+      "nodes": [
+        {
+          "title": "5. Technical Proposal Submission 5.1 General Requirements (intro)",
+          "node_id": "0014",
+          "start_index": 13,
+          "end_index": 13,
+          "summary": "The technical proposal must demonstrate the Offeror’s and assigned staff’s qualifications and present a valuation approach meeting the RFP requirements; substance matters more than presentation. It must contain no dollar units or total costs, address Sections 5.2–5.5, and be prepared simply and economically, concisely describing the Offeror’s capabilities. The Evaluation Committee will assess responsiveness and responsibility using the Offeror’s forms and questionnaire responses, Minimum Evaluation Criteria, Scope of Work, and technical proposal."
+        },
+        {
+          "title": "Actuarial Proposal Qualifications and Work Approach",
+          "node_id": "0015",
+          "start_index": 14,
+          "end_index": 14,
+          "key_items": [
+            "5.2 Independence",
+            "5.3 Membership in a Professional Actuarial Organization",
+            "5.4 Partner, Supervisory and Staff Qualifications and Experience",
+            "5.5 Specific Valuation Approach",
+            "5.6 Overview of Actuarial and Consulting Services for Pension Benefits",
+            "5.7 Approach to Problem Resolution"
+          ],
+          "summary": "The proposal must affirm independence from the Boston Retirement System (BRS), disclose and explain any BRS-related professional relationships from the past five years, and state that the Offeror and key staff hold relevant actuarial memberships and understand Massachusetts healthcare laws. It must identify assigned partners, managers, supervisors, specialists, and staff; describe their qualifications, experience, training, continuing education, and certifications; and explain how staffing quality will be maintained. It must address personnel changes, including BRS approval rights for replacements in key roles and equivalent-or-better qualifications for other replacements. The proposal must provide a valuation work plan and methodology, engagement segments, staffing levels and hours, analytical procedures and related essential services, and required BRS documentation. It must also describe the approach to pension actuarial and consulting services under the scope of services and to resolving problems during the contract."
+        },
+        {
+          "title": "5.8 Deadlines",
+          "node_id": "0016",
+          "start_index": 14,
+          "end_index": 16,
+          "summary": "The valuation reporting schedule may be changed only by mutual agreement. Deadlines are April 30 each year: 2023—final GASB 67/68 report for 12/31/2022; 2024—final 1/1/2024 valuation and report for 12/31/2023; 2025—report for 12/31/2024; 2026—final 1/1/2026 valuation and report for 12/31/2025; 2027—report for 12/31/2026. Option years: 2028—final 1/1/2028 valuation and report for 12/31/2027; 2029—report for 12/31/2028. Minimum criteria identify responsive proposals and responsible offerors; BRS accepts proposals for further evaluation only if an authorized representative unconditionally answers “Yes” to every requirement. Proposals meeting minimum criteria and legal responsibility undergo committee evaluation, with each criterion rated highly advantageous, advantageous, or unacceptable, based on submitted information and overall qualifications. Proposal quality is assessed through clarity and definition of services, work plan, valuation methodology, and scope. The specific valuation approach is judged on its work plan and timeline, analytical procedures, and delivered product; excellent or good quality earns the corresponding positive rating, while missing any of these elements is unacceptable."
+        },
+        {
+          "title": "Actuarial Proposal Evaluation Criteria",
+          "node_id": "0017",
+          "start_index": 16,
+          "end_index": 16,
+          "key_items": [
+            "7.1 Offeror’s Proposal",
+            "7.2 Specific Valuation Approach"
+          ],
+          "summary": "The requested information helps BRS evaluate Offerors’ qualifications, methods, and experience. Section 7.1 rates the proposed actuarial services and valuation approach, including the work plan and methodology: Highly Advantageous means excellent, clearly defined processes with no ambiguity; Advantageous means adequately defined content that may prompt questions; Unacceptable means poorly defined content that fails to clearly state the work scope and methods. Section 7.2 evaluates the valuation work plan and commitment to the Scope of Services and Delivered Product. Highly Advantageous requires an excellent work plan and timeline, analytical-procedure description, and delivered-product description; Advantageous requires good-quality versions of all three. A proposal is Unacceptable if it omits any one of these elements."
+        },
+        {
+          "title": "Offeror Deadlines, Qualifications, and Experience",
+          "node_id": "0018",
+          "start_index": 17,
+          "end_index": 17,
+          "key_items": [
+            "7.3 Commitment to Deadlines",
+            "7.4 Offeror Qualification and Experience"
+          ],
+          "summary": "Section 7.3 rates commitment to deadlines based on staffing, hours, reporting, and attendance at scheduled Boston Retirement System Office meetings. Highly Advantageous proposals provide appropriate staffing, specific hours for each valuation segment, and strong reporting and meeting commitments; Advantageous proposals provide appropriate staffing, hours for the valuation, and commitments to reporting and meetings. Missing any listed element results in an Unacceptable rating. Section 7.4 rates verifiable experience delivering substantially similar work to public-sector clients comparable in size and organization to BRS: more than seven years is Highly Advantageous, more than five and up to seven years is Advantageous, and less than five years is Unacceptable."
+        },
+        {
+          "title": "Offeror Performance and Staff Qualifications",
+          "node_id": "0019",
+          "start_index": 18,
+          "end_index": 18,
+          "key_items": [
+            "7.5 Failure to Perform",
+            "7.6 Partner, Supervisory and Staff Qualifications and Experience"
+          ],
+          "summary": "Section 7.5 rates offerors on work completion and adverse legal judgments related to actuarial performance in the past five years: highly advantageous means no failures or judgments; advantageous means one failure and no judgments; unacceptable means two or more failures and/or any such judgment. Section 7.6 assesses project leadership experience and professional membership. Highly advantageous requires a manager/partner with over seven years managing similar projects; advantageous requires five to seven years. For both ratings, the manager/partner and supervisor must belong to a relevant professional organization, such as the Society of Actuaries. The rating is unacceptable if assigned personnel have under five years of similar project-management experience or a manager, partner, or supervisor lacks relevant professional membership."
+        },
+        {
+          "title": "7.7 Offeror References",
+          "node_id": "0020",
+          "start_index": 18,
+          "end_index": 19,
+          "summary": "References are rated Highly Advantageous, Advantageous, or Unacceptable when they report being very satisfied, satisfied, or dissatisfied, respectively, with the Offeror’s comparable services. The sealed price proposal must provide an all-inclusive flat rate covering direct, indirect, and out-of-pocket costs; proposal-preparation and submission costs must be excluded. It must identify the Offeror, certify the signer’s authority to represent the Offeror, submit the proposal, and sign a BRS contract, and state fixed annual prices for FY2023–FY2029 reviews, including option years. RFP interpretation questions must be submitted in writing to Ellen McCarthy at the listed Boston City Hall address or email by noon EST September 15, 2022; oral, late, or otherwise noncompliant inquiries will not be answered. Written responses are due to all Offerors by September 21, 2022. The Boston Retirement Board selects an Offeror based on the evaluation committee’s recommendation. Submitting a proposal accepts the RFP’s conditions unless exceptions are clearly specified and confirmed in the resulting contract."
+        }
+      ]
+    },
+    {
+      "title": "APPENDICES ",
+      "node_id": "0021",
+      "start_index": 20,
+      "end_index": 20,
+      "summary": "APPENDICES\n17"
+    },
+    {
+      "title": "Appendix A: Standard Boston Contract Forms",
+      "node_id": "0022",
+      "start_index": 21,
+      "end_index": 21,
+      "key_items": [
+        "p.21",
+        "1. Instructions for completing Boston Standard Contract Forms:",
+        "Form CM10-11: Standard Contract",
+        "Form CM06: Certificate of Authority (For Corporations Only)",
+        "Form CM09: Contractor Certification",
+        "Forms CM15A-B: CORI",
+        "Living Wage Forms 2 & 8",
+        "Form CM16: Wage Theft Prevention"
+      ],
+      "summary": "Appendix A: Standard Boston Contract Forms\n1. Instructions for completing Boston Standard Contract Forms:\nForm CM10-11: Standard Contract\nPlease complete Contractor’s Name and Address, FIN and sign the section indicated for Contractor.\nForm CM06: Certificate of Authority (For Corporations Only)\nPlease complete the entire form and sign.\nForm CM09: Contractor Certification\nSection A will be completed describing the work to be performed. Please complete all other sections and sign on page 3.\nForms CM15A-B: CORI\nForm CM15B CORI Compliance Standards provides the Offeror information needed to complete form CM15A. Form CM15A must be completed and signed.\nLiving Wage Forms 2 & 8\nOnly LW02 – Covered Vendors Living Wage Agreement and LW08 – Vendors Living Wage Affidavit are required to be returned with the RFP.\nForm CM16: Wage Theft Prevention\nPlease complete the entire form and sign.\n18"
+    },
+    {
+      "title": "Appendix B: Minimum Evaluation Criteria",
+      "node_id": "0023",
+      "start_index": 22,
+      "end_index": 24,
+      "key_items": [
+        "2. Signature"
+      ],
+      "summary": "Appendix B requires Offerors to answer “Yes” without qualification to all nine minimum criteria or have their proposal rejected: timely, properly submitted and RFP-conforming proposal; complete technical responses; required signatures and separately sealed technical and price proposals; at least three relevant references, including two public-sector clients; five or more years in business; independence from BRS under actuarial standards; and disclosure of past performance failures. Requested supporting documents must be attached. An authorized representative must sign under pains and penalties of perjury, certifying unmodified responses, and provide signature, date, name, title, and company. Appendix C provides a sealed pricing form, with completion instructions referenced in Section 8, for fixed rates throughout the contract term. It requests all-inclusive prices and budgeted blended hourly rates for biennial valuations (2024, 2026, 2028), annual GASB 67/68 reports (2022–2028), and as-needed management advisory services, with annual fields for 2023–2029 and totals. The price form also requires an authorized representative’s certification and signature details."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

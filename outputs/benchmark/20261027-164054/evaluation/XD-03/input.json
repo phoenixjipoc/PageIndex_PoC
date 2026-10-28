@@ -1,0 +1,7 @@
+{
+  "question": "How many working-group participant entries are listed in the appendix of the PRI covering note on the 2021 update of its private equity responsible investment DDQ (counting the joint TPG & Y Analytics entry once), and who represented CalPERS and CalSTRS?",
+  "gold_answer": "31 listed participant entries, counting TPG & Y Analytics once. CalPERS was represented by James Andrus; CalSTRS by Nicholas Abel.",
+  "acceptance": "Accept 31 listed/grouped participant entries with James Andrus for CalPERS and Nicholas Abel for CalSTRS. A respondent flagging the joint TPG/Y Analytics counting issue should not be failed for not asserting 31 distinct organisations.",
+  "scope": "single_document",
+  "candidate_answer": "The appendix lists **31 working-group participant entries**, counting TPG & Y Analytics once. **James Andrus** represented CalPERS, and **Nicholas Abel** represented CalSTRS. [PRI covering note, p. 2](PRI__PRI-DDQ-ILPA-Covering-Note.pdf#page=2)"
+}

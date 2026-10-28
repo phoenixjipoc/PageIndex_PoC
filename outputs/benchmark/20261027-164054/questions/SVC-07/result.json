@@ -1,0 +1,133 @@
+{
+  "id": "SVC-07",
+  "question": "Which retirement system's global custody RFP states that the system does not currently participate in securities lending, and what is the planned start date for the custody contract?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:14:25.942778+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The **Texas Municipal Retirement System (TMRS)** states that it does not currently participate in securities lending. Its global custody RFP lists **January 3, 2022** as the planned contract start date. [Source: TMRS Global Custody RFP, pp. 3, 15](TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 37337,
+    "input_tokens_details": {
+      "cached_tokens": 20770,
+      "cache_write_tokens": 16552
+    },
+    "output_tokens": 232,
+    "output_tokens_details": {
+      "reasoning_tokens": 14
+    },
+    "total_tokens": 37569,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1220,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1217
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1235
+      },
+      {
+        "input_tokens": 2386,
+        "input_tokens_details": {
+          "cached_tokens": 1217,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 51,
+        "output_tokens_details": {
+          "reasoning_tokens": 14
+        },
+        "total_tokens": 2437
+      },
+      {
+        "input_tokens": 2663,
+        "input_tokens_details": {
+          "cached_tokens": 2383,
+          "cache_write_tokens": 277
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2699
+      },
+      {
+        "input_tokens": 14513,
+        "input_tokens_details": {
+          "cached_tokens": 2660,
+          "cache_write_tokens": 11850
+        },
+        "output_tokens": 46,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 14559
+      },
+      {
+        "input_tokens": 16555,
+        "input_tokens_details": {
+          "cached_tokens": 14510,
+          "cache_write_tokens": 2042
+        },
+        "output_tokens": 84,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 16639
+      }
+    ]
+  },
+  "elapsed_seconds": 10.577,
+  "finished_at_utc": "2026-10-27T09:14:36.525380+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 37337,
+    "output_tokens": 232,
+    "cached_input_tokens": 20770,
+    "cache_write_tokens": 16552,
+    "reasoning_tokens": 14,
+    "total_tokens": 37569
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf\",\"pages\":\"3-4,15-16\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf",
+      "pages": "3-4,15-16",
+      "success": true,
+      "call_id": "call_yc1gRQQjcN34qfx3lMydkAmE"
+    }
+  ],
+  "successfully_read_documents": [
+    "TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf"
+  ]
+}

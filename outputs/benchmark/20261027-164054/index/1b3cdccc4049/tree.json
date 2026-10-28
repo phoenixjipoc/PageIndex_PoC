@@ -1,0 +1,342 @@
+{
+  "doc_id": "pi-dc490da926ed4c16a1b19fc7e3a360b6",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 2,
+      "summary": "The text is the cover and contents of OCERS’ August 2021 request for proposals for investment consulting services covering general investments and risk, private equity, real assets, and real estate. It identifies the Orange County Employees Retirement System and provides its address, phone number, and website. The RFP includes instructions and sections on OCERS’ background, services sought, general conditions, point of contact, schedule, proposal requirements, evaluation criteria, nondiscrimination, California Public Records Act and Brown Act notices, contract negotiations, and OCERS’ reservations. Appendices contain an intent-to-respond form, proposal cover page and checklist, OCERS investment portfolio, scope of services, minimum qualifications certification, fee proposal, and questionnaires for all consultants, general consultants, and alternative investments consultants."
+    },
+    {
+      "title": "Instructions",
+      "node_id": "0001",
+      "start_index": 3,
+      "end_index": 4,
+      "key_items": [
+        "Step 1: Submit Intent to Respond; Step 2: Submit Questions",
+        "Step 1: Submit Intent to Respond",
+        "Step 2: Submit Questions",
+        "Step 3: Submit Response"
+      ],
+      "summary": "OCERS seeks proposals from qualified firms for non-discretionary investment consulting to improve long-term portfolio performance while managing risk according to Investment Committee risk profiles. Services may cover the full portfolio or general investments and total-portfolio risk, private equity, real assets, and real estate; details appear in Section 2 and Appendix D. Interested firms must email an Intent to Respond (Appendix A) to the Section 4 contact by 5:00 p.m. PT, September 10, 2021; failure may disqualify them. Written questions are due to the same contact by that deadline, with questions and answers to be posted by 5:00 p.m. PT, September 20. Completed proposals must be emailed by 5:00 p.m. PT, October 1; late proposals will not be considered. Firms may propose any or all service areas and must identify their selections using the Appendix B checklist. Submission instructions are in Section 6."
+    },
+    {
+      "title": "Section 1: Background",
+      "node_id": "0002",
+      "start_index": 4,
+      "end_index": 4,
+      "summary": "OCERS was established in 1945 under California’s County Employees Retirement Law of 1937 to provide retirement, disability, death, and cost-of-living benefits. It serves about 42,000 members, including over 15,000 retirees. A ten-member Board of Retirement has fiduciary and administrative authority; all Board members comprise the Investment Committee. The agency has over 90 employees and a Board-appointed CEO. As of June 30, 2021, its globally diversified portfolio held approximately $21.5 billion across multiple asset classes, with contributions largely sufficient to cover retiree payrolls. Investments are made through various external-manager structures, including separate accounts, commingled vehicles, funds, limited partnerships, and co-investments. The Investment Committee delegates portfolio management to the CIO, subject to approved policies. Appendix C provides portfolio, allocation, policy, consultant, and actuarial information; further information is available at ocers.org."
+    },
+    {
+      "title": "Section 2: Description of Services Sought",
+      "node_id": "0003",
+      "start_index": 4,
+      "end_index": 6,
+      "key_items": [
+        "Section 1: Background",
+        "Asset Classes/ Strategies"
+      ],
+      "summary": "The consultant must acknowledge unconditionally in writing its fiduciary duty to OCERS, advise solely in OCERS’ interest under its investment guidelines, and work with the Investment Team; the CIO coordinates its work under Investment Committee direction. The General Investment Consultant covers investment policy, asset allocation, total-portfolio risk, monitoring/reporting, due diligence, collaboration, and meetings. Private Equity, Real Assets, and Real Estate consultants provide strategic advice, source investments, conduct due diligence, monitor/report alternative assets, collaborate, and attend meetings. Coverage includes public equity, fixed income/credit and risk mitigation; buyouts, venture capital and special situations; energy, infrastructure, timber and agriculture; and core/non-core real estate, including relevant co-investments. OCERS assigns performing, bond-like private credit to General Investments, while non-performing/equity-like private credit belongs to Private Equity. Unique Strategies may fall under any consultant. Detailed scope is in Appendix D. Proposals may cover any or all services, must identify offerings in Appendix B, demonstrate capability, and specify scope and exclusions. The contract is five years, with an option to renew for up to one year."
+    },
+    {
+      "title": "Section 3: General Conditions",
+      "node_id": "0004",
+      "start_index": 6,
+      "end_index": 6,
+      "summary": "Proposals must comply with all material RFP terms and procedures or may be disqualified; OCERS may waive or allow correction of non-material errors and may modify, amend, or cancel the RFP. Changes before the submission deadline may be issued by addendum, and respondents remain responsible for complying even if they do not receive or acknowledge it. Proposals are irrevocable for 180 days after the deadline, and stated day periods mean calendar days unless specified otherwise. Submitted proposals become OCERS’s property and will not be returned. Submission confirms the respondent has read, understood, and accepted the RFP requirements unless clearly and specifically stated otherwise in the proposal."
+    },
+    {
+      "title": "Section 4: Point of Contact",
+      "node_id": "0005",
+      "start_index": 6,
+      "end_index": 7,
+      "key_items": [
+        "Section 3: General Conditions",
+        "The Point of Contact for all matters relating to this RFP is:"
+      ],
+      "summary": "The RFP quiet period runs from issuance until the selection announcement. Respondents may discuss the RFP with OCERS team or Committee members only through the designated Point of Contact; violations may result in disqualification at OCERS’ discretion. Respondents with existing OCERS business must restrict communications to that business. OCERS’ business hours are 08:00–17:00 PT, Monday–Friday, excluding federal and state holidays. The contact is OCERS’ Investment Team, 2223 E Wellington Ave., Suite 100, Santa Ana, CA 92701; telephone (714) 569-4884; email Investmentsrfp@ocers.org. RFP status and announcements are available at www.OCERS.org and https://www.ocers.org/request-proposal."
+    },
+    {
+      "title": "Section 5: RFP Schedule",
+      "node_id": "0006",
+      "start_index": 7,
+      "end_index": 7,
+      "summary": "Section 5: RFP Schedule\nThe following timetable constitutes a tentative schedule for this RFP process. OCERS reserves the right to modify this schedule at any time. Proposals must be submitted electronically to the Point of Contact identified in Section 4 and delivered by the due date stated below in the RFP Schedule.\nDeliverable\nDate\nRelease of RFP\nAugust 30, 2021\nIntent to Respond Deadline\nRFP Questions Deadline\nRFP Answers Posted\nRFP Submission Deadline\nOCERS Review of RFP Submissions\nInterviews of Semi‐finalist\nFinalist On‐site Due Diligence Meetings\nSeptember 10, 2021\nSeptember 20, 2021\nOctober 1, 2021\nThrough November 12, 2021\nTo be determined\nTo be determined\nRecommendation at Investment Committee meeting\nTo be determined\nService Award\nNot later than March 31, 2022"
+    },
+    {
+      "title": "Section 6: Proposal Requirements",
+      "node_id": "0007",
+      "start_index": 7,
+      "end_index": 8,
+      "key_items": [
+        "Section 5: RFP Schedule",
+        "Date"
+      ],
+      "summary": "Section 6 specifies that proposals must be paginated and submitted in the required order: (1) a cover page and checklist on firm letterhead, with the signatory’s title and a statement confirming authority to bind the firm and the accuracy of the proposal; the checklist must identify which services are offered; (2) a signed certification that the firm meets minimum qualifications; (3) a numerically formatted table of contents; (4) an executive summary covering the firm’s background, experience, qualifications, competitive advantages, specialties, limitations, and reasons for selection; (5) an annual retainer fee proposal itemized by general and/or alternative investment consulting services, explaining pricing, costs, billing, payment terms, alternatives, and how the approach delivers value. Pricing should be best and final, though OCERS may negotiate; and (6) questionnaire responses in the stated order, with explanations for any unavailable information."
+    },
+    {
+      "title": "Section 7: Evaluation Criteria",
+      "node_id": "0008",
+      "start_index": 8,
+      "end_index": 9,
+      "summary": "OCERS evaluates proposals based on respondent experience and reputation; proposed team quality, depth, experience, turnover, and compensation; research capabilities; access to investment managers or premier general partners; investment philosophy; reporting quality and timeliness; client portal and technology; proposal organization, completeness, clarity, cohesion, and concision; pricing and value; references; and other relevant factors. Criteria are considered collectively without set weights, with balancing and consideration of additional factors at OCERS’ sole discretion. OCERS may request further information from any respondent, not necessarily all. Respondents advancing beyond round one may need to complete another questionnaire, and finalists may be interviewed or asked to present to OCERS’ Investment Team, committee members, or the full Investment Committee. OCERS may request information if a proposal is insufficient or reject it outright; false, incomplete, or unresponsive statements may also result in rejection."
+    },
+    {
+      "title": "Section 8: Non-Discrimination Requirement",
+      "node_id": "0009",
+      "start_index": 9,
+      "end_index": 9,
+      "summary": "Section 8: Non-Discrimination Requirement\nBy submitting a proposal, the respondent represents that it and its subsidiaries do not and will not discriminate against any employee or applicant for employment on the basis of race, religion, color, national origin, ethnic group identification, mental disability, physical disability, medical condition, genetic information, marital status, ancestry, sex, gender, sexual orientation, gender identity, gender expression, age, or military and veteran status."
+    },
+    {
+      "title": "Section 9: Notice Regarding the California Public Records Act and the Brown Act",
+      "node_id": "0010",
+      "start_index": 9,
+      "end_index": 10,
+      "key_items": [
+        "Section 8: Non-Discrimination Requirement"
+      ],
+      "summary": "Proposal materials are subject to disclosure under the California Public Records Act unless exempt. Respondents seeking protection must explain the basis and clearly mark and separate specific material as “TRADE SECRETS,” “CONFIDENTIAL,” or “PROPRIETARY”; marking an entire proposal is ineffective, and fees and pricing cannot be so designated. Marking represents a good-faith belief in exemption but is not conclusive, and written justification may be required. For a disclosure request, if OCERS agrees material is exempt, it may notify the respondent to seek a protective order at its own expense or deny disclosure. OCERS may disclose information at its discretion and is not liable for inadvertent disclosure. If OCERS denies disclosure or releases material because law or a court requires it, the respondent must reimburse, indemnify, defend, and hold harmless OCERS and related parties against associated claims, losses, costs, and legal expenses."
+    },
+    {
+      "title": "Section 10: Contract Negotiations",
+      "node_id": "0011",
+      "start_index": 10,
+      "end_index": 10,
+      "summary": "Section 10: Contract Negotiations\nOCERS will negotiate a contract with the successful respondent, which will contain such terms as OCERS, in its sole discretion, may require. In addition, the selected firm will agree that this RFP and the firm’s proposal will be incorporated by reference into any resulting contract. The final Scope of Services to be included in the contract will be determined at the conclusion of the RFP process.\nThis RFP is not an offer to contract. Acceptance of a proposal neither commits OCERS to award a contract to any respondent, nor does it limit OCERS’ right to negotiate the terms of a contract in OCERS’ best interest, including the addition of terms not mentioned in this RFP. The final contract must, among other terms and conditions required by OCERS, allow OCERS to terminate the contract a) for OCERS’ convenience, b) if funds are not appropriated for the services to be provided, or c) for default."
+    },
+    {
+      "title": "Section 11: Reservations by OCERS",
+      "node_id": "0012",
+      "start_index": 10,
+      "end_index": 11,
+      "key_items": [
+        "Section 10: Contract Negotiations"
+      ],
+      "summary": "OCERS reserves broad discretion to cancel or modify the RFP; investigate respondents and request information; reject respondents or proposals for any reason, including inability or past failure to perform; waive irregularities and negotiate as needed; make whole, multiple, partial, or no awards; select the best fit for its requirements and service needs, not necessarily the lowest-fee proposal; request respondent-specific documents or clarifications; decline to contract with any respondent or negotiate with a non-proposer; determine how much of a successful respondent’s services are used; defer bidder selection; and consider information beyond a respondent’s submission."
+    },
+    {
+      "title": "Appendix A: Intent to Respond",
+      "node_id": "0013",
+      "start_index": 11,
+      "end_index": 12,
+      "summary": "Appendix A provides an Intent to Respond form for firms considering OCERS’ RFP. Firms must email it to Investmentsrfp@ocers.org by 5:00 p.m. PT on September 10, 2021; failure to submit may disqualify a firm from proposing. OCERS will share responses to written clarification or information requests with all firms that submitted the form. The form collects sender and company contact details, date, and intended RFP service areas: General Investment Consulting, Private Equity Investment Consulting, Real Assets Investment Consulting, and Real Estate Investment Consulting. It also requests the name, title, company, mailing address, phone, and email of the contact for inquiries."
+    },
+    {
+      "title": "Appendix B: Proposal Cover Page and Checklist",
+      "node_id": "0014",
+      "start_index": 12,
+      "end_index": 14,
+      "key_items": [
+        "Checklist"
+      ],
+      "summary": "Appendix B provides a proposal cover page requesting the firm’s name and address, primary RFP contact details, and an authorized signature, printed name/title, and date. The signer affirms the response is complete and accurate, the RFP has been reviewed, and the respondent intends to comply. The respondent confirms it has the expertise and capacity to perform, has no unresolved questions or perceived scope ambiguities, and its fee covers the full scope with no additional charges to OCERS. It has disclosed relevant actual or potential interests involving OCERS personnel, acknowledges proposal materials and RFP correspondence may be disclosed under the California Public Records Act, and states it is not under state or federal regulatory investigation. The signer is authorized to bind the respondent. A checklist asks which services are offered: general investment, private equity, real assets, and real estate consulting, and requests any excluded asset categories, strategies, or vehicles the respondent intends to offer."
+    },
+    {
+      "title": "Appendix C: OCERS Investment Portfolio",
+      "node_id": "0015",
+      "start_index": 14,
+      "end_index": 17,
+      "key_items": [
+        "Website Links:"
+      ],
+      "summary": "As of June 30, 2021, OCERS held $21.46 billion ($21.5 billion) across global equity, private equity, fixed income, credit, real assets, real estate, risk mitigation, unique strategies, and cash. Current/target allocations: 48.7/47%, 12.3/13%, 11.1/11%, 7.5/7%, 4.1/5%, 4.7/7%, 8.4/10%, 0.3/0%, and 3/0%. Private equity includes winding-down legacy funds and $455.4 million private credit; credit includes $482.6 million performing private credit; real assets include energy, infrastructure, timber, and agriculture; cash includes overlays. Total includes $3,518 winding-down strategies. Links cover investment policy, performance, risk, alternative holdings, and actuarial review. Equity seeks long-term real returns; PE diversification/returns, targeting specified global segments, with $675m/$700m pacing for 2021/22 and GP co-investments. Fixed income diversifies equity risk, preserves capital, earns income, and hedges inflation. Credit captures premiums, with $125–200m annual pacing. Real assets diversify, earn income, hedge inflation, with $100–150m annual pacing. Real estate targets 60% core/40% non-core. Risk mitigation diversifies and protects against equity declines. Unique strategies opportunistically enhance returns and diversification without a target."
+    },
+    {
+      "title": "Appendix D: Scope of Services",
+      "node_id": "0016",
+      "start_index": 17,
+      "end_index": 22,
+      "summary": "The section defines investment-consulting services for OCERS’ overall portfolio and alternative investments. General services cover asset allocation, policy, analytics, portfolio construction, research, strategy and benchmark advice, rebalancing, risk mitigation and monitoring, manager searches and due diligence, ongoing manager oversight, performance measurement and evaluation, surveillance and retention or termination advice, data reconciliation, and quarterly performance, attribution, risk, peer, market and index reporting. Client support includes committee participation and recommendations, planning and education, staff meetings, workshops, audit and legislative support, timely organizational-change notices, and reporting. Alternative-investment services cover long-term strategy, portfolio and manager analysis, cash-flow and pacing models, a rolling 36-month GP/co-investment calendar, sourcing, due diligence, co-investment reviews and records, performance and data monitoring, and quarterly reporting within 45 days on commitments, cash flows, NAVs, returns, risk, benchmarks, peers and markets. They also include event monitoring, investor protections, amendment/MFN and fee reviews, statutory fee disclosure, committee and staff support, education, audit and legislative assistance, and change notifications. Proposals must address all applicable listed components and may add beneficial services.",
+      "nodes": [
+        {
+          "title": "General Investments and Total Portfolio Risk",
+          "node_id": "0017",
+          "start_index": 17,
+          "end_index": 19,
+          "summary": "The scope requires investment consulting support for OCERS across: strategic asset allocation, investment policy and objectives, asset-class analytics, portfolio construction, research, and advice on strategies, styles, benchmarks, and rebalancing; portfolio risk mitigation, quarterly board-level risk reporting, and ongoing market and economic monitoring; manager searches, investment and operational due diligence, ongoing oversight of manager stability, personnel, focus, ownership, compliance, and information requests; benchmark selection, independent return calculations, performance and manager evaluation, surveillance and retention/termination advice, quarterly performance, attribution, risk, peer, market, and index reporting, and reconciliation of data with the Custody Bank; and client service, including Investment Committee attendance and recommendations, annual planning and education forums, monthly team meetings, educational workshops, audit support, legislative analysis, and timely reporting of consultant organizational or personnel changes. Proposals must address every listed component, regardless of proposed scope or investment type, and may include additional beneficial work."
+        },
+        {
+          "title": "Alternative Investments (for Private Equity, Real Assets, and Real Estate)",
+          "node_id": "0018",
+          "start_index": 19,
+          "end_index": 22,
+          "summary": "The consultant must advise on long-term alternative-investment strategy, conduct portfolio/risk and manager analyses, model cash flows and pacing, provide a rolling 36-month high-conviction GP/co-investment calendar, support co-investment programs, and undertake requested research. It must develop a structured sourcing process and perform investment, fund-term, and operational due diligence, providing written recommendations and attending searches/site visits. Co-investment reviews must be tailored to portfolio fit, examine deal and company documents, GP and management, references, and maintain complete records. The consultant monitors and reconciles performance and data; delivers quarterly reports within 45 days covering allocations, fund commitments, calls, distributions, NAVs, returns, multiples, risk, benchmarks, peer comparisons, market context, and portfolio summaries; discusses and presents results; monitors significant events; protects OCERS’ interests; reviews amendments/MFNs; verifies fees and cash flows; and supports statutory fee disclosure. Services also include quarterly committee participation, monthly staff meetings, education, audit support, legislative analysis, and timely reporting of material changes to the consultant."
+        }
+      ]
+    },
+    {
+      "title": "Appendix E: Minimum Qualifications Certification",
+      "node_id": "0019",
+      "start_index": 22,
+      "end_index": 23,
+      "summary": "Appendix E requires every RFP respondent to sign and return the certification with written evidence that it meets each minimum qualification and the RFP requirements. Respondents must be SEC-registered investment advisers or explain their exemption. Investment consultants must have at least five years of continuous comparable service, at least five defined-benefit clients including two public plans each with at least $15 billion in assets, and a lead consultant with seven years of relevant client-facing experience serving diversified tax-exempt institutions. Firms must carry or be willing to obtain competitive errors-and-omissions and general-liability insurance; contractually accept fiduciary duties and specified defense, indemnification, and hold-harmless obligations; and disclose conflicts, revenue sources, affiliations, and annually specified compensation or benefits from financial-services entities. They must warrant that all RFP information is true and complete, with false or misleading statements subject to disqualification, dismissal, or legal action. The authorized signatory certifies authority to bind the firm and permits verification; signature, date, printed name/title, and firm name are provided."
+    },
+    {
+      "title": "Appendix F: Fee Proposal",
+      "node_id": "0020",
+      "start_index": 23,
+      "end_index": 24,
+      "summary": "Appendix F requires a proposed service model and non-discretionary, full-retainer fee proposal for the Scope of Services. Explain pricing for the work, including fees, costs, billing practices, payment terms, and how the approach provides best value to OCERS. Multiple pricing alternatives are permitted. OCERS will assess both itemized pricing for each consulting service and bundled pricing for the consolidated engagement. The expected contract is five years, with an optional one-year renewal; quoted retainer fees must remain in effect for the full six-year period. Proposals should be best and final, though OCERS may negotiate pricing."
+    },
+    {
+      "title": "Appendix G: Questionnaire",
+      "node_id": "0021",
+      "start_index": 24,
+      "end_index": 37,
+      "summary": "Appendix G contains three questionnaires. The all-consultant questionnaire covers firm structure, finances, registration, governance, staffing and succession; client experience and retention; research and manager evaluation; performance systems and reporting; conduct, compliance, legal matters, fees, conflicts and mitigation; liability, insurance, and comparable references, with supporting exhibits. The general-consultant questionnaire addresses public-pension experience, investment-policy and asset-allocation work, capital-market assumptions, portfolio and manager analysis, operational due diligence, hedge funds, monitoring and termination decisions, risk methods and reporting, and implementation and oversight of in-house trading desks; it requests sample allocation, diligence, risk and forecasting materials. The alternative-investment questionnaire covers consulting philosophy, portfolio construction, pacing, strategy research and sourcing, fees, disclosure compliance, due diligence, valuation, partnership negotiations, secondary markets and co-investments across private equity, credit, real assets and real estate. It also requests information on experience, processes, staffing, activity and outcomes, plus sample pacing, diligence and co-investment materials.",
+      "nodes": [
+        {
+          "title": "Section 1. Questionnaire for All Consultants",
+          "node_id": "0022",
+          "start_index": 24,
+          "end_index": 31,
+          "summary": "The questionnaire covers firm organization, personnel, clients, research, performance reporting, conduct, insurance, and references. It requests supporting exhibits on ADV filings, audited finances, organizational structure, personnel, sample reports, conduct standards, compliance, and conflicts. Firms must describe registration, fiduciary status, offices, ownership, governance, history, financial stability, revenue, outsourcing, and growth plans. They must identify the OCERS team, qualifications, workload, compensation, succession, and recent senior departures. Client data include relationship counts, assets, renewals, account sizes and tenure, large mandates, major public-pension clients, lost accounts, and transition practices. Research disclosures cover staffing, publications, manager evaluation and coverage, databases, risk tools, and outsourced research. Performance disclosures address systems, data verification, reports, benchmarks, attribution, controls, and online tools. Conduct disclosures cover codes, compliance, legal and regulatory matters, fees, affiliations, business relationships, media, conflicts, and mitigation. Firms must state proposed liability limits, insurance coverage and claims, and provide five comparable references, including a U.S. public pension.",
+          "nodes": [
+            {
+              "title": "I. Organization",
+              "node_id": "0023",
+              "start_index": 24,
+              "end_index": 25,
+              "key_items": [
+                "Appendix G: Questionnaire",
+                "Section 1. Questionnaire for All Consultants"
+              ],
+              "summary": "Appendix G contains a questionnaire for all consultants, with an exhibit checklist: Form ADV (Part I & II and schedules), audited financial statements and management letter, organizational chart, key personnel, employee turnover, sample performance reports, code of conduct, compliance and control regime, and conflicts-of-interest policies. The Organization section requests: SEC registration date and ADV; ERISA fiduciary status; office locations, functions, staffing, and OCERS service locations; ownership, affiliations, owner percentages, and governance; firm history, recent and anticipated organizational changes; financial stability, ratios, ability to meet obligations, defaults, and audited statements; an all-office organizational chart showing business lines, relationships, and staffing; revenue contributions by business and subsidiary share of parent revenue; outsourced services, providers, and arrangements; and growth objectives, including planned resources and tools, capacity limits and optimal client-to-consultant ratio, and possible mergers, acquisitions, or spin-offs."
+            },
+            {
+              "title": "II. Personnel",
+              "node_id": "0024",
+              "start_index": 25,
+              "end_index": 26,
+              "summary": "The RFP requests Exhibit D describing the dedicated OCERS team, including primary and backup consultants and staff involved in diligence, research, analysis, and performance measurement. Provide each person’s résumé or biography and details on identity, position and duties, OCERS role, location, experience and expertise, firm tenure, years providing the requested services, time working as a team, and ownership percentage if applicable. For primary and backup consultants, also report assigned account counts and each account’s plan type, relationship length, and size, plus expected OCERS time commitment and Board or Committee presentation experience. Explain team operations, primary contact, backup, quality control and support, regular meeting attendees, and staffing for OCERS-only diligence. Describe hiring and retention incentives, evaluation criteria, and compensation factors with weights; workload controls, account limits, and average clients per professional; and succession planning, including client input on replacements. Exhibit E must list consulting-group departures at or above senior associate level in the prior five years, with departure date, name, title, firm tenure, and replacement, ordered newest first."
+            },
+            {
+              "title": "III. Clients",
+              "node_id": "0025",
+              "start_index": 26,
+              "end_index": 27,
+              "summary": "The section requests firm data on full-service retainer investment consulting relationships: annual client counts, assets under advisement/management, and contract renewals for 2016–2020; client counts by account-size band and client type as of December 31, 2020, including total assets by client base; and client counts by years of service. It also asks for counts of clients with accounts over $5 billion across general investment, risk management, private equity, real assets, and real estate mandates. Firms must identify their five largest public pension clients, giving approximate assets, role, and years served; list accounts lost since January 1, 2016, with account size at termination and reasons, explaining any conflict-related losses; and describe new-client transition processes, including cost-basis and performance data, and OCERS investment team access to and interaction with consultants, research staff, and other professionals, especially early in the relationship."
+            },
+            {
+              "title": "IV. Research and Resources",
+              "node_id": "0026",
+              "start_index": 27,
+              "end_index": 28,
+              "summary": "The section asks firms to describe their research capabilities, including research-group structure, client publications and their frequency and cost, and recent engagement-relevant research with citations and summaries. It requests details on investment-manager and product research: analyst staffing by asset class, market, or geography; processes for identifying, vetting, and recommending managers; strategies reviewed; onsite-visit frequency; U.S. and non-U.S. coverage; manager ratings; and any manager buy list. Firms should also describe any client-accessible database of prospective investments and managers, risk-management tools used to assess recommendations against a client’s existing portfolio, and any outsourced or partner research functions, including how external and internal research are used and integrated."
+            },
+            {
+              "title": "V. Performance Analytics and Reporting",
+              "node_id": "0027",
+              "start_index": 28,
+              "end_index": 29,
+              "summary": "The section requests details on the firm’s investment-performance analytics system, including automation, historical-data limits and downloads, technical resources and tools, whether the system is proprietary, and technology offered to clients. It asks how custodian and manager data are obtained and verified, and how returns are reconciled and discrepancies resolved. Firms must describe and provide sample reports, covering quarterly reporting for the total fund, asset classes, and managers; independent fiduciary-useful analysis; custom benchmarks; report customization and fees; turnaround time; peer-universe sources, size, composition, and compilation; attribution capabilities; quality controls; and online availability. It also asks about benchmark philosophy and selection, and whether clients can use an interactive platform for portfolio information, ad hoc analysis, and customized reports, including its features, access to documents, reports, cash flows, valuations, and performance, and the availability of a remote walkthrough."
+            },
+            {
+              "title": "VI. Standards of Conduct, Compliance, and Conflicts of Interest",
+              "node_id": "0028",
+              "start_index": 29,
+              "end_index": 30,
+              "summary": "The section requests information on the firm’s written conduct standards, employee monitoring and enforcement, and latest compliance review (with the code attached as Exhibit G); regulatory inquiries, investigations, discipline, litigation, and legal proceedings over the past ten years; and the compliance regime, internal controls, and key personnel (Exhibit H). It asks how consultant recommendations are reviewed for compliance, consistency, customization, and quality. Firms must describe services and fees involving investment managers, database inclusion, conferences, custodians, and brokers; disclose ownership interests, services sold to investment-related firms, and business with OCERS managers; and explain staff board service, restrictions, and compensation. It also requests negative media coverage, all potential conflicts—including affiliate activities, brokerage, and relationships with OCERS committee members or staff—and the firm’s conflict-management and client-notification policies, attached as Exhibit I."
+            },
+            {
+              "title": "VII. Insurance Liability",
+              "node_id": "0029",
+              "start_index": 30,
+              "end_index": 30,
+              "summary": "VII. Insurance Liability\n48. What limitation(s) on liability, if any, do you seek to secure through your proposed form of contract or engagement agreement? Be as specific as possible.\n49. Please describe the levels (in USD) of coverage for errors and omissions insurance, general business liability insurance, and any fiduciary or professional liability insurance your firm carries. Is the coverage on a per-client basis, or is the dollar figure applied to the firm as a whole? List the insurance carriers by category, and their policy limits both aggregate and per client.\n50. Has your firm, its principals, or any affiliate ever submitted a claim to your errors & omissions, fiduciary liability, and/or fidelity bond insurance carrier(s)? If yes, provide details and indicate the current status."
+            },
+            {
+              "title": "VIII. References",
+              "node_id": "0030",
+              "start_index": 30,
+              "end_index": 31,
+              "key_items": [
+                "VII. Insurance Liability"
+              ],
+              "summary": "VIII. References\n51. Provide at five (5) references for which the respondent has provided services similar to those included in the Scope of Services. At least one (1) of the five (5) references has to be US public pension plan. Please include for each reference the client name, individual point of contact, a summary of the work performed, number of managers being monitored, fund diversification by asset class or strategy, the total number of dollars under management, and the length of time the respondent provided each service.\n30 of 37\nInvestment Consultant Services: Requests for Proposal"
+            }
+          ]
+        },
+        {
+          "title": "Section 2. Questionnaire for General Consultants",
+          "node_id": "0031",
+          "start_index": 31,
+          "end_index": 33,
+          "key_items": [
+            "I. Investment Policy and Portfolio Structure",
+            "II. Portfolio Analysis and Manager Selection",
+            "Section 2. Questionnaire for General Consultants; Questionnaire Exhibit Checklist",
+            "Section 2. Questionnaire for General Consultants",
+            "Questionnaire Exhibit Checklist",
+            "I. Investment Policy and Portfolio Structure",
+            "III. Risk Management",
+            "IV. Other",
+            "III. Risk Management"
+          ],
+          "summary": "A questionnaire for firms responding to a General Investment Consultant RFP requests Exhibits J–M: capital market assumptions, a sample asset allocation study, operational due diligence report, and risk report. It asks about public pension experience and developing investment policies with actuary input; portfolio structure analysis and revisions; asset-class risk/return forecasting, updates, staffing, and major recent changes; and defined-benefit asset-allocation study methods, models, data, decision-makers, review frequency, recommended allocation ranges, and a sample study. It covers manager searches and due diligence, including non-US and alternative strategies; operational diligence; hedge fund experience, assets by strategy, hiring and termination criteria; evaluation and monitoring of funded managers, success measures, watch lists, and termination or reduction triggers. Risk questions address risks, assessment and mitigation, methods, metrics, analytics, data, portfolio levels, client technology, public pension clients’ customized services, and sample reports. Finally, it asks about implementing in-house trading desks, related policies, reporting and monitoring practices, client counts, and services provided."
+        },
+        {
+          "title": "Section 3. Questionnaire for Alternative Investments Consultants",
+          "node_id": "0032",
+          "start_index": 33,
+          "end_index": 37,
+          "summary": "This questionnaire solicits proposals for alternative-investment consulting across private equity, real assets and/or real estate; private-equity respondents also address private credit. It asks about consulting philosophy, strategic-partner collaboration, portfolio construction, pacing, risk-return expectations and investment theses across specified strategies, fee and carried-interest verification, and governmental disclosure compliance. Respondents describe sourcing, diversification, research priorities and 2016–2020 database, client-capital, diligence and recommendation activity; advisory-board experience; operational and legal due diligence, staffing, third parties, review outcomes, problem-fund histories, valuation controls and lessons learned. It also covers partnership-term negotiation, fee bargaining and use of secondary markets. Co-investment questions address organizational experience and plans, programs, sourcing, underwriting and review volumes across private-equity, credit, real-asset and real-estate strategies; competitive advantages; diligence and approval methods; and specialist use. Requested materials include sample pacing and operational diligence reports, co-investment diligence questionnaires/information requests and a full client co-investment report (Exhibits N–Q).",
+          "nodes": [
+            {
+              "title": "I. Alternatives Investment Consulting Philosophy and Process",
+              "node_id": "0033",
+              "start_index": 33,
+              "end_index": 34,
+              "key_items": [
+                "Section 3. Questionnaire for Alternative Investments Consultants; Questionnaire Exhibit Checklist; a. Private Equity; b. Private Credit",
+                "Section 3. Questionnaire for Alternative Investments Consultants",
+                "Questionnaire Exhibit Checklist",
+                "a. Private Equity",
+                "b. Private Credit",
+                "c. Real Assets"
+              ],
+              "summary": "Section 3 is a questionnaire for alternative-investment consulting proposals covering private equity, real assets, and/or real estate; respondents select applicable asset classes, and private-equity proposers must also answer private-credit questions. The exhibit checklist requests sample commitment pacing, operational due diligence, co-investment due diligence questionnaire/information request, and co-investment due diligence report materials (Exhibits N–Q). Questions address collaboration with strategic partners; experience and process constructing direct-manager portfolios across sub-asset classes and within clients’ total portfolios, with examples; commitment pacing and a sample report; current risk-return expectations and near-term investment theses for venture capital, buyout, growth equity, direct lending, mezzanine and distressed debt, private real estate (core, value-add, opportunistic), timber/farmland, oil and gas, renewable energy, and infrastructure; methods and frequency for verifying fees and carried interest against investment agreements and reporting findings; and experience supporting governmental disclosure compliance, particularly California Government Code §7514.7 for OCERS."
+            },
+            {
+              "title": "II. Alternative Investment Sourcing and Due Diligence",
+              "node_id": "0034",
+              "start_index": 34,
+              "end_index": 35,
+              "summary": "The section requests details on investment sourcing, including co-investments; portfolio construction and balancing manager diversification against proliferation; alternative strategies researched and future areas of focus; and fund database, client-capital, due-diligence, and recommendation counts by strategy for 2016–2020. It asks for relevant fund advisory-board seats and consultants. It covers operational due diligence methods, staffing, and procedures for site visits, legal and financial reviews, compliance, vendor checks, administration, background checks, and trading controls; whether reviews are included in fees, use of third parties, funds reviewed, and examples of rejection. It also requests a five-year record of recommended or invested funds involved in alleged fraud, legal or regulatory actions, operational/accounting failures, or investor civil actions, with lessons learned; methods to assess and address carrying-value inaccuracies; a sample operational due-diligence report; and the legal due-diligence process, counsel arrangements, relevant in-house staff expertise and biographies, and commonly used independent law firms."
+            },
+            {
+              "title": "III. Investment Structures and Terms Negotiation",
+              "node_id": "0035",
+              "start_index": 35,
+              "end_index": 36,
+              "key_items": [
+                "f. Back office/operations/administration"
+              ],
+              "summary": "III. Investment Structures and Terms Negotiation\n20. In negotiating a partnership agreement, or similar document, describe areas the firm considers most important. Are there any provisions that the firm proactively seeks to include or improve upon? Are\n35 of 37\nInvestment Consultant Services: Requests for Proposalthere terms or concerns that have changed recently? Does your firm have bargaining power with fees? Provide examples of situations where the terms you negotiated on behalf of your clients led to better than industry average contract terms.\n21. Secondaries have become a tool for institutional investors. How have your firm recommended clients use the secondary markets to manage the sale of their holdings or add to their holdings?"
+            },
+            {
+              "title": "IV. Co-investment",
+              "node_id": "0036",
+              "start_index": 36,
+              "end_index": 37,
+              "key_items": [
+                "a. Private Equity; b. Private Credit; c. Real Assets",
+                "a. Private Equity",
+                "b. Private Credit",
+                "c. Real Assets",
+                "d. Real Estate"
+              ],
+              "summary": "The section requests the firm’s co-investment experience, including the first year it advised public pension or institutional investors; how the co-investment group fits within the firm and future business plans; and any programs managed or advised and processes for sourcing, diligencing, and underwriting opportunities. It asks for experience, capabilities, and numbers of co-investments reviewed and underwritten by applicable asset classes and sub-classes: private equity (venture, buyout, growth), private credit (direct lending, special situations, distressed debt), real assets (energy, infrastructure, other), and real estate (core, non-core). It also asks about sector-specific competitive advantages and the selection and due diligence process, including business diligence, review of sponsor diligence, differences and distinctive methods, validation of general partner claims, use and assessment of technical or niche specialists, and internal approval procedures. The firm must provide its diligence questionnaire and information request list as Exhibit P and a sample full client due diligence report for a direct co-investment as Exhibit Q."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

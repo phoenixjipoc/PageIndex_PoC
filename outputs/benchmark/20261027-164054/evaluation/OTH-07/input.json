@@ -1,0 +1,7 @@
+{
+  "question": "One RFP for investment manager services, issued by an education foundation, limits proposals to five single-spaced typewritten pages. How many copies must be submitted and by what deadline?",
+  "gold_answer": "Six copies, no later than 5 PM on July 1, 2016 (Broward Education Foundation).",
+  "acceptance": "Require six copies, July 1, 2016, 5 p.m.; issuer/addressee optional. No timezone is stated, so do not require one.",
+  "scope": "single_document",
+  "candidate_answer": "Submit **six copies** by **5:00 p.m. on July 1, 2016**. The RFP says proposals must be received by that time. [Broward Education Foundation RFP, p. 3](NCFP_BEF__RFP-for-Investment-Services-BEF-2016.pdf)"
+}

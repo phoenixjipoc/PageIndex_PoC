@@ -1,0 +1,149 @@
+{
+  "id": "INV-10",
+  "question": "An alternative investment consulting RFP describes a private equity portfolio of 225 holdings across 105 general partners. What are the approximate net asset values of the system's absolute return, private credit, private equity and real assets portfolios?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:13:48.350171+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The Indiana Public Retirement System RFP lists approximate net asset values of **$2.6 billion** for absolute return, **$1.8 billion** for private credit, **$4.5 billion** for private equity, and **$3.1 billion** for real assets. [Source: INPRS Alternative Investment Consulting Services RFP, p. 5]",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 65293,
+    "input_tokens_details": {
+      "cached_tokens": 41436,
+      "cache_write_tokens": 23839
+    },
+    "output_tokens": 282,
+    "output_tokens_details": {
+      "reasoning_tokens": 17
+    },
+    "total_tokens": 65575,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1233,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1230
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1248
+      },
+      {
+        "input_tokens": 2399,
+        "input_tokens_details": {
+          "cached_tokens": 1230,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 17
+        },
+        "total_tokens": 2441
+      },
+      {
+        "input_tokens": 7644,
+        "input_tokens_details": {
+          "cached_tokens": 2396,
+          "cache_write_tokens": 5245
+        },
+        "output_tokens": 46,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7690
+      },
+      {
+        "input_tokens": 7966,
+        "input_tokens_details": {
+          "cached_tokens": 7641,
+          "cache_write_tokens": 322
+        },
+        "output_tokens": 47,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 8013
+      },
+      {
+        "input_tokens": 22209,
+        "input_tokens_details": {
+          "cached_tokens": 7963,
+          "cache_write_tokens": 14243
+        },
+        "output_tokens": 53,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 22262
+      },
+      {
+        "input_tokens": 23842,
+        "input_tokens_details": {
+          "cached_tokens": 22206,
+          "cache_write_tokens": 1633
+        },
+        "output_tokens": 79,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 23921
+      }
+    ]
+  },
+  "elapsed_seconds": 17.311,
+  "finished_at_utc": "2026-10-27T09:14:05.674489+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 65293,
+    "output_tokens": 282,
+    "cached_input_tokens": 41436,
+    "cache_write_tokens": 23839,
+    "reasoning_tokens": 17,
+    "total_tokens": 65575
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\",\"pages\":\"4-6\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf",
+      "pages": "4-6",
+      "success": true,
+      "call_id": "call_9Do3eVOdofCClhRLOBJi1xEf"
+    }
+  ],
+  "successfully_read_documents": [
+    "INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf"
+  ]
+}

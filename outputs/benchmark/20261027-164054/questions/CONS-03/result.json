@@ -1,0 +1,165 @@
+{
+  "id": "CONS-03",
+  "question": "In the Anchorage Police and Fire Retirement System 2025 investment consultant RFP, what is the minimum amount of assets under management a firm must have?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:15:54.113773+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "A firm must have **at least $2 billion under management** to meet the RFP’s minimum consultant requirements. [Source: Anchorage Police and Fire Retirement System 2025 RFP, p. 8](Anchorage_PFRS__RFP_2025_Final.pdf#page=8).",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 75175,
+    "input_tokens_details": {
+      "cached_tokens": 53308,
+      "cache_write_tokens": 21846
+    },
+    "output_tokens": 300,
+    "output_tokens_details": {
+      "reasoning_tokens": 73
+    },
+    "total_tokens": 75475,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1218,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1215
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1233
+      },
+      {
+        "input_tokens": 2384,
+        "input_tokens_details": {
+          "cached_tokens": 1215,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 57,
+        "output_tokens_details": {
+          "reasoning_tokens": 36
+        },
+        "total_tokens": 2441
+      },
+      {
+        "input_tokens": 7681,
+        "input_tokens_details": {
+          "cached_tokens": 2381,
+          "cache_write_tokens": 5297
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7704
+      },
+      {
+        "input_tokens": 10636,
+        "input_tokens_details": {
+          "cached_tokens": 7678,
+          "cache_write_tokens": 2955
+        },
+        "output_tokens": 31,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10667
+      },
+      {
+        "input_tokens": 10882,
+        "input_tokens_details": {
+          "cached_tokens": 10633,
+          "cache_write_tokens": 246
+        },
+        "output_tokens": 32,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10914
+      },
+      {
+        "input_tokens": 20525,
+        "input_tokens_details": {
+          "cached_tokens": 10879,
+          "cache_write_tokens": 9643
+        },
+        "output_tokens": 77,
+        "output_tokens_details": {
+          "reasoning_tokens": 37
+        },
+        "total_tokens": 20602
+      },
+      {
+        "input_tokens": 21849,
+        "input_tokens_details": {
+          "cached_tokens": 20522,
+          "cache_write_tokens": 1324
+        },
+        "output_tokens": 65,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 21914
+      }
+    ]
+  },
+  "elapsed_seconds": 15.35,
+  "finished_at_utc": "2026-10-27T09:16:09.473101+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 75175,
+    "output_tokens": 300,
+    "cached_input_tokens": 53308,
+    "cache_write_tokens": 21846,
+    "reasoning_tokens": 73,
+    "total_tokens": 75475
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Anchorage_PFRS__RFP_2025_Final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Anchorage_PFRS__RFP_2025_Final.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Anchorage_PFRS__RFP_2025_Final.pdf\",\"pages\":\"8-9\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Anchorage_PFRS__RFP_2025_Final.pdf",
+      "pages": "8-9",
+      "success": true,
+      "call_id": "call_gOFH4fNrNFUJWtj9vjuRpStZ"
+    }
+  ],
+  "successfully_read_documents": [
+    "Anchorage_PFRS__RFP_2025_Final.pdf"
+  ]
+}

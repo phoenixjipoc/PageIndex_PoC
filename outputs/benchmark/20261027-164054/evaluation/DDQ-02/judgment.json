@@ -1,0 +1,15 @@
+{
+  "question_id": "DDQ-02",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "b535525c1ba736f8ec22d825eff23413d93884d5f96ccf99596921a81521b3a6",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct NJEDA Life Science Seed Fund questionnaire.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:27:02.518704+00:00"
+}

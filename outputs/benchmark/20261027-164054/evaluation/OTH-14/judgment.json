@@ -1,0 +1,15 @@
+{
+  "question_id": "OTH-14",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "23743371dfd7b1b3c4f67e5f8481f52de63d0b04a9305e03e2377e13904fbe38",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct 2022 real-assets deadline and zone.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:28:01.628196+00:00"
+}

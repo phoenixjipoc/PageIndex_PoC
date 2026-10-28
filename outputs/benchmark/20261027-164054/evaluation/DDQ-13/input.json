@@ -1,0 +1,7 @@
+{
+  "question": "Which venture capital manager did NJEDA select to run its Life Science Seed Fund, and how much capital did NJEDA commit to it?",
+  "gold_answer": "NOT IN CORPUS",
+  "acceptance": "Accept NOT IN CORPUS or explicit inability to identify selected manager/commitment from an unfilled DDQ. Do not treat requested fund size or an applicant question as an award.",
+  "scope": "negative",
+  "candidate_answer": "I can’t verify the manager or NJEDA’s capital commitment from the document available here. It’s a due-diligence questionnaire for prospective Life Science Seed Fund managers, not an announcement of the selection."
+}

@@ -1,0 +1,7 @@
+{
+  "question": "One deferred compensation recordkeeping RFP requires vendors to have at least 500,000 participant plan accounts on their defined contribution recordkeeping system. What minimum amount of defined contribution assets under administration does it require, and which consulting firm is named as the Board's consultant?",
+  "gold_answer": "A minimum of $20 billion in defined contribution assets under administration; the Board's consultant is CAPTRUST. Issuer: Delaware Office of the State Treasurer on behalf of the Plans Management Board (contract TRE-CPM-21101, 2021).",
+  "acceptance": "$20bn DC assets under administration and CAPTRUST suffice. Issuer, contract number and date are optional.",
+  "scope": "single_document",
+  "candidate_answer": "The RFP requires at least **$20 billion** in defined contribution assets under administration. It names **CAPTRUST** as the Board’s consultant. [Delaware recordkeeping RFP, pp. 7–8](Delaware__TRE21101-RECDKEEPR-rfp.pdf)."
+}

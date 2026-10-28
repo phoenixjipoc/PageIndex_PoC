@@ -1,0 +1,149 @@
+{
+  "id": "CONS-14",
+  "question": "What are all the minimum requirements in Section 2 (pages 4–5) of the City of Hartford MERF general investment consultant RFP?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:19:22.999467+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "Section 2 requires a proposing firm to meet **all** of these minimum requirements:\n\n1. Have at least **10 years** in business providing general consulting services.\n2. Have senior leaders who have worked together for at least **3 years**.\n3. Manage the account without subcontracting; all personnel responsible for it must be the firm’s employees.\n4. Currently consult for at least **five public pension funds**, each with **over $1.5 billion** in assets.\n5. Assign a primary MERF/OPEB consultant with at least **5 years’ experience** consulting for defined-benefit public pension plans and at least **3 years’ employment** with the firm.\n6. Serve as a fiduciary to MERF and OPEB, and acknowledge in writing compliance with their investment policies and guidelines.\n7. Have no existing or potential material conflicts of interest involving the City Treasurer’s Office and staff, Pension Commission, OPEB Committee, or their actuary, auditor, investment managers, or other service providers.\n8. Agree to execute a contract similar to the form in Appendix E.\n9. Maintain current SEC registration as an adviser under the Investment Advisers Act of 1940, as amended.\n10. Carry—or have applied for by the RFP submission date—minimum insurance of **$5 million general liability**, **$5 million errors and omissions**, and **$1 million each** for fiduciary liability, workers’ compensation and employer’s liability, and cybersecurity. The City Treasurer’s Office may require higher coverage.\n\nAll minimum qualifications had to be met by **March 15, 2024, at 5:00 p.m. Eastern Time**. The firm also had to complete **Appendix A’s Minimum Qualification Certification** to substantiate them. Failure to satisfy any minimum qualification would result in immediate rejection. Source: *City of Hartford MERF general investment consultant RFP*, Section 2, pp. 4–5.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 53929,
+    "input_tokens_details": {
+      "cached_tokens": 35828,
+      "cache_write_tokens": 18083
+    },
+    "output_tokens": 537,
+    "output_tokens_details": {
+      "reasoning_tokens": 10
+    },
+    "total_tokens": 54466,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1218,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1215
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1233
+      },
+      {
+        "input_tokens": 2384,
+        "input_tokens_details": {
+          "cached_tokens": 1215,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 10
+        },
+        "total_tokens": 2419
+      },
+      {
+        "input_tokens": 7622,
+        "input_tokens_details": {
+          "cached_tokens": 2381,
+          "cache_write_tokens": 5238
+        },
+        "output_tokens": 26,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7648
+      },
+      {
+        "input_tokens": 7852,
+        "input_tokens_details": {
+          "cached_tokens": 7619,
+          "cache_write_tokens": 230
+        },
+        "output_tokens": 27,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7879
+      },
+      {
+        "input_tokens": 16767,
+        "input_tokens_details": {
+          "cached_tokens": 7849,
+          "cache_write_tokens": 8915
+        },
+        "output_tokens": 33,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 16800
+      },
+      {
+        "input_tokens": 18086,
+        "input_tokens_details": {
+          "cached_tokens": 16764,
+          "cache_write_tokens": 1319
+        },
+        "output_tokens": 401,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 18487
+      }
+    ]
+  },
+  "elapsed_seconds": 14.608,
+  "finished_at_utc": "2026-10-27T09:19:37.614270+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 53929,
+    "output_tokens": 537,
+    "cached_input_tokens": 35828,
+    "cache_write_tokens": 18083,
+    "reasoning_tokens": 10,
+    "total_tokens": 54466
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Hartford_MERF__file.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Hartford_MERF__file.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Hartford_MERF__file.pdf\",\"pages\":\"4-6\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Hartford_MERF__file.pdf",
+      "pages": "4-6",
+      "success": true,
+      "call_id": "call_bJ8ZWjhYtATyQBfXj0UNyBpZ"
+    }
+  ],
+  "successfully_read_documents": [
+    "Hartford_MERF__file.pdf"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "question": "Which bucket (Not Present, Developing, Intermediate or Advanced) did ILPA assign to KKR under the ILPA ESG Assessment Framework, and what numerical score did KKR receive?",
+  "gold_answer": "NOT IN CORPUS",
+  "acceptance": "Accept no KKR rating/score available in corpus, with framework explanation. Do not infer a bucket from participation in the PRI working group. Any bucket or numerical score would be unsupported.",
+  "scope": "negative",
+  "candidate_answer": "ILPA assigned KKR **no bucket and no numerical score**. The ESG Assessment Framework describes four maturity buckets for limited partners to use when evaluating general partners; it does not publish an assessment of KKR. [ILPA ESG Assessment Framework, p. 1]"
+}

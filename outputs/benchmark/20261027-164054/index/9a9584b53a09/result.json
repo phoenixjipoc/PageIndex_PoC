@@ -1,0 +1,43 @@
+{
+  "file": "INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf",
+  "sha256": "5628bc522e5f8f42d3c9b9496dead0c09024ab903330df230827874d885bab30",
+  "bytes": 789805,
+  "pages": 55,
+  "public_source_url": "https://www.in.gov/inprs/files/RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:55:17.399447+00:00",
+  "doc_id": "pi-fa750e19d6f9400dbd3a0930d4fe837d",
+  "stored_name": "INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf",
+  "reported_usage": {
+    "prompt_tokens": 50828,
+    "completion_tokens": 14467,
+    "total_tokens": 65295,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 17724
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3430
+    }
+  },
+  "elapsed_seconds": 29.588,
+  "finished_at_utc": "2026-10-27T08:55:46.998808+00:00",
+  "model_calls": 58,
+  "http_attempts": 58,
+  "observed_usage": {
+    "input_tokens": 50828,
+    "output_tokens": 14467,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 17724,
+    "reasoning_tokens": 3430,
+    "total_tokens": 65295
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

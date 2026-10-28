@@ -1,0 +1,377 @@
+{
+  "doc_id": "pi-ee0c4b24760940688b83587e66dd9bb5",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Table of Contents",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 76,
+      "summary": "Hartford seeks one full-service investment consultant for the fiduciary-managed MERF defined-benefit plan and OPEB Trust. As of December 31, 2023, MERF held $1.1 billion across nine target asset classes, and OPEB held $24 million across six. The RFP sets minimum qualifications, including experience, staffing, public-pension clients, fiduciary status, conflict-free service, SEC registration, and insurance; failure to qualify means rejection. The consultant’s retainer covers policy, allocation, risk, manager selection and oversight, monitoring, reporting, education, research, and special projects. Proposal instructions specify required contents and attachments, questions and contact restrictions, delivery, deadlines, finalist review, selection, contracting, and evaluation criteria. Requested information includes firm, staff, services, methods, compliance, references, DEI, and fees. Appendices provide qualification certification, signed representations, bundled and unbundled fee schedules, workforce diversity forms, and proposed MERF and OPEB contracts covering services, fees, records, fiduciary duties, insurance, conflicts, termination, and other legal terms.",
+      "nodes": [
+        {
+          "title": "Table of Contents (intro)",
+          "node_id": "0001",
+          "start_index": 1,
+          "end_index": 2,
+          "summary": "The City of Hartford Treasurer’s Office seeks proposals from one full-service investment consulting firm to support its management of the Municipal Employees’ Retirement Fund (MERF) and OPEB Trust. The RFP covers background, minimum requirements, services, proposal contents and processing, evaluation, requested materials, and a questionnaire; appendices provide qualification certification, representations and warranties, fee schedule, workforce ethnicity breakdown, and contract form. MERF is a contributory defined-benefit plan, with the elected Treasurer and Pension Commission serving as fiduciaries. The City-established OPEB Committee oversees Trust investments, and the Treasurer is its designated Trustee; both the Committee and Trustee are fiduciaries. The Treasurer, Pension Commission, and OPEB Committee determine policies and investment decisions. The Treasurer, staff, and consultant will work with the Pension Commission on asset allocation, performance, investment policy, manager searches and oversight, and other needs."
+        },
+        {
+          "title": "1.1 Asset Allocation:",
+          "node_id": "0002",
+          "start_index": 2,
+          "end_index": 4,
+          "key_items": [
+            "SECTION I: INTRODUCTORY SECTION",
+            "1. INTRODUCTION & BACKGROUND",
+            "PLEASE NOTE",
+            "1.1 Asset Allocation:"
+          ],
+          "summary": "1.1 Asset Allocation:\nInformation relating to the MERF and OPEB, including investment policies, performance, staffing and results can be found on the City Treasurer’s website:\nhttps://www.hartfordcitytreasurer.org\nPage 2As of December 31, 2023, the total portfolio values and target allocations are as follows:\nMERF -- $1.1 billion\nAsset Class\nU.S. Equity International Equity Fixed Income Private Equity Private Credit Private Real Estate Private Real Assets Hedge Funds Cash & Equivalents\nOPEB -- $24 million\nAsset Class\nU.S. Equity Non-U.S. Equity Fixed Income Public Real Estate Public Real Assets Cash\nTarget 25% 16% 19% 11% 8% 7% 6% 6% 2%\nTarget 28% 17% 35% 10% 5% 5%\nPage 3"
+        },
+        {
+          "title": "2. MINIMUM REQUIREMENTS",
+          "node_id": "0003",
+          "start_index": 4,
+          "end_index": 6,
+          "summary": "Proposers must meet all minimum qualifications to the City Treasurer’s Office’s satisfaction: at least 10 years providing general consulting services; senior leaders working together at least 3 years; no subcontracting account management, with all account personnel employed by the firm; current consulting engagements with at least five public pension funds, each holding over $1.5 billion; and a designated MERF/OPEB primary consultant with at least 5 years of defined-benefit public-pension consulting experience and 3 years employed by the firm. The proposer must act as a fiduciary, acknowledge in writing compliance with MERF and OPEB investment policies, have no material actual or potential conflicts involving specified City, pension, committee, and service-provider parties, agree to a contract similar to Appendix E, and maintain SEC investment-adviser registration. Required insurance, or an application submitted by the RFP deadline, is general liability and errors and omissions at $5 million each, plus fiduciary liability, workers’ compensation/employer’s liability, and cybersecurity coverage at $1 million each; higher coverage may be required. All qualifications must be met by March 15, 2024, at 5:00 p.m. ET. Appendix A certification is required, and failure to meet any qualification results in immediate rejection."
+        },
+        {
+          "title": "3. SCOPE OF SERVICES",
+          "node_id": "0004",
+          "start_index": 6,
+          "end_index": 15,
+          "summary": "The consultant, under the City Treasurer’s direction, will provide full-retainer investment advice covering IPS review and updates, investment policy and compliance monitoring, capital-market assumptions, asset allocation, risk management, and Trustee education. Services include asset-allocation, asset-liability, liquidity and risk/return analysis; guidance on portfolio structure, managers, fees, custody, lending, trading, rebalancing and transitions; manager searches, due diligence, selection and ongoing performance, operational and cost monitoring; reporting, analytics, workshops, research access, diverse-manager data, special projects and notice of relevant changes. Proposals must follow the prescribed format and include an authorized cover letter, required contact and commitment information, and signed Appendix B. Questions must be submitted in writing by the deadline; restricted contact with officials may cause disqualification, and finalists must disclose conflicts. Proposals are due March 15, 2024, with specified paper and electronic copies; the search proceeds through finalist review, selection and contracting by June 30. Prices remain firm for 180 days. Connecticut and Hartford law govern. Selection is discretionary, not necessarily based on lowest cost, and considers advice, fit, experience, tools, staff, references and DEI.",
+          "nodes": [
+            {
+              "title": "3.1 Policy Duties:",
+              "node_id": "0005",
+              "start_index": 6,
+              "end_index": 7,
+              "key_items": [
+                "3. SCOPE OF SERVICES"
+              ],
+              "summary": "Under the City Treasurer’s direction, the consultant will provide comprehensive, full-retainer investment advice and services, demonstrating expertise in investment policy compliance and development, manager research and selection, asset allocation, risk management, and Trustee education. Policy duties include annually reviewing the Investment Policy Statements (IPS), recommending and helping draft revisions, setting or revising manager guidelines and restrictions, reviewing benchmarks, and providing capital-market assumptions and expected returns for asset-allocation updates. The consultant will help establish ongoing policy-monitoring systems and procedures; advise on long-term policy, objectives, strategy, manager continuation, and rebalancing; recommend goals, policies, guidelines, and procedures for private and publicly managed portfolios; advise on risk-management policies and related matters; and monitor compliance."
+            },
+            {
+              "title": "3.2        Asset Allocation & Total Portfolio Duties:",
+              "node_id": "0006",
+              "start_index": 7,
+              "end_index": 10,
+              "summary": "The section covers portfolio advisory services, including periodic asset-allocation and asset-liability studies, annual allocation and liquidity reviews, risk/return recommendations, asset-class research, and guidance on manager structure, risk, strategies, lending, custody, fees, rebalancing, brokerage, and transitions. It requires analytical tools and securities-lending compliance monitoring. Manager oversight includes search and due-diligence support, selection recommendations and interviews, fee, benchmark and guideline setting, and monitoring performance, operations, reporting, fees, trading, and transaction costs. Duties also include regular and ad hoc performance reports, benchmark comparisons, portfolio analytics and attribution, workshops, investment education, access to firm research and staff, and timely notice of organizational or staffing changes. The provider must maintain and report on diverse-manager data, undertake requested special projects and services, and report changes affecting MERF and OPEB accounts. Proposal instructions require responses in order with question numbers, authorized signatures on the cover letter, and acknowledgment that submissions become public records.",
+              "nodes": [
+                {
+                  "title": "3.3         Investment Manager Oversight Duties:",
+                  "node_id": "0007",
+                  "start_index": 7,
+                  "end_index": 8,
+                  "key_items": [
+                    "3.2 Asset Allocation & Total Portfolio Duties:"
+                  ],
+                  "summary": "Asset allocation and total-portfolio duties include periodic asset-allocation and asset-liability studies, annual allocation reviews and risk/return recommendations, asset-class research, annual liquidity reviews, and advice on manager allocation and structure, risk management, active/passive strategies, securities lending, custody arrangements, fees, rebalancing, brokerage, and transitions. They also include access to analytical tools and monitoring securities-lending compliance. Investment-manager oversight covers developing competitive-search materials, screening responses, gathering manager information (including City Treasurer referrals), preparing due-diligence materials, recommending selections, participating in interviews, and conducting ongoing due diligence. It also includes establishing or revising manager fees, benchmarks, and guidelines; monitoring manager performance, operations, and reporting compliance; providing analytical tools; comparing manager fees with peers; and monitoring trading programs and transaction costs."
+                },
+                {
+                  "title": "3.4 Performance Reporting and Analysis Duties:",
+                  "node_id": "0008",
+                  "start_index": 8,
+                  "end_index": 9,
+                  "summary": "Responsibilities include monthly, quarterly, and as-needed performance reporting; comparing portfolio returns with custom benchmarks; providing manager-, asset-class-, and fund-level analytics and attribution, ongoing benchmark evaluation, analytical software access, and requested reports. The provider must participate in Treasurer-designated workshops, offer educational materials and investment education, provide access to firm research and staff, and promptly report significant organizational or staffing changes. It must maintain a database of diverse managers for City searches and monitor and report on manager diversity. Other duties include special projects and services requested by the Treasurer, and timely reporting of organizational and staffing changes affecting the firm and MERF and OPEB accounts."
+                },
+                {
+                  "title": "3.5 Training, Education and Information:; 3.6 Diversity, Equity and Inclusion:",
+                  "node_id": "0009",
+                  "start_index": 9,
+                  "end_index": 9,
+                  "key_items": [
+                    "3.5 Training, Education and Information:",
+                    "3.6 Diversity, Equity and Inclusion:"
+                  ],
+                  "summary": "• Provide ad hoc reporting, as requested by Treasurer and staff.\n3.5 Training, Education and Information:\n• Participate in ad hoc workshops on specific issues designated by the City Treasurer; • Develop and provide access to educational materials and investment education on a periodic basis or as requested;\n• Provide access to all firm research, including white papers and research staff; • Report, in a timely manner, any significant changes in the firm’s organizational structure and staffing.\n3.6 Diversity, Equity and Inclusion:\n• Develop and maintain a database of diverse managers for inclusion and identification in all searches conducted for the City Treasurer’s Office and monitor and report on City Treasurer’s Office’s investment manager diversity on an ongoing basis."
+                },
+                {
+                  "title": "3.7 Other:",
+                  "node_id": "0010",
+                  "start_index": 9,
+                  "end_index": 10,
+                  "key_items": [
+                    "3.5 Training, Education and Information:",
+                    "3.6 Diversity, Equity and Inclusion:"
+                  ],
+                  "summary": "3.7 Other:\n• Undertake special projects at the City Treasurer’s request; • Provide other services as requested.\n• Report, in a timely manner, any significant changes in the firm’s organizational structure and in the staffing for the MERF and OPEB accounts.\nPage 9"
+                },
+                {
+                  "title": "4. PROPOSAL CONTENTS AND PROCESSING:",
+                  "node_id": "0011",
+                  "start_index": 10,
+                  "end_index": 10,
+                  "summary": "4. PROPOSAL CONTENTS AND PROCESSING:\nPROPOSAL COMPLETION AND SUBMISSION PROCEDURES\nPlease complete all questions in the order that they are presented in this RFP. Include all section and question numbers in your responses. Any additional comments or information may be provided in Section II, Part B.\nThe individual(s) who is (are) authorized to bind the Proposer contractually shall sign a cover letter, which will be considered an integral part of the proposal. This cover letter shall indicate the signer is so authorized, and shall indicate the title or position that the signer holds in the Proposer’s firm. An unsigned cover letter shall cause the proposal to be rejected. The cover letter shall contain a statement that the firm acknowledges that all documents submitted pursuant to this request for proposal process will become a matter of public record."
+                }
+              ]
+            },
+            {
+              "title": "4.1      The cover letter shall also contain the following:",
+              "node_id": "0012",
+              "start_index": 10,
+              "end_index": 11,
+              "key_items": [
+                "4. PROPOSAL CONTENTS AND PROCESSING:",
+                "PROPOSAL COMPLETION AND SUBMISSION PROCEDURES"
+              ],
+              "summary": "The cover letter must provide the proposer’s contact and identification details; information for the signer and, if different, the primary contact/account administrator; confirmation the signer is authorized to bind the proposer; an irrevocable five-year offer with two one-year extension options; willingness and resources to perform all services and deliverables on schedule; and a signed Appendix B. Proposals should be as concise as possible while giving enough information to evaluate qualifications, approach, and ability to meet the City Treasurer’s needs responsively and cost-effectively. RFP questions and clarification requests must be submitted in writing during the stated period. During the consultant search, firms may not contact Pension Commission or OPEB Committee members; after the Q&A period, City Treasurer’s Office staff also may not discuss matters with firms where bias, favoritism, or impropriety could arise. Monthly committee meetings are exempt; prohibited contact may disqualify a firm. Finalists must file a Certificate of Independence disclosing possible conflicts or relationships with committee members or specified City Treasurer’s Office staff."
+            },
+            {
+              "title": "Proposal Requirements and Communication Restrictions",
+              "node_id": "0013",
+              "start_index": 11,
+              "end_index": 11,
+              "key_items": [
+                "4.2       Proposal Requirements",
+                "4.3       Restrictions",
+                "•   Respondent Communications; • Contact with Pension Commission and OPEB Committee Members is Prohibited",
+                "•   Respondent Communications",
+                "• Contact with Pension Commission and OPEB Committee Members is Prohibited"
+              ],
+              "summary": "Responses should be as concise as possible while providing enough information to assess qualifications, approach, and ability to meet the City Treasurer’s Office needs responsively and cost-effectively. Questions and clarification requests must be submitted in writing within the specified period; assistance is available. During the consultant search, firms must not contact Pension Commission or OPEB Committee members. After the RFP is issued, committee members must not engage with firms in discussions that could create actual or perceived bias, favoritism, or conflicts of interest; monthly committee meetings are exempt. After the Q&A period, the City Treasurer and staff are likewise prohibited from such discussions. Contact with committee members or staff during a prohibited period may result in disqualification."
+            },
+            {
+              "title": "4.4          Certificate of Independence",
+              "node_id": "0014",
+              "start_index": 11,
+              "end_index": 12,
+              "key_items": [
+                "4.2 Proposal Requirements",
+                "4.3 Restrictions"
+              ],
+              "summary": "Finalists must submit a Certificate of Independence to the City Treasurer disclosing potential conflicts or relationships involving Pension Commission or OPEB Committee members, or specified Treasurer’s Office staff. Proposals are due March 15, 2024, at 5 p.m. Eastern (subject to change); late submissions are rejected, and the City is not responsible for improperly labeled, lost, or late deliveries. Proposals cannot be changed after receipt. Submit four signed and sealed paper originals and one electronic copy to the specified City Treasurer’s Office address, and email a full PDF copy to info@hartfordcitytreasurer.org; fax submissions are not accepted. The search schedule, also subject to change, runs from RFP distribution on February 9 through questions due February 23, proposals due March 15, finalist selection and presentations/site visits, finalist interviews, consultant selection by May 24, and contract negotiation and execution by June 30, before services begin."
+            },
+            {
+              "title": "p.12",
+              "node_id": "0015",
+              "start_index": 12,
+              "end_index": 12,
+              "key_items": [
+                "4.5     Proposal Submission and Search Schedule*",
+                "Four original paper copies of the proposal, and one electronic copy, all fully   signed and sealed, shall be submitted to:",
+                "One full electronic copy in PDF format shall be emailed to:",
+                "info@hartfordcitytreasurer.org"
+              ],
+              "summary": "4.5 Proposal Submission and Search Schedule*\nProposals shall be received no later than March 15, 2024 at 5 p.m. Eastern Time (subject to change)\nAny proposals received after this date and time will be rejected. The City Treasurer’s Office does not accept responsibility for receipt of any proposal that is improperly labeled, lost, or delivered late. Once received by the City Treasurer’s Office, a proposal cannot be altered or replaced.\nFour original paper copies of the proposal, and one electronic copy, all fully signed and sealed, shall be submitted to:\nMs. Chay Iv, Chief Administrative Officer City of Hartford, Office of the City Treasurer 250 Constitution Plaza 2nd floor Hartford, CT 06103\nOne full electronic copy in PDF format shall be emailed to:\ninfo@hartfordcitytreasurer.org\nFaxed copies will not be accepted."
+            },
+            {
+              "title": "4.6      Search Schedule (dates subject to change):",
+              "node_id": "0016",
+              "start_index": 12,
+              "end_index": 13,
+              "key_items": [
+                "4.5 Proposal Submission and Search Schedule*"
+              ],
+              "summary": "The search schedule (dates subject to change) begins with RFP distribution on February 9, 2024. Questions are due by email February 23 at 5:00 p.m. Eastern Time, and proposals are due March 15 at 5:00 p.m. Eastern Time. The process then includes finalist selection for presentations/site visits, finalist interviews, selection of the Investment Consultant (with milestones listed for April 12, by May 1, by May 17, and May 24), and contract negotiation and execution by June 30 before services begin. Firms seeking clarification must email questions to info@hartfordcitytreasurer.org by February 23 at 5:00 p.m. Eastern Time, using their firm name and “Consultant RFP Question” in the subject line. Responses will be posted at www.hartfordcitytreasurer.org."
+            },
+            {
+              "title": "4.8          Proposal Applicability",
+              "node_id": "0017",
+              "start_index": 13,
+              "end_index": 13,
+              "summary": "4.8 Proposal Applicability\nTo allow sufficient time for contract negotiation, all prices and conditions stated in the proposal must be firm for a period of 180 days from the deadline for submission of proposals."
+            },
+            {
+              "title": "4.9          Governing Law",
+              "node_id": "0018",
+              "start_index": 13,
+              "end_index": 15,
+              "key_items": [
+                "4.7 Inquiries -- Submission of Written Questions",
+                "4.8 Proposal Applicability",
+                "5. PROPOSAL EVALUATION CRITERIA & PROCESS"
+              ],
+              "summary": "The procurement and any resulting agreement are governed by Connecticut law and applicable City of Hartford ordinances and regulations; submitting a proposal signifies acceptance. Fees and compensation matter in evaluating investment consulting proposals, but the City Treasurer’s Office, OPEB Committee, and Pension Commission need not select the lowest-cost bidder. The Pension Commission and OPEB Committee, based on the City Treasurer’s recommendation, have exclusive discretion over finalist selection and minimum-qualification compliance and may assess suitability. Finalist considerations include the quality and objectivity of investment advice; understanding of MERF and OPEB needs and ability to meet them; firm and relevant client experience; analytical tools, research, and processes; personnel and proposed consultant team; client and industry feedback; and diversity, equity, and inclusion policies and related materials."
+            }
+          ]
+        },
+        {
+          "title": "SECTION II: CONTENTS OF PROPOSAL",
+          "node_id": "0019",
+          "start_index": 15,
+          "end_index": 26,
+          "summary": "This section sets proposal submission instructions, including delivery to the specified Hartford address and email submission of eligible documents, plus requirements for attachments, insurance, formatting, and completeness. It requests information on the firm, ownership and diversity, services, conflicts, staff and workload, regulatory, legal, financial and risk matters, research, fees, references, clients and assets. It also seeks consulting qualifications and methods, databases, reporting and compliance systems, education, transition and performance measurement, DEI policies and outcomes, and pricing details such as optional contract years, fee increases, soft dollars, and comparable-client fees. Appendix A sets eight minimum qualifications—including registration, fiduciary status, relevant experience, team tenure, account management, absence of material conflicts, and insurance—and provides for rejection if they are not met. Appendix B requires signed, notarized representations concerning insurance, fiduciary duties, compliance, eligibility, and signatory authority.",
+          "nodes": [
+            {
+              "title": "PART A: REQUESTED MATERIALS & ADDITIONAL INFORMATION",
+              "node_id": "0020",
+              "start_index": 15,
+              "end_index": 26,
+              "summary": "The section instructs firms to courier proposals and written responses to Ms. Chay Iv at the stated Hartford address and email documents that can be sent electronically. It specifies submission, attachment, insurance, formatting and completeness requirements, and requests information about the firm, ownership and diversity, services, conflicts, personnel, regulatory, legal, financial and risk matters, research, fees, proposed team and workload, references, clients and assets. It also seeks consulting qualifications and methods, databases, reporting and compliance systems, education, transition and performance measurement, DEI policies and outcomes, and pricing details, including optional contract years, fee increases, soft dollars and comparable-client fees. Appendix A lists eight minimum qualifications, including registration, fiduciary status, relevant experience and clients, team tenure, account management, primary consultant experience, no material conflicts and insurance; failure to qualify means rejection. Appendix B requires signed, notarized representations on insurance, fiduciary duties, compliance, eligibility and signatory authority.",
+              "nodes": [
+                {
+                  "title": "Please send the following documents, along with the copy of your written response by courier, to Ms. Chay Iv at 250 Constitution Plaza, Hartford, CT 06103. Any documents that can be sent in electronic format should be sent to chay.iv@hartford.gov.",
+                  "node_id": "0021",
+                  "start_index": 15,
+                  "end_index": 26,
+                  "summary": "Proposals and written responses must be couriered to Ms. Chay Iv at the specified Hartford address; documents available electronically should also be emailed to chay.iv@hartford.gov. Section II sets submission, attachment, insurance, formatting, and completeness requirements and requests information on the firm, ownership and diversity, services, conflicts, staff, regulatory/legal/financial and risk matters, research, fees, proposed team and workload, references, clients and assets. It also covers consulting qualifications and methods, databases, reporting and compliance systems, education, transition and performance measurement, DEI policies and outcomes, and pricing, optional contract years, fee increases, soft dollars, and comparable-client fees. Appendix A certifies eight minimum qualifications, including registration and fiduciary status, consulting experience and public-fund clients, team tenure, account management, primary consultant experience, absence of material conflicts, and required insurance; unmet criteria mean rejection. Appendix B requires signed representations covering $5 million E&O insurance, fiduciary duties, regulatory compliance, eligibility, and signatory authority, with signature and notarization details.",
+                  "nodes": [
+                    {
+                      "title": "SECTION II: CONTENTS OF PROPOSAL",
+                      "node_id": "0022",
+                      "start_index": 15,
+                      "end_index": 24,
+                      "summary": "The proposal section specifies submission procedures, required attachments, insurance evidence, response formatting, and consequences for incomplete or misleading answers. Its questionnaire covers firm profile, ownership and diversity, services, affiliations and conflicts, staffing and departures, regulatory, legal, financial, audit, insurance, fraud and cybersecurity matters, research capacity, compensation, proposed team and client workload, references, and client and asset totals. It asks about service-team qualifications and references; research databases and manager searches; investment philosophy, sourcing, asset allocation, policy development, liability analysis, and risk management. Systems questions address reporting portals, peer and performance databases, compliance monitoring, market research, trustee education, strengths, transition plans, and consultant-performance measurement. DEI questions cover goals, recruitment and contracting policies, diverse vendors and spending, local opportunities, and workforce demographics. Fee questions address soft dollars, two optional contract years and their pricing, five-year fee increases, and confirmation that proposed fees are the firm’s lowest for comparable clients and services.",
+                      "nodes": [
+                        {
+                          "title": "PART A: REQUESTED MATERIALS & ADDITIONAL INFORMATION",
+                          "node_id": "0023",
+                          "start_index": 15,
+                          "end_index": 20,
+                          "summary": "The proposal requires materials to be couriered to the specified Hartford contact, with electronic documents emailed. Requested attachments include corporate structure, annual report, conflict policies, mission and ethics statements, Form ADV, investment-manager due diligence samples, executive-summary and detailed performance reports, peer-universe methodology, marketing materials, other relevant information, workforce and diverse-vendor data, completed fee schedule, and evidence of specified liability, fidelity, workers’ compensation, and cybersecurity insurance. Responses must follow the numbered format, repeat each question in full, and be complete and accurate; deviations or misleading/incomplete information may result in rejection or disqualification. The questionnaire covers firm contacts, history, structure, ownership, diversity, offices, services and revenue; affiliations, conflicts, brokerage and OCIO activities; staffing and departures by category for 2019–2023; regulatory, litigation, audit, financial, insurance, fraud and cybersecurity matters; research-team capacity by asset class; compensation and hiring qualifications; proposed staff biographies, workloads and client accounts; public pension references; and five-year retainer-client and advised-asset totals, plus 2023 client counts by asset size and client type."
+                        },
+                        {
+                          "title": "SERVICE CAPABILITY AND PROCESS",
+                          "node_id": "0024",
+                          "start_index": 20,
+                          "end_index": 22,
+                          "summary": "The questions seek details on the City Treasurer’s Office service team; three comparable current-client references and five clients lost in five years, with contact, asset/service, acquisition or loss details; manager-research database ownership, coverage, fees, characteristics, data entry and verification; manager search screening, evaluation criteria and recent search volume; advisory philosophy and its evolution; proposed MERF and OPEB allocations; limits on joint due-diligence visits and participation in transaction negotiations; investment sourcing, universe coverage, opportunity summaries, and staff training, including access to due-diligence questionnaires; asset-allocation study experience, frequency, follow-up, model theory and inputs, treatment of liabilities, funding and contributions, asset classes, risk measures, and liability analysis; defined-benefit and OPEB investment-policy development or review, process frequency and client-specific considerations; and risk-management tools for assessing recommendations alongside existing portfolios."
+                        },
+                        {
+                          "title": "SYSTEMS & ANALYTICAL TOOLS",
+                          "node_id": "0025",
+                          "start_index": 22,
+                          "end_index": 23,
+                          "summary": "The section asks about the firm’s systems and analytical capabilities: client access to updated report portals, peer-comparison databases, technology for sharing information, client analytical tools, outsourced advisory services, and performance-measurement databases (including ownership, data entry and verification, and online access). It also covers experience monitoring managers’ compliance with client guidelines; tracking and reporting market and global trends and reviewing capital-market expectations; producing investment research, including topics, authors, frequency, and data sources; and educating public pension trustees and staff. The firm is asked to identify its key strengths and competitive advantages for serving the City Treasurer’s Office, describe its transition process, expected duration and past obstacles and solutions, and suggest a methodology for measuring its performance as an investment consultant."
+                        },
+                        {
+                          "title": "DIVERSITY, EQUITY AND INCLUSION",
+                          "node_id": "0026",
+                          "start_index": 23,
+                          "end_index": 23,
+                          "summary": "The text requests a description of the firm’s diversity, equity, and inclusion (DEI) goals and when they were adopted, including how employment and contracting goals will be met and policies for recruiting minorities—especially underserved groups—and women as employees and subcontractors. It also requires a separate list of outside service providers, services, approximate payments, and MBE/WBE status, with grand, MBE, and WBE totals and their percentages of total spending. Finally, it asks how the firm could use minority- and women-owned businesses in the Hartford area (or near its home office) and requires completion of Appendix D, the workforce ethnicity breakdown."
+                        },
+                        {
+                          "title": "FEES",
+                          "node_id": "0027",
+                          "start_index": 23,
+                          "end_index": 24,
+                          "summary": "FEES\n60. Does the firm and/or any affiliates accept soft dollars as a method of payment for services provided? Please explain.\n61. Will your firm agree to two one-year options at the end of the five-year contract? If yes, please provide a fee quote for the two one-year options.\n62. Will your firm agree that your firm will not propose an increase in the fee structure for the next five years?\n63. Will your firm confirm that the fees proposed for the City Treasurer’s Office are the lowest charged for essentially similar services offered to clients similar to the City Treasurer’s Office?\nPage 23"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Appendix A ",
+                      "node_id": "0028",
+                      "start_index": 24,
+                      "end_index": 25,
+                      "summary": "Appendix A is a minimum-qualifications certification form for proposers. Firms must provide sufficient information to substantiate every Section I requirement; failure to meet any requirement, as determined solely by the City Treasurer’s Office, results in immediate rejection. An authorized representative’s signature warrants compliance. The eight requirements are: registration as an investment adviser under the Investment Advisers Act of 1940 and fiduciary status to MERF and OPEB; at least 10 years providing general consulting services; consulting for at least five public pension funds, each with at least $1.5 billion in plan assets; senior members working together at least three years; direct account-management responsibility with all account personnel employed by the firm; a primary consultant with at least five years of defined-benefit public pension consulting experience and at least three years with the firm; no existing or potential material conflicts involving the listed City offices, personnel, or service providers; and required insurance coverage as of April 3, 2024. The form requests firm and client names, years of business and experience, consultant name, and authorized signatory’s signature, printed name, title, and date."
+                    },
+                    {
+                      "title": "Appendix B ",
+                      "node_id": "0029",
+                      "start_index": 25,
+                      "end_index": 26,
+                      "summary": "Appendix B requires every Proposer to submit the executed representations and warranties with its RFP cover letter. The Proposer warrants that it carries at least $5 million in errors-and-omissions insurance applicable to the contemplated services, with a policy copy due to the City Treasurer upon selection; accepts fiduciary duties for the MERF and OPEB under applicable City requirements and law, exercising care, skill, prudence, and diligence, and recognizes City officials’ reliance on its expertise; has completed all required governmental and regulatory registrations, filings, approvals, authorizations, consents, and examinations; meets all applicable minimum RFP criteria; and has authorized the person submitting and signing the proposal. The form provides fields for the Proposer’s name, signature, city and state, date, and title, plus notarization details, seal, and the notary’s commission expiration."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CONSULTANT FEE SCHEDULE",
+          "node_id": "0030",
+          "start_index": 26,
+          "end_index": 28,
+          "key_items": [
+            "Name of Proposer Signature Title",
+            "Appendix C ",
+            "CONSULTANT FEE SCHEDULE",
+            "SECTION A – BUNDLED FEES",
+            "SECTION B – UNBUNDLED FEES",
+            "Appendix D "
+          ],
+          "summary": "The fee schedule requires proposers to submit all-inclusive investment consulting fees and complete both sections. Section A requests annual bundled fees for the specified services, with year-by-year amounts and two-year options; Section B requests unbundled fees for general consulting, asset allocation, manager/fiduciary searches, performance reporting, travel, special projects, and other services, using the stated annual, monthly/quarterly, or per-occurrence units. The City may use either payment method, but only one at a time, as determined by the agreement. The form also collects the proposer’s name, signature, and title. The following workforce-report forms list job categories and require employee counts and percentages by gender and ethnicity, including White, Black, Hispanic, Asian/Pacific Islander, and American Indian/Alaskan Native; these appear in Appendices D and E."
+        },
+        {
+          "title": "FORM OF CONTRACT",
+          "node_id": "0031",
+          "start_index": 28,
+          "end_index": 76,
+          "summary": "This section presents proposed professional-services agreements for Hartford’s Municipal Employees’ Retirement Fund (MERF) and OPEB Trust Fund. Both identify the City Treasurer as Client, the relevant commission or committee and Consultant, and include blank fields for dates, consultant details, policy dates, fees, and—in Schedule 1—additional-service rate ranges. Recitals describe each fund’s adopted investment policy (Exhibit A), authorization to hire an adviser, and the Consultant’s response to an RFP. Each agreement appoints the Consultant as primary investment adviser for basic and requested additional services, including policy, asset allocation, manager selection and oversight, reporting, education, diversity monitoring, projects, and collaboration. Terms cover performance, priorities, fees, expenses and invoicing; reporting, records, audit, deliverables and confidentiality; fiduciary duties, contractor status, indemnity, insurance and conflicts; defaults, remedies, termination and payment; subcontracting; legal and compliance obligations; and standard contract provisions. Schedule 1 specifies personnel disclosures, timesheets, audit records, and travel reimbursement. Each Exhibit A references its fund’s investment policy statement.",
+          "nodes": [
+            {
+              "title": "FORM OF CONTRACT (intro)",
+              "node_id": "0032",
+              "start_index": 28,
+              "end_index": 28,
+              "summary": "FORM OF CONTRACT\nPage 28"
+            },
+            {
+              "title": "MERF Professional Services Contract",
+              "node_id": "0033",
+              "start_index": 29,
+              "end_index": 29,
+              "key_items": [
+                "PROPOSED CONTRACT FOR PROFESSIONAL SERVICES - MERF",
+                "WITNESSETH"
+              ],
+              "summary": "The page begins a proposed professional services agreement for Hartford’s Municipal Employees’ Retirement Fund (MERF), with blank fields for the effective date, parties, consultant details, policy dates, and annual fee. It identifies the City Treasurer as Client, the Pension Commission as acting for MERF under authority of the City Charter, and the Consultant. The recitals state that the Commission adopted an investment program set out in the MERF Funding and Investment Policy Statement (attached as Exhibit A), authorized the Client to engage a Consultant to help structure the program and identify, review, and recommend potential MERF investments, and received the Consultant’s proposal in response to a Request for Proposals."
+            },
+            {
+              "title": "NOW THEREFORE:",
+              "node_id": "0034",
+              "start_index": 29,
+              "end_index": 51,
+              "summary": "The agreement appoints the Consultant as MERF’s primary investment advisor, providing basic and requested additional services covering investment policy, asset allocation, manager selection and oversight, performance reporting, education, diversity monitoring, special projects, and collaboration. It sets term and performance expectations, Client project priorities and oversight, compensation, reimbursable-expense limits, quarterly invoicing, payment conditions, and remedies for unsatisfactory work. It requires reports, recordkeeping, audit access, Client ownership of deliverables, confidentiality, and independent-contractor status. The Consultant’s fiduciary representations and duties, indemnification obligations, insurance requirements, conflict-of-interest disclosures, and default events and remedies are specified. Termination may be for cause, program change, funding limits, or at will, with payment for completed work. Other provisions address subcontracting approval, nondiscrimination and affirmative action, ADA compliance, tax identification and current City obligations, non-waiver, written amendments, no third-party rights, non-assignment, severability, cumulative remedies, interpretation, notices, entire agreement, and governing law."
+            },
+            {
+              "title": "EXHIBIT A",
+              "node_id": "0035",
+              "start_index": 51,
+              "end_index": 52,
+              "summary": "EXHIBIT A\nFUNDING AND INVESTMENT POLICY STATEMENT https://www.hartfordcitytreasurer.org/images/pdf/20230630-MERF-IPS-Adopted.pdf\nPage 23 of 24"
+            },
+            {
+              "title": "SCHEDULE 1",
+              "node_id": "0036",
+              "start_index": 52,
+              "end_index": 53,
+              "summary": "Schedule 1 states that additional consulting services are available at a rate whose range is left incomplete. Other Consultant personnel may provide services at the same professional rates. Before work begins, Consultant must notify Client in writing of each assigned person’s name, position, and hourly rate. Invoices must report each person’s weekly hours and briefly describe their work; supporting records must be retained and available for Client audit under Section 17. Travel expenses are reimbursed as provided in Section 5. The proposed Hartford OPEB professional-services agreement identifies the City Treasurer as Client and the OPEB Committee and Trust Fund, Consultant, and their authority; references the Committee’s investment policy as Exhibit A; and notes authorization to engage Consultant and a proposed annual fee, both with blanks. The recitals are incorporated into the agreement. Client appoints Consultant as the OPEB program’s primary investment advisor for Basic Services and, if requested, Additional Services."
+            },
+            {
+              "title": "Proposed OPEB Professional Services Contract",
+              "node_id": "0037",
+              "start_index": 53,
+              "end_index": 53,
+              "key_items": [
+                "PROPOSED CONTRACT FOR PROFESSIONAL SERVICES - OPEB",
+                "WITNESSETH"
+              ],
+              "summary": "The page introduces a proposed agreement, effective on an unspecified date, between Hartford’s City Treasurer and OPEB Committee representatives, acting for the City’s OPEB Trust Fund, and an unnamed consultant with unspecified business details. It states the parties’ authority under the City Charter and recites that the Committee adopted an investment program set out in an attached Funding and Investment Policy Statement (Exhibit A), as amended. The Committee authorized the Client to engage the Consultant to help structure the program and identify, review, and recommend potential OPEB investments. In response to a request for proposals, the Consultant offered to provide these services for an unspecified annual fee."
+            },
+            {
+              "title": "NOW THEREFORE:",
+              "node_id": "0038",
+              "start_index": 53,
+              "end_index": 75,
+              "summary": "The agreement appoints the Consultant as the OPEB program’s primary investment adviser, providing basic and requested additional services covering investment policy, asset allocation, manager selection and oversight, performance reporting, education, diversity monitoring, special projects, and collaboration. It establishes a term and timely-performance requirements; Client controls priorities and manages projects. Compensation is invoiced quarterly in arrears, with limited documented expense reimbursement and payment subject to satisfactory performance. The agreement sets reporting, record-retention, audit, ownership, and confidentiality duties; establishes independent-contractor status and fiduciary standards; and requires indemnification and specified insurance. It addresses conflicts, defaults and remedies, termination and payment on termination, and restrictions on subcontracting and assignment. It also requires tax and financial obligations to remain current, and compliance with nondiscrimination, affirmative-action, and disability laws. General provisions cover non-waiver, written amendments, no third-party rights, severability, cumulative remedies, construction, notices, entire agreement, and governing law."
+            },
+            {
+              "title": "EXHIBIT A",
+              "node_id": "0039",
+              "start_index": 75,
+              "end_index": 76,
+              "summary": "EXHIBIT A\nFUNDING AND INVESTMENT POLICY STATEMENT https://www.hartfordcitytreasurer.org/images/pdf/OPEB-IPS-amended-2023-06-30.pdf\nPage 23 of 24"
+            },
+            {
+              "title": "SCHEDULE 1",
+              "node_id": "0040",
+              "start_index": 76,
+              "end_index": 76,
+              "summary": "Additional consulting services are available at a rate stated as “between” (with no rate range provided). Other individuals working for the Consultant are charged the same professional rates. Before work begins, the Consultant must notify the Client in writing of each assigned individual’s name, position, and hourly rate. Invoices must list each individual’s weekly hours and briefly describe their work; supporting records must be kept and made available for audit under Section 17. Travel expenses for additional services are reimbursed as provided in Section 5."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

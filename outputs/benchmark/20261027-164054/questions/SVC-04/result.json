@@ -1,0 +1,165 @@
+{
+  "id": "SVC-04",
+  "question": "In the Contra Costa County Employees' Retirement Association (CCCERA) April 2018 master custodian RFP, how many copies of the proposal must be submitted, and for how long must the proposal remain a firm and irrevocable offer?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:19:37.659939+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "CCCERA required **one original proposal, four hard copies, and one electronic copy**. The proposal had to remain a **firm and irrevocable offer for one year from the May 25, 2018 proposal due date**. [CCCERA Master Custodian RFP, pp. 18, 20](CCCERA__2018_cccera_master_custodian_rfp_april_2018.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 80998,
+    "input_tokens_details": {
+      "cached_tokens": 54919,
+      "cache_write_tokens": 26058
+    },
+    "output_tokens": 283,
+    "output_tokens_details": {
+      "reasoning_tokens": 9
+    },
+    "total_tokens": 81281,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1236,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1233
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1251
+      },
+      {
+        "input_tokens": 2402,
+        "input_tokens_details": {
+          "cached_tokens": 1233,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 9
+        },
+        "total_tokens": 2436
+      },
+      {
+        "input_tokens": 7639,
+        "input_tokens_details": {
+          "cached_tokens": 2399,
+          "cache_write_tokens": 5237
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7662
+      },
+      {
+        "input_tokens": 9627,
+        "input_tokens_details": {
+          "cached_tokens": 7636,
+          "cache_write_tokens": 1988
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9665
+      },
+      {
+        "input_tokens": 9920,
+        "input_tokens_details": {
+          "cached_tokens": 9624,
+          "cache_write_tokens": 293
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9959
+      },
+      {
+        "input_tokens": 24113,
+        "input_tokens_details": {
+          "cached_tokens": 9917,
+          "cache_write_tokens": 14193
+        },
+        "output_tokens": 45,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 24158
+      },
+      {
+        "input_tokens": 26061,
+        "input_tokens_details": {
+          "cached_tokens": 24110,
+          "cache_write_tokens": 1948
+        },
+        "output_tokens": 89,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 26150
+      }
+    ]
+  },
+  "elapsed_seconds": 15.308,
+  "finished_at_utc": "2026-10-27T09:19:52.977537+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 80998,
+    "output_tokens": 283,
+    "cached_input_tokens": 54919,
+    "cache_write_tokens": 26058,
+    "reasoning_tokens": 9,
+    "total_tokens": 81281
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":60}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"CCCERA__2018_cccera_master_custodian_rfp_april_2018.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"CCCERA__2018_cccera_master_custodian_rfp_april_2018.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"CCCERA__2018_cccera_master_custodian_rfp_april_2018.pdf\",\"pages\":\"18-20\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "CCCERA__2018_cccera_master_custodian_rfp_april_2018.pdf",
+      "pages": "18-20",
+      "success": true,
+      "call_id": "call_9nJzZ9iOGWmJbGCQOhkYsrCm"
+    }
+  ],
+  "successfully_read_documents": [
+    "CCCERA__2018_cccera_master_custodian_rfp_april_2018.pdf"
+  ]
+}

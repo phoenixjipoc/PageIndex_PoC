@@ -1,0 +1,7 @@
+{
+  "question": "How many fund diligence topics does the ILPA Due Diligence Questionnaire v1.2 (2018) list in its Overview, and what is the last one?",
+  "gold_answer": "14 topics, numbered 1-14. The last is 14. Diversity and Inclusion, which was added in v1.2. The others are General Firm Information, General Fund Information, Investment Strategy, Investment Process, Team, Alignment of Interest, Market Environment, Fund Terms, Firm Governance/Risk/Compliance, ESG, Track Record, Accounting/Valuation/Reporting and Legal/Administration.",
+  "acceptance": "14 and Diversity and Inclusion suffice; list of earlier topics and version history are optional.",
+  "scope": "single_document",
+  "candidate_answer": "The Overview lists **14 fund diligence topics**. The last is **Diversity and Inclusion**. (ILPA DDQ v1.2, Overview, p. i.)"
+}

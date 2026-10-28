@@ -1,0 +1,15 @@
+{
+  "question_id": "XD-06",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "041ac08847554ca32a5bc360cbc8fab85c093f7c00c236980e2771b82750e104",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct more-than-ten threshold and Credit Facilities section.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:29.015169+00:00"
+}

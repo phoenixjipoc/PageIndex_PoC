@@ -1,0 +1,76 @@
+{
+  "prepared_at_utc": "2026-10-27T08:47:14.327679+00:00",
+  "model": "gpt-6-sol",
+  "reasoning_effort": "medium",
+  "workers": 4,
+  "timeout_seconds": 120,
+  "sdk_max_retries": 2,
+  "max_output_tokens": 2048,
+  "kind": "automatic_initial_assessment",
+  "independent_from_pageindex_generation": true,
+  "prompt_sha256": "84db26b0496b18e4af3a91098b1bfecc54a01474d8062bf7406985625d7884c3",
+  "schema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "verdict": {
+        "type": "string",
+        "enum": [
+          "correct",
+          "partial",
+          "incorrect"
+        ]
+      },
+      "score": {
+        "type": "number",
+        "enum": [
+          0,
+          0.5,
+          1
+        ]
+      },
+      "reason": {
+        "type": "string"
+      },
+      "missing_facts": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "contradictions": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "needs_review": {
+        "type": "boolean"
+      },
+      "confidence": {
+        "type": "string",
+        "enum": [
+          "low",
+          "medium",
+          "high"
+        ]
+      }
+    },
+    "required": [
+      "verdict",
+      "score",
+      "reason",
+      "missing_facts",
+      "contradictions",
+      "needs_review",
+      "confidence"
+    ]
+  },
+  "scoring": {
+    "correct": 1,
+    "partial": 0.5,
+    "incorrect_or_runtime_failure": 0
+  },
+  "judge_calls_on_runtime_failures": false,
+  "limitation": "Same model family as the answering model; labels require human review before being treated as definitive accuracy."
+}

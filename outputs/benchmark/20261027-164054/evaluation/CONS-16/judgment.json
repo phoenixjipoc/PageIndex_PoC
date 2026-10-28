@@ -1,0 +1,15 @@
+{
+  "question_id": "CONS-16",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "e6bd8f0a93990de9ba6a7acfa93c7f9e6486f94b93cce06ac36a500356d8aa5a",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct modal five-year threshold and frequency distribution. COAERS alternative is not explained in the brief issuer list; review whether this optional elaboration needs a caveat.",
+  "needs_review": true,
+  "confidence": "medium",
+  "reviewed_at_utc": "2026-10-27T09:27:02.489899+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "file": "TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf",
+  "sha256": "2497956a12898cbedacc82610a532648c786bf794f64c90116e7424a0543690e",
+  "bytes": 442309,
+  "pages": 39,
+  "public_source_url": "https://www.tmrs.com/uploads/files/general/down/investments/TMRS_RFP_General_Investment_Consulting_Services.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:09:53.166744+00:00",
+  "doc_id": "pi-0516119a90da44578e86d2eaa20e8518",
+  "stored_name": "TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf",
+  "reported_usage": {
+    "prompt_tokens": 25497,
+    "completion_tokens": 6951,
+    "total_tokens": 32448,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 14016
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1861
+    }
+  },
+  "elapsed_seconds": 29.387,
+  "finished_at_utc": "2026-10-27T09:10:22.567790+00:00",
+  "model_calls": 27,
+  "http_attempts": 27,
+  "observed_usage": {
+    "input_tokens": 25497,
+    "output_tokens": 6951,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 14016,
+    "reasoning_tokens": 1861,
+    "total_tokens": 32448
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

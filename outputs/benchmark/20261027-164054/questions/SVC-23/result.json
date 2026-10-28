@@ -1,0 +1,217 @@
+{
+  "id": "SVC-23",
+  "question": "Which audit-services RFP documents in the corpus cover audits of GASB Statement No. 68 schedules, and what does each say about that work?",
+  "type": "broad",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:17:28.989819+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "Three audit-services RFPs in the corpus expressly cover audits of **GASB Statement No. 68 schedules**:\n\n| RFP | What it requests |\n|---|---|\n| **Kern County Employees’ Retirement Association (KCERA)** | A **separate bid** for AU-C 805 opinions on stand-alone GASB 68 schedules, including employer allocations and pension amounts by employer. The auditor must opine on specified allocation and pension-amount totals, communicate as required with participating employers’ auditors, and test for differences in employer-provided member census data. The cost bid prices this work separately from the financial-statement audit. [Scope, p. 11](KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf#page=11) · [Cost bid, p. 33](KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf#page=33) |\n| **Indiana Public Retirement System (INPRS), RFP 24-05** | An **annual audit and opinion** on employer-allocation and pension-amount schedules for PERF, the two Teachers’ Retirement Fund accounts, and the 1977 Fund, plus specified non-employer and special-funding-situation schedules for TRF Pre-1996. The work also includes an independent review of actuarial assumptions, methods, and procedures under Actuarial Standard of Practice No. 4. Reports go to the Board; GASB 68 audit reports are due **January 31** each year. Proposers must detail fees for this work. [Scope, pp. 13–14](INPRS__RFP24-05_AuditServices.pdf#page=13) · [Fees, p. 12](INPRS__RFP24-05_AuditServices.pdf#page=12) |\n| **Los Angeles Fire and Police Pensions (LAFPP), RFP DCFS25-01** | **Annual audits and independent opinions** on schedules related to GASB 68 **and GASB 75**, assessing whether they are fairly presented under U.S. GAAP. The auditor must coordinate with LAFPP’s actuary and the City’s external auditor and actuary, present reports to the Board, and retain working papers for at least five years. The RFP asks for a distinct annual **GASB 68/75 audit fee**. [Scope, p. 7](LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf#page=7) · [Fee schedule, p. 16](LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf#page=16) |\n\nAn **Oklahoma OPERS Q&A accompanying an external-audit RFP** also discusses prior audits of employer-allocation and related schedules, including prior fees, staffing, and remote GASB 68/75 work. It is a Q&A rather than an RFP scope document. [Q&A, pp. 2–3](Oklahoma_OPERS__2022-03-RFP-QA-External-Audit-Services.pdf#page=2)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 130717,
+    "input_tokens_details": {
+      "cached_tokens": 76089,
+      "cache_write_tokens": 54610
+    },
+    "output_tokens": 1327,
+    "output_tokens_details": {
+      "reasoning_tokens": 66
+    },
+    "total_tokens": 132044,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1218,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1215
+        },
+        "output_tokens": 19,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1237
+      },
+      {
+        "input_tokens": 6477,
+        "input_tokens_details": {
+          "cached_tokens": 1215,
+          "cache_write_tokens": 5259
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 12
+        },
+        "total_tokens": 6514
+      },
+      {
+        "input_tokens": 9446,
+        "input_tokens_details": {
+          "cached_tokens": 6474,
+          "cache_write_tokens": 2969
+        },
+        "output_tokens": 209,
+        "output_tokens_details": {
+          "reasoning_tokens": 22
+        },
+        "total_tokens": 9655
+      },
+      {
+        "input_tokens": 10877,
+        "input_tokens_details": {
+          "cached_tokens": 9443,
+          "cache_write_tokens": 1431
+        },
+        "output_tokens": 202,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 11079
+      },
+      {
+        "input_tokens": 48086,
+        "input_tokens_details": {
+          "cached_tokens": 10874,
+          "cache_write_tokens": 37209
+        },
+        "output_tokens": 181,
+        "output_tokens_details": {
+          "reasoning_tokens": 32
+        },
+        "total_tokens": 48267
+      },
+      {
+        "input_tokens": 54613,
+        "input_tokens_details": {
+          "cached_tokens": 48083,
+          "cache_write_tokens": 6527
+        },
+        "output_tokens": 679,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 55292
+      }
+    ]
+  },
+  "elapsed_seconds": 20.876,
+  "finished_at_utc": "2026-10-27T09:17:49.870605+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 130717,
+    "output_tokens": 1327,
+    "cached_input_tokens": 76089,
+    "cache_write_tokens": 54610,
+    "reasoning_tokens": 66,
+    "total_tokens": 132044
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"INPRS__RFP24-05_AuditServices.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Oklahoma_OPERS__2022-03-RFP-QA-External-Audit-Services.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Rice_University__2021_Benefit_Plan_RFP_-_final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"INPRS__RFP24-05_AuditServices.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Oklahoma_OPERS__2022-03-RFP-QA-External-Audit-Services.pdf\",\"pages\":\"1-3\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Rice_University__2021_Benefit_Plan_RFP_-_final.pdf\",\"pages\":\"1-3\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf\",\"pages\":\"10-11,20,33\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"INPRS__RFP24-05_AuditServices.pdf\",\"pages\":\"12-14\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf\",\"pages\":\"5-7,16\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Oklahoma_OPERS__2022-03-RFP-QA-External-Audit-Services.pdf",
+      "pages": "1-3",
+      "success": true,
+      "call_id": "call_Bd6pjlYE0m2ryK4AFD3laCA6"
+    },
+    {
+      "document": "Rice_University__2021_Benefit_Plan_RFP_-_final.pdf",
+      "pages": "1-3",
+      "success": true,
+      "call_id": "call_v83GAnMQ62NwF2A4xk6yL6km"
+    },
+    {
+      "document": "KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf",
+      "pages": "10-11,20,33",
+      "success": true,
+      "call_id": "call_lSBcbhoGTihmIJv4Bu7WfOnf"
+    },
+    {
+      "document": "INPRS__RFP24-05_AuditServices.pdf",
+      "pages": "12-14",
+      "success": true,
+      "call_id": "call_3nMvUjvSF9TlrpDHLr6Ijpot"
+    },
+    {
+      "document": "LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf",
+      "pages": "5-7,16",
+      "success": true,
+      "call_id": "call_LKrHKxi3dsgfkgCMCjcR9hi2"
+    }
+  ],
+  "successfully_read_documents": [
+    "INPRS__RFP24-05_AuditServices.pdf",
+    "KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf",
+    "LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf",
+    "Oklahoma_OPERS__2022-03-RFP-QA-External-Audit-Services.pdf",
+    "Rice_University__2021_Benefit_Plan_RFP_-_final.pdf"
+  ]
+}

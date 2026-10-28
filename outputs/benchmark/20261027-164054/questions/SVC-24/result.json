@@ -1,0 +1,238 @@
+{
+  "id": "SVC-24",
+  "question": "What contract terms (initial length and any renewal or extension options) do the deferred compensation / 457 plan recordkeeping RFPs in the corpus propose?",
+  "type": "broad",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:15:04.172881+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The four deferred-compensation/457 administration and recordkeeping RFPs propose different contract terms:\n\n| RFP | Initial term | Renewal or extension options |\n|---|---|---|\n| [Temple City, California](Temple_City_CA__Recordkeeping-RFP.pdf#page=3) | **Not fixed in the RFP**; to be negotiated after selection. | Vendors are asked to price **5-, 7-, and 10-year** scenarios, but the RFP warns that purchasing rules may limit the initial term to five years. Seven- and ten-year pricing assumes a later extension, **not a guaranteed extension**. [Pricing questions](Temple_City_CA__Recordkeeping-RFP.pdf#page=47) |\n| [Delaware](Delaware__TRE21101-RECDKEEPR-rfp.pdf#page=2) | **Five years**, with the start date to be determined. | **Three one-year options**, exercisable at the Office of the State Treasurer’s discretion, subject to necessary Board approval. |\n| [Monroe County, New York](Monroe_County_NY__10406.pdf#page=6) | **Up to five years**. | **No renewal option is specified.** The committee may cancel at the end of any contract year with 30 days’ written notice; after expiration or termination, it must follow the applicable procedures for awarding a new contract. |\n| [Clark County, Washington](Clark_County_WA__-rfp-955-deferred-compensation-457-plan-administrator.pdf#page=8) | **Three years**, intended to run January 1, 2027–December 31, 2029. | Up to **seven additional one-year extensions** (potentially ten years total), by written notice before expiration. Extension costs are reviewed beforehand; other terms and conditions remain the same. |",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 237730,
+    "input_tokens_details": {
+      "cached_tokens": 158725,
+      "cache_write_tokens": 78981
+    },
+    "output_tokens": 1082,
+    "output_tokens_details": {
+      "reasoning_tokens": 140
+    },
+    "total_tokens": 238812,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1219,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1216
+        },
+        "output_tokens": 25,
+        "output_tokens_details": {
+          "reasoning_tokens": 8
+        },
+        "total_tokens": 1244
+      },
+      {
+        "input_tokens": 2395,
+        "input_tokens_details": {
+          "cached_tokens": 1216,
+          "cache_write_tokens": 1176
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 13
+        },
+        "total_tokens": 2433
+      },
+      {
+        "input_tokens": 7636,
+        "input_tokens_details": {
+          "cached_tokens": 2392,
+          "cache_write_tokens": 5241
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7659
+      },
+      {
+        "input_tokens": 9624,
+        "input_tokens_details": {
+          "cached_tokens": 7633,
+          "cache_write_tokens": 1988
+        },
+        "output_tokens": 155,
+        "output_tokens_details": {
+          "reasoning_tokens": 21
+        },
+        "total_tokens": 9779
+      },
+      {
+        "input_tokens": 10698,
+        "input_tokens_details": {
+          "cached_tokens": 9621,
+          "cache_write_tokens": 1074
+        },
+        "output_tokens": 136,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10834
+      },
+      {
+        "input_tokens": 59333,
+        "input_tokens_details": {
+          "cached_tokens": 10695,
+          "cache_write_tokens": 48635
+        },
+        "output_tokens": 53,
+        "output_tokens_details": {
+          "reasoning_tokens": 13
+        },
+        "total_tokens": 59386
+      },
+      {
+        "input_tokens": 67841,
+        "input_tokens_details": {
+          "cached_tokens": 59330,
+          "cache_write_tokens": 8508
+        },
+        "output_tokens": 196,
+        "output_tokens_details": {
+          "reasoning_tokens": 22
+        },
+        "total_tokens": 68037
+      },
+      {
+        "input_tokens": 78984,
+        "input_tokens_details": {
+          "cached_tokens": 67838,
+          "cache_write_tokens": 11143
+        },
+        "output_tokens": 456,
+        "output_tokens_details": {
+          "reasoning_tokens": 63
+        },
+        "total_tokens": 79440
+      }
+    ]
+  },
+  "elapsed_seconds": 27.744,
+  "finished_at_utc": "2026-10-27T09:15:31.924368+00:00",
+  "model_calls": 8,
+  "http_attempts": 8,
+  "observed_usage": {
+    "input_tokens": 237730,
+    "output_tokens": 1082,
+    "cached_input_tokens": 158725,
+    "cache_write_tokens": 78981,
+    "reasoning_tokens": 140,
+    "total_tokens": 238812
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":60}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Temple_City_CA__Recordkeeping-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Monroe_County_NY__10406.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Delaware__TRE21101-RECDKEEPR-rfp.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Clark_County_WA__-rfp-955-deferred-compensation-457-plan-administrator.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Temple_City_CA__Recordkeeping-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Delaware__TRE21101-RECDKEEPR-rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Clark_County_WA__-rfp-955-deferred-compensation-457-plan-administrator.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Monroe_County_NY__10406.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Delaware__TRE21101-RECDKEEPR-rfp.pdf\",\"part\":2}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Temple_City_CA__Recordkeeping-RFP.pdf\",\"pages\":\"3-4,47-49\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Delaware__TRE21101-RECDKEEPR-rfp.pdf\",\"pages\":\"2-3,62-64\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Clark_County_WA__-rfp-955-deferred-compensation-457-plan-administrator.pdf\",\"pages\":\"8-9,57-58\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Monroe_County_NY__10406.pdf\",\"pages\":\"6-8\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Temple_City_CA__Recordkeeping-RFP.pdf",
+      "pages": "3-4,47-49",
+      "success": true,
+      "call_id": "call_PolwGKJmN6ynTYHTXBO5P7bR"
+    },
+    {
+      "document": "Delaware__TRE21101-RECDKEEPR-rfp.pdf",
+      "pages": "2-3,62-64",
+      "success": true,
+      "call_id": "call_xvQXdJ2sysQzZm595lE91Jsb"
+    },
+    {
+      "document": "Clark_County_WA__-rfp-955-deferred-compensation-457-plan-administrator.pdf",
+      "pages": "8-9,57-58",
+      "success": true,
+      "call_id": "call_9ziEFmwQkydpclX4XHkNke5Q"
+    },
+    {
+      "document": "Monroe_County_NY__10406.pdf",
+      "pages": "6-8",
+      "success": true,
+      "call_id": "call_PbzKytmmbK20dW9H2qU0xHIN"
+    }
+  ],
+  "successfully_read_documents": [
+    "Clark_County_WA__-rfp-955-deferred-compensation-457-plan-administrator.pdf",
+    "Delaware__TRE21101-RECDKEEPR-rfp.pdf",
+    "Monroe_County_NY__10406.pdf",
+    "Temple_City_CA__Recordkeeping-RFP.pdf"
+  ]
+}

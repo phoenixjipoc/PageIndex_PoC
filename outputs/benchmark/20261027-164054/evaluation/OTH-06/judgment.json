@@ -1,0 +1,15 @@
+{
+  "question_id": "OTH-06",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "8db31b7002063360a52874cfde45e80720e01410b1cb1ab7659df74a9bfea4fc",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct approximately $167m and Lincoln Financial.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:27:19.671716+00:00"
+}

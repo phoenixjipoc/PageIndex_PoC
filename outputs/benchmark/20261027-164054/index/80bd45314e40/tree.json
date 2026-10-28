@@ -1,0 +1,40 @@
+{
+  "doc_id": "pi-893606bf5606417e9f3b5e97ec3d4160",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "ILPA ESG Assessment Framework: Overview and Considerations",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 1,
+      "key_items": [
+        "Overview",
+        "Key Considerations"
+      ],
+      "summary": "ILPA’s ESG Assessment Framework helps limited partners evaluate and benchmark general partners’ ESG integration, guide goal-setting discussions, and track progress. It groups practices into four stages: Not Present, Developing, Intermediate, and Advanced. Intended as a representative, non-exhaustive resource—not a comprehensive best-practice guide—it should be adapted as practices evolve. First released in 2021 and revised in September 2024, the Framework will be updated periodically; ILPA welcomes community feedback and questions. It was developed with mid- and large-cap buyout managers in mind, so its use in other private-market asset classes is only a starting point. LPs should account for smaller managers’ resources and peer context when setting expectations. Descriptions are directional, do not replace local or regulatory requirements, may omit evolving or subjective advanced practices, and are not a one-size-fits-all approach; they support analysis and dialogue with GPs."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "node_id": "0001",
+      "start_index": 1,
+      "end_index": 3,
+      "key_items": [
+        "What market sizes are the framework intended for? Can I use the framework for other market sizes?",
+        "p.2",
+        "What asset class was this framework created for? Can I use the framework for other asset classes, including venture capital, real estate, infrastructure, and private credit?",
+        "Why are Responsiveness to Diversity, Equity, and Inclusion and Climate Risks and Opportunities broken out as separate sections?",
+        "Is it leading practice to invest only with GPs who rank in intermediate/leading categories?",
+        "What about situations where a GP invests but does not have a majority ownership stake in a portfolio company? Do the practices outlined in the framework still apply?",
+        "Can the ESG Assessment Framework be used in conjunction with the ILPA Due Diligence Questionnaire?",
+        "p.3",
+        "Has ILPA considered assigning scores or grades to each category?",
+        "Where can I find additional resources pertaining to ESG?",
+        "I have identified a best practice that is not included in the framework or have a suggestion to update the framework. Can I send these to ILPA for consideration?"
+      ],
+      "summary": "The FAQ explains that the framework targets mid-to-large-cap private equity buyout managers; smaller managers should be assessed relative to peers, and other asset classes may require adjustments. DEI and climate are separate sections because many LPs prioritize them and need topic-specific guidance. The framework is not a reason to avoid GPs with developing ESG practices: it supports assessment, monitoring, and dialogue. For minority investments, GPs may have limited influence or data access, so LPs should discuss their approach and coordination with majority investors. The framework complements ILPA’s Due Diligence Questionnaire, with a worksheet linking relevant questions to assessment categories. ILPA avoids fixed scores; LPs may create organization-specific, directional scoring using the worksheet. Suggested resources include ILPA ESG and DEI hubs, UNPRI, ESG Data Convergence Initiative, Private Markets Decarbonization Roadmap, IFRS/ISSB, TCFD, and IIGCC; SASB is now part of IFRS, and IFRS monitors climate-disclosure progress after TCFD disbanded. Feedback may be sent to esg@ilpa.org; ILPA may update the adaptable, non-prescriptive framework."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

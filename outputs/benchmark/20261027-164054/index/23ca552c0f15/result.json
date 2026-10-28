@@ -1,0 +1,43 @@
+{
+  "file": "Monroe_County_NY__10406.pdf",
+  "sha256": "0009fc15703c29976e4a56a3bfbc33c82cb21fa366e48dd68f3d74fd38a41130",
+  "bytes": 671723,
+  "pages": 18,
+  "public_source_url": "https://webapps.monroecounty.gov/bid/list/dl/10406?k=fdd849494b",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:01:40.217562+00:00",
+  "doc_id": "pi-2c40050da7204d50ac013cebc24c39c8",
+  "stored_name": "Monroe_County_NY__10406.pdf",
+  "reported_usage": {
+    "prompt_tokens": 11553,
+    "completion_tokens": 3078,
+    "total_tokens": 14631,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 5653
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 801
+    }
+  },
+  "elapsed_seconds": 13.478,
+  "finished_at_utc": "2026-10-27T09:01:53.710592+00:00",
+  "model_calls": 12,
+  "http_attempts": 12,
+  "observed_usage": {
+    "input_tokens": 11553,
+    "output_tokens": 3078,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 5653,
+    "reasoning_tokens": 801,
+    "total_tokens": 14631
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

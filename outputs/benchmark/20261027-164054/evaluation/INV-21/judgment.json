@@ -1,0 +1,15 @@
+{
+  "question_id": "INV-21",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "14238b73324f2587fa0bb243b2106828891ce6e03efd1bbc09efb3b63eaef8fc",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "All ten selection criteria are retained.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:25:58.844219+00:00"
+}

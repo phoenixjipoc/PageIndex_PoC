@@ -1,0 +1,15 @@
+{
+  "question_id": "XD-03",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "9cd3312c5ea006cdd10dc191ebd420eeee996bfac5b02685b9952fa73aba882e",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct grouped count and both representatives.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:28.991444+00:00"
+}

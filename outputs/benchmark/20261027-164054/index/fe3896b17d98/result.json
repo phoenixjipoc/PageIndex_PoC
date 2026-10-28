@@ -1,0 +1,43 @@
+{
+  "file": "IMRF__sample-investment-consulting-rfp.pdf",
+  "sha256": "d28ed3932f3455e5ae01d72118308b34930b05a507ceb6b0daece40ea2ae0445",
+  "bytes": 191530,
+  "pages": 31,
+  "public_source_url": "https://www.imrf.org/cmsmedia/files/multi-site-files/investments/rfps/sample-investment-consulting-rfp.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:53:59.602294+00:00",
+  "doc_id": "pi-a21e60e3233e4c45b80cdc15b25e284a",
+  "stored_name": "IMRF__sample-investment-consulting-rfp.pdf",
+  "reported_usage": {
+    "prompt_tokens": 24727,
+    "completion_tokens": 7240,
+    "total_tokens": 31967,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 8452
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1753
+    }
+  },
+  "elapsed_seconds": 21.363,
+  "finished_at_utc": "2026-10-27T08:54:20.976190+00:00",
+  "model_calls": 31,
+  "http_attempts": 31,
+  "observed_usage": {
+    "input_tokens": 24727,
+    "output_tokens": 7240,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 8452,
+    "reasoning_tokens": 1753,
+    "total_tokens": 31967
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

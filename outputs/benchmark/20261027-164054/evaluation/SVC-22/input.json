@@ -1,0 +1,7 @@
+{
+  "question": "What are the proposal submission deadlines in the custody (master custodian / global custody) RFPs in the corpus?",
+  "gold_answer": "OCERS (custody services RFP, Oct 2022): 5:00 p.m. PST, November 15, 2022. CCCERA (master custodian RFP, Apr 2018): 5:00 p.m. PT, Friday, May 25, 2018. TMRS (global custody RFP, Dec 2020): January 27, 2021 by 5:00 PM CT. SBCERS (custody RFP): February 2, 2024, 6 PM ET (by email).",
+  "acceptance": "Require four issuers with dates, times and time zones. Equivalent time-zone conversions are acceptable if explicit. 'By email' and issuance dates are optional.",
+  "scope": "required_combination",
+  "candidate_answer": "The corpus contains four custody RFPs with these **proposal submission deadlines**:\n\n| RFP | Deadline |\n|---|---|\n| CCCERA — Master Custodian and Related Services | **May 25, 2018, 5:00 p.m. PT**. [RFP, p. 13](CCCERA__2018_cccera_master_custodian_rfp_april_2018.pdf#page=13) |\n| TMRS — Global Custody and Related Services | **January 27, 2021, 5:00 p.m. CT**. [RFP, p. 18](TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf#page=18) |\n| OCERS — Custody Services | **November 15, 2022, 5:00 p.m. PST**. [RFP, p. 4](OCERS__custodian_rfp_2022-2023.pdf#page=4) |\n| SBCERS — Global Custody and Related Services | **February 2, 2024, 6:00 p.m. ET**. [RFP, p. 23](SBCERS__01_2023-SBCERS-Custody-RFP-CONSOLIDATED-Final-Updated.pdf#page=23) |"
+}

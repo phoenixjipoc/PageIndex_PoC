@@ -1,0 +1,366 @@
+{
+  "doc_id": "pi-5fdf50719e3d461ab5275b3e5e49ad6a",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 4,
+      "summary": "The document is the Employees’ Retirement System of the State of Hawaii’s Request for Proposals for Private Equity Consultant Services (RFP 2022-04), issued August 29, 2022. Firms must register with ERS to receive addenda; the material is restricted to authorized RFP respondents. It outlines administrative and procurement rules, including authority, contacts, timetable, communications, submissions, proposal opening and late bids, best and final offers, errors, costs, disqualification, amendments, cancellation, unforeseen events, bonds, contract award, debriefing, and Hawaii business requirements. Proposal instructions cover the introduction, cover letter, contact and legal details, signatures, tax IDs, licenses, subcontracting, nondiscrimination, ERS approval, contract terms, and confidential information. Evaluation proceeds through mandatory screening, priority-list formation, interviews, final evaluation, and award. The scope section addresses the agreement period, compensation, multi-term solicitation, liaison and authorization, and services. Appendices include mandatory-requirements certification, fee proposal, and questionnaire."
+    },
+    {
+      "title": "ATTACHMENT A -- SAMPLE CONTRACT",
+      "node_id": "0001",
+      "start_index": 4,
+      "end_index": 5,
+      "summary": "ATTACHMENT A -- SAMPLE CONTRACT\niii\nThe information contained herein is for use only by persons expressly authorized by ERS. The information shall be used only for responding to this RFP and is not for general distribution within or outside the respective companies. All Rights Reserved 2022.Employees’ Retirement System of the State of Hawaii\nPrivate Equity Consultant Services Request for Proposals"
+    },
+    {
+      "title": "ADMINISTRATIVE OVERVIEW",
+      "node_id": "0002",
+      "start_index": 5,
+      "end_index": 16,
+      "summary": "Describes Hawaii ERS, its membership, governance, assets and private-equity program, and its search for consulting services; identifies the RFP’s legal authority and procurement contact. Covers the procurement timetable, question process and communication restrictions; proposal deadlines, format, required copies and contents; rules for modifications, withdrawals, opening, late submissions, mistakes, discussions and best-and-final offers. Explains offeror-paid preparation and travel costs, disqualification grounds, ERS’s authority to amend or cancel the RFP, reject proposals, waive minor irregularities and award without negotiations. Sets out acceptance, contract execution, debriefing and protest deadlines, and Hawaii business, tax, insurance and ongoing compliance requirements. Specifies proposal qualifications, fees, forms, disclosures, certifications, contract acceptance and confidentiality/public-records treatment. RFP information is restricted to authorized response-related use.",
+      "nodes": [
+        {
+          "title": "Hawaii ERS Background and Consulting RFP",
+          "node_id": "0003",
+          "start_index": 5,
+          "end_index": 5,
+          "key_items": [
+            "I. Background",
+            "II. Purpose"
+          ],
+          "summary": "Hawaii’s Employees’ Retirement System (ERS), established under Chapter 88 HRS, provides retirement benefits through contributory and non-contributory defined-benefit programs for more than 74,000 active and vested members and 45,000 retirees and beneficiaries across five state and county employer groups. A Board of Trustees directs ERS policy and executive functions, with some administrative control held by the Department of Budget and Finance. As of December 31, 2021, ERS had over $22.5 billion invested; its Private Growth portfolio spans more than 103 general-partner relationships and 230 limited partnerships, covering multiple private-equity strategies. Its 2014 risk framework was followed by a 2016 target allocation of 13.5%, with a maximum of 25%. Investment information and the ACFR are available online. ERS seeks proposals for private-equity investment consulting and may award one or more contracts. Respondents should explain their distinctive value, answer succinctly, and identify unavailable services. RFP information is restricted to authorized proposal use and must not be generally distributed."
+        },
+        {
+          "title": "RFP Authority and Procurement Contact",
+          "node_id": "0004",
+          "start_index": 6,
+          "end_index": 6,
+          "key_items": [
+            "III. Authority",
+            "IV. Procurement Officer and Contract Administrator"
+          ],
+          "summary": "The RFP is issued under Chapters 88 and 103D of the Hawaii Revised Statutes and implementing rules. Offerors are presumed to know these requirements, and submitting a valid executed proposal represents that knowledge. Using the Chapter 103D RFP process does not waive applicable exemptions or make the procurement subject to other Chapter 103D provisions. The Employees’ Retirement System of the State of Hawaii issued the RFP; its Procurement Officer and Contract Administrator is Executive Director Thomas Williams, at City Financial Tower, 201 Merchant Street, Suite 1400, Honolulu, HI 96813; phone (808) 586-1700; fax (808) 586-1677."
+        },
+        {
+          "title": "V. Procurement Timetable",
+          "node_id": "0005",
+          "start_index": 6,
+          "end_index": 7,
+          "summary": "The procurement schedule lists: RFP release August 29, 2022; questions due September 13 by 4:30 p.m. HST, with ERS responses September 19; proposals due September 30 by 4:30 p.m. HST; priority-offeror determination October 3–12; optional ERS facility visits December 1–9; Honolulu oral presentations January 18–20, 2023; best and final offers due January 27 by 4:30 p.m. HST; contractor selection and award around February 14; and service initiation April 1, 2023. Dates are estimates and ERS may revise them, notifying offerors through the addendum process in Paragraph XIII. Priority-listed offerors must present in Honolulu, with ERS staff arranging each presentation’s time and location. The information is restricted to ERS-authorized persons for preparing an RFP response and must not be generally distributed."
+        },
+        {
+          "title": "VI. Communications and Questions",
+          "node_id": "0006",
+          "start_index": 7,
+          "end_index": 7,
+          "summary": "Offerors and their agents may not contact ERS trustees or staff about the RFP. Current ERS vendors may contact them only about existing business, not the RFP. Requests for information must be submitted in writing (fax or email) to the Procurement Officer, the sole point of contact from RFP release through selection. Questions are due by 4:30 p.m. Hawaii Standard Time on September 13, 2022; ERS will answer in writing through the addendum process described in Paragraph XIII."
+        },
+        {
+          "title": "VII. Submission of Proposals",
+          "node_id": "0007",
+          "start_index": 7,
+          "end_index": 8,
+          "summary": "Offerors must review the solicitation, amendments, contract forms, and applicable documents and rules; submitting a proposal represents that they have carefully examined and understand the work and requirements. Each qualified offeror may submit one proposal, with separate fee proposals permitted for each mandate; alternate proposals are otherwise prohibited. Proposals must use the specified RFP title and be received by 4:30 p.m. Hawaii Standard Time on September 30, 2022, in a sealed package addressed to the Procurement Officer identified in Paragraph IV. Required materials include a marked master, 15 hard copies (one unbound), electronic copies of the long questionnaire (Word or PDF) and Excel questionnaire response, and a bookmarked PDF proposal and questionnaire materials on CD or USB. The package cover must identify the RFP and firm. Information is restricted to authorized ERS use for responding to this RFP and may not be generally distributed. Faxed and emailed proposals are not accepted."
+        },
+        {
+          "title": "VIII. Receipt, Opening and Recording of Proposals; Late Proposals",
+          "node_id": "0008",
+          "start_index": 8,
+          "end_index": 9,
+          "summary": "Proposals and modifications are time-stamped and secured until the deadline. Before then, offerors may modify or withdraw proposals through specified written, fax, or email notices; fax/email modifications must be followed by the actual modification in a sealed submission within two working days. Offerors may withdraw and resubmit only before the final deadline. Proposals are opened privately by at least two procurement officials and disclosed only to authorized personnel. A register listing offerors and modification counts becomes publicly inspectable after award. Late submissions, changes, and withdrawals are generally rejected, except when ERS personnel caused the delay; rejected late withdrawals receive an explanation. Priority-listed offerors may submit best and final offers. Before award, suspected mistakes prompt a request for confirmation; correction or withdrawal may be allowed. During discussions, priority-listed offerors may correct or withdraw until the best-and-final deadline. Otherwise, clearly evidenced intended corrections are made without withdrawal; material mistakes may permit withdrawal under stated evidence conditions. ERS may waive or allow cures for minor irregularities and conduct discussions as needed. RFP information is restricted to authorized response-related use."
+        },
+        {
+          "title": "XI. Costs for Proposal Preparation",
+          "node_id": "0009",
+          "start_index": 9,
+          "end_index": 9,
+          "summary": "XI. Costs for Proposal Preparation\nExpenses for the development and submission of responses to the RFP are the sole responsibility of the organization submitting the response. Travel and expenses to and from the State of Hawaii are also the sole responsibility of the organization submitting the response."
+        },
+        {
+          "title": "XII. Disqualification of Proposals",
+          "node_id": "0010",
+          "start_index": 9,
+          "end_index": 10,
+          "summary": "ERS may reject proposals that fail to meet RFP requirements or demonstrate understanding of the work, or that offer contradictory terms. Grounds for disqualification include collusion, poor past responsibility or cooperation, legal noncompliance, conditional/incomplete/ambiguous submissions, prohibited reservation clauses, lateness, State contract arrears or defaults, inadequate experience, and conflicts of interest or impaired independence. ERS may amend the RFP by consecutively numbered addenda before the submission deadline and will answer questions through addenda. It may cancel the RFP or reject any proposals when in its best interests, and may modify the contract for circumstances beyond its control. No bid, performance, or payment bonds are required. Acceptance follows the procurement timetable; ERS alone judges capability, and the successful offeror is notified by letter. ERS may award based on written responses without discussion or negotiation. Submitting a proposal signifies acceptance of all provisions in the sample contract (Attachment A). RFP information is restricted to authorized persons and use for responding to this RFP."
+        },
+        {
+          "title": "RFP Rejections, Amendments, and Contract Conditions",
+          "node_id": "0011",
+          "start_index": 10,
+          "end_index": 10,
+          "key_items": [
+            "XIII. RFP Amendments and Addendum",
+            "XIV. Cancellation of Request for Proposals/Rejections of Proposals",
+            "XV. Uncertainties Beyond the Control of the ERS",
+            "XVI. Proposal Bonds; Performance and/or Payment Bonds"
+          ],
+          "summary": "Proposals may be rejected for an offeror’s poor responsibility or cooperation history, legal noncompliance, conditional or unclear terms, unauthorized reservations or conflicting provisions, late submission, state contract arrears or defaults, insufficient experience, or conflicts of interest or impaired independence. Before the response deadline, ERS may amend the RFP by consecutively numbered addenda sent to participating parties, including to answer questions. ERS may cancel the RFP or reject any or all proposals, in whole or in part, when in its best interests. If circumstances beyond ERS’s control significantly affect service delivery, ERS may modify the agreement. No bid bond is required, and no performance or payment bond will be required."
+        },
+        {
+          "title": "XVII. Acceptance of Proposal and Execution of Contract",
+          "node_id": "0012",
+          "start_index": 10,
+          "end_index": 11,
+          "summary": "Proposal acceptance will follow the Procurement Timetable. Offerors must be capable of performing the RFP and contract requirements, with ERS as sole judge; the successful offeror will receive written notice of award. ERS may award based on written responses without discussion or negotiation. Submitting a proposal signifies acceptance of Attachment A’s sample contract unless the offeror identifies objections and proposes alternative language; ERS may negotiate contract terms. The contract consists of the RFP and amendments plus negotiated terms. The awardee must sign and return the contract within ten days of receipt, or an allowed extension; it is not binding on ERS until all parties properly execute it. If the awardee fails to contract within the deadline, ERS may consider the next-highest-ranked offeror or seek new proposals if in its best interest. RFP information is restricted to authorized persons and use in responding to the RFP, and may not be generally distributed."
+        },
+        {
+          "title": "XVIII. Debriefing",
+          "node_id": "0013",
+          "start_index": 11,
+          "end_index": 11,
+          "summary": "Nonselected offerors may request a debriefing in writing from the Procurement Officer or designee within three working days after the award notice is posted. If requested, a combined debriefing will be held, generally within seven working days of the first request, in person or by telephone at ERS’s discretion. It will take place at the Employees’ Retirement System of the State of Hawaii, City Financial Tower, 201 Merchant Street, Suite 1400, Honolulu, HI 96813. Any protest following the debriefing must be filed within five working days under HAR §103D-303(h)."
+        },
+        {
+          "title": "XIX. Requirements for Doing Business in the State of Hawaii",
+          "node_id": "0014",
+          "start_index": 11,
+          "end_index": 13,
+          "summary": "Before contract award, Hawaii Administrative Rules require the successful offeror to prove compliance with HRS chapters covering general excise tax, unemployment insurance, workers’ compensation, temporary disability insurance, and prepaid health care, and to be either organized/registered in Hawaii or registered to do business there. Proof may be provided through Hawaii Compliance Express (HCE), which issues a Certificate of Vendor Compliance; a compliant certificate is accepted for contracting and final payment. Failure to submit it timely may prevent an otherwise responsive and responsible offeror from receiving the award. Contractors must maintain compliance throughout the contract, including extensions, and for final payment. ERS may check periodically and may withhold all payments while the certificate shows “Not Compliant” or “Expired”; withholding is not a breach, excuse for nonperformance, or basis for interest. The document also restricts its information to authorized users responding to this RFP and prohibits general distribution."
+        },
+        {
+          "title": "PROPOSAL",
+          "node_id": "0015",
+          "start_index": 13,
+          "end_index": 16,
+          "summary": "The proposal must describe the offeror’s qualifications, availability, and compensation, and include a cover letter, mandate-specific questionnaires, Forms ADV Parts I and II, code of ethics, references, fee proposal, sample reports, financial statement, and mandatory-requirements certification. Addressed to the Procurement Officer, the cover letter must provide contact details, confirm compliance with the RFP, acknowledge amendments, identify the legal and contracting entities and jurisdiction, and be signed by an authorized person with supporting proof of authority. It must include the federal tax ID, Hawaii GET ID or commitment to obtain one, required licenses and certificates, and Hawaii business registration before work begins. Offerors must disclose subcontracting or assignment and subcontractor qualifications, affirm nondiscrimination, and acknowledge ERS’s Board may reject recommendations conflicting with its policy or fiscal interests. Offerors must accept Attachment A’s sample contract or identify proposed changes; substantive changes may be rejected or deemed unresponsive. Proprietary material must be clearly marked and separable; the entire proposal and fee proposal cannot be confidential, and public inspection is governed by Hawaii law. The material is restricted to authorized RFP use.",
+          "nodes": [
+            {
+              "title": "RFP Proposal and Cover Letter Requirements",
+              "node_id": "0016",
+              "start_index": 13,
+              "end_index": 13,
+              "key_items": [
+                "I. Introduction",
+                "II. Cover Letter",
+                "i. Contact Information",
+                "ii. Terms and Conditions of RFP"
+              ],
+              "summary": "The proposal must describe the offeror’s qualifications, availability, and proposed compensation, and include a cover letter, separate questionnaire for each mandate, Forms ADV Parts I and II, code of ethics, references, fee proposal, sample reports, financial statement, and mandatory requirements certification. The cover letter, addressed to the Procurement Officer and treated as part of the proposal, must provide the offeror’s name, address, telephone and fax numbers, and email address; confirm understanding of and compliance with all RFP terms and conditions; and acknowledge receipt of all RFP amendments and addenda."
+            },
+            {
+              "title": "iii. Legal Entity",
+              "node_id": "0017",
+              "start_index": 13,
+              "end_index": 14,
+              "summary": "The RFP cover letter must identify the offeror’s legal entity, contracting name, and (for entities) jurisdiction of organization. It must be signed by someone authorized to bind the offeror, with supporting proof of authority appropriate to the entity type. It must include the federal tax ID, a Hawaii GET ID or commitment to obtain one before work begins, and a statement confirming required current licenses plus copies of licenses and certificates and proof of Hawaii business registration before work begins. The offeror must state whether work will be subcontracted or assigned, disclose any proposed subcontracting and subcontractor qualifications (which will be evaluated), affirm nondiscrimination in employment and practices, and acknowledge ERS’s right to reject recommendations that conflict with its policy or fiscal interests, as determined by its Board of Trustees."
+            },
+            {
+              "title": "Offeror Requirements and ERS Rights",
+              "node_id": "0018",
+              "start_index": 14,
+              "end_index": 14,
+              "key_items": [
+                "Authorized Signature",
+                "Federal Tax ID No.",
+                "Hawaii General Excise Tax ID No.",
+                "Current Licenses and Registration",
+                "Subcontracting of Services",
+                "Non-discrimination",
+                "ERS Approval of Contractor’s Recommendations"
+              ],
+              "summary": "The cover letter must be signed by someone authorized to bind the offeror, with supporting authority documents appropriate to its entity type. It must include the federal tax ID and a Hawaii GET ID or a commitment to obtain one before work begins. The offeror must affirm it holds required licenses and provide accurate copies, and show Hawaii business registration before work begins. It must state whether work will be subcontracted or assigned; subcontracting scope and subcontractor qualifications factor into evaluation. It must affirm nondiscrimination in employment and practices across the listed protected categories. The offeror must acknowledge ERS’s right, as determined by its Board of Trustees, to reject recommendations conflicting with its policy or fiscal interests without penalty. The page’s information is restricted to authorized persons for responding to the RFP, is not for general distribution, and is protected by a 2012 all-rights-reserved notice."
+            },
+            {
+              "title": "xi. Terms and Conditions of Contract",
+              "node_id": "0019",
+              "start_index": 15,
+              "end_index": 15,
+              "summary": "xi. Terms and Conditions of Contract\nAffirm that the provisions of the sample contract in Attachment A are acceptable or state any proposed modifications. ERS reserves the right to decline or classify as “unresponsive” any substantive changes, modifications, or revisions to the provisions of the sample contract."
+            },
+            {
+              "title": "III. Confidential or Proprietary Information",
+              "node_id": "0020",
+              "start_index": 15,
+              "end_index": 16,
+              "summary": "III. Confidential or Proprietary Information\nThe offeror shall designate those portions of the proposal that contains trade secrets or other proprietary data/information that the offeror wishes to remain confidential. This information must be clearly marked and readily separable from the proposal to facilitate public inspection of the non- confidential portions. Any request for public inspection is subject to the requirements of Chapter 92F, Hawaii Revised Statutes. The entire proposal CANNOT be considered confidential. The fee proposal CANNOT be considered confidential.\n14 of 37\nThe information contained herein is for use only by persons expressly authorized by ERS. The information shall be used only for responding to this RFP and is not for general distribution within or outside the respective companies. All Rights Reserved 2012.Employees’ Retirement System of the State of Hawaii\nPrivate Equity Consultant Services Request for Proposals"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PROPOSAL EVALUATION",
+      "node_id": "0021",
+      "start_index": 16,
+      "end_index": 17,
+      "key_items": [
+        "I. Introduction; II. Evaluation Process; III. Evaluation Criteria",
+        "I. Introduction",
+        "II. Evaluation Process",
+        "III. Evaluation Criteria",
+        "IV. Phase 1 – Evaluation of Minimum Qualifications and Mandatory Requirements of all offerors"
+      ],
+      "summary": "ERS seeks the highest-quality investment consultant through a fair, competitive process, but may select an offeror other than the lowest-cost bidder or make no award. A Procurement Officer-appointed committee evaluates timely proposals in six phases: minimum qualifications and mandatory requirements; priority-list formation; optional due diligence and facility inspections; best and final offers; Board interviews of priority finalists; and award. Criteria in RFP Sections V and VII govern evaluation and ranking, though ERS may revise them or other RFP terms before final submissions. Phase 1 uses pass/no-pass review; failure may result in rejection, and only passing proposals advance. Minimum qualifications are: registration under the Investment Advisers Act of 1940; ten years’ domestic and international private equity/debt consulting experience; service to at least one public defined-benefit retirement system with over $5 billion in assets; U.S. principal place of business and U.S. service of process; and seven years’ relevant experience for the assigned lead consultant. Required submissions include a cover letter, questionnaire, ADV Parts 1 and 2, ethics code, references, fee proposal, sample reports, financial statement, and qualifications certification. RFP information is restricted to authorized response use, not general distribution."
+    },
+    {
+      "title": "Offeror Evaluation, Due Diligence, and Final Offers",
+      "node_id": "0022",
+      "start_index": 18,
+      "end_index": 18,
+      "key_items": [
+        "V. Phase 2 – Establishment of Priority List of Offerors",
+        "CRITERIA",
+        "VI. Phase 3 – Due diligence and facilities inspections (optional) by ERS Evaluation Committee; VII. Phase 4 – Best and Final Offers",
+        "VI. Phase 3 – Due diligence and facilities inspections (optional) by ERS Evaluation Committee",
+        "VII. Phase 4 – Best and Final Offers"
+      ],
+      "summary": "Phase 2 classifies offerors who pass minimum requirements as acceptable or potentially acceptable; if more than three qualify, the committee ranks the three strongest preliminary proposals. Criteria are ability (40 points), philosophy and approach (30), firm and consultant stability and experience (20), fees (5), and client references (5). ERS may revise the criteria or other RFP terms before final submissions. In optional Phase 3, ERS may inspect priority-listed firms’ facilities December 1–9, 2022, and the Board may interview them in Honolulu January 18–21, 2023. In Phase 4, best and final offers are due by 4:30 p.m. HST January 27, 2023; absent a new offer, the prior offer becomes final. The page also restricts the RFP information to authorized use for responding to the RFP and prohibits general distribution."
+    },
+    {
+      "title": "VIII. Phase 5 –- Board Interviews with Priority Finalist Offerors",
+      "node_id": "0023",
+      "start_index": 19,
+      "end_index": 19,
+      "key_items": [
+        "CRITERIA"
+      ],
+      "summary": "In Phase 5, ERS conducts final evaluations of priority-listed offerors’ proposals. The 100-point criteria are ability to perform the RFP services—including resources, knowledge, independent judgment, discretionary mandates, and conflict avoidance (30 points); fees (20); philosophy, process, approach, and understanding of ERS needs (30); firm and proposed consultants’ stability, relevant history, and experience (15); and client references (5). Fee points are calculated using the lowest proposal fee: for the first three years, lowest fee × 15 ÷ evaluated fee; for five years, lowest fee × 10 ÷ evaluated fee."
+    },
+    {
+      "title": "IX. Phase 6 – Award",
+      "node_id": "0024",
+      "start_index": 19,
+      "end_index": 20,
+      "summary": "The ERS Board of Trustees makes the final award selection. This restricted-use RFP seeks comprehensive pension investment consulting services. Contractors must be registered investment advisers under the Investment Advisers Act of 1940 when proposals are submitted; the ERS may select one or more and will use an agreement substantially like Attachment B. The agreement begins around April 1, 2023, runs three years, and may be extended by ERS for two years, with an extension decision in 2026 and expiration in 2026 or 2028. Final payment follows receipt of the expiring year’s December 31 quarterly performance report and other required materials. ERS may extend the term at no extra cost solely to complete investment manager or custodian searches already underway. Annual fixed fees are paid quarterly, with quarterly statements. Other work requires advance written approval and is billed on completion. Statements must detail services sufficiently to support payment; ERS processes claims under its standard procedures. The document is for authorized RFP use only, not general distribution, and carries a 2012 rights notice."
+    },
+    {
+      "title": "ERS Private Equity Consulting Scope and Agreement Period",
+      "node_id": "0025",
+      "start_index": 20,
+      "end_index": 20,
+      "key_items": [
+        "SCOPE OF WORK",
+        "I. Introduction",
+        "II. Agreement Period"
+      ],
+      "summary": "The RFP seeks comprehensive investment advisory and consulting services for the Employees’ Retirement System of Hawaii. Contractors must be registered investment advisers under the Investment Advisers Act of 1940 when submitting proposals; the ERS may select one or more contractors, who will enter an agreement substantially in the form of Attachment B. The agreement begins around April 1, 2023, runs for three years, and may be extended by the ERS for two years. The ERS will decide in 2026: without an extension, the contract expires in 2026; with one, it expires in 2028. Final payment follows receipt of the December 31 quarterly performance report and other required materials for the expiring year. The ERS may also extend the agreement, at no added cost, solely to complete investment manager or custodian bank searches already in progress."
+    },
+    {
+      "title": "III. Compensation",
+      "node_id": "0026",
+      "start_index": 20,
+      "end_index": 21,
+      "summary": "The annual fixed fee is paid in equal quarterly installments, with quarterly statements describing covered work. Work outside the fee requires advance written approval from the ERS Administrator or designee and is billed upon completion through a detailed statement. Statements must sufficiently justify payment, which ERS processes under its standard procedures. The information is restricted to ERS-authorized persons and use for responding to the RFP, not general distribution. Funding is currently unavailable beyond the fiscal year; ERS’s obligation for later performance depends on funds becoming available, and no payment liability arises until then."
+    },
+    {
+      "title": "IV. Multi-Term Solicitation",
+      "node_id": "0027",
+      "start_index": 21,
+      "end_index": 29,
+      "summary": "The section establishes a multi-term contract with a fixed annual fee subject to permitted adjustments, continuation dependent on available appropriations, timely notice if funds are unavailable, and possible reimbursement of eligible unamortized nonrecurring costs; offerors must price the full term. The ERS Chief Investment Officer serves as liaison, chairs status meetings, supports scheduling, and monitors performance. Work requires written authorization from the ERS Administrator or designee, and RFP information is restricted to authorized recipients. Services must follow ERS policies, investment guidelines, Hawaii law, and prudent-expert standards; contractors cannot guarantee returns or make unauthorized commitments beyond the contract term. Private-equity services include portfolio oversight and construction, strategic advice on goals, benchmarks, risk, pacing and the 13.5% target; global sourcing, diligence, recommendations and negotiations; and ongoing fund, manager, compliance, cash-flow, fee, performance and investment-data oversight. Deliverables include reconciled monthly and quarterly reports, accounting, audit, CAFR and public-request support, plus research, training, presentations, committee and quarterly-meeting support, in-kind distribution planning, and assistance with strategic manager relationships.",
+      "nodes": [
+        {
+          "title": "V. Liaison and Authorization to Proceed",
+          "node_id": "0028",
+          "start_index": 21,
+          "end_index": 21,
+          "summary": "The solicitation is for a multi-term contract with the same annual fixed fee throughout, except for permitted adjustments. Continuation depends on funds being appropriated or available; the purchasing agency must timely notify the contractor if they are not. Cancellation for lack of funds does not affect either party’s termination-clause rights, and the contractor may be reimbursed for applicable unamortized, reasonably incurred nonrecurring costs. Offerors must price the entire performance term. The ERS Chief Investment Officer is the primary liaison, chairs status meetings, assists with scheduling, and monitors contractor performance. Work requires written approval from the ERS Administrator or designee; unauthorized work is at the contractor’s expense. The information is restricted to authorized persons for responding to this RFP and may not be generally distributed."
+        },
+        {
+          "title": "VI. Scope of Services",
+          "node_id": "0029",
+          "start_index": 22,
+          "end_index": 29,
+          "summary": "The section defines mandate-specific services, requiring compliance with ERS policies, investment guidelines, Hawaii law, and prudent-expert standards; contractors may not commit beyond the contract term except for authorized discretionary investments, and do not guarantee returns or values. It distinguishes public-market managers from alternative-investment managers and describes discretionary private-equity services, including portfolio oversight, construction, selection, allocations, transactions, cash flows, legal matters, and administration, with ERS retaining oversight. Services include strategic advice on private-equity goals, policy, benchmarks, risk, pacing, and the 13.5% target; global sourcing, screening, diligence, recommendations, and negotiation; and ongoing manager, fund, compliance, cash-flow, fee, and performance monitoring with investment-level data management. Required quarterly and monthly reports cover allocations, commitments, activity, valuations, returns, and deal status, reconciled with custodian records, plus accounting, audit, CAFR, and public-request support. The contractor also provides research, training, presentations, committee support, quarterly meetings, in-kind distribution planning, and assistance with strategic manager relationships.",
+          "nodes": [
+            {
+              "title": "VI. Scope of Services (intro)",
+              "node_id": "0030",
+              "start_index": 22,
+              "end_index": 24,
+              "summary": "The scope requires contractors to deliver mandate-specific services, comply with ERS policies and investment guidelines, and make no commitments beyond the contract term except authorized discretionary investments. It defines public-market managers (traditional long-term public-exchange equity and fixed-income managers) and alternative-investment managers (including real estate, private capital, hedge funds, infrastructure, commodities, currencies and related assets). Discretionary service is a turnkey private-equity model covering legacy and current portfolio monitoring, reporting, cash flows, capital calls, portfolio construction, fund selection, allocations, in-kind transfers, and related legal and transaction decisions; ERS staff provide oversight, not individual investment decisions. Services include strategic planning and research; discretionary sourcing, diligence and legal work; and monitoring and administration under either discretionary or advisory arrangements. Special projects may address targeted investment programs and other portfolio enhancements. The discretionary mandate grants broad transaction and portfolio authority over core private-equity assets, including specified diligence and reporting, subject to the agreed strategic plan, ERS policies, Hawaii law and prudent-expert standards. The contractor does not guarantee returns or market values."
+            },
+            {
+              "title": "A. Strategic Private Equity Consulting",
+              "node_id": "0031",
+              "start_index": 24,
+              "end_index": 25,
+              "summary": "Provide strategic advice to ERS’s Board, Investment Committee, and staff to structure and oversee the private equity program, including goals, strategy, objectives, and performance standards for the 13.5% policy target effective July 1, 2015 (formerly 7%). Coverage includes private equity advisors and privately structured funds and investments—primary, secondary, co-investment, fund-of-funds, buyout, growth, venture, debt, opportunistic, and HiTIP—but excludes real estate. Prepare quarterly and annual program-level performance reports and requested analyses and research on goals, risk, benchmarks, cash flows, commitment pacing, and other program matters; develop written investment policies and manager guidelines; and provide written research, advice, and special projects. Attend, at the contractor’s expense, up to six annual in-person meetings in Hawai‘i to present updates, findings, reports, and recommendations or answer questions, and join requested staff calls. Coordinate with ERS, its consultants and managers, HiTIP, other asset-class managers, and future private equity providers."
+            },
+            {
+              "title": "B. Deal Sourcing and Due Diligence",
+              "node_id": "0032",
+              "start_index": 25,
+              "end_index": 26,
+              "summary": "The text outlines ERS private equity advisory responsibilities: establish a structured process to assess the full investment universe, identify opportunities globally across suitable vehicles, screen and conduct due diligence on candidates, and provide written recommendations covering diligence findings, strategy, partnerships, commitment amounts, and portfolio fit for committee and Board decisions. Coordinate with ERS staff and counsel to negotiate fund agreements, side letters, and subscriptions. Monitor investments through meetings, advisory roles, benchmarks, and reviews of manager performance, operations, strategy, and disclosure; ensure contractual compliance; assess amendments, consents, extensions, cash flows, fees, and fund economics; and advise on workouts, breaches, and dissolutions. Maintain investment-level historical cash-flow, valuation, commitment, fee, cost, and return data; calculate IRR and multiples against benchmarks and analyze quarterly results by investment, sector, asset class, and portfolio. Produce quarterly reports showing geographic, sector, and industry allocations, fund updates and sector listings, and commitment dates."
+            },
+            {
+              "title": "Private Equity Investment, Monitoring, and Database Management",
+              "node_id": "0033",
+              "start_index": 26,
+              "end_index": 26,
+              "key_items": [
+                "C. Monitoring of the Private Equity Portfolio",
+                "D. Database Management"
+              ],
+              "summary": "Prepare written recommendations for the Investment Committee and Board, covering due diligence, strategy, partnership reviews, commitment amounts, and portfolio fit; work with ERS staff and legal counsel to negotiate LPAs, side letters, subscription agreements, and other documents. Monitor investments through meetings, advisory roles, benchmark analysis, and reviews of managers’ performance, organization, ownership, products, disclosures, and strategies. Ensure contract compliance; assess fund amendments, consents, extensions, capital calls, distributions, waterfalls, carried interest, fees, expenses, and other cash movements; and advise ERS on workouts, breaches, violations, and fund dissolutions. Maintain investment-level histories of cash flows, NAVs, unfunded commitments, fees, cost basis, and returns; calculate IRR and multiples against benchmarks; and review quarterly performance by investment, sector, asset class, and total portfolio."
+            },
+            {
+              "title": "E. Reporting for Private Equity Program",
+              "node_id": "0034",
+              "start_index": 26,
+              "end_index": 27,
+              "summary": "The private equity contractor must provide quarterly reports covering geographic, sector, and industry allocations; fund updates and sector listings; commitment dates and amounts; drawdowns, outstanding commitments, distributions, NAVs, multiples, and IRRs across specified periods, with selected items aggregated for the program. Monthly reports must include meeting agendas, commitments closed and expected, annual meeting calendars, and a deal log of reviewed funds with statuses. Reports must be reconciled with ERS custodian records, with additional Accounting Division reporting and support for CAFR and public information requests. The contractor must offer requested private equity education and training to the Board and staff and provide access to its research and publications. It must support ERS committees, trustees, and staff with presentations to legislative and executive personnel, media, and the public. At least quarterly, it must meet with ERS to review contract matters, share service and technology updates, and plan improvements."
+            },
+            {
+              "title": "Private Equity Reporting, Education, and External Relations",
+              "node_id": "0035",
+              "start_index": 27,
+              "end_index": 27,
+              "key_items": [
+                "F. Education",
+                "G. External Relations"
+              ],
+              "summary": "Reporting covers fund commitments, drawdowns, outstanding commitments, distributions, NAVs, multiples, and IRRs across specified periods, with designated items aggregated for the total private equity program. Monthly reports include meeting agendas, commitments closed and expected to close, LP annual meeting calendars, and a deal log of reviewed funds and their status. Reports must be reconciled with ERS custodian bank records, with additional reporting for the Accounting Division and support for CAFR and public information requests. Education includes requested training for the Board and ERS staff and access to the contractor’s investment research and publications. External relations support includes written or oral presentations to legislative and executive branch staff, media, and the general public at meetings of the Investment Committee, Board of Trustees, and ERS staff."
+            },
+            {
+              "title": "H. Other",
+              "node_id": "0036",
+              "start_index": 27,
+              "end_index": 29,
+              "summary": "The Hawaii Employees’ Retirement System’s private equity consultant is expected to meet at least quarterly with ERS to review contract issues, share updates on services and technology, and plan service improvements; provide access for audits and reviews by ERS, the State auditor, or ERS-designated third parties; recommend and potentially implement an optimal program for managing in-kind distributions; and assist ERS staff in sourcing, researching, recommending, monitoring, and managing potential strategic relationships and partnerships with private-market asset managers. The document is restricted to authorized persons for responding to the RFP and is not for general distribution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "MANDATORY REQUIREMENTS CERTIFICATION",
+      "node_id": "0037",
+      "start_index": 29,
+      "end_index": 29,
+      "key_items": [
+        "OFFEROR'S NAME: __________________________________________________"
+      ],
+      "summary": "A mandatory certification requires the Offeror to attest that it is registered under the Investment Advisers Act of 1940; has at least five years in business as an investment consultant, with commencement dates for proposal service areas; serves at least one public defined-benefit retirement system client with assets over $3 billion, identifying the client; assigns an ERS primary consultant with at least seven years of domestic and international public-pension consulting experience, identifying the consultant and experience; has its principal place of business in, and is subject to service of process in, the United States; and will act as an ERS fiduciary if awarded the contract. The form provides spaces for the Offeror’s name, signature, date, and requested details. It also states that the information is restricted to ERS-authorized persons for responding to the RFP, not for general distribution, and is subject to 2012 rights notice."
+    },
+    {
+      "title": "FEE PROPOSAL",
+      "node_id": "0038",
+      "start_index": 30,
+      "end_index": 30,
+      "summary": "The fee proposal must remain valid for at least five years, based on the services in Paragraph VI of the Scope of Work, and include travel, taxes, and all expenses. Offerors must quote all-inclusive annual fees for years 1–3, a subtotal, optional extension-year fees for years 4–5, a five-year total, and discretionary services. Payment terms are in Paragraph III. The contract fee is the consultant’s sole compensation; no other monetary or non-monetary benefits may arise from the relationship with ERS. The information is restricted to ERS-authorized persons and use in responding to this RFP, and may not be distributed more broadly; all rights reserved (2012)."
+    },
+    {
+      "title": "QUESTIONNAIRE",
+      "node_id": "0039",
+      "start_index": 31,
+      "end_index": 32,
+      "summary": "QUESTIONNAIRE\n(Please complete both the MS Word and the Excel questionnaires).Attachment A\nSample Contract"
+    },
+    {
+      "title": "(Refer to the Attached File)",
+      "node_id": "0040",
+      "start_index": 32,
+      "end_index": 32,
+      "summary": "(Refer to the Attached File)"
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

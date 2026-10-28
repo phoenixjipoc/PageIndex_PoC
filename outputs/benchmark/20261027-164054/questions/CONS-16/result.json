@@ -1,0 +1,297 @@
+{
+  "id": "CONS-16",
+  "question": "Across these ten general investment consulting RFPs in the corpus—OCERS, COAERS, SDCERS, Grand Rapids, CTA Retirement Plan, SC RSIC, Hartford MERF, SBCERA, NYC BERS and Boston BRS—what is the most common stated minimum number of years in business or experience for the consulting firm?",
+  "type": "broad",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:15:59.101872+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "**Five years** is the most common stated minimum, appearing in four of the ten RFPs: [OCERS](OCERS__investment_consultant_services_rfp.pdf#page=22), [COAERS](COAERS__COAERS_General_Investment_Consultant_RFP.pdf#page=27), [SDCERS](SDCERS__sdcers-2026-general-investment-consultant-rfp.pdf#page=3), and [Grand Rapids](Grand_Rapids_GRS__Investment-Consultant-RFP-2023.pdf#page=3). The others specify ten years (three RFPs), seven years (two), or three years (one).",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 289189,
+    "input_tokens_details": {
+      "cached_tokens": 196332,
+      "cache_write_tokens": 92836
+    },
+    "output_tokens": 1290,
+    "output_tokens_details": {
+      "reasoning_tokens": 173
+    },
+    "total_tokens": 290479,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1257,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1254
+        },
+        "output_tokens": 28,
+        "output_tokens_details": {
+          "reasoning_tokens": 7
+        },
+        "total_tokens": 1285
+      },
+      {
+        "input_tokens": 6525,
+        "input_tokens_details": {
+          "cached_tokens": 1254,
+          "cache_write_tokens": 5268
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 6561
+      },
+      {
+        "input_tokens": 9493,
+        "input_tokens_details": {
+          "cached_tokens": 6522,
+          "cache_write_tokens": 2968
+        },
+        "output_tokens": 344,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 9837
+      },
+      {
+        "input_tokens": 12187,
+        "input_tokens_details": {
+          "cached_tokens": 9490,
+          "cache_write_tokens": 2694
+        },
+        "output_tokens": 251,
+        "output_tokens_details": {
+          "reasoning_tokens": 10
+        },
+        "total_tokens": 12438
+      },
+      {
+        "input_tokens": 76319,
+        "input_tokens_details": {
+          "cached_tokens": 12184,
+          "cache_write_tokens": 64132
+        },
+        "output_tokens": 337,
+        "output_tokens_details": {
+          "reasoning_tokens": 37
+        },
+        "total_tokens": 76656
+      },
+      {
+        "input_tokens": 90569,
+        "input_tokens_details": {
+          "cached_tokens": 76316,
+          "cache_write_tokens": 14250
+        },
+        "output_tokens": 63,
+        "output_tokens_details": {
+          "reasoning_tokens": 18
+        },
+        "total_tokens": 90632
+      },
+      {
+        "input_tokens": 92839,
+        "input_tokens_details": {
+          "cached_tokens": 90566,
+          "cache_write_tokens": 2270
+        },
+        "output_tokens": 231,
+        "output_tokens_details": {
+          "reasoning_tokens": 79
+        },
+        "total_tokens": 93070
+      }
+    ]
+  },
+  "elapsed_seconds": 24.152,
+  "finished_at_utc": "2026-10-27T09:16:23.262784+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 289189,
+    "output_tokens": 1290,
+    "cached_input_tokens": 196332,
+    "cache_write_tokens": 92836,
+    "reasoning_tokens": 173,
+    "total_tokens": 290479
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"OCERS__investment_consultant_services_rfp.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"COAERS__COAERS_General_Investment_Consultant_RFP.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SDCERS__sdcers-2026-general-investment-consultant-rfp.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Grand_Rapids_GRS__Investment-Consultant-RFP-2023.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"CTA_Retirement_Plan__RP_Investment_Consultant_RFP_4_29_25.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SC_RSIC__2016_09_30_General_Consultant_FINAL.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Hartford_MERF__file.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SBCERA__investment_consultant_-_request_for_proposals.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Boston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"OCERS__investment_consultant_services_rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"COAERS__COAERS_General_Investment_Consultant_RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SDCERS__sdcers-2026-general-investment-consultant-rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SC_RSIC__2016_09_30_General_Consultant_FINAL.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Hartford_MERF__file.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SBCERA__investment_consultant_-_request_for_proposals.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Grand_Rapids_GRS__Investment-Consultant-RFP-2023.pdf\",\"pages\":\"1-5\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"CTA_Retirement_Plan__RP_Investment_Consultant_RFP_4_29_25.pdf\",\"pages\":\"1-6\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Boston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf\",\"pages\":\"1-7\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"OCERS__investment_consultant_services_rfp.pdf\",\"pages\":\"22-23\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"COAERS__COAERS_General_Investment_Consultant_RFP.pdf\",\"pages\":\"27-28\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"SDCERS__sdcers-2026-general-investment-consultant-rfp.pdf\",\"pages\":\"3-4\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf\",\"pages\":\"7-8\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Boston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf\",\"pages\":\"9-11\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Grand_Rapids_GRS__Investment-Consultant-RFP-2023.pdf",
+      "pages": "1-5",
+      "success": true,
+      "call_id": "call_QWt1IGRKkwo7ostjbNwc25FZ"
+    },
+    {
+      "document": "CTA_Retirement_Plan__RP_Investment_Consultant_RFP_4_29_25.pdf",
+      "pages": "1-6",
+      "success": true,
+      "call_id": "call_8ikxQE2n1JLN7czSC4J6oumt"
+    },
+    {
+      "document": "Boston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf",
+      "pages": "1-7",
+      "success": true,
+      "call_id": "call_hOSL8hyVvCwLNO6PLBAETuem"
+    },
+    {
+      "document": "OCERS__investment_consultant_services_rfp.pdf",
+      "pages": "22-23",
+      "success": true,
+      "call_id": "call_2YkO2HgzsjyOvqW2KwUx3oVY"
+    },
+    {
+      "document": "COAERS__COAERS_General_Investment_Consultant_RFP.pdf",
+      "pages": "27-28",
+      "success": true,
+      "call_id": "call_NSJKqhdTAGjI0oasJcB6C2ks"
+    },
+    {
+      "document": "SDCERS__sdcers-2026-general-investment-consultant-rfp.pdf",
+      "pages": "3-4",
+      "success": true,
+      "call_id": "call_d00gtAt6RQQJ1MQVTBtpbplH"
+    },
+    {
+      "document": "NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf",
+      "pages": "7-8",
+      "success": true,
+      "call_id": "call_7HJwF6JDj1dW608EordAxBpZ"
+    },
+    {
+      "document": "Boston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf",
+      "pages": "9-11",
+      "success": true,
+      "call_id": "call_1BdstfZKAXCevPq8KrpZ45ko"
+    }
+  ],
+  "successfully_read_documents": [
+    "Boston_BRS__BRS_Inv_Consult_Serv_RFP_2022.pdf",
+    "COAERS__COAERS_General_Investment_Consultant_RFP.pdf",
+    "CTA_Retirement_Plan__RP_Investment_Consultant_RFP_4_29_25.pdf",
+    "Grand_Rapids_GRS__Investment-Consultant-RFP-2023.pdf",
+    "NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf",
+    "OCERS__investment_consultant_services_rfp.pdf",
+    "SDCERS__sdcers-2026-general-investment-consultant-rfp.pdf"
+  ]
+}

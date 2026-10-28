@@ -1,0 +1,15 @@
+{
+  "question_id": "CONS-05",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "96f303026b1a1dce284ff608ca7111ee0a9a03984f81373ee1895af3f2a757d8",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct five-year retention and seven-year total ceiling.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:44.001659+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "file": "DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf",
+  "sha256": "1a8424c844e12ce85e1cd39151d38e66e42f65125c25154d18cadd29e202507a",
+  "bytes": 450240,
+  "pages": 25,
+  "public_source_url": "https://dcrb.dc.gov/sites/default/files/dc/sites/dcrb/publication/attachments/dcrb-rfp-real-assets-investment-consulting-services.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:49:55.260500+00:00",
+  "doc_id": "pi-40cc6e4e18b844e3a74a1e50d32e4ff6",
+  "stored_name": "DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf",
+  "reported_usage": {
+    "prompt_tokens": 18026,
+    "completion_tokens": 5268,
+    "total_tokens": 23294,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 9533
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1483
+    }
+  },
+  "elapsed_seconds": 16.157,
+  "finished_at_utc": "2026-10-27T08:50:11.430512+00:00",
+  "model_calls": 19,
+  "http_attempts": 19,
+  "observed_usage": {
+    "input_tokens": 18026,
+    "output_tokens": 5268,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 9533,
+    "reasoning_tokens": 1483,
+    "total_tokens": 23294
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

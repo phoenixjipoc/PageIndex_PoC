@@ -1,0 +1,7 @@
+{
+  "question": "Which due diligence questionnaire in the corpus asks the manager 'What kills a deal for your team?', and who published it?",
+  "gold_answer": "The Private Markets Due Diligence Questionnaire ('Your Resource for Evaluating Private Market Partners') published by Calamos Investments with Aksia (file AC_Private_Markets). The question appears under General Questions > Investment Strategy and asks the manager to describe a recent example.",
+  "acceptance": "AC Private Markets / Calamos with Aksia accepted. Subtitle, copyright year and recent-example follow-up are optional.",
+  "scope": "single_document",
+  "candidate_answer": "The question appears in the **Private Markets Due Diligence Questionnaire**, under “Investment Strategy.” The document is credited to **Calamos Investments and Aksia**."
+}

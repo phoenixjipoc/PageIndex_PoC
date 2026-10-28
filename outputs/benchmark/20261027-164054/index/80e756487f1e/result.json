@@ -1,0 +1,43 @@
+{
+  "file": "Creve_Coeur_MO__RFP-for-Pension-Fund-Consulting-Svcs-May-2020-revised.pdf",
+  "sha256": "f57f3d93c203b31bdf8b5dff18524cc76fd1482e438a1d082d396d761710f206",
+  "bytes": 105716,
+  "pages": 5,
+  "public_source_url": "https://www.crevecoeurmo.gov/DocumentCenter/View/9846/RFP-for-Pension-Fund-Consulting-Svcs-May-2020-revised",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:49:47.986517+00:00",
+  "doc_id": "pi-d5cd53b9bbde454fa94a28923fb26d63",
+  "stored_name": "Creve_Coeur_MO__RFP-for-Pension-Fund-Consulting-Svcs-May-2020-revised.pdf",
+  "reported_usage": {
+    "prompt_tokens": 4603,
+    "completion_tokens": 1490,
+    "total_tokens": 6093,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 1450
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 248
+    }
+  },
+  "elapsed_seconds": 7.238,
+  "finished_at_utc": "2026-10-27T08:49:55.235974+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 4603,
+    "output_tokens": 1490,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 1450,
+    "reasoning_tokens": 248,
+    "total_tokens": 6093
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

@@ -1,0 +1,149 @@
+{
+  "id": "INV-21",
+  "question": "What selection criteria will the Evaluation Committee use to assess respondents to the Massachusetts PRIM Active Global Core Equity Investment Management Services RFP (September 2026)?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:18:36.340903+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The Evaluation Committee will first check whether each proposal complies with the RFP and meets the **minimum qualifications**. It may reject proposals that fail those qualifications or eliminate strategies inconsistent with the RFP’s style or scope requirements. For eligible respondents, it will assess: \n\n1. The firm’s organizational stability, ownership, and experience.\n2. The proposed team’s experience, stability, depth, and continuity.\n3. The clarity, consistency, and repeatability of the investment philosophy and process, and its fit with the mandate.\n4. Historical performance against the **MSCI ACWI IMI** across market cycles.\n5. The breadth and depth of research capabilities.\n6. Portfolio construction and risk management, including tracking error, active risk, and benchmark-relative exposures.\n7. Capacity to manage a separate account without degrading the strategy, including remaining product capacity.\n8. Operational infrastructure.\n9. The quality and relevance of client references.\n10. The competitiveness of proposed fees.\n\nThe criteria are **not necessarily in priority order or equally weighted**. The committee may also interview respondents, request additional data, check references, and conduct on-site or strategy due diligence. It recommends candidates to the Investment Committee; the **PRIM Board makes the final selection**. [Source: *MassPRIM Active Global Core Equity RFP*, pp. 12–13.]",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 59881,
+    "input_tokens_details": {
+      "cached_tokens": 38564,
+      "cache_write_tokens": 21299
+    },
+    "output_tokens": 470,
+    "output_tokens_details": {
+      "reasoning_tokens": 31
+    },
+    "total_tokens": 60351,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1219,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1216
+        },
+        "output_tokens": 24,
+        "output_tokens_details": {
+          "reasoning_tokens": 7
+        },
+        "total_tokens": 1243
+      },
+      {
+        "input_tokens": 2394,
+        "input_tokens_details": {
+          "cached_tokens": 1216,
+          "cache_write_tokens": 1175
+        },
+        "output_tokens": 49,
+        "output_tokens_details": {
+          "reasoning_tokens": 24
+        },
+        "total_tokens": 2443
+      },
+      {
+        "input_tokens": 7646,
+        "input_tokens_details": {
+          "cached_tokens": 2391,
+          "cache_write_tokens": 5252
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7684
+      },
+      {
+        "input_tokens": 7947,
+        "input_tokens_details": {
+          "cached_tokens": 7643,
+          "cache_write_tokens": 301
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7986
+      },
+      {
+        "input_tokens": 19373,
+        "input_tokens_details": {
+          "cached_tokens": 7944,
+          "cache_write_tokens": 11426
+        },
+        "output_tokens": 45,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 19418
+      },
+      {
+        "input_tokens": 21302,
+        "input_tokens_details": {
+          "cached_tokens": 19370,
+          "cache_write_tokens": 1929
+        },
+        "output_tokens": 275,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 21577
+      }
+    ]
+  },
+  "elapsed_seconds": 15.552,
+  "finished_at_utc": "2026-10-27T09:18:51.898794+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 59881,
+    "output_tokens": 470,
+    "cached_input_tokens": 38564,
+    "cache_write_tokens": 21299,
+    "reasoning_tokens": 31,
+    "total_tokens": 60351
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf\",\"pages\":\"12-14\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf",
+      "pages": "12-14",
+      "success": true,
+      "call_id": "call_QoWU1G3o8NQNMkX3xikYi4Fh"
+    }
+  ],
+  "successfully_read_documents": [
+    "MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf"
+  ]
+}

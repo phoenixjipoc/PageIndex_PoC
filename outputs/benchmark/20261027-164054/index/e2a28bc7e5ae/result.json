@@ -1,0 +1,43 @@
+{
+  "file": "LACERS__2025_actuarial_consulting_services_rfp.pdf",
+  "sha256": "de02cc035c8cef32eec1216329787ef3d5bec34cf6846961b30df77cd1b1bf39",
+  "bytes": 312317,
+  "pages": 16,
+  "public_source_url": "https://www.lacers.org/sites/main/files/file-attachments/2025_actuarial_consulting_services_rfp.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:58:39.620620+00:00",
+  "doc_id": "pi-07c7a105f13a450c9c929629f4fbc3ce",
+  "stored_name": "LACERS__2025_actuarial_consulting_services_rfp.pdf",
+  "reported_usage": {
+    "prompt_tokens": 10923,
+    "completion_tokens": 2478,
+    "total_tokens": 13401,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 7080
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 541
+    }
+  },
+  "elapsed_seconds": 10.974,
+  "finished_at_utc": "2026-10-27T08:58:50.606662+00:00",
+  "model_calls": 10,
+  "http_attempts": 10,
+  "observed_usage": {
+    "input_tokens": 10923,
+    "output_tokens": 2478,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 7080,
+    "reasoning_tokens": 541,
+    "total_tokens": 13401
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

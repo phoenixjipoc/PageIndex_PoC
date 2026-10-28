@@ -1,0 +1,7 @@
+{
+  "question": "A county retirement system's custody RFP requires custody respondents to have at least $500 billion in total assets under custody as of December 31, 2021. How much of that must be in international equity and fixed income, and what minimum liability/professional errors and omissions insurance must respondents provide?",
+  "gold_answer": "At least $100 billion in international equity and fixed income; liability/professional errors and omissions insurance of at least $75 million. Issuer: Orange County Employees Retirement System (OCERS), October 2022 custody services RFP.",
+  "acceptance": "Accept $100bn international equity/fixed income and $75m liability/professional E&O coverage. Issuer/date are optional.",
+  "scope": "single_document",
+  "candidate_answer": "At least **$100 billion** of the $500 billion in assets under custody must be in international equity and fixed income. Custody respondents must also provide at least **$75 million** in liability and professional errors-and-omissions insurance. Source: OCERS Custody Services RFP, Exhibit C, pp. 16–17."
+}

@@ -1,0 +1,24 @@
+{
+  "question_id": "INV-04",
+  "reference_read_after_answer": true,
+  "answer_meets_required_allocation_facts": true,
+  "reference_passage_present_on_cited_page": true,
+  "reference_answer": "A long-term target of 31% to private market asset classes: 10% private equity, 7% private debt, 10% real estate and 4% infrastructure. (FPIF seeks one non-discretionary consultant and approximately three discretionary OCIO advisors for this portfolio.)",
+  "acceptance": "Require total 31% and 10% PE / 7% private debt / 10% real estate / 4% infrastructure. Consultant/advisor counts and core/non-core splits are optional.",
+  "cited_physical_pdf_page": 3,
+  "printed_page_number": 1,
+  "citation_format": "Natural-language source reference; optional structured citation prompt left at the official default false.",
+  "visual_verification": "Reused the previously visually verified full page 3 rendering; the source PDF SHA256 is unchanged.",
+  "all_chat_requests_use_official_instructions": true,
+  "all_models_match": true,
+  "all_wire_settings_match": true,
+  "source_check": {
+    "source_commit": "e38b40ebaeea26d2c7206b80ce7bc9bf2935cdec",
+    "installed_source_python_files_checked": 96,
+    "installed_source_mismatches": [],
+    "core_inputs_checked": 82,
+    "core_input_mismatches": [],
+    "client_constructor_has_instructions_argument": false,
+    "structure_first_switch_removed": true
+  }
+}

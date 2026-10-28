@@ -1,0 +1,43 @@
+{
+  "file": "Oklahoma_OPERS__2022-03-RFP-QA-External-Audit-Services.pdf",
+  "sha256": "112d8d233985ae4bbf1bf5c55266538c30404fc84477b5d07fa9724697408281",
+  "bytes": 206391,
+  "pages": 3,
+  "public_source_url": "https://www.opers.ok.gov/wp-content/uploads/2022/03/2022-03-RFP-QA-External-Audit-Services.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:04:42.310980+00:00",
+  "doc_id": "pi-7eb67562273f493386dfe2a6c13353a7",
+  "stored_name": "Oklahoma_OPERS__2022-03-RFP-QA-External-Audit-Services.pdf",
+  "reported_usage": {
+    "prompt_tokens": 2150,
+    "completion_tokens": 878,
+    "total_tokens": 3028,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 480
+    }
+  },
+  "elapsed_seconds": 8.639,
+  "finished_at_utc": "2026-10-27T09:04:50.961951+00:00",
+  "model_calls": 3,
+  "http_attempts": 3,
+  "observed_usage": {
+    "input_tokens": 2150,
+    "output_tokens": 878,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 0,
+    "reasoning_tokens": 480,
+    "total_tokens": 3028
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

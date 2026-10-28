@@ -1,0 +1,43 @@
+{
+  "file": "KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf",
+  "sha256": "717962244fc7954ca2bcc9d748cdb6d1436680beaadbd1a9679eb70a17e8c6f5",
+  "bytes": 480771,
+  "pages": 50,
+  "public_source_url": "https://www.kcera.org/files/0d1012fbb/RFP+2024+Actuarial+Audit+Final+-+with+Sample+Agreement.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:58:17.482258+00:00",
+  "doc_id": "pi-86c13aa4113a4b86b1167faab472d399",
+  "stored_name": "KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf",
+  "reported_usage": {
+    "prompt_tokens": 29388,
+    "completion_tokens": 7214,
+    "total_tokens": 36602,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 18186
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1725
+    }
+  },
+  "elapsed_seconds": 22.094,
+  "finished_at_utc": "2026-10-27T08:58:39.587320+00:00",
+  "model_calls": 26,
+  "http_attempts": 26,
+  "observed_usage": {
+    "input_tokens": 29388,
+    "output_tokens": 7214,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 18186,
+    "reasoning_tokens": 1725,
+    "total_tokens": 36602
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

@@ -1,0 +1,1026 @@
+{
+  "doc_id": "pi-6f043fe4ec1a4440bcef344d82b1e003",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "I. OVERVIEW",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 3,
+      "key_items": [
+        "A. Timetable",
+        "I. OVERVIEW",
+        "B. Proposal to Remain Open; C. Contract Term; D. Designated Contact",
+        "B. Proposal to Remain Open",
+        "C. Contract Term",
+        "D. Designated Contact",
+        "E. Submission of Written Questions",
+        "B. Proposal to Remain Open; C. Contract Term",
+        "B. Proposal to Remain Open",
+        "C. Contract Term",
+        "D. Designated Contact"
+      ],
+      "summary": "The Delaware Office of the State Treasurer, for the Plans Management Board, seeks qualified vendors to provide recordkeeping and administration for three deferred compensation plans under the State program, pursuant to cited Delaware law; minimum eligibility requirements are in Section IV. The tentative schedule runs from RFP publication July 26, 2021, through questions (August 2), State responses (August 13), proposals (August 20), finalist presentations and selection, award approval, contract execution, and implementation (2022, date TBD). No pre-bid meeting is planned. The RFP is not an offer; the State may cancel or change dates. Vendors are deemed to accept the RFP requirements, and proposals and quoted fees remain binding for nine months after submission (or longer by agreement). The contract is for five years, with three one-year extensions at OST’s discretion, subject to Board approval. Designated contact: John Meyer, Director of Contributions and Plan Management, Dover, Delaware; Treasury_RFP@delaware.gov, (302) 672-6705. Questions must be emailed by 4 p.m. Eastern August 2, organized by RFP sequence and identified by page, heading, and section; answers will be posted publicly by August 13."
+    },
+    {
+      "title": "II. BACKGROUND",
+      "node_id": "0001",
+      "start_index": 3,
+      "end_index": 7,
+      "summary": "The section explains governance of Delaware’s Plans: the 11-member Plans Management Board’s fiduciary oversight, committees and meeting schedule, and the State Treasurer’s Office’s administrative, marketing, vendor-oversight, and operational roles. It describes the voluntary 457(b), 403(b), and frozen 401(a) Match Plans, their eligibility, employee deferrals, federal limits and catch-ups, pretax/Roth options, rollovers, distributions, required minimum distributions, and loan restrictions. The State makes no 457(b) or 403(b) contributions; $10-per-pay-period Match contributions stopped in 2008, with resumption uncertain. The section reports 2020 assets and participant/account counts, including 457(b) figures, and covers 403(b) oversight, recordkeeping, and legacy assets. It outlines participant-directed investment options across target-date, core fund/fixed-account, and brokerage tiers; permitted investment types, fees, periodic investment reviews, and supporting attachments.",
+      "nodes": [
+        {
+          "title": "Plans Board and Treasurer’s Office",
+          "node_id": "0002",
+          "start_index": 3,
+          "end_index": 3,
+          "key_items": [
+            "A. The Plans Management Board",
+            "B. The Office of the State Treasurer"
+          ],
+          "summary": "The Plans Management Board acts as fiduciary and has ultimate oversight of the Plans. Its 11 members include four public members and two state employees appointed by the Governor, plus five ex-officio members: the State Insurance Commissioner, State Treasurer, and Secretaries of Education and Finance, and the Director of the Office of Management and Budget. The Board has standing Audit and Governance and Investment Committees, whose members include Board members and outside subject-matter experts. The Board and each committee meet at least four times annually. The Office of the State Treasurer (OST) is the Board’s administrative arm and coordinates Board and committee meetings. OST’s Contributions and Plan Management division markets and promotes the Plans, oversees vendors, and performs certain Plan operations."
+        },
+        {
+          "title": "C. Deferred Compensation Program",
+          "node_id": "0003",
+          "start_index": 3,
+          "end_index": 4,
+          "summary": "The voluntary Deferred Compensation Program provides State employees supplemental retirement security beyond statutory pension and benefits (29 Del. C. § 6051). It includes the IRC § 457(b) Plan, § 403(b) tax-sheltered annuity Plan, and § 401(a) employer Match Plan, administered on one recordkeeping platform; the recordkeeper or affiliates/third parties serve as trustee for 457(b) and Match assets and custodian for 403(b) assets. The 457(b) Plan covers eligible regular full- and part-time State employees, excluding temporary workers and consultants, and receives no State contributions. Employees contribute through salary reduction, subject to federal limits, with age-50 catch-ups and larger pre-retirement special catch-ups; contributions may be pretax or Roth, and eligible plan funds may be rolled over. Distributions follow separation, age 59½, or unforeseeable emergency; most required minimum distributions begin at 72, and loans are prohibited. Investments are limited to insured bank accounts, U.S. government debt, regulated insurance/annuities, registered investment funds, and exchange-traded securities. At year-end 2020, it had about $841 million, 10,048 active contributors, and 16,570 positive-balance accounts. The 403(b) Plan covers most public-school, education-department, Delaware Tech, and Delaware State University employees; the State contributes nothing."
+        },
+        {
+          "title": "Delaware Supplemental Retirement Plans",
+          "node_id": "0004",
+          "start_index": 4,
+          "end_index": 4,
+          "key_items": [
+            "(a) Savings accounts in federally insured banking institutions.",
+            "(b) U.S. government bonds or debt instruments.",
+            "(c) Life insurance and annuity contracts issued by companies subject to regulation by the Delaware Insurance Commissioner.",
+            "(d) Investment funds registered under the Investment Company Act of 1940; and"
+          ],
+          "summary": "The page describes the State’s 457(b) and 403(b) supplemental retirement plans. The 457(b) is available to eligible regular full- and part-time State employees, excluding temporary workers and consultants; the State contributes nothing. It outlines employee salary deferrals and federal limits, age-50 and pre-retirement catch-up contributions, pretax or Roth options, and eligible rollovers. Distributions are allowed after separation, beginning in the year participants turn 59½, or for an unforeseeable emergency; required minimum distributions generally begin at 72, and loans are unavailable. Permitted investments include federally insured savings accounts, U.S. government debt, qualifying insurance and annuity contracts, registered investment funds, and securities traded on specified exchanges. The page cites 29 Del. C. § 6057A and reports 2020 plan assets and participant/account counts. It also introduces the 403(b) tax-sheltered annuity plan for employees of specified Delaware public education institutions and notes that the State does not contribute."
+        },
+        {
+          "title": "(e) Securities that are traded on the New York Stock Exchange, the NASDAQ Stock Market, or the American Stock Exchange (n/k/a NYSE American).",
+          "node_id": "0005",
+          "start_index": 4,
+          "end_index": 7,
+          "summary": "The section describes Delaware’s supplemental 457(b), 403(b), and frozen 401(a) Match Plan, including eligibility, employee and State contributions, federal limits and catch-ups, pretax/Roth options, rollovers, distribution and required-minimum-distribution rules, and loan restrictions. The State makes no 457(b) or 403(b) contributions; Match Plan contributions of $10 per pay period stopped in 2008, with resumption uncertain. It reports 2020 assets and participant/account counts for each plan, and explains the 403(b)’s centralized oversight, Vendor recordkeeping, and remaining legacy assets and accounts. It outlines the voluntary, participant-directed investment program: Tier 1 target-date funds, Tier 2 active/passive core funds and a fixed account with optional professional management, and Tier 3’s self-directed brokerage window. It also notes eligible Match Plan rollovers, investment types permitted by plan, participant fees, periodic investment reviews, and supporting attachments.",
+          "nodes": [
+            {
+              "title": "457(b) Plan Overview",
+              "node_id": "0006",
+              "start_index": 4,
+              "end_index": 4,
+              "key_items": [
+                "D. DC Plans – Overview",
+                "1. The 457(b) Plan"
+              ],
+              "summary": "The State’s supplemental 457(b) Plan is available to eligible regular full- and part-time employees, excluding temporary workers and consultants; the State contributes nothing. Employees contribute through salary reductions, subject to federal limits ($19,500 stated), with age-50 catch-up contributions ($6,500) or, instead, special catch-up contributions during the three years before retirement (up to $39,000). Contributions may be pretax or Roth, and certain eligible-plan distributions may be rolled over. Distributions are allowed after separation from employment, beginning in the calendar year the participant turns 59½, or for an unforeseeable emergency; required minimum distributions generally begin at 72, and loans are prohibited. Investments are limited to federally insured bank savings, U.S. government debt, regulated life insurance or annuity contracts, registered investment funds, and securities traded on specified exchanges. The plan is cited at 29 Del. C. § 6057A. At December 31, 2020, it held about $841 million; 10,048 participants were actively contributing and 16,570 accounts had balances over $0."
+            },
+            {
+              "title": "2. The 403(b) Plan",
+              "node_id": "0007",
+              "start_index": 4,
+              "end_index": 5,
+              "summary": "The 403(b) supplemental retirement plan covers most part- and full-time employees of Delaware public schools, the Department of Education, Delaware Technical Community College, and Delaware State University; the State contributes nothing. Employees contribute through salary reductions, subject to federal limits ($19,500, plus $6,500 catch-up at age 50 or older), and may choose pretax or Roth contributions or roll over eligible retirement-plan distributions. Withdrawals generally require separation from employment, age 59½, or qualifying hardship; required minimum distributions usually begin at 72. Loans ended in 2009, though certain earlier vendor loans were grandfathered. Formerly managed locally with over 100 vendors, the plan adopted a formal document and centralized oversight under the Deferred Compensation Council in 2009, which restricted options to Vendor and 13 legacy vendors. In 2016, the Board selected Vendor as sole recordkeeper for ongoing contributions and transferred some legacy assets. At December 31, 2020, about $195.5 million was on Vendor’s platform and $296.7 million remained in legacy assets, for which the Board has limited obligations. The platform had 5,626 active contributors and 7,002 unique account holders; there were 6,863 legacy accounts."
+            },
+            {
+              "title": "3. The Match Plan",
+              "node_id": "0008",
+              "start_index": 5,
+              "end_index": 6,
+              "summary": "The Match Plan is a §401(a) defined-contribution plan established in 2001 and frozen since mid-2008. State and State-supported-instrumentality employees may participate after enrolling in the 457 Plan and contributing for six months; temporary employees and consultants are excluded. Subject to legislative appropriations, the State contributed $10 per pay period from 2001 to 2008, when contributions were suspended; resumption is uncertain. Distributions are allowed after employment ends or upon retirement at retirement age; required minimum distributions generally begin at 72, and loans are prohibited. At year-end 2020, the plan held $25.6 million for 8,991 participants. Participant contracts issued before January 2009 (“orphan” accounts) are excluded from the 403(b) Plan under federal labor guidance. The voluntary, participant-directed DC Program offers a diversified, three-tier investment architecture. Tier 1’s default target-date funds follow glide paths toward more conservative allocations and are selected by anticipated retirement year. Tier 2 offers active and passive core funds across major asset classes and a vendor fixed account; participants may self-manage or pay for professional management, currently through Morningstar."
+            },
+            {
+              "title": "Match Plan and Investment Architecture",
+              "node_id": "0009",
+              "start_index": 6,
+              "end_index": 6,
+              "key_items": [
+                "E. Investment Architecture",
+                "Tier 1 – Default Options"
+              ],
+              "summary": "The Match Plan is unavailable to temporary employees and consultants. Subject to legislative appropriations, the State contributed per pay period for participants deferring to the 457(b) Plan: $10 from January 2001 to July 2008. Legislation suspended contributions in 2008, and none have resumed; whether or when they will resume is unclear. Distributions are allowed after employment ends or upon retirement at retirement age; required minimum distributions generally begin at 72, and loans are prohibited. At December 31, 2020, the plan held about $25.6 million for 8,991 participants. The DC Program is voluntary and participant-directed, offering a diversified, multi-tiered range of investment options with varied risk/reward characteristics. Tier 1’s default options are target-date retirement funds, which gradually shift toward more conservative allocations as the stated retirement date approaches. Participants choose a fund by selecting the anticipated retirement year that best suits their financial goals."
+            },
+            {
+              "title": "Tier 2 – Core Options",
+              "node_id": "0010",
+              "start_index": 6,
+              "end_index": 7,
+              "summary": "Tier 2 offers actively and passively managed core funds across major asset classes and a Vendor fixed account. Participants may select and allocate investments themselves or pay additional fees for professional management, currently by Morningstar. Match Plan contributions are limited to rollovers from another IRS §401(a)-qualified plan. Tier 3 provides a self-directed brokerage window, currently through TD Ameritrade, for participants seeking a broader investment range and able to manage their own portfolios. The 457 and Match Plans allow individual stocks and bonds, ETFs, and mutual funds; the 403(b) Plan allows mutual funds only. Participants may pay annual program-manager and brokerage-firm fees. Attachment 6 provides current investment-lineup details, and the investment architecture and options are periodically reviewed under the Board-approved Investment Policy Statement in Attachment 8."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "III. Scope of Services",
+      "node_id": "0011",
+      "start_index": 7,
+      "end_index": 7,
+      "summary": "Appendix A details anticipated services; the final contract scope will be negotiated with OST and require Board approval. Services cover administration, recordkeeping, communications and education, reporting, compliance, and investment management for all three plans, plus third-party administration and aggregation of legacy 403(b) assets, delivered through a best-in-class online platform. Proposals must demonstrate experience providing recordkeeping and communications/education for defined contribution plans under IRC §§ 457, 401, and 403; at least $20 billion in defined contribution assets under administration; and at least 500,000 participant accounts on the vendor’s recordkeeping system."
+    },
+    {
+      "title": "IV.  The services requested include comprehensive administration, recordkeeping, communication and education, reporting, compliance, and investment management functions for all three Plans. The services also include third-party administration and aggr...",
+      "node_id": "0012",
+      "start_index": 7,
+      "end_index": 8,
+      "key_items": [
+        "Tier 3 – Brokerage Window",
+        "III. Scope of Services"
+      ],
+      "summary": "Tier 3 is a self-directed brokerage option, currently through TD Ameritrade, for investments outside the standard lineup. The 457 and Match Plans allow stocks, bonds, ETFs, and mutual funds; the 403(b) Plan allows mutual funds only. It is intended for participants able to manage broader portfolios, and carries an annual program-manager fee and possible brokerage fees. Attachment 6 describes investments; the lineup is periodically reviewed under the Board-approved Investment Policy Statement in Attachment 8. The RFP scope, detailed in Appendix A and subject to negotiation with OST and Board approval, covers administration, recordkeeping, communications and education, reporting, compliance, investment management, 403(b) legacy-asset administration and aggregation, and an online platform. Vendors must demonstrate: relevant 457/401/403 experience; at least $20 billion in DC assets and 500,000 accounts; service to 10 plans with 10,000+ participants and 10 plans with $250 million+ assets; five years serving at least three active governmental DC plans; ability to coordinate and aggregate 403(b) legacy data; provision of requested services; no material conflicts with OST, the Board, State, or CAPTRUST; and compliance with Delaware technology and security requirements, including payroll feeds from PeopleSoft and ADP."
+    },
+    {
+      "title": "V. RFP Issuance and Submission of Proposals",
+      "node_id": "0013",
+      "start_index": 8,
+      "end_index": 17,
+      "summary": "The RFP was publicly noticed under Delaware law and is available on specified procurement, Treasurer, and retirement-association websites; vendors may request disability accommodations and must direct questions and communications in writing to the designated contact. Unauthorized contact with State personnel, debarment, or specified conduct and performance concerns may lead to ineligibility or disqualification. Press releases may require prior approval, and the RFP is not an offer. Proposals must be submitted through Bonfire by 4:00 p.m. Eastern on August 20, 2021, meet requirements, disclose limitations and exceptions, and include realistic estimates; vendors bear response costs. Changes or withdrawals must arrive in writing before the deadline. Proposals are logged and opened, with contents confidential during evaluation subject to FOIA and properly documented confidentiality claims. Subcontracting requires consent and disclosure. Questions were due August 2, with answers posted by August 13. The State may reject submissions, waive defects, seek revisions, cancel, end negotiations, or make multiple awards. Exceptions require explanations and PSA redlines; awards need Board approval and an acceptable executed PSA, and award records are public.",
+      "nodes": [
+        {
+          "title": "A. RFP Issuance",
+          "node_id": "0014",
+          "start_index": 8,
+          "end_index": 11,
+          "summary": "The RFP was publicly noticed under 29 Del. C. § 6981, as modified by the annual budget bill, and is available through Delaware procurement, Treasurer, NAST, and NAGDCA websites. Vendors with disabilities may request accommodations from the Designated Contact at least 10 days before proposals are due. Questions and RFP communications must be submitted in writing to Treasury_RFP@delaware.gov. Contact with OST consultants, legal counsel, or other State employees about the RFP requires written authorization, except ordinary-course contacts by existing State vendors; violations may lead to disqualification. Debarred or suspended entities may be ineligible, and the State may reject vendors or personnel for specified criminal, antitrust, ethical, performance, or other serious concerns affecting confidence in their ability to perform. OST may require prior written approval for press or advertising releases concerning the RFP, resulting contract, work, or State. The RFP is not an offer by OST, the Board, or the State.",
+          "nodes": [
+            {
+              "title": "1. Public Notice",
+              "node_id": "0015",
+              "start_index": 8,
+              "end_index": 9,
+              "key_items": [
+                "V. RFP Issuance and Submission of Proposals",
+                "A. RFP Issuance"
+              ],
+              "summary": "The RFP was publicly noticed under 29 Del. C. § 6981, as modified by the annual budget bill, and is available electronically at the Delaware bids site, Bonfire portal, Treasurer’s RFP page, NAST, and NAGDCA websites. Vendors with disabilities may request accommodation by contacting the Designated Contact at least 10 days before proposals are due. All RFP questions and communications must be sent in writing to Treasury_RFP@delaware.gov. Vendors may not contact OST’s consultants or legal counsel about the RFP unless instructed in writing; an exception applies to existing State vendors contacting them in the ordinary course of business. Vendors may not contact other State employees about the RFP without the Designated Contact’s prior written consent. Violations of these contact restrictions may result in disqualification."
+            },
+            {
+              "title": "RFP Access, Assistance, and Communication Rules",
+              "node_id": "0016",
+              "start_index": 9,
+              "end_index": 9,
+              "key_items": [
+                "2. Obtaining Copies of the RFP",
+                " http://www.bids.delaware.gov/;  https://treasurer-delaware.bonfirehub.com/portal/;  http://treasurer.delaware.gov/requests-proposals/;  http://nast.org;  http://www.nagdca.org",
+                " http://www.bids.delaware.gov/",
+                " https://treasurer-delaware.bonfirehub.com/portal/",
+                " http://treasurer.delaware.gov/requests-proposals/",
+                " http://nast.org",
+                " http://www.nagdca.org",
+                "3. Assistance to Vendors with a Disability; 4. RFP Designated Contact; 5. Contact with Professionals",
+                "3. Assistance to Vendors with a Disability",
+                "4. RFP Designated Contact",
+                "5. Contact with Professionals"
+              ],
+              "summary": "The RFP is available electronically through the listed Delaware procurement, Treasurer, NAST, and NAGDCA websites. Vendors with disabilities may request communication or procurement-process accommodations from the Designated Contact at least ten days before proposals are due. All RFP questions and communications must be submitted in writing to Treasury_RFP@delaware.gov. Vendors may not contact OST consultants or legal counsel about the RFP unless authorized in writing; violations may result in disqualification. An exception applies to vendors doing business with the State when contact is required in the ordinary course of business."
+            },
+            {
+              "title": "6. Contact with Other State Employees",
+              "node_id": "0017",
+              "start_index": 9,
+              "end_index": 10,
+              "key_items": [
+                "2. Obtaining Copies of the RFP; 3. Assistance to Vendors with a Disability; 4. RFP Designated Contact",
+                "2. Obtaining Copies of the RFP",
+                "3. Assistance to Vendors with a Disability",
+                "4. RFP Designated Contact",
+                "5. Contact with Professionals"
+              ],
+              "summary": "Vendors may not contact State employees about the RFP except through the Designated Contact without prior written consent; violations may lead to disqualification. An exception applies to existing State vendors making ordinary-course business contacts. Entities debarred or suspended from doing business in the State or another jurisdiction may be ineligible. The State may reject vendors, officers, or staff with relevant contract-related criminal convictions, convictions for dishonesty or integrity offenses, antitrust convictions or civil judgments, failures to perform recordkeeping and administrative services contracts, ethical violations, or other serious causes undermining confidence in their ability to perform. The text also identifies a section on press releases and public disclosure."
+            },
+            {
+              "title": "Bid Eligibility and Vendor Exclusions",
+              "node_id": "0018",
+              "start_index": 10,
+              "end_index": 10,
+              "key_items": [
+                "7. Organizations Ineligible to Bid",
+                "8. Exclusions"
+              ],
+              "summary": "State employees may be contacted during the RFP process only when necessary for vendors already doing business with the State in the ordinary course. Entities currently debarred or suspended from state or other jurisdiction business may be deemed ineligible to bid. The State may reject vendors or their officers or staff for specified criminal convictions, including contract-related offenses, dishonesty or integrity offenses, and antitrust violations; failure without good cause to perform, or unsatisfactory performance, under recordkeeping and administrative services contracts; violations of legal or regulatory ethical standards; or any other serious and compelling cause identified by OST or the Board that undermines confidence in the vendor’s ability to perform."
+            },
+            {
+              "title": "9. No Press Releases or Public Disclosure",
+              "node_id": "0019",
+              "start_index": 10,
+              "end_index": 11,
+              "key_items": [
+                "7. Organizations Ineligible to Bid",
+                "8. Exclusions",
+                "e) Have violated ethical standards set out in law or regulation; and"
+              ],
+              "summary": "9. No Press Releases or Public Disclosure\n10OST reserves the right to pre-approve any news or broadcast advertising releases concerning this RFP, the resulting contract, the work performed, or any reference to the State regarding any project or contract performance. Any such news or advertising releases pertaining to this RFP or any resulting contract or services shall require the prior express written permission of OST."
+            },
+            {
+              "title": "10. RFP Not an Offer",
+              "node_id": "0020",
+              "start_index": 11,
+              "end_index": 11,
+              "summary": "10. RFP Not an Offer\nThis RFP does not constitute an offer by OST, the Board or the State."
+            }
+          ]
+        },
+        {
+          "title": "B. Submission of Proposals",
+          "node_id": "0021",
+          "start_index": 11,
+          "end_index": 17,
+          "summary": "Proposals must be submitted electronically through Bonfire by 4:00 p.m. Eastern, August 20, 2021; vendors must upload all files and click Submit, with confirmation indicating receipt. Proposals must address the RFP, meet mandatory requirements, provide realistic cost and service estimates, explain limitations, and state exceptions or proposed adjustments on Attachment 3; the State may reject nonresponsive or nonconforming submissions. Changes or withdrawals must be written and received before the deadline; proposals then become firm. Vendors bear all response costs. Timely proposals are logged and opened, while contents remain confidential during evaluation, subject to FOIA; confidential-business claims require separate labeled files and counsel’s supporting letter. Subcontracting requires prior consent and disclosure of scope and terms. Vendors must submit formatted questions by August 2; answers are posted by August 13. OST and the Board may reject, waive defects, or seek revised proposals. The State may cancel, end negotiations, or make multiple awards. RFP and PSA exceptions require timely explanations, and PSA redlines. Awards require Board approval and an executed acceptable PSA; award records are public.",
+          "nodes": [
+            {
+              "title": "1. Proposal Content",
+              "node_id": "0022",
+              "start_index": 11,
+              "end_index": 12,
+              "key_items": [
+                "10. RFP Not an Offer",
+                "B. Submission of Proposals"
+              ],
+              "summary": "Proposals must be submitted electronically and address the RFP; OST may reject nonresponsive or nonconforming submissions. They should be concise and avoid unnecessary promotional materials. Vendors must provide realistic estimates of time, materials, and costs, accounting for reasonably predictable inflation and other factors; the State is not liable for inaccurate estimates. Vendors should detail service limitations and exceptions to the State’s Professional Services Agreement in Attachment 3, and may propose beneficial service adjustments. OST has sole discretion to accept or reject exceptions and adjustments. Vendors must respond to all mandatory requirements, identified by “shall,” “will,” or “must”; failure to do so may result in disqualification."
+            },
+            {
+              "title": "2. Proposal Delivery",
+              "node_id": "0023",
+              "start_index": 12,
+              "end_index": 12,
+              "summary": "Proposals must be received by 4:00 p.m. Eastern on August 20, 2021; late submissions will not be considered. Submit through https://treasurer-delaware.bonfirehub.com/portal. Uploading or logging in alone does not submit a proposal: vendors must upload all files and click Submit before the deadline. A confirmation email with a unique number indicates successful submission. Submitted information becomes visible to the State only after the deadline, and mandatory requirements must be met to complete submission. Large uploads may take time; the file-size limit is 1,000 MB. Supported browsers are Internet Explorer 11, Microsoft Edge, Google Chrome, and Mozilla Firefox, with JavaScript enabled. Contact Bonfire at Support@GoBonfire.com for technical help."
+            },
+            {
+              "title": "3. Proposal Modifications",
+              "node_id": "0024",
+              "start_index": 12,
+              "end_index": 13,
+              "summary": "Proposal changes must be submitted in writing like the original and clearly labeled; none are accepted after the deadline. Vendors bear all costs of responding, including preparation, delivery, presentations, and negotiations. Late proposals are time-stamped but not opened or considered. OST opens timely proposals, returns unopened ones, and Bonfire publishes a log of vendor names and receipt times; proposal contents remain undisclosed before award unless law requires otherwise. OST may reject non-conforming proposals and decides which requirements are material. Proposal documents are confidential during evaluation and restricted to OST, the Board, the Evaluation Team, and counsel; competing vendors receive no information before award unless required by law or court order. Delaware FOIA generally makes State records available for inspection and copying on written request, except records exempt under FOIA or other law."
+            },
+            {
+              "title": "Proposal Costs, Deadlines, Opening, and Compliance",
+              "node_id": "0025",
+              "start_index": 13,
+              "end_index": 13,
+              "key_items": [
+                "4. Proposal Costs and Expenses",
+                "5. Late Proposals",
+                "6. Proposal Opening",
+                "7. Non-Conforming Proposals"
+              ],
+              "summary": "The State will not reimburse vendors for costs of preparing or submitting proposals, interviews or presentations, or contract negotiations. Proposals are electronically timestamped; late submissions will not be opened or considered. OST personnel open timely proposals and return unopened proposals. Bonfire logs vendors’ names and receipt dates and times; proposal contents remain confidential until contract award unless law requires disclosure. OST may reject proposals that fail material RFP requirements and decides which requirements are material versus formal or non-substantive."
+            },
+            {
+              "title": "8. Confidentiality of Documents",
+              "node_id": "0026",
+              "start_index": 13,
+              "end_index": 14,
+              "key_items": [
+                "4. Proposal Costs and Expenses; 5. Late Proposals; 6. Proposal Opening",
+                "4. Proposal Costs and Expenses",
+                "5. Late Proposals",
+                "6. Proposal Opening",
+                "7. Non-Conforming Proposals"
+              ],
+              "summary": "Proposal documents are confidential during evaluation and accessible only to OST, the Board, the Evaluation Team, and counsel; competing vendors may not receive information before award unless legally or court-ordered. However, Delaware FOIA generally makes State records publicly accessible, and submitted proposals are subject to disclosure unless exempt. Vendors seeking protection for confidential business information must submit the relevant portions in a separate electronic file labeled “Confidential Business Information” with the RFP number, accompanied by legal counsel’s letter describing the contents, affirming in good faith that FOIA protects them, and briefly explaining the exemption. Failure to follow this process may make a proposal unresponsive, prevent its selection, or jeopardize protection. The State independently decides whether designations are valid; vendor claims are not binding. Vendors accept that designated information may nonetheless become public."
+            },
+            {
+              "title": "9. Sub-Contracting",
+              "node_id": "0027",
+              "start_index": 14,
+              "end_index": 14,
+              "summary": "9. Sub-Contracting\nSubcontracting is not permitted without OST’s prior written consent. Any Vendor that submits a proposal contemplating the use of independent contractors or a subcontractor shall identify the purpose for such use, as well as the scope of work and other terms for any such arrangement. All independent contractors and subcontractors must agree in writing to be bound by the terms of the PSA and other agreements and documents governing the relationship between the Vendor and the State."
+            },
+            {
+              "title": "10. Discrepancies and Omissions",
+              "node_id": "0028",
+              "start_index": 14,
+              "end_index": 15,
+              "summary": "Vendors are responsible for complete, accurate proposals and reviewing the RFP and attachments; they must raise discrepancies, omissions, or ambiguities through the question-and-answer process or related protests will be barred. Written questions, in a standalone Word document listing section, paragraph, page, and questioned text, must reach OST at Treasury_RFP@delaware.gov by 4:00 p.m. Eastern on August 2, 2021; OST may reject questions that do not follow the format. OST will post consolidated answers without vendor names on the State bid websites by August 13, 2021, or another prescribed date. OST and the Board may accept or reject proposals or portions, waive defects or specifications, evaluate proposals and vendors, and solicit new or modified proposals as they deem appropriate or in the State’s best interest. The next section introduces the State’s right to cancel the solicitation, but provides no further details here."
+            },
+            {
+              "title": "RFP Questions and Proposal Rejection Rights",
+              "node_id": "0029",
+              "start_index": 15,
+              "end_index": 15,
+              "key_items": [
+                "11. RFP Question and Answer Process",
+                "12. State’s Right to Reject Proposals"
+              ],
+              "summary": "Vendors are responsible for complete, accurate proposals and reviewing the RFP and attachments; they must raise discrepancies, omissions, or ambiguities through the question-and-answer process or related protests will be disallowed. Written questions were due to OST’s designated contact at Treasury_RFP@delaware.gov by 4:00 p.m. Eastern on August 2, 2021. Questions must be in a standalone Word document identifying the section, paragraph, page, and questioned text; OST may reject questions that do not follow this format. OST will post consolidated answers without vendor names on the State’s procurement websites by August 13, 2021, or another specified date. OST and the Board may accept or reject proposals in whole or part, waive defects or specifications, assess proposals and vendors, and request new or modified proposals as they deem appropriate or in the State’s best interest."
+            },
+            {
+              "title": "13. State’s Right to Cancel Solicitation",
+              "node_id": "0030",
+              "start_index": 15,
+              "end_index": 16,
+              "key_items": [
+                "11. RFP Question and Answer Process",
+                "12. State’s Right to Reject Proposals"
+              ],
+              "summary": "The State may cancel the solicitation at any time and is not obligated to award a contract; negotiations do not commit the State to contract or continue negotiating, and may be ended at any time. The State may award contracts to multiple vendors when the Board finds it necessary, appropriate, or in the State’s best interest under 29 Del. C. § 6986. Vendors may modify or withdraw proposals by written request received by the Designated Contact before the deadline; withdrawn proposals may be resubmitted by the deadline. Proposals not withdrawn by the deadline become firm and generally cannot be revoked, subject to Section I.B. RFP revisions will be posted as addenda at bids.delaware.gov. Exceptions, explanations, and alternatives must be included on Attachment 3 and submitted by the deadline; untimely or inadequate exceptions are waived, and the State decides whether to accept them."
+            },
+            {
+              "title": "RFP Contract Awards, Proposal Withdrawal, and Revisions",
+              "node_id": "0031",
+              "start_index": 16,
+              "end_index": 16,
+              "key_items": [
+                "14. State’s Right to Award Multiple Source Contracting",
+                "15. Notification of Withdrawal of Proposal",
+                "16. Revisions to the RFP"
+              ],
+              "summary": "The State may cancel the solicitation at any time, without reason or commitment to award a contract. Vendor selection may lead to contract negotiations, but does not commit the State to contract or continue negotiations; the State may end negotiations at any time. Under 29 Del. C. § 6986, the State may award contracts to multiple Vendors when the Board determines this is necessary, appropriate, or in the State’s best interest. Vendors may modify or withdraw proposals by written request received by the Designated Contact before the Proposal Deadline; withdrawn proposals may be revised and resubmitted by the deadline. Proposals not withdrawn by the deadline become firm offers and generally cannot be revoked, subject to Section I.B. RFP revisions will be issued as addenda posted on the State bids website."
+            },
+            {
+              "title": "17. Exceptions to the RFP",
+              "node_id": "0032",
+              "start_index": 16,
+              "end_index": 17,
+              "key_items": [
+                "14. State’s Right to Award Multiple Source Contracting",
+                "15. Notification of Withdrawal of Proposal"
+              ],
+              "summary": "RFP exceptions, including those to attachments, exhibits, or addenda, must be explained with alternatives on Attachment 3 and submitted by the proposal deadline; otherwise they are waived, and the State may accept or reject them. PSA exceptions must likewise be explained on Attachment 3, with a redlined PSA; untimely or inadequate exceptions are waived. Appendix B contains OST’s standard PSA, but the State is not bound by its terms and may accept or reject requested changes. Contract awards require Board approval; the Board may choose a non-lowest bidder, make multiple awards, or withdraw the RFP without an award. An award becomes effective only after Board authorization and execution of a PSA acceptable to OST and the Board; vendors gain no rights before both occur. Award and contract documents, pricing, and payment details are public records subject to FOIA. Proposals must provide requested information in the specified order; omissions may cause rejection. Tab A is a transmittal letter, with required contents introduced but not included in the excerpt."
+            },
+            {
+              "title": "PSA Exceptions and Contract Awards",
+              "node_id": "0033",
+              "start_index": 17,
+              "end_index": 17,
+              "key_items": [
+                "18. Exceptions to the PSA",
+                "19. Award of Contract"
+              ],
+              "summary": "Vendors must identify and explain any exceptions to the State’s standard PSA on Attachment 3 and provide a redlined PSA; untimely or inadequate exceptions are waived. The State may accept or reject exceptions. Contract awards require Board approval, and the Board may select a vendor other than the lowest-priced proposer, issue multiple awards, or cancel the RFP without an award. An award becomes effective and is communicated and published only after Board authorization and execution of a formal PSA acceptable to OST and the Board; vendors gain no legal or equitable rights before both occur. Awards, PSAs, attachments, exhibits, pricing, and payment details are public records subject to FOIA."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VI. Proposal Requirements and Evaluation",
+      "node_id": "0034",
+      "start_index": 17,
+      "end_index": 21,
+      "key_items": [
+        "A. Required Information",
+        "1. Index of Tabs",
+        "18. Exceptions to the PSA; 19. Award of Contract; VI. Proposal Requirements and Evaluation",
+        "18. Exceptions to the PSA",
+        "19. Award of Contract",
+        "VI. Proposal Requirements and Evaluation",
+        "A. Required Information",
+        "2. Furnishment of Proof",
+        "B. Proposal Evaluation",
+        "2. Furnishment of Proof",
+        "1. Initial Screening; 2. The Evaluation Team",
+        "1. Initial Screening",
+        "2. The Evaluation Team",
+        "3. Evaluation Criteria",
+        "1. Initial Screening",
+        "2. The Evaluation Team; 3. Evaluation Criteria; Questionnaire Section",
+        "2. The Evaluation Team",
+        "3. Evaluation Criteria",
+        "Questionnaire Section",
+        "Evaluation Criteria",
+        "4. Proposal Clarification; 5. Communication with References and Past or Present Clients; 6. Oral Presentations",
+        "4. Proposal Clarification",
+        "5. Communication with References and Past or Present Clients",
+        "6. Oral Presentations"
+      ],
+      "summary": "Proposals must follow the required tab order: A transmittal letter certifying eligibility and identifying separately sealed confidential information; B complete, concise Attachment 1 questionnaire responses; C Attachment 2 confidential-information form; D Attachment 3 exceptions to the RFP and all related documents; E PSA redline and any other proposed contract documents; F at least three Attachment 4 business references; G Attachment 7 performance standards, including conversion fees at risk and service guarantees; H recommended stable-value/fixed-account product; and I draft conversion implementation plan and timeline. Before award, the winner must provide required business licenses, service certifications, and PSA-required insurance proof. OST screens proposals for timeliness and compliance, then an adjustable Evaluation Team evaluates qualifying proposals; neither lowest cost nor highest score guarantees selection. Scoring totals 100: vendor history/public-plan experience (10), operational scope (20), plan-sponsor services (30), participant communication and education (30), and overall cost (10). Vendors should address criteria without assumed capabilities and may suggest beneficial services. Evaluators may request timely clarification or revisions, contact listed and other current/former clients (with Vendor consent and waiver of restrictions), and invite paid-for-by-Vendor presentations, tentatively September/October 2021, requesting assigned staff attendance."
+    },
+    {
+      "title": "VII. Contract Process",
+      "node_id": "0035",
+      "start_index": 21,
+      "end_index": 24,
+      "summary": "Finalist vendors must negotiate and execute a formal contract based on the PSA, with vendor-proposed terms and PSA changes subject to OST acceptance and any required Board approval. Undisclosed pricing or material-term changes may end negotiations or disqualify a vendor. Contracts are due within 60 business days of invitation unless extended; OST may then negotiate with another vendor. Services cannot begin before award without OST’s written request or approval, and failure to start as required may result in cancellation and reassignment. Vendors must certify their proposals are independent, fair, and free of collusion or fraud, with no improper involvement in RFP development; false representations may lead to cancellation and termination. The successful vendor also swears it did not improperly seek the contract and warrants it paid no contingent fees or improper consideration; violations may result in cancellation, termination, or recovery of fees. Vendors may not solicit State employees for employment during the RFP or contract term without OST’s prior written approval.",
+      "nodes": [
+        {
+          "title": "A. Formal Contract",
+          "node_id": "0036",
+          "start_index": 21,
+          "end_index": 22,
+          "key_items": [
+            "4. Proposal Clarification",
+            "5. Communication with References and Past or Present Clients; 6. Oral Presentations",
+            "5. Communication with References and Past or Present Clients",
+            "6. Oral Presentations",
+            "VII. Contract Process"
+          ],
+          "summary": "Finalist vendors invited by OST must negotiate and execute a formal contract based on the PSA in Appendix B; vendor-proposed documents or terms require OST’s acceptance and any necessary Board approval. Seeking undisclosed pricing or material-term changes may end negotiations or disqualify the vendor. OST may consider PSA modifications whether or not raised as exceptions, subject to Board approval. The contract is due within 60 business days of invitation unless OST extends the deadline; otherwise OST may cancel the invitation and negotiate with another vendor. Services may not begin before an Award without OST’s prior written request or approval. If an awarded vendor fails to start services when contractually due, OST may, without liability, cancel the Award and terminate the contract, and award to another vendor. Vendors must not collude to restrain competition and, by responding, warrant that their proposal is independent of competing vendors, fair and free of collusion or fraud, prepared without prior involvement in or knowledge of the RFP’s specific contents, and not prepared with direct or indirect participation by State, Board, or OST employees or officials."
+        },
+        {
+          "title": "Contract Changes, Timing, and Award Conditions",
+          "node_id": "0037",
+          "start_index": 22,
+          "end_index": 22,
+          "key_items": [
+            "B. Modification of PSA",
+            "C. Time Frame",
+            "D. Inception of Services",
+            "E. Cancelation of Award"
+          ],
+          "summary": "Negotiating undisclosed pricing or material contract terms may end negotiations or disqualify a Vendor. OST may consider PSA changes or additions, subject to required Board approval. A Vendor must execute a Contract within 60 business days of an Invitation unless OST extends the deadline; otherwise, OST may cancel the Invitation and negotiate with another Vendor. Services may not begin before an Award without OST’s prior written request or approval. If an awarded Vendor fails to start recordkeeping services when required, OST may cancel the Award and terminate the Contract without liability, and may award the work to another Vendor."
+        },
+        {
+          "title": "F. Collusion or Fraud",
+          "node_id": "0038",
+          "start_index": 22,
+          "end_index": 23,
+          "key_items": [
+            "B. Modification of PSA; C. Time Frame; D. Inception of Services",
+            "B. Modification of PSA",
+            "C. Time Frame",
+            "D. Inception of Services",
+            "E. Cancelation of Award"
+          ],
+          "summary": "Vendors may not collude to restrain competition, including by agreeing on fixed prices. By responding, each vendor represents that its proposal is independent of competing vendors’ submissions, fair and free of collusion or fraud, prepared without participating in or having prior knowledge of the RFP’s development or specific contents, and without direct or indirect involvement by State, Board, or OST employees or officials. If OST finds any representation was false when made or later becomes false, it may cancel the award and terminate the contract without liability; the award may then go to another vendor."
+        },
+        {
+          "title": "G. Lobbying and Gratuities and Contingency Fees",
+          "node_id": "0039",
+          "start_index": 23,
+          "end_index": 23,
+          "summary": "G. Lobbying and Gratuities and Contingency Fees\nAs required by 29 Del. C. § 6903(b), the successful Vendor is deemed to have sworn under oath that the Vendor has not employed or retained any company or person to solicit or secure a Contract by improperly influencing OST or the Board in this procurement process. In addition, the Vendor represents and warrants that it has not directly or indirectly paid or agreed to pay any person, company, corporation, individual or firm, other than a bona fide employee working primarily for Vendor, any fee, commission, percentage, gift or any other consideration contingent upon or resulting from an Award or Contract.\nFor breach or violation of the foregoing oath, representation or warranty, OST, in its discretion and without liability, shall have the right to cancel and annul any Award and terminate any Contract, or deduct from the Contract price or otherwise recover the full amount of such commission, percentage, brokerage or contingent fee."
+        },
+        {
+          "title": "H. Solicitation of State Employees",
+          "node_id": "0040",
+          "start_index": 23,
+          "end_index": 24,
+          "key_items": [
+            "G. Lobbying and Gratuities and Contingency Fees"
+          ],
+          "summary": "H. Solicitation of State Employees\nDuring the RFP process and for the term of the Contract, Vendor shall not, directly or indirectly, solicit any employee of the State to accept employment with the Vendor, its affiliates, or any person acting in concert with Vendor, without prior written approval of OST.\n23"
+        }
+      ]
+    },
+    {
+      "title": "VIII. Attachments and Appendices",
+      "node_id": "0041",
+      "start_index": 24,
+      "end_index": 55,
+      "summary": "This section identifies required proposal attachments and informational appendices. Attachments include the vendor questionnaire, confidential-information and exception forms, business references, legacy-vendor information, current investment lineup, performance standards, investment policy statement, and cyber-liability materials. The questionnaire requires concise, ordered responses addressing vendor history and public defined-contribution experience; organizational capacity, security, disaster recovery, audits, controls, implementation and conversion planning, staffing, systems, and audit support; and plan-sponsor services, reporting, compliance, websites, participant communications and education, investments, and costs. Related forms address proprietary information, solicitation exceptions, references and State contracts, legacy assets and accounts, investments, performance, and cybersecurity, including breach response, insurance, and notifications. Appendices provide the scope of services, professional services agreement form, program audit requirements, and file layouts.",
+      "nodes": [
+        {
+          "title": "VIII. Attachments and Appendices (intro)",
+          "node_id": "0042",
+          "start_index": 24,
+          "end_index": 24,
+          "summary": "VIII. Attachments and Appendices\nThe following items are provided for use in your response. Attachments are required forms to be submitted with your proposal as described in this RFP. Appendices are provided as additional detail or information to assist in your proposal response.\nAttachments\nAttachment 1:\nAttachment 2:\nAttachment 3:\nAttachment 4:\nAttachment 5:\nAttachment 6:\nAttachment 7:\nAttachment 8:\nAttachment 9:\nVendor Questionnaire Confidential Information Form Exception Form Business References Legacy Vendor List Current Investment Lineup Performance Standards Investment Policy Statement (DC Program Plans) Cyber Liability\nAppendices\nAppendix A: Scope of Services\nAppendix B: Form of Professional Services Agreement\nAppendix C: Program Audit Requirements\nAppendix D: File Layouts\n24"
+        },
+        {
+          "title": "ATTACHMENTS",
+          "node_id": "0043",
+          "start_index": 25,
+          "end_index": 26,
+          "key_items": [
+            "ATTACHMENT 1: Vendor Questionnaire"
+          ],
+          "summary": "ATTACHMENTS\n25ATTACHMENT 1: Vendor Questionnaire\nCONTRACT NUMBER: TRE-CPM-21101-DEFERRED COMPENSATION PLAN RECORDKEEPING AND ADMINISTRATIVE SERVICES\nQuestionnaire\nThe following questionnaire must be completed and included with your response to this RFP. Type your responses in the same order as the questionnaire, listing the question first followed by your answer. The response should reflect the bidder’s understanding of the stated requirements and the bidder’s qualifications and experience in providing the required services. Please provide succinct answers."
+        },
+        {
+          "title": "I. Vendor History and Depth of Public Defined Contribution Plan Experience",
+          "node_id": "0044",
+          "start_index": 26,
+          "end_index": 30,
+          "summary": "The section evaluates vendors’ organizational history and experience administering public defined contribution plans, including years in business; numbers and assets of 457(b), 403(b), and 401(a) plans by participant size; client retention, relationship duration, and service-related departures; corporate relationships, alliances, subcontractors, and planned transactions; and relevant litigation, regulatory matters, or investigations. It also assesses capacity to deliver requested services: security and breach response, backups, disaster recovery, audits, risk controls, subcontractor and offshore safeguards, and identity verification. Non-incumbents must describe a State-specific five-month implementation plan, comparable conversions, risk and delay mitigation, communications, historical-data handling, blackout and reconciliation arrangements, performance fees, and a participation-rate commitment. Vendors must identify service-team qualifications, experience, tenure, and workloads, and explain recordkeeping systems, upgrades, compliance, defined-benefit data display, error handling, and support for Appendix C audits.",
+          "nodes": [
+            {
+              "title": "ATTACHMENT 1: Vendor Questionnaire",
+              "node_id": "0045",
+              "start_index": 26,
+              "end_index": 27,
+              "key_items": [
+                "Questionnaire"
+              ],
+              "summary": "The questionnaire requests an overview of the vendor’s organization and history, including years providing defined contribution plan administration. It asks for counts and assets of public 457(b), 403(b), and 401(a) plans served, categorized by participant size. It seeks three years of client retention statistics, average client relationship duration, and the share of departing clients who left over service issues. Vendors must disclose parent, subsidiary, and affiliate relationships; alliances or joint marketing arrangements; and proposed subcontractors, their services, and relevant expertise. It asks about pending or contemplated mergers, sales, or acquisitions. Finally, it requests details of relevant litigation, regulatory matters, or other investigations involving the company or individuals during the past five years or currently pending, including outcomes or settlements, excluding routine participant-related interpleader actions, garnishments, and similar matters."
+            },
+            {
+              "title": "II. Scope of Vendor Operations and Ability to Meet Full Range of Requested Services",
+              "node_id": "0046",
+              "start_index": 27,
+              "end_index": 30,
+              "summary": "The section assesses vendors’ data security, implementation, client-service, and operational capabilities. It covers security staffing and safeguards; breach history, definitions, notifications and support; backups, off-site storage, disaster recovery, continuity testing and recovery sites; independent audits, risk assessments, subcontractor protections, offshore work, and participant identity verification and multifactor authentication. Non-incumbents must provide a State-specific five-month implementation plan with milestones, risks, stakeholder support, compliance and legacy-vendor coordination, comparable large conversions, delay mitigation, onboarding communications and samples, historical-data handling, blackout terms and reconciliation risks. They must also specify fees at risk for quarterly performance standards and commit to a participation-rate increase with consequences if unmet. Vendors must identify assigned service-team members, qualifications, tenure, client and plan loads, and public-plan experience. Operational questions address recordkeeping systems, upgrades and disruptions, legal and technology compliance, defined-benefit data display, error handling across transactions and tax reporting, and support for Appendix C audits.",
+              "nodes": [
+                {
+                  "title": "Data Security",
+                  "node_id": "0047",
+                  "start_index": 27,
+                  "end_index": 28,
+                  "summary": "The section requests details on vendor data-security capabilities: the security team’s size, roles, and responsibilities; safeguards for data integrity and theft prevention; any past system compromises, breach definitions, client/participant notification policies, and support offered after actual or potential breaches. It asks about backup, archival and off-site storage, disaster-recovery and business-continuity procedures, testing history, and control of hot or warm sites. It also covers independent security audits and benchmarking, their frequency, vendor and subcontractor risk assessment, and protection of subcontractor-handled data. Vendors must disclose offshore data transfers or work performed outside the United States, the services involved, and applicable safeguards. Finally, it asks how participant identity is verified before releasing personal information, including PIN generation and ongoing administration, website multi-factor authentication, and participant self-provisioning of MFA."
+                },
+                {
+                  "title": "Implementation Strategy (Non-Incumbents only)",
+                  "node_id": "0048",
+                  "start_index": 28,
+                  "end_index": 29,
+                  "summary": "Non-incumbent vendors must provide a State-specific implementation plan for the five-month period ending March 1, 2022, with milestones, strategy, rationale, and inclusion as Tab L. They must identify operational and compliance risks and explain support for OST, employers, participants, and staff, including use of a third-party administrator, compliance services, and information-sharing agreements with legacy 403(b) vendors. Responses must describe comparable conversions involving at least 5,000 participants in the past five years, incumbent transitions, common delay causes, and mitigation. Vendors must explain participant onboarding communications, effective methods and challenges, and attach sample materials. They must detail experience receiving, retaining, and archiving former-vendor historical data. They must specify blackout duration (minimum and maximum days), restrictions, components, and reconciliation risks, assuming complete data in good order. Vendors must state a dollar amount and agree to put 10% of annual fees at risk against agreed performance standards, reporting quarterly to OST. They must also commit to a participation-rate increase and state fees at risk if the target is missed, assuming access to eligible employees and communications channels."
+                },
+                {
+                  "title": "Client Service Team",
+                  "node_id": "0049",
+                  "start_index": 29,
+                  "end_index": 29,
+                  "summary": "Client Service Team\n1. Describe the service team assigned to OST’s plans including the names, titles, and bios for each of the following team members. Provide the tenure, number of clients and number of plans for each and their experience working with public defined contribution plans.\n• Client Relationship Manager\n• Transition / Implementation Manager\n• Day-to-day Account Executive\n• Communications Specialist\n• Compliance Specialist\n• Field education representatives"
+                },
+                {
+                  "title": "Operational and Systems Capabilities",
+                  "node_id": "0050",
+                  "start_index": 29,
+                  "end_index": 30,
+                  "summary": "The text requests information on the firm’s defined contribution plan recordkeeping system, including its years of use, upgrade frequency, latest major upgrade, any service disruptions, and lessons learned. It asks how hardware and software remain compliant with laws, regulations, industry practices, and new technologies; whether defined benefit data can appear in annual statements or participant websites; and how system and transmission errors are handled for enrollment, contributions, withdrawals or distributions (including over- and underpayments), transfers, rollovers, earnings allocation, and tax reporting. It also asks the vendor to confirm support for program audits specified in Appendix C, and to commit to a participation-rate increase, stating the target and fees at risk if unmet, assuming access to eligible employees and permission to distribute mass mailings and other communications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "III. Plan Sponsor Experience",
+          "node_id": "0051",
+          "start_index": 30,
+          "end_index": 54,
+          "summary": "Covers sponsor reporting options, customization, ad hoc requests, delivery methods and turnaround; administrative and compliance support for data transitions, 403(b)/457(b) limits, notices, distributions, terminated-participant balances, RMDs, payments, and regulatory changes; website services, access, uptime, and planned improvements; and satisfaction measurement, complaints, and technical support. Participant communication and education topics include branded online resources, enrollment, tools and integrated retirement views, call-center services, advice and education, account transfers, statements, campaigns, and employer training. Investment topics include fund and stable-value flexibility, annuities, managed accounts, brokerage features and restrictions, and reporting. Costs include required revenue, participant fees, expense accounts, and detailed service charges. Attachments cover proprietary-information disclosures, solicitation exceptions, business references and State contract history, legacy vendor assets and accounts, investment lineup and performance standards, and cybersecurity, breach response, liability, insurance, and notification requirements.",
+          "nodes": [
+            {
+              "title": "Standard Reporting",
+              "node_id": "0052",
+              "start_index": 30,
+              "end_index": 30,
+              "summary": "III. Plan Sponsor Experience\nStandard Reporting\n1. Please indicate what reporting is available to OST on the participant and on a plan level. To what extent can these proposed reports be customized? Confirm your ability to provide ad-hoc reporting and describe the limitations, if any, of what OST can request. What is the process for developing customized report formats and delivery mechanisms customized to client requests? What are the timelines for generating and delivering reports by hard copy? By electronic delivery? Include your organization’s average response time for a client to receive standard reports and special reports."
+            },
+            {
+              "title": "Administrative and Compliance Support",
+              "node_id": "0053",
+              "start_index": 30,
+              "end_index": 31,
+              "summary": "The text asks about administrative and compliance support for OST’s plans, including use or modification of existing file layouts, required data, transition of administrative tasks, and OST’s continuing role. It covers aggregating data from multiple legacy vendors to monitor 403(b) compliance and the provider’s experience; participant choice of email or postal mail and required data; retention of participant requests; administration, costs, and IRA-provider options for terminated participants’ $1,000–$5,000 balances; RMD monitoring, notices, and automatic distributions; stale-dated checks and electronic payments; tracking combined pre-tax/Roth annual limits and 457(b) three-year catch-up contributions, alerts, approvals, and excess-prevention measures; distribution and cost of universal-availability notices; and notifications, frequency, samples, and processes for addressing legislative or regulatory changes and maintaining compliant recordkeeping systems."
+            },
+            {
+              "title": "Online Systems",
+              "node_id": "0054",
+              "start_index": 31,
+              "end_index": 31,
+              "summary": "Online Systems\n1. Describe the account services and transaction capabilities available through your participant website. What are routine maintenance periods for your website? Provide statistics for the last 12 months on down time other than routine system maintenance.\n2. What access is provided to OST via the website, i.e., transactional or informational services? What access is available to participating employers? Do you offer a participant view to the administrator? Describe any transactional capabilities for employers via the website.\n3. Are there any improvements to your Internet/web capabilities expected to occur in the next three years? If so, please describe."
+            },
+            {
+              "title": "Customer Service and Issue Resolution",
+              "node_id": "0055",
+              "start_index": 31,
+              "end_index": 32,
+              "summary": "Customer Service and Issue Resolution\n1. Does your company conduct client specific surveys to measure satisfaction with its administrative services? If so, how frequently do these occur? Please provide the results of your most recently completed client survey. How does your company plan to measure and evaluate the satisfaction of participants, employers and OST? How does your company intend to report the results of such measurement to OST? Please provide your most recent “net promoter score” if available.\n2. How are participant grievances/complaints handled? Describe your process, including communication with the participant as well as how you collaborate with OST for remedy. What are your customer support capacities to respond to and troubleshoot participant technical difficulties?\n31"
+            },
+            {
+              "title": "IV. Participant Communication & Education",
+              "node_id": "0056",
+              "start_index": 32,
+              "end_index": 34,
+              "key_items": [
+                "Microsite and Website",
+                "Call Center and Voice Response System",
+                "Participant Communication & Education"
+              ],
+              "summary": "The text requests details on participant microsite and website branding, customization, updates, relationship to OST’s site, public and logged-in materials, online enrollment and instructions, enrollment without advance data, and beneficiary submissions. It asks about calculators, apps, videos, external-account aggregation and modeling, and integrating OST defined-benefit with vendor defined-contribution data in a combined view. Call-center questions cover locations, hours, investment guidance, plan dedication, three years of service metrics, accuracy controls, call recording and review, language and accessibility services, transaction security, and customizable voice-response functions. Participant education questions address public-plan service philosophy; Delaware coverage, field staff qualifications, compensation, caseloads, costs and retail sales; consultations, advice boundaries, referrals, shift-based, accessible and scheduled education; holistic financial guidance; legacy-account transfers and surrender charges; branded campaigns; consolidated statements and annual retirement projections; and transition timing. It also asks how the provider will develop employer resources, train multiple employers, and deliver system and remittance training through webinars or calls."
+            },
+            {
+              "title": "V. Investments and Overall Cost to Plan and Plan Participants",
+              "node_id": "0057",
+              "start_index": 34,
+              "end_index": 34,
+              "summary": "V. Investments and Overall Cost to Plan and Plan Participants"
+            },
+            {
+              "title": "Investment Management Flexibility",
+              "node_id": "0058",
+              "start_index": 34,
+              "end_index": 37,
+              "summary": "The questionnaire asks about offering OST an open-architecture mutual-fund platform and nonproprietary stable-value option; procedures, costs, and timelines for replacing funds; redemption-fee processing and wash-sale communications; support for the existing lineup and share classes, required agreements, and recommendations. It requests stable-value contract terms, minimum guaranteed rate and duration, withdrawal restrictions, and contract copy, plus fee-breakpoint thresholds and participant communications. It also covers retirement-income/annuity features and guarantor ratings; managed-account technology, advisory status, adoption, and fees/revenue sharing; and self-directed brokerage providers, fees, independent-advisor arrangements and fee caps, transition, minimum balances, and access procedures. Brokerage questions address restricting unsuitable or plan-prohibited investments and monitoring restrictions; treatment of balances for distributions, required minimum distributions, domestic relations orders, death claims, and beneficiaries; participant account summaries; and brokerage information included in participant statements, sponsor reports, and consolidated State-level holdings."
+            },
+            {
+              "title": "Costs to the Plans and Participants",
+              "node_id": "0059",
+              "start_index": 37,
+              "end_index": 39,
+              "summary": "The RFP asks providers to state required revenue as a percentage and per-participant charge, its guarantee period, and whether it depends on a proprietary fixed account; if so, provide revenue without it and a nonproprietary alternative. Providers must confirm explicit participant charges are supported and shown on statements in dollars and as a percentage of assets, including with non-revenue-sharing share classes. They must confirm plan-derived revenue can fund a State account for plan expenses or participant reallocations and explain allocation timing, payment requests or automation, eligible recipients and expense controls, account and transaction reporting and timing, any zero-balance schedule, and treatment if OST changes providers. They must detail all additional direct fees, including setup/transition; voice, customer service, web and microsite; custody/trustee; 403(b) aggregation and common remitter; investment guidance/advisory and managed accounts; brokerage; plan documents and compliance; check/wire processing; 1099-R; hardship and DRO qualification/administration; statements/confirmations; customized enrollment and communications; account closeout; and other specified services."
+            },
+            {
+              "title": "ATTACHMENT 2: Confidential or Proprietary Information Form",
+              "node_id": "0060",
+              "start_index": 39,
+              "end_index": 41,
+              "summary": "ATTACHMENT 2: Confidential or Proprietary Information Form\nCONTRACT NUMBER: TRE-CPM-21101 - DEFERRED COMPENSATION PLAN RECORDKEEPING AND ADMINISTRATIVE SERVICES\n By checking this box, Vendor acknowledges that its proposal does not contain any information it declares to be confidential or proprietary for the purpose of production under FOIA.\nConfidentiality or Proprietary Information\nNote: Use additional pages as necessary.\n3940"
+            },
+            {
+              "title": "ATTACHMENT 3: Exception Form",
+              "node_id": "0061",
+              "start_index": 41,
+              "end_index": 42,
+              "summary": "ATTACHMENT 3: Exception Form\nCONTRACT NUMBER: TRE-CPM-21101 - DEFERRED COMPENSATION PLAN RECORDKEEPING AND ADMINISTRATIVE SERVICES\nProposals must include all exceptions to the specifications, terms or conditions contained in this solicitation, including all attachments and appendices. If Vendor is submitting the proposal without exceptions, please state so below.\n By checking this box, Vendor acknowledges that it takes no exception to the specifications, terms or conditions found in this solicitation, including the terms of the PSA.\nParagraph #Exceptions to specifications, terms or and page # conditions\nProposed Alternative\nNote: Use additional pages as necessary.\n41"
+            },
+            {
+              "title": "ATTACHMENT 4: Business References",
+              "node_id": "0062",
+              "start_index": 42,
+              "end_index": 54,
+              "summary": "The section requires at least four business references, including three comparable government entities, with business and contact details, years served, and work performed; State entities and personnel are ineligible. State contracts from the prior five years must be listed separately. It also includes a December 2020 list of Delaware legacy vendors and their assets and participant accounts (totals: $296,650,889.76 and 6,863 accounts), a heading for the current investment lineup, sample service-performance standards with fees at risk, and a link to the Deferred Compensation Plans’ Investment Policy Statement. Cybersecurity provisions require compliance with Delaware DTI standards and define data breaches, PII, Customer Data, and Security Incidents. They set vendor duties to notify the State, mitigate and report breaches, notify affected individuals, meet with State officials, and cover response costs. Liability is unlimited for specified data loss or disclosure involving unauthorized public dissemination of PII. Vendors unable to encrypt PII at rest must maintain required cyber insurance ($15 million for this contract’s record tier) and comply with applicable laws. State approval is required for media notices; State breach contacts are provided.",
+              "nodes": [
+                {
+                  "title": "ATTACHMENT 4: Business References (intro)",
+                  "node_id": "0063",
+                  "start_index": 42,
+                  "end_index": 46,
+                  "summary": "Attachment 4 requires at least four business references, including three comparable government entities, with business and contact details, years of service, and work performed; State entities or personnel cannot be references. State contracts held in the past five years must be listed separately with scope and primary contact details. Attachment 5 lists Delaware legacy vendors as of December 31, 2020, with assets and participant accounts by vendor and totals of $296,650,889.76 and 6,863 accounts. Attachment 6 is a heading for the current investment lineup, with no lineup details shown. Attachment 7 provides sample performance standards for transition and administrative services, including processing timelines, system availability, call-center performance, education meetings, and participation-rate growth, with specified fees at risk (generally 5%, and 10% for selected standards)."
+                },
+                {
+                  "title": "Attachment 8: Investment Policy Statement (DC Program Plans)",
+                  "node_id": "0064",
+                  "start_index": 47,
+                  "end_index": 48,
+                  "summary": "Attachment 8 identifies the Deferred Compensation Plans’ Investment Policy Statement and links to its online copy on the Delaware State Treasurer’s website. Attachment 9 requires the vendor to meet applicable Delaware Department of Technology and Information security standards in the RFP and resulting contracts. It defines a data breach as a compromise or loss of the State’s computerized data that results, or is reasonably believed to have resulted, in unauthorized acquisition of personally identifiable information (PII) or unauthorized or excessive access to PII. Investigative, protective, or intelligence activities by U.S., state, or local law enforcement or U.S. intelligence agencies are excluded from the definition."
+                },
+                {
+                  "title": "A. Vendor Protection of Customer Data; B. Definitions",
+                  "node_id": "0065",
+                  "start_index": 48,
+                  "end_index": 48,
+                  "key_items": [
+                    "A. Vendor Protection of Customer Data",
+                    "B. Definitions"
+                  ],
+                  "summary": "Attachment 9: Cyber Liability\nCONTRACT NUMBER: TRE-CPM-21101 - DEFERRED COMPENSATION PLAN RECORDKEEPING AND ADMINISTRATIVE SERVICES\nCyber Responsibilities, Liability and Insurance\nA. Vendor Protection of Customer Data\n1. The awarded vendor shall, at a minimum, comply with all Delaware Department of Technology and Information (DTI) security standards identified in this Request for Proposals and any resultant contract(s).\nB. Definitions\nData Breach\n1. In general the term “data breach” means a compromise of the security, confidentiality, or integrity of, or the loss of, computerized data for the State of Delaware that results in, or there is a reasonable basis to conclude has resulted in :"
+                },
+                {
+                  "title": "1. 1 The unauthorized acquisition of personally identifiable information (PII); or",
+                  "node_id": "0066",
+                  "start_index": 48,
+                  "end_index": 49,
+                  "summary": "A data breach includes unauthorized acquisition of personally identifiable information (PII), or access to PII for an unauthorized purpose or beyond authorization, but excludes investigative, protective, or intelligence activities of U.S. federal, state, or local law enforcement or U.S. intelligence agencies. PII is information that alone or combined identifies or authenticates an individual, including names, contact details, credentials, government and account numbers, biometric, criminal, citizenship, medical, and financial information, usernames, and security answers; it also includes information defined as personal information under the Gramm-Leach-Bliley Act or applicable Delaware law. Customer Data includes text, sound, software, and image files supplied to the vendor by or for Delaware in connection with the contract. A Security Incident is unauthorized access to Customer Data maintained, stored, or transmitted by Delaware or its representative."
+                },
+                {
+                  "title": "C. Responsibilities of Vendor in the Event of a Data Breach",
+                  "node_id": "0067",
+                  "start_index": 49,
+                  "end_index": 51,
+                  "summary": "Upon confirming a data breach, the vendor must notify Delaware DTI and GSS without unreasonable delay, describing the breach, potentially affected record count, and data involved. If the State or vendor determines a breach occurred, the vendor must promptly take reasonable steps to mitigate harm and implement appropriate corrective actions. DTI has final approval over actions restricting, altering, or severing electronic-data access; emergency actions may be taken immediately but require DTI approval to become final. For every confirmed breached record, regardless of who discovered it and notwithstanding the statutory PII definition, the vendor must notify affected individuals as required by Delaware law, deliver a written report on the breach’s nature, extent, and root cause within two business days of notice, and promptly meet with DTI and GSS about remediation. The vendor bears all investigation, response, and recovery costs, including credit monitoring, mailing, website, and toll-free call-center services."
+                },
+                {
+                  "title": "D. No Limitation of Liability for Certain Data Breaches",
+                  "node_id": "0068",
+                  "start_index": 51,
+                  "end_index": 51,
+                  "key_items": [
+                    "2.1 The disclosure of Customer Data as a result of a successful Security Incident."
+                  ],
+                  "summary": "D. No Limitation of Liability for Certain Data Breaches\n1. Covered Data Loss\n1. 1 The loss of Customer Data that is not (1) Attributable to the instructions, acts or omissions of Delaware or its users or (2) Within the published recovery point objective for the Services\n2. Covered Disclosure\n2.1 The disclosure of Customer Data as a result of a successful Security Incident.\n3. Notwithstanding any other provision of this contract, there shall be no monetary limitation of vendor’s liability for the vendor’s breach of its obligations under this contract which proximately causes a (1) Covered Data Loss or (2) Covered Disclosure, where such Covered Data Loss or Covered Disclosure results in any unauthorized public dissemination of PII."
+                },
+                {
+                  "title": "E. Cyber Liability Insurance",
+                  "node_id": "0069",
+                  "start_index": 51,
+                  "end_index": 52,
+                  "summary": "A vendor unable to meet the DTI policy requirement to encrypt PII at rest must provide a valid cyber liability insurance certificate before contract execution and maintain coverage throughout the contract, including extensions. Coverage depends on the number of PII records: this contract is Level 4 (100,001–500,000 records), requiring $15 million per data-breach occurrence. The vendor must obtain sufficient coverage if actual records exceed the anticipated number; if it does not, it is liable for damages up to the required coverage amount. The contract officer should consult Agency IRM and/or DTI to determine the anticipated record count. The vendor must also comply with applicable federal, state, and local security laws."
+                },
+                {
+                  "title": "F. Media Notice",
+                  "node_id": "0070",
+                  "start_index": 52,
+                  "end_index": 53,
+                  "summary": "F. Media Notice\n521. No media notice may be issued without the approval of the State.\nG. Points of Contact – Data Breach\n1. State of Delaware\nDepartment of Technology and Information Solomon Adote, Chief Security Officer Solomon.adote@state.de.us ; 302.739.9631\nGovernment Support Services [insert name & title of contact] [insert e-mail / phone]\n53"
+                },
+                {
+                  "title": "1. No media notice may be issued without the approval of the State.; G. Points of Contact – Data Breach",
+                  "node_id": "0071",
+                  "start_index": 53,
+                  "end_index": 53,
+                  "key_items": [
+                    "1. No media notice may be issued without the approval of the State.",
+                    "G. Points of Contact – Data Breach"
+                  ],
+                  "summary": "1. No media notice may be issued without the approval of the State.\nG. Points of Contact – Data Breach"
+                },
+                {
+                  "title": "1. State of Delaware",
+                  "node_id": "0072",
+                  "start_index": 53,
+                  "end_index": 54,
+                  "summary": "1. State of Delaware\nDepartment of Technology and Information Solomon Adote, Chief Security Officer Solomon.adote@state.de.us ; 302.739.9631\nGovernment Support Services [insert name & title of contact] [insert e-mail / phone]\n53"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "APPENDICES",
+          "node_id": "0073",
+          "start_index": 54,
+          "end_index": 55,
+          "key_items": [
+            "APPENDIX A: Scope of Services"
+          ],
+          "summary": "APPENDICES\n54APPENDIX A: Scope of Services\nCONTRACT NUMBER: TRE-CPM-21101 - DEFERRED COMPENSATION PLAN RECORDKEEPING AND ADMINISTRATIVE SERVICES"
+        }
+      ]
+    },
+    {
+      "title": "IX. Scope of Services",
+      "node_id": "0074",
+      "start_index": 55,
+      "end_index": 109,
+      "summary": "The section outlines anticipated 457(b), 403(b), and 401(a) plan services, subject to negotiation and approval, including administration, recordkeeping, custody, fiduciary reporting, transaction processing, customized reports, daily account access, participant communications and education, compliance support, investment options, and transparent fee and revenue-sharing disclosures. For the 403(b), it adds aggregation across 16 legacy vendors, outsourced approvals for specified transactions, detailed employer reporting, redundant call centers, disaster recovery and privacy safeguards, and separate tracking of pre-tax and Roth contributions, cost basis, and tax limits. Appendix B provides a proposed services agreement covering the five-year term and extensions, compensation, transition, duties, work-product and records, security and confidentiality, indemnity, insurance, termination, subcontracting, disputes, public records, and other legal terms. Exhibits address the statement of work, payment and project schedules, cloud and data terms, security and audit requirements, and contribution, payroll, and participant-data specifications.",
+      "nodes": [
+        {
+          "title": "A. 457(b), 403(b), and 401(a) Plans",
+          "node_id": "0075",
+          "start_index": 55,
+          "end_index": 60,
+          "summary": "The section defines the anticipated 457(b), 403(b), and 401(a) plan services, subject to negotiation and OST and Board approval. The vendor is to provide comprehensive administration, recordkeeping, custody, fiduciary reporting, and limited-employer-involvement processing for enrollment, contributions, beneficiaries, distributions, eligibility and limits, rollovers, service credits, and related transactions. It must deliver extensive customized employer reports; process required distributions; support varied payroll and third-party data; provide daily valuation and account access; maintain secure records, audited data protection, disaster recovery, and redundant, updated participant support. Communications and education should be demographic-targeted and available online, by phone, mobile, and in person, including statements, tools, counseling, and group sessions. Compliance duties include accurate audited reporting, trained representatives, plan-document administration, tax forms, legal updates, and auditor support. Investment options include open-architecture funds, stable value, brokerage, managed accounts, lifetime-income products, advice, and custom portfolios. All fees and revenue-sharing arrangements must be transparently disclosed in ERISA format, with recordkeeping and administration costs shown on statements in dollars and percentages.",
+          "nodes": [
+            {
+              "title": "A. 457(b), 403(b), and 401(a) Plans (intro)",
+              "node_id": "0076",
+              "start_index": 55,
+              "end_index": 57,
+              "summary": "The anticipated scope for 457(b), 403(b), and 401(a) plans is subject to negotiation and OST and Board approval. The vendor should provide full administration, recordkeeping, plan servicing, custodial trustee services, comprehensive fiduciary reporting, and outsourced administration with limited employer involvement, covering enrollment, deferrals (including sick/vacation pay at termination), beneficiaries, death benefits, withdrawals and hardship approvals, QDROs, eligibility and 457 catch-up tracking, IRC-limit monitoring and alerts, rollovers, required distributions, small-balance cash-outs, service-credit purchases, and coronavirus-distribution recontributions. Employer reports should cover participation, contributions, investment allocation and fund use, rolling six-month hardship distributions, older terminated participants, inactive low-balance accounts, remaining terminated-account balances, demographic segments, and customized reports. The vendor must track and process required distributions; accept third-party payroll and data files; provide redundant call centers with automatic rerouting and website/voice-script updates within 24 hours; test disaster recovery annually; protect participant data through periodic audits; support daily valuation, reconciliation and account access; accommodate varied payroll schedules; track pretax and Roth contributions, cost basis and combined limits; and electronically store and display beneficiary forms and statements."
+            },
+            {
+              "title": "b. Communication/Education Services",
+              "node_id": "0077",
+              "start_index": 57,
+              "end_index": 59,
+              "summary": "The vendor must create demographic-targeted communication and financial education strategies, provide fiduciary peer comparisons, and promote participation and higher contributions through online, phone, in-person, and mobile channels. Under OST direction, education must reach all eligible employees and may include consolidated quarterly statements covering plan, Social Security, and pension projections; annual benefits statements showing savings shortfalls and deferral impacts; call-center support; a State-branded microsite; web tools such as aggregation, calculators, and gap analysis; mobile applications; videos or videoconferencing; group and individual sessions by salaried, licensed, experienced representatives (with restrictions on sales); and innovative methods. Compliance duties include accurate quarterly/annual audited reporting, trained representatives, administration of individually designed plans, issuing Form 1099s for withdrawals, adapting to legal changes, and timely auditor data and support. Investment services include open-architecture funds with stable value, brokerage access, managed accounts, lifetime-income products, advice, custom portfolios, and requested quarterly reports. Fees must be transparently disclosed in ERISA format; recordkeeping and administration fees appear on statements in dollars and percentages, alongside fund management fees."
+            },
+            {
+              "title": "Plan Compliance and Investment Management Services",
+              "node_id": "0078",
+              "start_index": 59,
+              "end_index": 59,
+              "key_items": [
+                "c. Compliance",
+                "d. Investment Management Services"
+              ],
+              "summary": "The vendor must provide accurate quarterly and annual audited reports on plan balances, cash transactions, and performance; ensure representatives understand plan requirements and are properly trained; administer individually designed plan documents; issue Form 1099s for withdrawals; adapt to legislative or regulatory changes; and supply timely data and support to independent auditors. Investment services include an open-architecture mutual fund platform with stable value or fixed funds, a self-directed brokerage window, managed accounts, lifetime income and annuity products, financial advice and guidance, custom target-date or other portfolios as desired by OST, and quarterly financial reporting upon request."
+            },
+            {
+              "title": "e. Expenses",
+              "node_id": "0079",
+              "start_index": 59,
+              "end_index": 60,
+              "summary": "e. Expenses\nVendor is required to provide transparent disclosure, in an ERISA format, of all fees and expenses to all fiduciaries and plan participants. Recordkeeping and plan administration fees must be printed on participant statements in both a hard dollar and percentage basis. Fees to include:\ni. Fund management fees\n59ii. Sub-transfer agent fees\niii. 12b-1 fees\niv. Finder’s fees\nv. Shareholder servicing fees\nvi. Administration charges or fees\nvii. Brokerage fees or commissions\nviii. Any other revenue-sharing arrangements"
+            }
+          ]
+        },
+        {
+          "title": "B. 403(b) Plan Specific Services",
+          "node_id": "0080",
+          "start_index": 60,
+          "end_index": 62,
+          "summary": "The selected 403(b) vendor must provide aggregation services for 16 legacy vendors, including timely fiduciary reporting on accounting, performance, participant demographics, and plan activity, and handle administrative tasks. It must fully outsource approvals, with limited employer involvement, for contract exchanges, death benefits, withdrawals and hardship distributions, and QDROs. OST must be able to access or request employer-level reports covering weekly approved distributions/exchanges and hardship requests; monthly vendor balances and employment status; outstanding and historical defaulted loans; terminated participants aged 70½ or older; inactive low-balance and terminated participants with balances; population segments; and customized ad hoc statistics. Service requirements include two redundant call centers with automatic call rerouting, voice-script and website updates within 24 hours of disruptions, annual disaster-recovery testing, and privacy safeguards with periodic system audits and assessments. The vendor must also separately track pre-tax and Roth contributions, cost basis for distributions, and applicable IRC limits."
+        },
+        {
+          "title": "APPENDIX B: Form of Professional Services Agreement",
+          "node_id": "0081",
+          "start_index": 62,
+          "end_index": 109,
+          "summary": "Appendix B provides a proposed Professional Services Agreement between Delaware’s Treasurer, on behalf of the Plans Management Board, and a vendor serving the State’s deferred-compensation plans. It covers services, a five-year term with possible extensions, participant-funded compensation, transition scheduling, vendor and OST duties, work-product ownership, and access to State records. It sets confidentiality, security, data-handling, correction, indemnity, and insurance requirements; establishes independent-contractor status, termination and funding rules, and restrictions on assignment and subcontracting. Other terms address the complete agreement, amendments, conflicts of interest, dispute resolution, force majeure, public records, antitrust-claim assignment, Delaware law, notices, and execution. The exhibits include a negotiated statement of work and payment schedule, a project schedule, and confidentiality, cloud-services, and data-use terms. The project materials include proposed implementation dates, security and data provisions, audit requests, and detailed contribution, payroll, and participant-data file specifications.",
+          "nodes": [
+            {
+              "title": "1. Services and Term.",
+              "node_id": "0082",
+              "start_index": 62,
+              "end_index": 64,
+              "key_items": [
+                "2.1. Vendor is entitled to receive compensation for Services from participants solely as provide on"
+              ],
+              "summary": "Appendix B provides the form of a Professional Services Agreement between Delaware’s Office of State Treasurer, on behalf of the Plans Management Board, and a vendor for the state deferred compensation program: the IRC §457(b), §403(b), and §401(a) plans. The agreement states the parties’ authority and provides that related negotiated documents are governed by the PSA. The vendor must provide transition, recordkeeping, trustee, custodial, and administrative services and act as co-fiduciary. The initial term is five years, with three one-year extensions subject to Board approval. The vendor must meet with state officials as requested and provide progress updates and information. Compensation comes solely from participants as specified in Exhibit 2; the State owes no fees, expenses, or vendor taxes. The vendor bears all service costs. The parties must finalize a transition and service schedule within 30 days; schedule changes or delays require OST’s written approval. Failure to meet schedule requirements may require the vendor to forfeit and promptly return amounts specified in Exhibit 3."
+            },
+            {
+              "title": "4. Responsibilities of Vendor.",
+              "node_id": "0083",
+              "start_index": 64,
+              "end_index": 66,
+              "key_items": [
+                "4.6. Multifunction peripherals must be hardened when used or connected to the State’s network.",
+                "4.16. Vendor has or will retain such employees as it may need to perform the Services.; 4.19. Vendor will provide to OST audited or unaudited financial statements, as requested by OST.",
+                "4.16. Vendor has or will retain such employees as it may need to perform the Services.",
+                "4.19. Vendor will provide to OST audited or unaudited financial statements, as requested by OST."
+              ],
+              "summary": "Vendor is responsible for the professional quality, accuracy, coordination, and timely delivery of Services, compliance with applicable laws and industry standards, and conformity with DTI standards. At its expense, Vendor must correct or replace nonconforming Services and indemnify, defend, and hold the State’s Indemnified Parties harmless for resulting claims and costs. Vendor must execute the confidentiality, cloud-services, and data-usage agreements; protect State information to at least the specified SANS security-control standard; be responsible for covered security breaches; harden network-connected multifunction peripherals; and dispose of storage devices according to data classification, including destruction where required. Services must be technically sound and non-infringing, with errors corrected promptly at no extra charge. State review, acceptance, or payment does not waive rights or Vendor liability. Vendor must appoint acceptable transition and post-transition contacts, replace staff deemed unsuitable for good cause, report relevant fraud or illegal-conduct investigations unless prohibited, cooperate with OST, maintain needed staff, obtain consent before using State-related names in marketing, maintain authorization to do business in the State, and provide financial statements on request."
+            },
+            {
+              "title": "5. OST Responsibilities/Representations.",
+              "node_id": "0084",
+              "start_index": 66,
+              "end_index": 67,
+              "summary": "OST will ensure its officers and employees cooperate with the Vendor and be available for consultation upon reasonable request. Work product the Vendor creates for the State in connection with the Services—including drafts and unfinished materials—belongs to the State and must be delivered upon request; the State may reproduce and disclose it, and these rights survive termination. The State retains title to all related data and documents and may access them, along with related activity and other reports, during the Agreement and for six months after termination. After that period, the State’s data, documents, and related reports must be retained and returned or destroyed as provided in Section 7.8."
+            },
+            {
+              "title": "6. Confidential Information of the State.",
+              "node_id": "0085",
+              "start_index": 67,
+              "end_index": 70,
+              "summary": "The section defines Confidential Material broadly, whether marked or not, and limits the Vendor’s use and disclosure to contract performance and authorized, need-to-know employees bound in writing. Copies, electronic storage, retention, and disclosure are restricted; legally compelled disclosure requires prompt notice to OST, reasonable protective efforts, and identification of the State’s interest. Exceptions cover public, lawfully obtained, unrestricted, or independently developed information. The Vendor must safeguard material, promptly report breaches or suspected intrusions, and, within six months after termination, return or permanently destroy it at OST’s option, subject to protected legally required retention and requested certification. The State need not disclose material and may seek injunctive relief. The section also requires correction or re-performance of noncompliant services, pass-through or fulfillment of third-party product rights, and Vendor defense and indemnification for specified claims. Public entities retain their legal rights, defenses, and immunities, including sovereign and qualified immunity.",
+              "nodes": [
+                {
+                  "title": "6. Confidential Information of the State. (intro)",
+                  "node_id": "0086",
+                  "start_index": 67,
+                  "end_index": 68,
+                  "summary": "Confidential Material includes all agreements, documents, and data containing the State’s confidential information, whether or not marked confidential. The Vendor may use it only to perform its contractual duties and may share it only with employees who need access and have been informed of and acknowledged its strict confidentiality obligations in writing. Copies require OST’s written permission, except reasonable copies needed for performance. The Vendor generally may not store or aggregate the material electronically, but may keep files as permitted while performing its duties and for a reasonable period afterward; it must then return or destroy all copies under the referenced provisions. Disclosure to others requires OST’s prior written consent unless required by law. The Vendor must promptly notify OST in writing of court orders, subpoenas, or discovery requests, object and take reasonable protective measures at OST’s request, and mark any material disclosed under legal compulsion to identify its confidentiality and the State’s interest."
+                },
+                {
+                  "title": "6.5. This Section 7 shall not restrict the disclosure or use of Confidential Material that:",
+                  "node_id": "0087",
+                  "start_index": 68,
+                  "end_index": 69,
+                  "summary": "Confidentiality obligations do not cover information already public or later public without breach, unrestricted information already held or lawfully obtained from other sources, or information independently developed without reliance on confidential material. Vendor must take commercially reasonable measures to safeguard confidentiality and integrity, and immediately notify OST of breaches or suspicious intrusions, identifying compromised information and its amount. Within six months after termination, Vendor must, at OST’s option, return or lawfully destroy all confidential material; electronic deletion must be permanent under NIST-approved methods, and Vendor must provide a destruction certificate if requested. Legally or policy-required retention is permitted, but retained data must remain protected under surviving agreement obligations and be destroyed when retention ends. The State need not disclose requested material and may refuse. The State may seek injunctive relief for noncompliance, in addition to other remedies, because damages may be inadequate. The text then introduces a Warranty section."
+                },
+                {
+                  "title": "7.1. Vendor agrees to correct or re-perform any Services not in compliance with this Agreement.",
+                  "node_id": "0088",
+                  "start_index": 69,
+                  "end_index": 70,
+                  "summary": "Vendor must correct or re-perform noncompliant Services. Third-party products are governed by their applicable licenses or agreements; Vendor must pass through or assign to the State its assignable manufacturer/vendor rights, including warranties and indemnities, and honor those obligations when they cannot be assigned. Vendor must indemnify, defend, and hold harmless OST, the Board, the State, and related personnel against claims and reasonable costs arising from Vendor’s breach or specified wrongful conduct by Vendor or its contractors. On OST’s written notice of a claim, including one involving private or confidential information, Vendor must defend at its expense if OST requests and pay damages finally awarded. Public entities and their personnel owe no indemnity or liability to Vendor or others for agreement-related claims or costs. The Agreement does not waive or limit their legal rights; they reserve applicable rights, claims, defenses, and immunities, including sovereign and qualified immunity, while Vendor may seek enforcement in the State’s courts."
+                }
+              ]
+            },
+            {
+              "title": "9. Insurance.",
+              "node_id": "0089",
+              "start_index": 70,
+              "end_index": 72,
+              "summary": "During the Agreement, Vendor must maintain workers’ compensation and employer’s liability as required by law; general liability ($1M per occurrence/$3M aggregate); professional liability ($5M/$5M); errors and omissions ($1M per occurrence/$3M aggregate); automotive liability covering all vehicles used for the work, including State-provided or leased vehicles, on a primary, non-contributory basis, with specified bodily injury ($1M combined single limit), property damage ($250,000), uninsured/underinsured motorist ($25,000 per person), PIP ($25,000 per person/$300,000 per accident), and comprehensive leased-vehicle replacement-cost coverage; and a $10M umbrella/excess policy over the specified underlying policies. Vendor must also maintain cyber liability coverage for data-breach losses at an amount TBD, issued by an insurer rated at least A-VII by A.M. Best, and immediately notify OST of security breaches involving State data. OST must be notified if required policies are cancelled. Before work begins, Vendor must provide certificates or policy copies to OST, using the stated State Treasurer address as certificate holder. OST, the Board, the State, and their associated personnel must not be named additional insureds."
+            },
+            {
+              "title": "10. Independent Contractor.",
+              "node_id": "0090",
+              "start_index": 72,
+              "end_index": 74,
+              "key_items": [
+                "10.5. Vendor shall be responsible for providing liability insurance for its personnel.",
+                "12.8. Gratuities."
+              ],
+              "summary": "Vendor is an independent contractor, not an employee, agent, or partner of OST, the Board, or the State, and cannot bind them. Vendor controls its personnel (while attempting to honor OST staffing requests), is responsible for payroll, employment taxes and compliance, and must indemnify, defend, and hold the Indemnified Parties harmless regarding those matters. Vendor personnel receive no State employee benefits, and Vendor must provide their liability insurance. Section 11 is reserved. Either party may terminate for material default after at least 30 days’ written notice and an opportunity to cure and consult; the State may terminate for convenience on 60 days’ notice. Vendor receives payment for services earned through termination and must cooperate in transition at no State cost. A breach termination found unjustified becomes a convenience termination. Intended-surviving obligations, including indemnity and confidentiality, remain; contractual remedies supplement legal remedies. OST may terminate without liability for improper gratuities and pursue breach remedies. Performance is subject to specific legislative appropriations; absent funding, OST may terminate immediately, and unfunded State obligations end without liability."
+            },
+            {
+              "title": "13. Assignment; Subcontracts.",
+              "node_id": "0091",
+              "start_index": 74,
+              "end_index": 75,
+              "summary": "Vendor may not assign or transfer any interest in the Agreement without OST’s prior written consent; an unauthorized transfer is void. Vendor employees must perform the Services unless OST gives written approval to use temporary staff, independent contractors, or subcontractors. Approval, acceptance of deliverables, or payment does not relieve Vendor of responsibility for the Services’ professional and technical accuracy and adequacy. All such personnel must comply with the Agreement and its exhibits. Vendor remains liable for damages to OST, the Board, and the State caused by their negligent performance or nonperformance, and OST’s approval of their use does not change Vendor’s compensation."
+            },
+            {
+              "title": "14. Complete Agreement.",
+              "node_id": "0092",
+              "start_index": 75,
+              "end_index": 76,
+              "summary": "The PSA and incorporated exhibits constitute the entire agreement, may be changed only with the parties’ written consent, prevail over inconsistent documents, and supersede prior communications and agreements on the subject. Overbroad provisions are enforceable to the maximum lawful extent and may be narrowed as needed. If a term is invalid or unenforceable, it is modified as necessary while preserving the rest of the agreement and the parties’ intent. Unless otherwise agreed, each exhibit fully addresses its subject matter and supplements, modifies, or supersedes the agreement’s terms."
+            },
+            {
+              "title": "15. Miscellaneous Provisions.",
+              "node_id": "0093",
+              "start_index": 76,
+              "end_index": 77,
+              "summary": "The agreement and exhibits may be amended only by mutual written agreement, and waivers must be written and signed by the party against whom they are enforced; delay or partial exercise of rights is not a waiver. Vendor warrants it has and will have no conflicting interests or employ anyone with one, and acknowledges discriminatory refusal to hire or do business may constitute breach, prompt termination without State liability, or other action. No commission-based solicitation is permitted, with breach allowing annulment without liability. The agreement is neutrally construed as jointly drafted. At OST’s option, disputes may first be negotiated in good faith by authorized officials, with negotiation communications generally confidential, privileged, and inadmissible. Unresolved disputes may, at OST’s discretion, go to mediation under State law and venue; proceedings and outcomes are confidential as legally permitted, and parties bear their own costs and split mediator fees. Parties are excused from liability for delays or defective performance caused by unforeseeable events beyond their control, absent negligence or willful misconduct. The agreement and Vendor compensation information are public records; OST will give advance notice of legally required disclosure when practicable, and Vendor’s confidentiality labels do not bind OST, the Board, or the State. Only the parties receive rights or benefits."
+            },
+            {
+              "title": "16. Assignment of Antitrust Claims.",
+              "node_id": "0094",
+              "start_index": 77,
+              "end_index": 78,
+              "summary": "16. Assignment of Antitrust Claims.\nAs consideration for the award and execution of the Agreement, Vendor hereby grants, conveys, sells, assigns and transfers to the State all of Vendor’s right, title and interest in and to all known or unknown causes of action it presently has or may now or hereafter acquire under the antitrust laws of the United States or this State relating to the Services or the Agreement.\n77"
+            },
+            {
+              "title": "17. Governing Law.",
+              "node_id": "0095",
+              "start_index": 78,
+              "end_index": 78,
+              "summary": "17. Governing Law.\nThe Agreement shall be governed by and construed in accordance with Delaware law, without regard to conflict of laws rules or principles. Vendor consents to jurisdiction and venue in this State."
+            },
+            {
+              "title": "18. Notices.",
+              "node_id": "0096",
+              "start_index": 78,
+              "end_index": 81,
+              "summary": "Required Agreement notices must be in writing and sent by certified or registered mail with return receipt requested. The text provides notice-address fields for OST, including an attention/designated contact and its Dover, Delaware address, and a Vendor attention field. It includes execution blocks for the Office of the State Treasurer on behalf of the Plans Management Board and the Vendor, with signature, name, title, and date fields. It states that exhibits form part of the PSA, listing: Statement of Work; Payment Schedule; Project Schedule; Confidentiality (Non-Disclosure) and Integrity of Data Agreement; Cloud Services Terms and Conditions Agreement; and Data Usage Terms and Conditions Agreement. Capitalized terms not defined in an exhibit have the meanings given in the PSA. The text refers to five exhibits but lists six."
+            },
+            {
+              "title": "Exhibit 1 – Statement of Work",
+              "node_id": "0097",
+              "start_index": 81,
+              "end_index": 82,
+              "summary": "Exhibit 1 – Statement of Work (to be negotiated)\n81"
+            },
+            {
+              "title": "Exhibit 2:  Payment Schedule",
+              "node_id": "0098",
+              "start_index": 82,
+              "end_index": 83,
+              "summary": "Exhibit 2: Payment Schedule (to be negotiated)\nVendor shall be entitled to compensation for Services provided under the Agreement as provided below.\n82"
+            },
+            {
+              "title": "Exhibit 3 – Project Schedule",
+              "node_id": "0099",
+              "start_index": 83,
+              "end_index": 109,
+              "summary": "The section presents a proposed project schedule, with agreement implementation and investment recordkeeping/administrative-services start dates listed as December 2021 or TBD in 2022. It includes agreements governing State-data confidentiality, integrity, authorized use, cloud security, breach reporting and response, encryption, data location, retention, return or destruction, insurance, and vendor signatures. It also lists audit requests and detailed fixed-width file specifications for contribution changes, payroll remittances, and participant demographic/eligibility data. These cover record fields, positions, lengths, formats, contribution slots and codes, dates, identifiers, status, salary, and other employee information, including required zero/space filling and change-history documentation.",
+              "nodes": [
+                {
+                  "title": "Exhibit 3 – Project Schedule (intro)",
+                  "node_id": "0100",
+                  "start_index": 83,
+                  "end_index": 83,
+                  "summary": "Exhibit 3 – Project Schedule\nPROPOSED PROJECT SCHEDULE\nTask/Milestone\nFully Executed Agreement Implementation Period (if needed) Investment Recordkeeping and Administrative Services - Start Date\nDate\nDecember, 2021 TBD 2022 TBD 2022\n83"
+                },
+                {
+                  "title": "Exhibit 4: Confidentiality (Non-Disclosure) & Integrity of Data Agreement",
+                  "node_id": "0101",
+                  "start_index": 84,
+                  "end_index": 86,
+                  "summary": "The agreement assigns DTI responsibility for protecting the confidentiality and integrity of State data and files across all sources and storage media. Programs processing State data may not be changed without DTI’s knowledge and written authorization; data derived from original State data remain State property, and the State and DTI control disclosure. Vendors and their personnel working for the State act as an extension of DTI and must not use, disclose, or modify State data or files without the State’s written knowledge and authorization. They must take precautions against unauthorized access, use, disclosure, or modification and alert a supervisor to actual or apparent risks. Violations may result in loss of position and benefits and prosecution under State or federal law. The agreement applies to the Vendor and anyone working under its direction; the signatory affirms understanding and acceptance. Signature fields are provided for the vendor name, authorizing official’s printed name and signature, and date."
+                },
+                {
+                  "title": "Exhibit 5: Cloud Services Terms and Conditions Agreement",
+                  "node_id": "0102",
+                  "start_index": 86,
+                  "end_index": 89,
+                  "summary": "Exhibit 5 sets Delaware’s cloud-services terms for public and non-public data. For non-public data, vendors must meet CS1-A (CSA STAR Level Two+ or FedRAMP certification) or both CS1-B and CS1-C (state-approved criminal background checks for assigned staff and subcontractors, plus vendor responsibility for their security compliance), and CS4. CS2 breach notification and recovery is mandatory for all non-public-data engagements; CS3 encryption is mandatory for SaaS/PaaS engagements involving non-public data. Vendors must immediately report data incidents; applicable personal-information notices are due within 60 days, subject to stated exceptions, with communications coordinated with the State. Vendors liable for a breach bear response and recovery costs, including at least three years of credit monitoring. CS3 requires encryption in transit and, for sensitive data stored by the vendor, at rest; NIST-validated cryptography, negotiated key management, and cyber-liability insurance are required. Vendors must notify OST of relevant legal demands and generally not respond without notice. Terms are incorporated into the agreement, which prevails in conflicts. The form includes clause-selection checkboxes and vendor identification, authorization, signature, and date fields."
+                },
+                {
+                  "title": "Exhibit 6: Data Usage Terms and Conditions Agreement",
+                  "node_id": "0103",
+                  "start_index": 89,
+                  "end_index": 98,
+                  "key_items": [
+                    "Termination of the Agreement",
+                    "Post-Termination Assistance"
+                  ],
+                  "summary": "Exhibit 6 sets Delaware data-use terms: the State owns its data; vendor access/use is restricted to authorized service purposes and personnel, with confidentiality, security, and no unauthorized retention. On termination, vendor must support transition, preserve/secure data for six months, then return or securely destroy it; requested destruction must follow NIST methods with certificates. Non-public data must remain in the U.S. (offshore personnel access is permitted if data stays onshore). Vendors must immediately report incidents, coordinate legally required breach notices (generally within 60 days), cover breach response costs when liable, encrypt non-public data in transit and sensitive data at rest to NIST standards, and maintain cyber-liability insurance. Agreement terms, precedence, data-scope checkboxes, and vendor signature fields are included. Appendix C lists 18 audit requests covering SOC reporting, contributions, exchanges, loans, distributions, fees, participant balances, assets, valuations, returns, and investment restrictions/statements. Appendix D describes inbound before-/after-tax contribution-change files, their fixed-width fields, formats, contribution slots, codes, election amounts, and change-history documentation."
+                },
+                {
+                  "title": "Contribution Slot 2 219 Option",
+                  "node_id": "0104",
+                  "start_index": 98,
+                  "end_index": 99,
+                  "summary": "Describes contribution file fields for Slots 2–4. Slot options indicate the participant’s choice: D = dollar, P = percent, and S = stop (only when the related change status is Delimit; otherwise zero). Option amounts are 7 digits, with no decimals or currency symbols; dollar values have an implied decimal, and percentages are whole numbers. Slot 2 amount is used for Catch Up Plan (4X on BT files; 4S on AT files); Slot 3 amount is used for Over-Fifty Catch Up (4W on BT; 4T on AT). The 9/12 Election and Annual Deduction fields are not utilized and should be zero-filled. Type fields identify contribution categories, typically EE (employee elective deferrals) or ER (employer contributions). Slot 2 change status is New/Change/Delimit; Slot 3 change status follows the same rule, otherwise blank. Slot 4 type is blank-filled if unused."
+                },
+                {
+                  "title": "Contribution Slot 3 245 245 Option",
+                  "node_id": "0105",
+                  "start_index": 99,
+                  "end_index": 99,
+                  "summary": "Contribution Slot 3245 245 Option\nContribution Slot 3246 252 Option Amount. Greater than 50 Catch Up\nContribution Slot 3253 254 9/12 Election\nContribution Slot 3255 261 Annual Deduction\nContribution Slot 4262 263 Type\n1\nthe\nIndicates contribution option selected by the participant\nD=Dollar\nP=Percent\nS- Stop (used only when “Delimit” is in Contribution Slot 3 Change Status else zero\n7 Based on the prior field,\nthis indicates the dollar amount or whole percentage of salary elected. Format 0000000 - no decimals or dollar signs (decimal implied for dollar amount). Use for Over Fifty Catch Up (4W) on BT file; Use for Over Fifty Catch Up (4T) on AT file\n2 NOT UTILIZED\nZero filled\n7 NOT UTILIZED\nZero filled"
+                },
+                {
+                  "title": "2 Code within Retirement",
+                  "node_id": "0106",
+                  "start_index": 99,
+                  "end_index": 100,
+                  "summary": "2 Code within Retirement\nManager indicating Contribution Slot 4 Type. Typical values are \"EE\" for Employee Elective Deferrals, \"ER\" for Employer contributions. Blank fill if not utilized.\n14Contribution Slot 4264 270 Change Status\nContribution Slot 4271 271 Option\nContribution Slot 4272 278 Option Amount\nContribution Slot 4279 280 9/12 Election\nContribution Slot 4281 287 Annual Deduction\nContribution Slot 5288 289 Type\nContribution Slot 5290 296 Change Status\n7\n1 Indicates\nthe\ncontribution option selected by the participant\nBlank filled\n7 Based on the prior field,\nthis indicates the dollar amount or whole percentage of salary elected. Format 0000000 - no decimals or dollar signs (decimal implied for dollar amount).\n2 NOT UTILIZED\nZero filled\n7 NOT UTILIZED\nZero filled"
+                },
+                {
+                  "title": "2 Code within Retirement",
+                  "node_id": "0107",
+                  "start_index": 100,
+                  "end_index": 101,
+                  "summary": "Describes retirement contribution and employee-record fields. Contribution Slot 5 Type identifies employee elective deferrals (EE) or employer contributions (ER), and is blank if unused. The Option field records the participant’s selected contribution option; the related amount is a dollar amount or whole salary percentage, stored as seven digits with no decimal or dollar sign (decimal implied for dollar amounts). The 9/12 Election and Annual Deduction fields are not utilized and are zero-filled. Other listed fields include hire and birth dates, phone, location/HR area, payroll status, annual salary, email, plan, employee eligibility group/payroll code, and a trailer record. The specifications also indicate field positions and lengths, with designated fields blank-filled or zero-filled."
+                },
+                {
+                  "title": "8 First six digits of the dept",
+                  "node_id": "0108",
+                  "start_index": 101,
+                  "end_index": 104,
+                  "summary": "Specifies the outbound Deferred Compensation Common Remitter file, defcomp_664093_phrst.txt, which reports deductions to the vendor, and its change-history documentation (add CSR number and comments; after-tax plan code changed to SOD457A). Defines a fixed-width detail record with field positions, lengths and formats for record/format code, pay group, SSN, employee ID, participant name and address, department/location, payroll frequency/date, contribution slots 1–5, loan ID, birth/hire dates, phone, gender, marital and participant status, status-change date, payroll status, salary, hours and email. Contributions use seven-digit, zero-filled amounts without decimals; unused/demo slots are zero-filled, and missing loan IDs are zero-filled. Dates use MMDDYYYY; IDs and phone numbers have specified digit-only formats. Codes cover contribution types, payroll frequencies, gender, marital status and active/terminated/retiree status. Rehire dates are required for non-active status and for active employees rehired during the pay period. Fields also specify space/blank filling, justification, and salary/hour formatting; salary must be accurate because it controls contribution eligibility and limits."
+                },
+                {
+                  "title": "(left justified, space fill for 35 length not utilized)",
+                  "node_id": "0109",
+                  "start_index": 104,
+                  "end_index": 105,
+                  "summary": "The text specifies employee-record fields and formatting: Address 3 is left-justified and space-filled to 35 characters; gender uses M/F/U (male/female/unknown), marital status M/S/D/W (married/single/divorced/widowed), and participant status A/T/R (active/terminated/retiree). A change date is required for non-active participants and for active employees rehired during the pay period; retain the rehire date while active, otherwise space-fill. Location/HR area uses the first six department-ID digits, left-justified and blank-filled; payroll status is FT/PT/HO (full-time/part-time/hourly). Annual salary is an essential 8-digit, cents-included amount with no decimal or dollar sign, right-justified and zero-filled; hours worked in the current calendar year are right-justified and zero-filled. Email is a 100-character field. Plan fields include eligibility-group/payroll code, Plan 1 and 2 eligibility dates, Plan 1 and 2 vesting dates (dates formatted MMDDYYYY; eligibility dates apply when an eligibility-group code is used), prior employee ID, and a blank-filled trailer record."
+                },
+                {
+                  "title": "3. Outbound Demographic (Eligibility File) dhr048_64093_phrst.txt. eligibility information.",
+                  "node_id": "0110",
+                  "start_index": 105,
+                  "end_index": 108,
+                  "summary": "Defines the outbound demographic/eligibility file dhr048_64093_phrst.txt and its change history and fixed-width detail-record specifications. Change documentation requires a CSR number and comment; PHR2398 replaces the prior plan reference with Plan ID 664093. Participant status values are T, R, or A; include the status-change date and use A when rehired within the pay period. Location code/HR area and prior employee ID are listed; at the vendor’s request, prior employee ID becomes constant “00” for Plan With Ease. The record includes format code, plan ID, SSN, employee ID, name, address, city/state/country/ZIP, department ID, payroll frequency/date, five contribution slots, loan ID, birth/hire dates, phone, address 3, gender, and marital status. Specifications give field positions, lengths, and formatting: fixed-width text/numeric values, zero or space filling, date formats, payroll-frequency codes (BW/SM/MO), gender codes (M/F/U), and marital-status codes (M/S/D/W)."
+                },
+                {
+                  "title": "Participant Status",
+                  "node_id": "0111",
+                  "start_index": 108,
+                  "end_index": 109,
+                  "summary": "Defines a participant record containing status, change date, location/HR area, payroll status, annual salary, hours, email, plan and eligibility-group/payroll codes, Plan 1 and Plan 2 eligibility dates, Plan 1 and Plan 2 vesting dates, and Plan With Ease service years, followed by a trailer record. Status is A (active), T (terminated), or R (retiree). Change date is required for non-active participants and for active employees rehired during the pay period; retain the rehire date while active, otherwise space-fill. Location uses the first six department-ID digits, left-justified and blank-filled. Payroll status is FT, PT, or HO. Active salary is a 10-digit amount in cents without punctuation; other salary values are zero-filled. The layout also specifies zero- and blank-filling for applicable fields, MMDDYYYY date formats (blank when unused), a constant “00” for service years, and a 24-character trailer record."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

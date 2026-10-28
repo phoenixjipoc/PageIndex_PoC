@@ -1,0 +1,149 @@
+{
+  "id": "CONS-04",
+  "question": "According to the San Bernardino County Employees' Retirement Association (SBCERA) investment consultant RFP, approximately how large is SBCERA's investment portfolio?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:15:41.825597+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "SBCERA’s investment portfolio was approximately **$12.0 billion**. [Source: SBCERA investment consultant RFP, p. 3](SBCERA__investment_consultant_-_request_for_proposals.pdf).",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 49637,
+    "input_tokens_details": {
+      "cached_tokens": 33991,
+      "cache_write_tokens": 15628
+    },
+    "output_tokens": 209,
+    "output_tokens_details": {
+      "reasoning_tokens": 13
+    },
+    "total_tokens": 49846,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1218,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1215
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1233
+      },
+      {
+        "input_tokens": 2384,
+        "input_tokens_details": {
+          "cached_tokens": 1215,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 13
+        },
+        "total_tokens": 2422
+      },
+      {
+        "input_tokens": 7625,
+        "input_tokens_details": {
+          "cached_tokens": 2381,
+          "cache_write_tokens": 5241
+        },
+        "output_tokens": 33,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7658
+      },
+      {
+        "input_tokens": 7888,
+        "input_tokens_details": {
+          "cached_tokens": 7622,
+          "cache_write_tokens": 263
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7922
+      },
+      {
+        "input_tokens": 14891,
+        "input_tokens_details": {
+          "cached_tokens": 7885,
+          "cache_write_tokens": 7003
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 14929
+      },
+      {
+        "input_tokens": 15631,
+        "input_tokens_details": {
+          "cached_tokens": 14888,
+          "cache_write_tokens": 740
+        },
+        "output_tokens": 51,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 15682
+      }
+    ]
+  },
+  "elapsed_seconds": 12.276,
+  "finished_at_utc": "2026-10-27T09:15:54.106200+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 49637,
+    "output_tokens": 209,
+    "cached_input_tokens": 33991,
+    "cache_write_tokens": 15628,
+    "reasoning_tokens": 13,
+    "total_tokens": 49846
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SBCERA__investment_consultant_-_request_for_proposals.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SBCERA__investment_consultant_-_request_for_proposals.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"SBCERA__investment_consultant_-_request_for_proposals.pdf\",\"pages\":\"4\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "SBCERA__investment_consultant_-_request_for_proposals.pdf",
+      "pages": "4",
+      "success": true,
+      "call_id": "call_3dTDyVhEm5UyrNwGc7IgX26i"
+    }
+  ],
+  "successfully_read_documents": [
+    "SBCERA__investment_consultant_-_request_for_proposals.pdf"
+  ]
+}

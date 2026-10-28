@@ -1,0 +1,133 @@
+{
+  "id": "OTH-13",
+  "question": "What was the proposal deadline in the Hawaii ERS 2017 RFP for real estate investment consultant services?",
+  "type": "pair_a",
+  "pair_id": "P4",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:14:02.151276+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The proposal deadline was **March 20, 2017, at 4:30 p.m. Hawaii Standard Time**. Proposals had to be received by Hawaii ERS by then.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 27705,
+    "input_tokens_details": {
+      "cached_tokens": 19143,
+      "cache_write_tokens": 8547
+    },
+    "output_tokens": 207,
+    "output_tokens_details": {
+      "reasoning_tokens": 29
+    },
+    "total_tokens": 27912,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1210,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1207
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1225
+      },
+      {
+        "input_tokens": 2376,
+        "input_tokens_details": {
+          "cached_tokens": 1207,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 54,
+        "output_tokens_details": {
+          "reasoning_tokens": 29
+        },
+        "total_tokens": 2430
+      },
+      {
+        "input_tokens": 7633,
+        "input_tokens_details": {
+          "cached_tokens": 2373,
+          "cache_write_tokens": 5257
+        },
+        "output_tokens": 45,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7678
+      },
+      {
+        "input_tokens": 7936,
+        "input_tokens_details": {
+          "cached_tokens": 7630,
+          "cache_write_tokens": 303
+        },
+        "output_tokens": 50,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7986
+      },
+      {
+        "input_tokens": 8550,
+        "input_tokens_details": {
+          "cached_tokens": 7933,
+          "cache_write_tokens": 614
+        },
+        "output_tokens": 43,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 8593
+      }
+    ]
+  },
+  "elapsed_seconds": 10.335,
+  "finished_at_utc": "2026-10-27T09:14:12.496196+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 27705,
+    "output_tokens": 207,
+    "cached_input_tokens": 19143,
+    "cache_write_tokens": 8547,
+    "reasoning_tokens": 29,
+    "total_tokens": 27912
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__PI-ad-ERS-Real-Estate-Investment-Consultant-RFP-2017-01.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__PI-ad-ERS-Real-Estate-Investment-Consultant-RFP-2017-01.pdf\",\"pages\":\"1\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Hawaii_ERS__PI-ad-ERS-Real-Estate-Investment-Consultant-RFP-2017-01.pdf",
+      "pages": "1",
+      "success": true,
+      "call_id": "call_0ABiap9Eks693yMLERU4dDev"
+    }
+  ],
+  "successfully_read_documents": [
+    "Hawaii_ERS__PI-ad-ERS-Real-Estate-Investment-Consultant-RFP-2017-01.pdf"
+  ]
+}

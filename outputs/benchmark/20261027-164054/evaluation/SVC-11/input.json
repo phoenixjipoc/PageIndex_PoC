@@ -1,0 +1,7 @@
+{
+  "question": "According to the City of Temple City's 457 deferred compensation plan administration and recordkeeping RFP, how many participants did the plan have and what were its total assets?",
+  "gold_answer": "As of March 31, 2020: 46 participants with a balance (31 actively contributing, 15 non-active), and total assets of $1,894,729. The plan was administered by two recordkeepers, ICMA-RC and Voya (CalPERS).",
+  "acceptance": "46 participants and $1,894,729 as of March 31, 2020. Active/inactive split and recordkeepers are helpful but optional.",
+  "scope": "single_document",
+  "candidate_answer": "As of March 31, 2020, the plan had **46 participants with balances** and **$1,894,729 in total assets**. Of those participants, 31 were actively contributing and 15 were non-active. [Source: City of Temple City 457 Plan RFP, p. 5]"
+}

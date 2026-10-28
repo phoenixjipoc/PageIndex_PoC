@@ -1,0 +1,43 @@
+{
+  "file": "OCERS__ocers_pas_consultant_rfp.pdf",
+  "sha256": "0d518fbca11aeaea735dc04ece6b00af7a51d5c8f6cc3291ab207194e3b602d6",
+  "bytes": 616526,
+  "pages": 39,
+  "public_source_url": "https://www.ocers.org/sites/main/files/file-attachments/ocers_pas_consultant_rfp.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:04:03.554151+00:00",
+  "doc_id": "pi-1a570c0f36f5446eacf08d651f5ff396",
+  "stored_name": "OCERS__ocers_pas_consultant_rfp.pdf",
+  "reported_usage": {
+    "prompt_tokens": 35646,
+    "completion_tokens": 10071,
+    "total_tokens": 45717,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 13950
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2418
+    }
+  },
+  "elapsed_seconds": 20.268,
+  "finished_at_utc": "2026-10-27T09:04:23.835111+00:00",
+  "model_calls": 43,
+  "http_attempts": 43,
+  "observed_usage": {
+    "input_tokens": 35646,
+    "output_tokens": 10071,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 13950,
+    "reasoning_tokens": 2418,
+    "total_tokens": 45717
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

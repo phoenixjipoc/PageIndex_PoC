@@ -1,0 +1,43 @@
+{
+  "file": "TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf",
+  "sha256": "865f61855bd15ace3e92f96ca5151a1edc90530369b9488a1305a61abf90f2fa",
+  "bytes": 561820,
+  "pages": 41,
+  "public_source_url": "https://www.trsil.org/sites/default/files/documents/FY23-RFP-Investment-Consultant-final_7.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:11:23.237493+00:00",
+  "doc_id": "pi-3ed60bf967834bb09ce1f1b864e0268c",
+  "stored_name": "TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf",
+  "reported_usage": {
+    "prompt_tokens": 26323,
+    "completion_tokens": 7130,
+    "total_tokens": 33453,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 14698
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1870
+    }
+  },
+  "elapsed_seconds": 30.422,
+  "finished_at_utc": "2026-10-27T09:11:53.671137+00:00",
+  "model_calls": 29,
+  "http_attempts": 29,
+  "observed_usage": {
+    "input_tokens": 26323,
+    "output_tokens": 7130,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 14698,
+    "reasoning_tokens": 1870,
+    "total_tokens": 33453
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

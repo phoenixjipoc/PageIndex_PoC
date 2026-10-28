@@ -1,0 +1,738 @@
+{
+  "doc_id": "pi-64bf90a3a7df4d43b1c83fc44c1a2fb6",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 5,
+      "summary": "PRIM’s September 8, 2026 letter invites firms to submit proposals for Active Global Core Equity Investment Management Services. Responses, including attachments, must be emailed to rfpresponses@mapension.com and received by 3:00 p.m. ET on October 9, 2026; questions are due to the same address by 3:00 p.m. ET on September 25. The RFP provides further submission instructions and notes that proposals will be evaluated with commensurate care. It is signed by Executive Director and CIO Michael G. Trotsky and identifies Treasurer and Receiver General Deborah B. Goldberg as Board chair. The document’s contents cover purpose, background, services, response requirements, selection process and criteria, qualifications, timeline, questionnaire, portfolio data, fees, representations and warranties, and exhibits. Exhibits include service providers, disclosure information, the Treasurer’s boards and authorities, PRIM’s investment policy, and the investment management agreement. Contact details and an intentionally blank page are also shown."
+    },
+    {
+      "title": "I. INTRODUCTION/PURPOSE",
+      "node_id": "0001",
+      "start_index": 5,
+      "end_index": 5,
+      "summary": "PRIM is soliciting firms to manage an active global core equity mandate. Strategies must be long-only, invest across developed and emerging markets, and be benchmarked to the MSCI ACWI IMI, with a core or blend orientation. All-cap strategies are preferred, though large-cap core strategies may be considered. Active or enhanced-index approaches—systematic, fundamental, or hybrid—are welcome, and PRIM expects to use a separately managed account. Dedicated growth or value strategies and strategies narrower than the global all-country universe are excluded. Respondents are strongly encouraged to review the eligibility and scope requirements in Section III and minimum qualifications in Section VI."
+    },
+    {
+      "title": "II. BACKGROUND INFORMATION",
+      "node_id": "0002",
+      "start_index": 5,
+      "end_index": 7,
+      "key_items": [
+        "I. INTRODUCTION/PURPOSE",
+        "A. Legal Structure of PRIM",
+        "B. Massachusetts General Laws (MGL Chapter 32)",
+        "C. Massachusetts Conflict of Interest Law (MGL Chapter 268A)"
+      ],
+      "summary": "PRIM was established by Massachusetts legislation in 1983 to supervise investment and management of the PRIT Fund, which holds assets for state employee and teacher retirement systems and participating local systems. Its nine-member Board includes state officials, elected retirement-system representatives, and gubernatorial and Treasurer appointees; appointed members serve four-year terms. PRIM aims to fund current and future pensions cost-effectively by maximizing returns within acceptable risk. A statutory funding schedule and investment returns are intended to meet Commonwealth pension obligations by 2040; state appropriations assume a 7% long-term return. The Board can hire staff and advisers, set policies, and manage fund assets. PRIM is custodian and fiduciary, selects and evaluates managers, and reported $129.5 billion in net assets as of June 30, 2026. Governed by MGL Chapter 32 and its 1988 Operating Trust, PRIM uses advisory committees, while the Board approves significant policies and investments. Conflict-of-interest and open-meeting laws apply. External advisers support investment work; BNY provides custody, records, and performance analytics."
+    },
+    {
+      "title": "III. SCOPE OF SERVICES",
+      "node_id": "0003",
+      "start_index": 7,
+      "end_index": 8,
+      "key_items": [
+        "D. Massachusetts Open Meeting Law (Chapter 30A, Sections 18-25)",
+        "E. PRIM’s Advisors"
+      ],
+      "summary": "PRIM seeks proposals from qualified managers for long-only active or enhanced-index global core/blend equity strategies investing in developed and emerging markets, including the U.S., benchmarked to MSCI ACWI IMI. All-cap is preferred; large-cap core may qualify. Systematic, fundamental, and hybrid approaches are welcome. Dedicated growth/value and regional, sub-global, single-region, or single-country strategies are ineligible. Firms may submit up to two Products, each with a separate response; separate GIPS firms may each submit two, and affiliates submitting must be identified. PRIM may reject submissions that do not meet scope, style, or capitalization requirements. Selected managers must follow PRIM policies; manage a primarily publicly traded global-equity, long-only separate account; research holdings; seek benchmark outperformance; advise PRIM; manage risk; reconcile monthly with the custodian; and meet reporting and communication requirements, including periodic performance/risk reports, prompt responses, meetings on request, and periodic on-site portfolio reviews."
+    },
+    {
+      "title": "IV. RESPONSE SPECIFICATIONS",
+      "node_id": "0004",
+      "start_index": 8,
+      "end_index": 12,
+      "summary": "Proposals and all attachments are due by 3:00 p.m. ET October 9, 2026, by email to Andre Abouhala, with a copy to PRIM’s advisor representative, using the specified subject format. Submit a complete, separate response for each product, reproduce each RFP question or request before answering, and ensure timely receipt; email packages may be split but must not exceed 40 MB each. Required, appropriately named files include a signed cover letter, qualification responses, Section VIII questionnaire in editable Word and signed PDF, supporting materials, signed representations and warranties, completed PRIM Disclosure Statement, Section X fee proposal in Word and signed PDF, Section IX workbook, and applicable Form ADV materials. After the deadline, responses become public records; limit confidentiality markings to trade secrets or related commercial or financial information. Responses may be withdrawn and resubmitted before the deadline. PRIM may waive or permit cure of minor issues, discuss the RFP with qualified proposers, and reject any or all responses or cancel procurement. Only the Procurement Officer may be contacted about the RFP; violations may disqualify respondents. Written questions are due September 25, 2026, and timely answers are circulated to requesters. PRIM is not liable for pre-contract costs.",
+      "nodes": [
+        {
+          "title": "IV. RESPONSE SPECIFICATIONS (intro)",
+          "node_id": "0005",
+          "start_index": 8,
+          "end_index": 9,
+          "summary": "Proposals and all attachments must be emailed by 3:00 p.m. ET on Friday, October 9, 2026, to Andre Abouhala at rfpresponses@mapension.com, using the specified subject format: “PRIM Active Global Core Equity Investment Management Services RFP Response – Name of Responding Firm – Name of Product.” A separate complete email submission, including required enclosures, is required for each product. A copy must also be emailed by the deadline to Hayley Tran, PRIM’s Public Markets Advisor representative, at RFPResponse@meketa.com. Respondents must reproduce every RFP question or request in full before its response; late submissions will not be considered. Each email’s documents must total no more than 40 MB; submissions may be split across emails, and zip files are encouraged. Respondents are responsible for ensuring the complete response arrives on time. The RFP is available at www.mapension.com."
+        },
+        {
+          "title": "B. Required Enclosures and Attachments",
+          "node_id": "0006",
+          "start_index": 9,
+          "end_index": 10,
+          "summary": "Responses must include separately named files using “[Firm Name] – [Product Name] – [Item Name]”; generally PDFs, except specified Word/PDF submissions and the Portfolio Data Request Workbook. Required items are: a signed cover letter with firm and contact details, signer’s title, and irrevocable-offer statement; detailed Minimum Qualifications responses; Section VIII questionnaire in identical editable Word and signed PDF versions (PDF governs differences), with referenced supporting materials as separate question-labeled PDFs; signed Section XI representations and warranties; completed Exhibit B PRIM Disclosure Statement (required or submission may not be considered); Section X fee proposal in identical Word and signed PDF versions (PDF governs differences); the Section IX Portfolio Data Request Workbook; and, if applicable, full Form ADV Parts 1 and 2, including brochure and supplements. After the deadline, submissions are public records; mark only trade-secret or related commercial/financial information confidential. PRIM will post winning contract service, term, vendor, fees, and tenure online. Responses may be withdrawn and resubmitted before the deadline, but not afterward. A section on waiver or cure of minor informalities, errors, and omissions follows."
+        },
+        {
+          "title": "RFP Submission Requirements and Response Policies",
+          "node_id": "0007",
+          "start_index": 10,
+          "end_index": 10,
+          "key_items": [
+            "C. Public Record and Website Posting",
+            "D. Withdrawal/Irrevocability of Responses"
+          ],
+          "summary": "Respondents must submit the signed Representations and Warranties and completed PRIM Disclosure Statement as separate PDFs; omission of the disclosure statement may disqualify a submission. The Fee Proposal must be submitted as an editable Word file and a matching signed PDF, with the PDF governing if they differ. Respondents must also provide the Portfolio Data Request Workbook and, if applicable, the full Form ADV, including Parts 1 and 2 and brochure supplements. After the deadline, responses become public records; only trade secrets or related commercial or financial information should be marked confidential. PRIM will post the winning response’s service type, term, vendor, fees, and contract tenure on its website. Responses may be withdrawn and resubmitted before the deadline, but not afterward."
+        },
+        {
+          "title": "E. Waiver/Cure of Minor Informalities, Errors and Omissions",
+          "node_id": "0008",
+          "start_index": 10,
+          "end_index": 11,
+          "summary": "PRIM may waive or allow correction of minor proposal irregularities before selecting finalists, hold discussions with qualified proposers, and take other steps serving its and beneficiaries’ interests. Andre Abouhala is the Procurement Officer and the designated contact. During the RFP process, respondents must not contact other PRIM personnel, board or committee members, or Treasury employees about the RFP; existing PRIM business contacts are allowed only for unrelated business. Respondents must also avoid discussing the RFP with PRIM’s custodian, managers, consultants, counsel, or other advisers, except as directed for submitting a response. Violations may result in disqualification. Written questions and requests for question-and-answer copies are due by email to the Procurement Officer by 3:00 p.m. ET on September 25, 2026. Timely questions will be circulated to questioners and to others who requested the answers in writing before the deadline; late submissions will not be considered. The text ends with an “Incurring Costs” heading but provides no details under it."
+        },
+        {
+          "title": "PRIM Communications and RFP Questions",
+          "node_id": "0009",
+          "start_index": 11,
+          "end_index": 11,
+          "key_items": [
+            "F. Communications with PRIM",
+            "G. Questions Regarding this RFP"
+          ],
+          "summary": "PRIM may waive or allow correction of minor issues before selecting finalists, discuss the RFP with qualified proposers, and take other actions serving its and beneficiaries’ best interests. The Procurement Officer is Andre Abouhala (rfpresponses@mapension.com; 617-946-8401), at PRIM’s Boston address. During the RFP process, respondents may contact only the Procurement Officer about the RFP; existing PRIM business contacts are permitted only for unrelated business. Respondents must not discuss the RFP with PRIM’s custodian, managers, advisers, consultants, or counsel, except as directed for submitting a response. Violations may result in disqualification. Written questions must be emailed to the Procurement Officer by 3:00 p.m. ET on September 25, 2026. Timely questions and responses will be emailed to questioners; respondents who request them in writing before the deadline will also receive them. Late questions or requests will not be considered."
+        },
+        {
+          "title": "H. Incurring Costs",
+          "node_id": "0010",
+          "start_index": 11,
+          "end_index": 12,
+          "summary": "H. Incurring Costs\nmapension.com | 53 State Street, Suite 600, Boston, MA 02109 | (617) 946-8401\n11Pension Reserves Investment Management Board\nPRIM will not be liable for any costs incurred prior to entering into a contract with the selected respondents or proposers.\nI. Rejection of Responses; Cancellation\nPRIM reserves the right in its sole discretion to reject any response, as well as the right to reject all responses submitted in response to this RFP, and to cancel and rescind the procurement at any time, for any reason or for no reason."
+        }
+      ]
+    },
+    {
+      "title": "V. SELECTION PROCESS AND SELECTION CRITERIA",
+      "node_id": "0011",
+      "start_index": 12,
+      "end_index": 13,
+      "key_items": [
+        "I. Rejection of Responses; Cancellation"
+      ],
+      "summary": "PRIM will screen proposals for RFP compliance and Section VI minimum qualifications; nonqualifying responses will be rejected, and responses inconsistent with Section III style or scope may be eliminated without further review. An Evaluation Committee, potentially including PRIM Board and advisory committee members, staff, and advisors, may conduct interviews, request information, check references, and perform on-site or strategy due diligence. It will assess firm stability, ownership, and experience; dedicated team quality and continuity; investment philosophy and process fit; track record versus the MSCI ACWI IMI across market cycles; research capabilities; portfolio construction and risk management; separately managed account capacity; operational infrastructure; client references; and fees. Criteria may not be equally weighted or ordered by importance. The committee reports results and recommends to the Investment Committee, which may endorse or propose other respondents to the Board. The PRIM Board makes the final selection."
+    },
+    {
+      "title": "VI. MINIMUM QUALIFICATIONS",
+      "node_id": "0012",
+      "start_index": 13,
+      "end_index": 14,
+      "summary": "PRIM will reject proposals that fail any minimum qualification. By June 30, 2026, the firm must have operated continuously as an investment manager for at least three years, be SEC-registered or explain its registration exemption, and have at least $5 billion in firm AUM. The proposed long-only global equity strategy must have at least three years of actual GIPS-presented performance; simulated or hypothetical results do not count. Carve-outs or predecessor-firm performance must be identified and explained. The strategy must have a core/blend orientation, not dedicated growth or value, and invest across developed and emerging markets represented in the MSCI ACWI IMI. Geographic underweights or caps are allowed, but categorical or structural exclusions are not. The firm must manage at least three institutional separate accounts across strategies, or the proposed strategy must have at least one. If selected, it must be managed for PRIM in a separate account. The firm must also be willing to negotiate an MFN fee protection; accepting PRIM’s specific language is not required at this stage."
+    },
+    {
+      "title": "VII. TENTATIVE TIMELINE",
+      "node_id": "0013",
+      "start_index": 14,
+      "end_index": 15,
+      "summary": "PRIM’s tentative RFP schedule lists issuance on September 8, 2026; questions due September 25 at 3:00 p.m. ET; responses due October 9 at 3:00 p.m. ET; finalist notification by November 20; evaluation committee interviews by December 18; an Investment Committee meeting on February 9, 2027; and projected commencement by May 3, 2027. Dates may change with notice, and updates will be posted on PRIM’s website. Interviews will be held at PRIM’s Boston offices or remotely. Questions should be sent to rfpresponses@mapension.com. PRIM’s contact details are mapension.com, 53 State Street, Suite 600, Boston, MA 02109, and (617) 946-8401."
+    },
+    {
+      "title": "VIII. QUESTIONNAIRE",
+      "node_id": "0014",
+      "start_index": 15,
+      "end_index": 42,
+      "summary": "The questionnaire sets response-date and formatting rules, requests respondent details, and summarizes the proposed Product’s fit, benchmarks, structure, market-cap focus, investment and implementation approaches. It examines the firm’s organization, ownership, regulation, affiliates, diversity and employment practices, legal and compliance matters, conflicts, insurance, and third-party solicitors. It requests firm and Product AUM, client concentration, flows, redemptions, client composition, pension experience, and references. Other sections cover investment-team roles, decision-making, staffing, succession, retention, and compensation; investment philosophy, alpha sources, exposures, competitive advantage, and currency management; research processes, data, technology, external research, and AI; portfolio construction, constraints, risk oversight, trading, capacity, liquidity, and funding. Trading questions address execution, costs, brokers, crossing, valuation, and errors. Stewardship and sustainability topics include PRIM priorities, ESG integration, monitoring, engagement, and proxy voting. Performance questions cover track-record continuity, benchmarks, expected risk and return, attribution, contributors and detractors, and prolonged underperformance.",
+      "nodes": [
+        {
+          "title": "Product Summary:",
+          "node_id": "0015",
+          "start_index": 15,
+          "end_index": 16,
+          "summary": "Questionnaire responses must reflect information as of June 30, 2026, unless stated otherwise, and be entered beneath each question while preserving its wording, numbering, and order. Do not reformat or delete questions; mark nonapplicable items “Not applicable” and briefly explain. Provide respondent, address, phone, email, client contact, signature, printed name, title, and date. The Product Summary asks whether the proposed product matches the SMA PRIM request, its usual benchmark(s), eVestment composite name if applicable, whether it is carved out of another portfolio, fund, or strategy, and its market-cap focus (all, large/mid, or large), investment approach (systematic, fundamental, combined, or other), and implementation approach (active, enhanced index, or other). The document includes mapension.com contact details for the Pension Reserves Investment Management Board."
+        },
+        {
+          "title": "1. Organization",
+          "node_id": "0016",
+          "start_index": 16,
+          "end_index": 20,
+          "summary": "This section requests information about the contracting entity, its regulatory status and parent, and any affiliated GIPS firms submitting Products. It covers the firm’s history, registrations, ownership and corporate structure; owners and employee equity; parent-company activities and financial contributions; investment independence and shared resources; affiliates, Products, organizational changes, offices, and staffing. It asks about diversity certifications and directories, and practices for recruiting, retaining, fairly compensating, and advancing diverse employees, including senior leadership and board representation. It seeks disclosures of regulatory, legal, harassment, misconduct, and discrimination matters; insurance coverage; current regulatory filings and material changes. It requires disclosure of actual or potential conflicts, relevant PRIM relationships, and use and compensation of third-party solicitors. Finally, it asks about codes of conduct and their enforcement, compliance programs and key personnel, and compliance with CFA Institute’s Asset Manager and Inclusion Codes.",
+          "nodes": [
+            {
+              "title": "A. Contracting Entity:",
+              "node_id": "0017",
+              "start_index": 16,
+              "end_index": 16,
+              "summary": "1. Organization\nA. Contracting Entity:\n1) Identify the legal entity that will contract with PRIM and state its regulatory status and primary regulator (e.g., SEC-registered investment adviser; FCA-authorized firm; bank; insurance company; other — specify the regulator and jurisdiction). If the contracting entity is a subsidiary or affiliate of a larger organization, identify the ultimate parent and its jurisdiction of domicile.\n2) State whether any affiliated investment adviser that is a separate GIPS firm is also submitting a response to this RFP. If yes, identify each such affiliate and the Product(s) it is submitting."
+            },
+            {
+              "title": "B. Firm History, Ownership, and Corporate Structure:",
+              "node_id": "0018",
+              "start_index": 16,
+              "end_index": 17,
+              "summary": "The section requests the firm’s founding and legal-history dates, SEC and relevant non-U.S. regulatory registrations or exemption basis, and start dates for managing the strategy and Product for U.S. tax-exempt clients. It covers the firm’s structure, ownership and offices; all direct and indirect owners, their percentages and types, including employee-equity distribution, vesting and plans. For parent-owned firms, it asks about the parent’s business, the firm’s five-year revenue and operating-income contributions, investment-function independence, shared resources and commingling of capital. It also requests affiliated entities’ roles and services, the Product’s place in the business, material organizational developments over five years and pending changes, and employee counts by functional area at both firm and Product levels."
+            },
+            {
+              "title": "C. Diversity, Equity, & Inclusion:",
+              "node_id": "0019",
+              "start_index": 17,
+              "end_index": 18,
+              "summary": "The PRIM Board asks whether the organization is certified as a Minority-, Women-, or Veteran-Business Enterprise by Massachusetts’s Supplier Diversity Office (SDO) or an equivalent agency, with the equivalent agency named. It also asks whether the organization appears in the SDO/partner directories or an equivalent certifier’s directory as a Disability-, LGBT-, Veteran-, Service-Disabled Veteran-, or specified veteran/disability-owned enterprise, again naming any equivalent certifier. Organizations must describe how they foster diversity of thought, recruit and retain diverse employees, ensure wage equality, and promote diversity in senior management and, where applicable, the board of directors; the response is limited to one page. The excerpt includes PRIM Board contact information: mapension.com, 53 State Street, Suite 600, Boston, MA 02109, (617) 946-8401."
+            },
+            {
+              "title": "D. Regulatory and Legal:",
+              "node_id": "0020",
+              "start_index": 18,
+              "end_index": 19,
+              "summary": "Requests disclosure of regulatory examinations, investigations, proceedings, and specified litigation involving the firm, affiliates, owners, or employees during the past five years, including pending or threatened matters; any qualifying resolutions or sanctions during the past ten years not already reported; and harassment, misconduct, or discrimination matters during the past five years. For affirmative responses, provide dates, parties, nature, status, and resolution as applicable. Also requests current U.S.-dollar coverage, carriers, and policy terms for fidelity bonds, professional liability, directors and officers, cyber, and other fiduciary or professional insurance. Finally, requests the latest Form ADV Parts 1, 2A, and 2B, or equivalent home-jurisdiction disclosures, and confirmation and description of material changes since filing."
+            },
+            {
+              "title": "E. Conflicts of Interest and Business Relationships:",
+              "node_id": "0021",
+              "start_index": 19,
+              "end_index": 19,
+              "summary": "The firm must disclose actual or potential conflicts related to its services, including those arising from affiliated or parent activities; proprietary or principal trading and prime brokerage; investment banking, underwriting, or capital markets; affiliated broker-dealers; soft-dollar or commission-sharing arrangements; cross-trades; overlapping long-only, hedge-fund, or proprietary strategies; and past or current relationships with PRIM board or committee members, investment staff, consultants, or service providers. It must also state whether it used third-party marketers, placement agents, or solicitors for institutional tax-exempt business in the past three years, identify them and their compensation, and confirm whether any are or would be involved in soliciting the PRIM mandate."
+            },
+            {
+              "title": "F. Compliance and Controls:",
+              "node_id": "0022",
+              "start_index": 19,
+              "end_index": 20,
+              "summary": "F. Compliance and Controls:\n1) Does your firm maintain a code of ethics or code of conduct governing employee conduct, professional standards, sexual harassment, discrimination, workplace violence, and the fair and\nmapension.com | 53 State Street, Suite 600, Boston, MA 02109 | (617) 946-8401\n19Pension Reserves Investment Management Board\nequitable treatment of personnel? If so, describe how compliance is monitored and enforced. If not, explain the firm’s reasons.\n2) Describe the firm's compliance program and internal control structure. Identify senior or key personnel in the firm’s compliance process.\n3) Is your firm compliant with the CFA Institute's Asset Manager Code of Professional Conduct and the Inclusion Code of Professional Conduct? For each, indicate compliant / not compliant. If not compliant with either, explain the firm’s reasons.\nLink: CFA Institute's Asset Manager Code Link: CFA Institute's Inclusion Code"
+            }
+          ]
+        },
+        {
+          "title": "2. Assets Under Management (AUM)",
+          "node_id": "0023",
+          "start_index": 20,
+          "end_index": 22,
+          "key_items": [
+            "A. Firm AUM:",
+            "B. Product AUM:",
+            "C. Client Flows and Concentration:"
+          ],
+          "summary": "Requests firm AUM as of June 30, 2026 and each year-end from 2021–2025, broken down by institutional, institutional share, total equity, and global equity; explanations of significant changes; and details of any client relationship exceeding 5% of firm AUM or revenue, including client type, percentages, tenure, and strategies. Requests corresponding Product AUM totals and institutional breakdown, significant-change explanations, June 2026 AUM and account counts by vehicle type, client domicile distribution, and experience serving U.S. public pension plans in the Product. Also requests five-year annual Product flows, account gains/losses and year-end counts; details and firm responses for client redemptions exceeding 5% of Product AUM; the five largest current Product clients; any SMA-management limitations for PRIM; and contact details for three current reference accounts."
+        },
+        {
+          "title": "3. Investment Team",
+          "node_id": "0024",
+          "start_index": 22,
+          "end_index": 25,
+          "summary": "The section requests information on the professionals directly serving the PRIM account, including roles, experience, location, biographies, strategy contributions, other responsibilities, and time allocations. It covers team reporting lines and division of research, portfolio management, and risk; meetings and research flow; office and market presence, cross-region coordination, investment authority, decision-making, disagreements, backups, and account-level discretion and constraints. It also asks about talent sourcing, training and advancement, five-year firm- and Product-level attrition, senior departures and replacements, anticipated staffing changes, succession plans, key-person designations, restrictive covenants, and team work arrangements and policies. Compensation topics include pay components, incentive forms, vesting, measurement periods and performance metrics, the impact of asset growth, flows, or revenue, team members’ Product investments and co-investment policies, and pay equity practices.",
+          "nodes": [
+            {
+              "title": "A. Dedicated Product Team:",
+              "node_id": "0025",
+              "start_index": 22,
+              "end_index": 23,
+              "summary": "3. Investment Team\nA. Dedicated Product Team:\n1) List all professionals who would directly service the PRIM account. Include portfolio managers, research analysts, quantitative researchers, traders, risk managers, and client service professionals dedicated or materially allocated to the Product.\nYears in Current Role\nName Title/Role Years Experience Years with Firm\nLocation\nmapension.com | 53 State Street, Suite 600, Boston, MA 02109 | (617) 946-8401\n22Pension Reserves Investment Management Board\n2) Provide biographical information on all the individuals listed above. Please explain how each contributes to the strategy in their current role(s).\n3) In addition to the Product, identify any other strategies, funds, or responsibilities each portfolio manager and senior research analyst listed in the table above has. For each, indicate the approximate time allocation and whether the other responsibilities are complementary to or in tension with the Product's mandate."
+            },
+            {
+              "title": "B. Team Structure",
+              "node_id": "0026",
+              "start_index": 23,
+              "end_index": 23,
+              "summary": "The section requests a description of the Product investment team’s reporting structure; how research, portfolio management, and risk duties are divided; meeting cadence and format; and how research reaches portfolio managers. It asks where the team operates, including local market presence and markets without direct presence, how responsibilities are coordinated across offices and time zones, and how cross-region decisions are made within one trading day. It also asks who makes investment decisions and when each assumed authority, how shared decisions and disagreements are handled, who has a tie-breaking vote, and when backups take over. Finally, it asks how account-level discretion works, including alignment with the model portfolio, permitted and typical deviations, who exercises discretion, and applicable client, tax, or other constraints."
+            },
+            {
+              "title": "C. Retention, Attrition, and Succession:",
+              "node_id": "0027",
+              "start_index": 23,
+              "end_index": 24,
+              "summary": "The text requests information on Product team talent sourcing and development, including recruitment sources and mix, junior training and career progression, and examples of internally developed senior members. It asks for firm-wide and Product-level voluntary and involuntary attrition rates for the past five years; details of senior investment professional departures during that period, including tenure, Product role, departure circumstances and timing, destination, and replacement/vacancy duration; and expected personnel changes over the next 12 months. It also seeks succession plans and designated successors for key Product roles, identification of key persons, and standard restrictive covenants for portfolio managers and senior researchers, including durations and exceptions. Finally, it asks about current in-office, hybrid, and remote arrangements and Product team cadence, policy changes and reasons in the past two years, and team members working primarily outside designated offices and the governing policy."
+            },
+            {
+              "title": "D. Compensation:",
+              "node_id": "0028",
+              "start_index": 24,
+              "end_index": 25,
+              "summary": "The text requests details on compensation for portfolio managers and senior research personnel supporting the Product: base, long-term and short-term incentive shares of total pay; long-term award form and vesting; short-term measurement period and award form; incentive performance metrics, including any Product-performance horizon and evaluation basis; and whether Product or firm asset growth, client flows or revenue affect incentives and their approximate weight versus investment performance. It also asks whether personnel invest their own capital in the Product, including the number and aggregate amount invested and any co-investment requirements or policies, and asks the firm to describe pay equity practices for the Product team and across the firm."
+            }
+          ]
+        },
+        {
+          "title": "4. Investment Philosophy",
+          "node_id": "0029",
+          "start_index": 25,
+          "end_index": 28,
+          "key_items": [
+            "A. Philosophy and Inefficiencies:",
+            "B. Approach, Style, and Alpha Sources:",
+            "C. Evolution:",
+            "D. Expected Performance Environments:"
+          ],
+          "summary": "The questionnaire asks managers to address the applicable systematic or fundamental investment approach, or both if combined. It covers the Product’s investment philosophy, targeted global equity inefficiencies, regional differences, supporting rationale, reasons for persistence, historical or academic evidence, and risks to persistence. Managers must quantify systematic versus fundamental and top-down versus bottom-up inputs, explain exceptions, and describe benchmark-relative style, size, regional and country exposures, including whether these are stable or dynamic. They should identify and weight alpha sources, distinguish proprietary from academic signals where relevant, report realized five-year drivers, and explain off-benchmark holdings, their weights, locations and return contribution. Further topics include alpha-view holding periods; the firm’s competitive edge, durability and performance evidence; evolution of the approach and any departures from discipline; expected outperformance and underperformance environments, including historical experience; and the philosophy and consistency of currency management or hedging."
+        },
+        {
+          "title": "5. Investment Process & Research",
+          "node_id": "0030",
+          "start_index": 28,
+          "end_index": 30,
+          "key_items": [
+            "A. Research Function:",
+            "B. Data and Research Infrastructure:"
+          ],
+          "summary": "The section requests a description of the Product’s research and investment process, with systematic and fundamental approaches addressed as applicable and hybrid managers covering both. It covers end-to-end research: idea or signal generation, analysis and testing, decision criteria and approvals, universe or peer-group construction, team organization and capacity or analyst coverage, and how research recommendations become positions, including weighting, ranking, review, and override authority. It asks about material nonstandard, alternative, internal, and potentially critical data sources; weaker data markets and compensating practices; and safeguards for research integrity, including backtest biases or disciplined review of fundamental decisions. It also requests an inventory and ownership status of research technology; use, evaluation, integration, budgeting, and soft-dollar arrangements for external research; reliance on local partners where the firm lacks direct presence; and use of AI, machine learning, or language models, including applications, output governance, privacy, and third-party model policies."
+        },
+        {
+          "title": "6. Portfolio Construction & Risk Management",
+          "node_id": "0031",
+          "start_index": 30,
+          "end_index": 36,
+          "summary": "Covers portfolio construction and risk management for systematic and/or fundamental strategies: defining and refreshing the investable universe, eligible instruments and exposure ranges, market-cap limits, IPO participation, cash equitization, foreign-ownership limits, and hard-to-access markets. Describes how research becomes portfolio weights, construction tools/objectives and constraints, key inputs, and holdings ranges. Specifies benchmark-relative limits across securities, sectors, geographies, currencies, factors, size, beta and concentration; tracking-error targets, benchmark use, exclusions, and currency hedging. Explains buy, sell, hold, signal or thesis retirement, discretionary overrides, benchmark-weight holdings, and decision timing. Details risk models, limits, breaches and remediation, risk-function governance, veto authority, and stress testing. Addresses rebalancing, off-cycle trading, historical and expected turnover, benchmark changes, and transaction-cost modeling. Covers capacity estimates and shared capacity, close thresholds and history, liquidity by liquidation horizon, large-account funding and ramp-up, cash-drag mitigation, and redemption timing, costs, and notice.",
+          "nodes": [
+            {
+              "title": "A. Investable Universe:",
+              "node_id": "0032",
+              "start_index": 30,
+              "end_index": 31,
+              "summary": "This section requests portfolio-construction and risk-management information, with systematic, fundamental, or both approaches addressed as applicable. It asks managers to define the investable universe, including its starting point, screening criteria, post-screen security count, and refresh frequency; specify eligible instrument types and minimum, maximum, and expected steady-state NAV exposure ranges; and describe permitted equity market-capitalization ranges at purchase and while held, including the purpose and typical exposure of any holdings outside the benchmark range. It also asks whether the Product buys IPOs and, if so, about allocation policy, typical participation, and allocation across accounts. Managers should explain cash-drag management, including the impact of uninvested cash, use and typical notional of futures or ETFs to equitize cash, and residual-cash currency and hedging. Finally, they should describe monitoring and compliance with foreign-ownership limits and their approach to registration-required, access-constrained, or otherwise difficult-to-access benchmark markets."
+            },
+            {
+              "title": "B. Portfolio Construction Methodology:",
+              "node_id": "0033",
+              "start_index": 31,
+              "end_index": 32,
+              "summary": "The section requests an end-to-end account of portfolio construction, from research outputs to final weights. For systematic strategies, describe how alpha, risk and transaction-cost forecasts and constraints determine target weights, the objective function used, and how the current portfolio informs rebalancing. For fundamental strategies, explain how recommendations or conviction translate into weights, whether sizing is rule-based or discretionary, the role of tools or optimizers, and how conviction is balanced against benchmark-relative risk. Identify the optimizer or construction tool, whether proprietary, licensed (including vendor) or open-source, and explain its objective and constraints. Rank the Product’s key construction inputs by importance. Report typical holdings, the minimum and maximum over the past five years, and what drives variation."
+            },
+            {
+              "title": "C. Benchmark-Relative Constraints:",
+              "node_id": "0034",
+              "start_index": 32,
+              "end_index": 33,
+              "summary": "Requests details on benchmark-relative construction constraints, including minimum/maximum active-weight bands versus MSCI ACWI IMI and whether each is a hard optimizer limit, soft post-construction target, or guideline. Dimensions include individual securities, GICS sectors and industries, regions, countries, currency, common style factors, size, beta, combined active weight of the top 10 holdings, and other material constraints. Also asks for the tracking-error target and construction management band, with an explanation of material differences between realized ex-post and ex-ante tracking error; how the benchmark defines the investable universe or risk reference, anchors position sizing, and relates to holdings outside it; strategic exclusions or systematic underweights within the benchmark and their rationales, distinguished from mandate or client restrictions; and how currency exposure is managed, including hedging approach and ratios, instruments, execution responsibility, and whether hedging is benchmark-relative or absolute."
+            },
+            {
+              "title": "D. Decision Mechanics (Buy, Sell, and Hold):",
+              "node_id": "0035",
+              "start_index": 33,
+              "end_index": 33,
+              "summary": "D. Decision Mechanics (Buy, Sell, and Hold):\n1) Describe what triggers a new position being added to the Product.\n2) Describe what triggers the Product to exit or reduce a position (the sell discipline).\n3) Describe the circumstances under which the Product would hold a position despite signal or thesis deterioration. Identify any discretionary override authority and who exercises it.\n4) Describe the firm's process for retiring a signal (systematic) or a thesis (fundamental) that is no longer adding value.\n5) Describe the circumstances under which the Product holds a security at or near benchmark weight purely to manage tracking error contribution rather than to express an alpha view.\n6) Are construction decisions batched (e.g., monthly or weekly rebalance producing a discrete trade list) or continuous (signals flow to trading as they appear)? Describe."
+            },
+            {
+              "title": "E. Risk Framework:",
+              "node_id": "0036",
+              "start_index": 33,
+              "end_index": 34,
+              "summary": "The section requests details on the Product’s risk framework: risk models used for portfolio construction and monitoring, including vendors, factor coverage, update frequency, and whether models differ; any proprietary model’s structure, development, validation, maintenance, recalibration, and rationale; and how risk forecasts inform construction. It asks for a risk-limit schedule covering metrics, thresholds, hard/soft/guideline status, breach actions, and exception authority across tracking error, beta, single-name, sector, country, region, currency, style-factor, and other active exposures. It also requests material breaches over five years, with dates, magnitude, causes, resolution time, and remediation. Finally, it asks about risk-function independence, leadership, meeting cadence and format, trade veto authority, and stress-testing scenarios, frequency, and effects on construction or limits."
+            },
+            {
+              "title": "F. Rebalancing and Turnover:",
+              "node_id": "0037",
+              "start_index": 34,
+              "end_index": 35,
+              "summary": "The section requests details on full-portfolio rebalancing: its frequency or trigger, typical interval, and authority for off-cycle changes. It asks how individual positions are traded between rebalances, including triggers, approvals, and the share of annual trading done between scheduled rebalances. It requests one-way realized turnover for each of 2021–2025 and expected steady-state turnover, calculated as min(purchases, sales) divided by average annual AUM. It also asks how the Product handles MSCI ACWI IMI rebalances, particularly whether deletions are sold automatically, deprioritized, or retained based on its alpha view. Finally, it asks whether transaction costs are modeled during portfolio construction or afterward, what data informs the cost model, and how forecast costs compare with realized costs."
+            },
+            {
+              "title": "G. Capacity and Liquidity:",
+              "node_id": "0038",
+              "start_index": 35,
+              "end_index": 36,
+              "summary": "Requests information on the Product’s current capacity, review date and estimation method; whether capacity is shared with other vehicles or strategies using common signals, models, tools or personnel, including combined capacity and allocation rules; soft- and hard-close thresholds; decision-makers, review cadence and documentation; and the history of capacity changes and closure decisions (or confirmation none occurred). It also requests the share of a representative $500 million MSCI ACWI IMI SMA liquidatable within one, three, five, ten and more than ten trading days under normal market conditions and transaction costs, totaling 100%. For initial funding of $500 million–$1 billion, it asks about time to full investment, expected ramp-up shortfall and use of futures, ETFs or other instruments to reduce cash drag. For termination or partial redemption of that size, it asks about implementation time, cost and requested minimum notice."
+            }
+          ]
+        },
+        {
+          "title": "7. Trading",
+          "node_id": "0039",
+          "start_index": 36,
+          "end_index": 38,
+          "key_items": [
+            "H. Funding and Termination Implementation:",
+            "A. Trading Operation, Execution, and Transaction Costs",
+            "B. Brokers, Counterparties, and Trade Allocation:",
+            "C. Valuation, Compliance, and Errors:"
+          ],
+          "summary": "Requests details on the Product’s trading function: central or dedicated desk, trader coverage, location, supervision, global time-zone/region coverage, and handoffs; best execution and TCA processes, tools and vendors; five years of annual commissions and implementation shortfall (or state if uncalculated); and June 30, 2026 position market-value distribution across specified %ADV buckets, based on prior 90 trading days. It asks for the top five brokers and commission shares, affiliated execution venues and routing percentages over three years, soft-dollar/CSA amounts and uses, internal-crossing permission, volumes, pricing and oversight, trade allocation when orders are only partly filled, and estimated commissions, market impact, FX and timing costs for a $500 million–$1 billion initial funding against MSCI ACWI IMI. It also requests pricing and valuation methods, hand-priced securities and their market-value share, controls for client restricted lists, and details of material trading errors over five years, including dates, nature, gain/loss, who absorbed losses, and remediation."
+        },
+        {
+          "title": "8. Stewardship and Sustainability",
+          "node_id": "0040",
+          "start_index": 38,
+          "end_index": 40,
+          "key_items": [
+            "A. Firm-Level Stewardship Program:",
+            "B. Alignment with PRIM’s Stewardship Priorities:",
+            "C. Product-Level Integration of Sustainability Factors:",
+            "D. Corporate Engagement and Proxy Voting:"
+          ],
+          "summary": "The text lists PRIM’s stewardship priorities: climate transition planning, fair pay, sustainable forestry, and transparency. It requests information on the firm’s stewardship and sustainability approach, dedicated team and investment-team interaction, recognized frameworks, and policy or program changes in the past 24 months with reasons. It asks how the firm aligns with PRIM’s priorities and which advocacy, industry, or investor groups it participates in—or has recently left or suspended participation in—and why. Product questions cover consideration of material environmental and social factors for risk management or value creation, how factors are identified and acted on, and whether systematic strategies use signals or constraints or fundamental analysts assess factors systematically or case by case. It also asks about ongoing portfolio monitoring, impact measurement, KPIs and standards, and client reporting. Finally, it asks about company engagement across markets, including local capabilities, collaboration, and constraints, plus in-house proxy voting guidelines addressing PRIM priorities; PRIM votes its own proxies."
+        },
+        {
+          "title": "9. Performance",
+          "node_id": "0041",
+          "start_index": 40,
+          "end_index": 42,
+          "key_items": [
+            "A. Track Record:; B. Benchmark:",
+            "A. Track Record:",
+            "B. Benchmark:",
+            "C. Expected and Realized Performance:"
+          ],
+          "summary": "Requests information on the Product’s track record, including mergers, renamings, carve-outs, predecessor-firm performance portability, relevant dates and products, rationale, affected periods, presentation basis, and continuity impacts. Asks whether it can use MSCI ACWI IMI as the primary benchmark in a separately managed account; if its internal benchmark differs, identify it and explain potential differences in expected excess return, tracking error, turnover, universe coverage, and factor exposures. Also asks whether the internal benchmark has been used since inception and details of any changes. Requests annualized gross-of-fees expected excess return, tracking error, and information ratio; the five largest position-level contributors and detractors to gross alpha over the trailing five years through June 30, 2026, with securities, holding periods, and basis-point contributions; and sector- and country/region-level stock-selection and allocation attribution versus MSCI ACWI IMI for trailing 1-, 3-, and 5-year periods. Finally, requests details of any four-quarter-or-longer negative excess-return streaks or negative trailing three-year periods, including dates, magnitude, cause, responsive changes, and whether changes remain."
+        }
+      ]
+    },
+    {
+      "title": "IX. PORTFOLIO DATA REQUEST",
+      "node_id": "0042",
+      "start_index": 42,
+      "end_index": 44,
+      "summary": "PRIM requires one unaltered native-Excel Portfolio Data Request Workbook per proposed Product, with entries only in designated shaded cells; grey cells and workbook structure must remain unchanged. Returns must be gross of fees, in USD (or disclose reporting currency and conversion method), decimal total-return figures without monthly annualization, and follow GIPS or explain differences and whether performance is composite or another vehicle. Exhibit A: complete monthly returns from stated inception through June 30, 2026, identifying linked predecessor, carve-out, prior-vehicle, or merged performance and dates. Exhibit B: quarterly Product and firm AUM in USD millions from inception through that date; disclose the earliest available firm-AUM quarter if history is incomplete. Exhibit C: quarterly holdings counts, likewise stating the earliest available quarter if incomplete. Exhibit D: most recent relevant GIPS Composite Report as a separate PDF. Keep any Product eVestment profile current through June 30, 2026, or consider establishing one; it is not an eligibility requirement, and workbook data controls. Explain discrepancies with eVestment. PRIM may request further diligence data from advanced respondents and additional information at any stage."
+    },
+    {
+      "title": "X. FEE PROPOSAL",
+      "node_id": "0043",
+      "start_index": 44,
+      "end_index": 47,
+      "summary": "PRIM requests two fee proposals: an asset-based schedule with fixed fees and asset-growth breakpoints, and a low- or zero-fixed-fee performance schedule tied to realized alpha over the MSCI ACWI IMI, with at least a one-year measurement period, benchmark-equal hurdle, market-standard crystallization, and a cap competitive with global equity mandates. Respondents must provide standard and proposed schedules, breakpoints, fixed fees, incentive rates, caps, and whether breakpoints are tiered or blended, without minimum-funding conditions. Show effective annual all-in fees at $250 million, $500 million, and $1 billion, and for performance fees at 0, 100, and 300 bps of gross alpha; these are comparison scenarios, not prescribed breakpoints or expected alpha. Disclose measurement basis, payment and crystallization frequency, additional hurdles, deferral/carryforward/clawback, and fee caps. State acceptance of PRIM’s MFN clause or explain requested changes. An authorized representative must sign, with a separate executed proposal for each product.",
+      "nodes": [
+        {
+          "title": "Proposed Fee Schedule:",
+          "node_id": "0044",
+          "start_index": 44,
+          "end_index": 44,
+          "summary": "PRIM considers fees an important evaluation factor and requires proposals for both (1) an asset-based structure with a competitive fixed fee and asset-growth breakpoints, and (2) a low- or zero-fixed-fee performance structure with incentives tied to realized alpha versus MSCI ACWI IMI. Performance proposals should use at least a one-year measurement period, a benchmark-equal hurdle, market-standard crystallization, and a cap yielding an expected all-in fee competitive with global equity mandates. Respondents must provide the firm’s standard Product schedule and proposed PRIM schedules for both structures, in basis points, with appropriate breakpoints. If no standard Product schedule is published, provide the schedule commonly offered to institutional SMA clients at the illustrated funding levels. Submit one schedule per structure, applicable at any contemplated initial funding level without a minimum-funding condition. Include fee schedules and breakpoints, fixed management fees, performance incentive rates as a percentage of alpha, and fee caps as applicable; state whether breakpoints are marginal (tiered) or blended."
+        },
+        {
+          "title": "Effective Fee at Illustrative Funding Levels:",
+          "node_id": "0045",
+          "start_index": 44,
+          "end_index": 45,
+          "summary": "The text requests the all-in effective annual fee, in basis points of total assets, under proposed schedules for illustrative initial funding levels of $250 million, $500 million, and $1 billion. For the performance-based structure, fees should be shown assuming gross annualized alpha versus the MSCI ACWI IMI of 0, 100, and 300 basis points over the measurement period. These scenarios are for consistent comparison only: they are not PRIM’s preferred breakpoint levels or expected alpha, and respondents should not build breakpoints around the funding examples. The text also includes mapension.com’s Boston address and phone number."
+        },
+        {
+          "title": "Performance Fee Terms:",
+          "node_id": "0046",
+          "start_index": 45,
+          "end_index": 45,
+          "summary": "Performance Fee Terms:\nFor performance fee proposals, state: (a) the performance measurement period and whether alpha is measured on a rolling or discrete basis; (b) the crystallization and payment frequency; (c) any hurdle rate in addition to the benchmark (if applicable); (d) any deferral, carryforward, or clawback applicable to incentive fees; (e) the all-in fee cap."
+        },
+        {
+          "title": "Most-Favored Nation Clause:",
+          "node_id": "0047",
+          "start_index": 45,
+          "end_index": 46,
+          "summary": "Most-Favored Nation Clause:\nPRIM asks its service providers to agree to contractual MFN language substantially as follows:\n“In the event that the [service provider], currently or at any time during the term of this Agreement, is a party to or enters into an agreement with a party other than PRIM to perform services that are substantially similar to those under the Agreement with PRIM at a lower or more favorable fee, the [service provider] will promptly notify PRIM of such arrangement and offer PRIM the same arrangement.”\nIndicate in the Fee Proposal whether the Respondent agrees to the MFN language above. If the Respondent does not agree, state the basis for the disagreement and identify any specific terms that would need to be modified.\nmapension.com | 53 State Street, Suite 600, Boston, MA 02109 | (617) 946-8401\n45Pension Reserves Investment Management Board"
+        },
+        {
+          "title": "Authorized Signature:",
+          "node_id": "0048",
+          "start_index": 46,
+          "end_index": 47,
+          "summary": "Authorized Signature:\nThis Fee Proposal must be signed by an individual authorized to bind the respondent, as required by Section IV.B.6 of this RFP. A respondent submitting more than one product must submit a separately executed Fee Proposal with each response.\n_____________________________ Signature\n_____________________________ Print Name\n_____________________________ Title\n_____________________________ Date\n[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]\nmapension.com | 53 State Street, Suite 600, Boston, MA 02109 | (617) 946-8401\n46Pension Reserves Investment Management Board"
+        }
+      ]
+    },
+    {
+      "title": "XI. REPRESENTATIONS AND WARRANTIES",
+      "node_id": "0049",
+      "start_index": 47,
+      "end_index": 48,
+      "summary": "Each respondent must submit the Representations and Warranties as a separate PDF, signed by an authorized officer; separate copies are required for each product response. The respondent warrants that its RFP information is accurate and complete; it will not delegate responsibilities without PRIM’s prior approval; it has not been in bankruptcy or receivership; it has obtained all government-required registrations, filings, approvals, authorizations, consents, and examinations; it will honor its Section X fee proposal; and it meets Section VI minimum qualifications. The respondent must also check whether it accepts PRIM’s standard Investment Management Agreement and Schedule A (Exhibit E) without exception or accepts them subject to specified exceptions, then provide signature, printed name, and title. The document includes PRIM’s address, website, and telephone number."
+    },
+    {
+      "title": "XII. EXHIBITS",
+      "node_id": "0050",
+      "start_index": 48,
+      "end_index": 82,
+      "summary": "The exhibits include links to PRIM service providers and its investment policy, alongside intentionally blank pages. Exhibit B provides a disclosure form for firms seeking engagements with PRIM or the PRIT Fund, requiring broad, accurate and promptly updated disclosures about organizational structure, personnel, relationships, services, donations, and compensation or benefit arrangements, with a signed statement under penalties of perjury. Exhibit C lists 13 Treasury-related boards, commissions and authorities, with statutory citations. Exhibit E contains PRIM’s standard investment-management agreement, covering investment and operational duties, fiduciary and regulatory requirements, conflicts, liability, fees, reporting, confidentiality, cybersecurity, valuation, termination, asset transfers, and other contractual terms. Its schedules specify objectives and benchmarks, tiered fees, quarterly compliance certifications, monthly custody reconciliations and performance reporting, valuation differences, and a monthly reporting form.",
+      "nodes": [
+        {
+          "title": "[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]",
+          "node_id": "0051",
+          "start_index": 48,
+          "end_index": 49,
+          "summary": "XII. EXHIBITS\n[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]\nmapension.com | 53 State Street, Suite 600, Boston, MA 02109 | (617) 946-8401\n48Pension Reserves Investment Management Board"
+        },
+        {
+          "title": "EXHIBIT A",
+          "node_id": "0052",
+          "start_index": 49,
+          "end_index": 50,
+          "summary": "EXHIBIT A\nPRIM Service Providers https://www.mapension.com/investments/#prit-fund-service\n[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]\nmapension.com | 53 State Street, Suite 600, Boston, MA 02109 | (617) 946-8401\n49Pension Reserves Investment Management Board"
+        },
+        {
+          "title": "EXHIBIT B",
+          "node_id": "0053",
+          "start_index": 50,
+          "end_index": 53,
+          "summary": "Exhibit B is the PRIM Board disclosure statement for firms seeking investment management, consulting, custody, recordkeeping, auditing, or other professional engagements with PRIM or the PRIT Fund. Firms must answer fully and accurately, interpret questions broadly in favor of disclosure, and update answers in writing immediately upon any change; questions may be directed to PRIM. The form requests the firm’s organizational structure and key personnel, relevant relationships involving affiliates or contractors, other services to PRIM/PRIT, services or donations to the Treasurer’s office and related public entities, and services to Commonwealth political subdivisions. It also asks whether compensation or benefits were provided or arranged to help obtain or perform the engagement, and whether compensation-sharing arrangements exist for services to PRIM/PRIT, related entities, the Commonwealth, or its subdivisions; affirmative answers require names, addresses, details, and compensation or benefits. The statement is signed under penalties of perjury, with date, printed name, signature, and title."
+        },
+        {
+          "title": "EXHIBIT C",
+          "node_id": "0054",
+          "start_index": 53,
+          "end_index": 54,
+          "key_items": [
+            "TREASURER’S PRINCIPAL BOARDS, COMMISSIONS AND AUTHORITIES*"
+          ],
+          "summary": "Exhibit C lists 13 principal boards, commissions, and authorities associated with the Treasurer, with statutory citations: Advisory Board to the Comptroller; State Retirement Board; State Lottery Commission; Board of Bank Incorporation; Water Pollution Abatement (Clean Water) Trust; Pension Reserves Investment Management Board; Massachusetts Convention Center Authority; Massachusetts School Building Authority; Teachers’ Retirement Board; Alcoholic Beverages Control Commission; Health Care Security Trust; Commissioners on Fireman’s Relief; and Economic Empowerment Trust Fund. The list covers entities that are part of the Treasury Department, a division or affiliated entity, or have a position that may be held by the State Treasurer and Receiver General or a designee. The page also provides mapension.com, a Boston address, phone number, and Pension Reserves Investment Management Board footer branding."
+        },
+        {
+          "title": "EXHIBIT D",
+          "node_id": "0055",
+          "start_index": 54,
+          "end_index": 55,
+          "summary": "EXHIBIT D\nPRIM Investment Policy https://www.mapension.com/investments/ https://www.mapension.com/records-of-interest/\n[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]\nmapension.com | 53 State Street, Suite 600, Boston, MA 02109 | (617) 946-8401\n54Pension Reserves Investment Management Board"
+        },
+        {
+          "title": "EXHIBIT E",
+          "node_id": "0056",
+          "start_index": 55,
+          "end_index": 82,
+          "summary": "Exhibit E contains PRIM’s standard investment-management agreement and its schedules and attachments. The agreement appoints a Manager to invest PRIT assets under PRIM’s directions and law, establishing investment, trading, custody, reporting, confidentiality, cybersecurity, valuation, records, fee, allocation, and legal-claim requirements. It addresses fiduciary and regulatory duties, conflicts, liability, indemnification, insurance, termination and asset transfers, notices, dispute resolution, governing law, and other contractual terms. Schedule A sets customizable objectives, benchmarks, risk limits, compliance duties, and breach procedures; Schedule B describes tiered fees and termination proration. Schedule C requires quarterly compliance certifications or explanations. Schedule D and its attachments set monthly custodian reconciliation duties, discrepancy tolerances, performance reporting, and a business-day timetable. They also document valuation-method differences and provide a monthly performance form covering values, flows, fees, returns, and comments. The exhibit includes PRIM and Manager signature blocks, confirms confidentiality survives termination, and states the agreement supersedes prior agreements subject to accrued obligations.",
+          "nodes": [
+            {
+              "title": "Introduction",
+              "node_id": "0057",
+              "start_index": 55,
+              "end_index": 72,
+              "summary": "This section presents a standard-form agreement appointing a Manager to invest PRIT assets under PRIM’s objectives, guidelines, instructions, and applicable law. It defines the Account, asset flows, multiple accounts, counterparty limits, delegated investment and trading powers, brokerage and best-execution duties, confidentiality and cybersecurity, custody, securities lending, valuation, reporting, records, and inspection. It sets fees, expense limits, fee-parity notice, nonexclusive services, fair allocation, legal-claims procedures, and authorized representatives, while PRIM retains proxy voting. It covers the Manager’s regulatory representations, disclosures, fiduciary duties, standard of care, conflicts, liability limits, indemnification, insurance, bonding, Form ADV, and independent-contractor status. It also governs termination, post-termination asset transfers and reporting, notices, incorporated schedules, Massachusetts courts or PRIM-elected arbitration, venue and process, assignment, amendments, governing law, waivers, cumulative remedies, severability, counterparts, and execution.",
+              "nodes": [
+                {
+                  "title": "1. Appointment of the Manager as Investment Manager.",
+                  "node_id": "0058",
+                  "start_index": 55,
+                  "end_index": 55,
+                  "summary": "Exhibit E is a standard-form investment management agreement between Massachusetts PRIM, as trustee of the Pension Reserves Investment Trust (PRIT), and a placeholder Manager. It explains PRIM’s statutory oversight and administration of PRIT, which holds assets of state and municipal retirement systems, and its authority to appoint the Manager; BNY Mellon is the current custodian, with the term “Custodian” covering whoever PRIM designates. Section 1 appoints the Manager from a placeholder effective date until termination under the Agreement. The Manager accepts responsibility for investing the Account under the Agreement, Schedule A’s objectives and guidelines, and Schedules C and D’s reporting requirements; it acknowledges reviewing applicable legislation and must not invest in violation of it. PRIM may modify the guidelines and reporting requirements by notice. The Manager must use best efforts to increase Account value, devote sufficient personnel and effort, maintain experienced portfolio managers, and make them and other knowledgeable employees reasonably available to discuss the Account with PRIM and its representatives."
+                },
+                {
+                  "title": "2. The Account.",
+                  "node_id": "0059",
+                  "start_index": 55,
+                  "end_index": 56,
+                  "summary": "The Manager’s duties cover assets designated in Schedule A as the Account. PRIM may add or withdraw assets at its discretion, without promising a minimum balance; reducing assets does not terminate the agreement. The Manager must assist with legally required reporting. Assets may not be delivered to or pledged for the benefit of the Manager or its related parties, absent PRIM’s prior written agreement, and may not be commingled with other clients’ assets. PRIM may establish additional accounts, each with separate objectives, guidelines, fees, and reporting requirements; the agreement otherwise applies to them. PRIT is the sole beneficial owner of multiple trading entities and is subject to initial-margin rules for uncleared OTC derivatives. PRIM monitors the Manager’s counterparty exposures with its input and may require compliant custody and trading agreements before new or increased counterparty exposure that PRIM determines would exceed notified limits."
+                },
+                {
+                  "title": "3. Manager’s Responsibility and Authority.",
+                  "node_id": "0060",
+                  "start_index": 56,
+                  "end_index": 58,
+                  "summary": "The Manager may exercise only powers expressly delegated by PRIM under the Agreement and Operating Trust; all others remain with PRIM. PRIM authorizes investment of the Account under the Agreement and retains control of cash balances, directing the Manager to remit cash when required. Subject to the Agreement, investment guidelines, Operating Trust, and applicable law, the Manager may manage Account assets without consulting PRIM or the Custodian: open/close accounts; select intermediaries and trade assets; instruct the Custodian on deliveries and payments; invest, reinvest, and exercise asset-related rights; send written or agreed electronic instructions; consult accounting, tax, or legal professionals at no cost to PRIM/PRIT unless separately approved in writing; trade derivatives and establish brokerage accounts for futures and options; and take other necessary actions. Without PRIM’s separate prior written consent, the Manager may not possess PRIT assets or direct the Custodian to pay or deliver assets to the Manager or its related parties for fees or expenses. The Manager must provide its ethics code before execution, at Section 7(d) times, and more often upon request."
+                },
+                {
+                  "title": "4. Brokerage.",
+                  "node_id": "0061",
+                  "start_index": 58,
+                  "end_index": 59,
+                  "summary": "The Manager must seek the most favorable price and best execution, use best efforts to support Massachusetts brokerage firms when consistent with its duties, and follow PRIM’s brokerage directions while still seeking best execution. Account transactions settle through the Custodian; communications must be written or agreed electronic, and brokers must send transaction confirmations (including derivatives) to the Custodian. The Manager may aggregate Account orders with other client orders when lawful and consistent with the Agreement. Higher commissions are permitted only under Exchange Act Section 28(e), with good-faith findings that commissions are reasonable relative to services and Account benefits; these services must not displace customary research. The Manager must disclose soft-dollar policies, service costs, commission allocations, and related third-party arrangements before execution, upon material revision, and when PRIM requests. Before execution, annually, and on request, it must also describe arrangements under which others may receive compensation or share fees for services relating to the Agreement. On PRIM’s written request, confirmation copies must be sent to its designees."
+                },
+                {
+                  "title": "5. Confidentiality.",
+                  "node_id": "0062",
+                  "start_index": 59,
+                  "end_index": 61,
+                  "summary": "The Manager must keep information received from or developed for PRIM, the Custodian, or an Account confidential, disclosing it only when necessary to perform the Agreement or legally required, generally after notifying PRIM. This does not restrict serving comparable clients or using de-identified Account experience in composites; PRIM may publish investment-program reports, which may become public records. The Manager may not use PRIM/PRIT names or reveal the Agreement or relationship without written consent, except for legal, routine-trading, or necessary service disclosures (the latter subject to equally protective confidentiality terms); notice is generally required. On termination, confidential materials must be returned, subject to legally required retention, and confidentiality obligations survive. PRIM recognizes the sensitivity and potential harm of Manager-designated proprietary investment information, but PRIT Parties and Accounts are not liable for its public disclosure. The Manager must safeguard data under the Agreement, its policies, industry standards, and law. Suspected breaches require notice within 24 hours (subject to legal delays), details, cooperation, assistance, remediation at the Manager’s expense, and prevention of recurrence."
+                },
+                {
+                  "title": "6. Custody of Account Assets.",
+                  "node_id": "0063",
+                  "start_index": 61,
+                  "end_index": 61,
+                  "summary": "The Custodian holds all Account Assets, including cash; Assets may be delivered or paid to the Manager only with PRIM’s written authorization. PRIM will notify the Custodian when the Manager is appointed. The Manager may follow PRIM’s instructions concerning Assets reasonably believed to have come from PRIM or the Custodian and must coordinate with the Custodian on transaction settlement and accounting. The Manager must provide and update its authorized-instruction personnel list and supply information needed for the Custodian’s separate Account records. The Manager is not responsible for the Custodian’s conduct. PRIM may replace the Custodian, ordinarily giving the Manager at least 30 days’ advance notice. The Manager acknowledges that PRIM may arrange securities lending for PRIT, must ask the Custodian or Securities Lender about deadlines for reporting sales so loaned securities can be recalled, and must use best efforts to meet those deadlines. The Manager should exercise caution when lending Account securities because this may conflict with or interfere with the Securities Lender’s activities."
+                },
+                {
+                  "title": "7. Statement of Account; Valuation; Reports.",
+                  "node_id": "0064",
+                  "start_index": 61,
+                  "end_index": 63,
+                  "summary": "The Manager must maintain complete Account records; provide PRIM monthly statements, portfolio/performance analysis, transaction-cost details, fair-market valuations under GASB 72, requested reports, and assistance with legally required reporting. By the seventh business day monthly, it must give the Custodian prior-month transactions and holdings with month-end net asset values, and meet with PRIM at least semi-annually. PRIM will arrange monthly Custodian valuations and trade-date transaction statements, including cash balances and accrued income. The Manager must reconcile positions, prices, accruals, and returns monthly and report unresolved material differences to PRIM within one business day. It must provide counterparty policies as specified or requested and notify PRIM by phone and in writing within two business days of listed material personnel, ownership, investment, business, compliance, error, legal/regulatory, ethics, policy, registration, or representation changes. For seven years after termination, it must retain Account records and, during and after the term, provide reasonable inspection access and requested analysis data."
+                },
+                {
+                  "title": "8. Fees and Expenses.",
+                  "node_id": "0065",
+                  "start_index": 63,
+                  "end_index": 63,
+                  "summary": "8. Fees and Expenses. The Manager will be entitled to receive from PRIT as complete compensation for services rendered hereunder the fees set forth in Schedule B hereto (the “Fee Schedule”). The Fee Schedule may be modified by mutual agreement of the parties in writing. Such fees will be paid by PRIM at the times and in the manner specified in the Fee Schedule and will be pro-rated from the Effective Date. The Manager will not be paid or reimbursed for any expenses except to the extent authorized by PRIM in writing. In the event that the Manager currently or at any time during the term of this Agreement performs services that are similar in all material respects for other clients with respect to a comparable or smaller dollar level of assets at a lower or more favorable fee, the Manager will promptly notify PRIM of such arrangement and offer PRIM the same arrangement."
+                },
+                {
+                  "title": "9. Services Not Exclusive.",
+                  "node_id": "0066",
+                  "start_index": 63,
+                  "end_index": 64,
+                  "summary": "The Manager may serve other clients but must devote sufficient resources to its duties, follow its ethics code, and allocate investment opportunities fairly over time; advice or actions may differ among clients, and it need not make an investment for the Account it deems unsuitable, impracticable, or undesirable. Legal-claims provisions offer two alternatives: Option 1 requires identifying and promptly reporting claims, obtaining PRIM’s written approval before pursuing or settling them, maintaining records and updates, reporting claims and recoveries annually, and receiving reimbursement of eligible expenses. PRIM must approve litigation counsel in writing, subject to specified exceptions, and receive advance notice if expected legal costs exceed $25,000. Option 2 requires forwarding claim notices but generally disclaims prosecution or filing duties, while requiring reasonable assistance. The Manager must certify authorized representatives and their signatures to PRIM and the Custodian; authority continues until notice is received. PRIM may similarly designate and certify representatives to communicate instructions and notices to the Manager."
+                },
+                {
+                  "title": "Legal Claims and Manager Representatives",
+                  "node_id": "0067",
+                  "start_index": 64,
+                  "end_index": 64,
+                  "key_items": [
+                    "10. Legal Claims.",
+                    "11. Persons Authorized to Act for the Manager."
+                  ],
+                  "summary": "Two alternative legal-claims provisions are presented. Option 1 requires the Manager to identify and promptly report claims affecting Account assets, and bars pursuing or settling them without PRIM’s written approval. If authorized, the Manager may act to protect the Account, must keep records and provide updates and annual summaries, and may recover its reasonable, necessary pro rata expenses; PRIM must approve litigation counsel in writing, except for specified rent or services claims under $100,000, and receive advance notice when legal costs are expected to exceed $25,000. Option 2 requires forwarding claim notices to PRIM and the Custodian, but generally disclaims responsibility for filing or prosecuting claims while requiring reasonable assistance. The Manager must also certify authorized representatives and provide their specimen signatures to PRIM and the Custodian; their authority continues until the Custodian receives notice otherwise."
+                },
+                {
+                  "title": "12. Persons Authorized to Act for PRIM.",
+                  "node_id": "0068",
+                  "start_index": 64,
+                  "end_index": 65,
+                  "summary": "12. Persons Authorized to Act for PRIM. PRIM may from time to time designate any person or persons to act on its behalf to give instructions, directions, notices or other communications to the Manager and will certify to the Manager the name of such person or persons and give the Manager a\nmapension.com | 53 State Street, Suite 600, Boston, MA 02109 | (617) 946-8401\n64Pension Reserves Investment Management Board\nspecimen of his/her or their signatures. The authority of any such person to act on behalf of PRIM will continue until notice to the contrary is given by PRIM and received by the Manager. All oral instructions by PRIM shall be promptly confirmed in writing by PRIM and, until such confirmation is provided, oral instructions shall not be binding on PRIM and shall not be acted upon by the Manager."
+                },
+                {
+                  "title": "13. Proxies.",
+                  "node_id": "0069",
+                  "start_index": 65,
+                  "end_index": 65,
+                  "summary": "13. Proxies. PRIM will vote all proxies for securities held in the Account. The Manager shall cooperate with PRIM and the Custodian to facilitate the timely exercise by PRIM of these rights."
+                },
+                {
+                  "title": "14. Certain Representations and Covenants of the Manager.",
+                  "node_id": "0070",
+                  "start_index": 65,
+                  "end_index": 66,
+                  "summary": "The Manager represents and covenants that it maintains required investment-adviser status or an applicable exemption and all necessary regulatory registrations, approvals, licenses, and authorizations, providing supporting documentation as requested. Its RFP and due-diligence statements were materially accurate and are incorporated into the Agreement, subject to ordinary-course changes. Performance will not violate law or other agreements; the Manager complies with applicable laws, including anti-corruption laws, and owes fiduciary duties concerning the Account’s Assets. It discloses qualifying legal or regulatory actions from the prior five years and represents that no pending or known threatened matter is reasonably likely to impair performance. It will comply with applicable statutes and regulations, provide audited financial statements annually within 30 days of completion, and, if investment-adviser registration is required, provide specified Form ADV and disclosure materials, relevant securities ownership filings, and its annual compliance assessment and remediation plan; required reports go to PRIM and the Custodian unless directed otherwise. The Manager has made no placement or contingent-fee arrangements related to PRIM’s appointment, and PRIT parties receive no related remuneration except as specified."
+                },
+                {
+                  "title": "15. Termination.",
+                  "node_id": "0071",
+                  "start_index": 66,
+                  "end_index": 67,
+                  "summary": "PRIM may terminate the Agreement by written notice; the Manager may terminate with 90 days’ prior written notice. Neither termination incurs a penalty for PRIM, PRIT, or affiliates. Fees may be prorated where appropriate, subject to the Fee Schedule, and accrued unpaid performance fees remain payable on its established schedule. PRIM may direct the Manager to stop trading without notice, though executed, unsettled trades must be settled. After termination notice, unless PRIM instructs otherwise, the Manager must stop new trades except to fulfill outstanding unfunded commitments, support an orderly, cost-effective transfer of Assets and related entity management or control, and promptly provide PRIM and the Custodian a final report matching required monthly reports. Prior obligations and liabilities, including those involving third parties, remain unaffected. Account investment and administration provisions continue while Assets remain in the Account, except as provided in Section 7."
+                },
+                {
+                  "title": "16. Fiduciary Status of the Manager; Standard of Care; Chapter 268A.",
+                  "node_id": "0072",
+                  "start_index": 67,
+                  "end_index": 68,
+                  "summary": "The Manager acknowledges fiduciary status under Massachusetts General Laws Chapter 32 and must comply with applicable laws, avoid self-dealing, and act solely for PRIT using prudent-expert care, skill, diligence, good faith, and candor. It must diversify Account assets consistent with the Investment Objectives and Guidelines to minimize loss risk unless clearly imprudent. The Manager must also act in good faith and with utmost candor under Chapter 268A, the Massachusetts Conflict of Interest Statute; compliance is its sole responsibility, and it may not attribute noncompliance to PRIM, PRIT, or third parties. The Manager must not impose or permit any lien, charge, or encumbrance on Account assets, including through its acts or omissions."
+                },
+                {
+                  "title": "17. Liability.",
+                  "node_id": "0073",
+                  "start_index": 68,
+                  "end_index": 68,
+                  "summary": "The Manager is not liable for selecting the Investment Objectives and Guidelines but must manage the Account according to them and PRIM’s instructions. Its authority and responsibilities are limited to the Assets; it has no responsibility for PRIT’s other assets or operations and administration. The Agreement does not waive the Manager’s obligations under applicable law. PRIM and PRIT retain their sovereign immunities, defenses, rights, and actions, including under Massachusetts law and the Eleventh Amendment, and the Agreement does not waive or limit them. These rights include limits on damages, time to sue, indemnity obligations, jury-trial and venue waivers, and confidentiality requirements. Conflicting Agreement terms are not binding on PRIM or PRIT unless authorized by Massachusetts law."
+                },
+                {
+                  "title": "18. Indemnification.",
+                  "node_id": "0074",
+                  "start_index": 68,
+                  "end_index": 69,
+                  "summary": "The Manager must indemnify and hold the PRIT Parties harmless for claims, losses, liabilities, damages, and reasonable expenses arising from its Malfeasance, defined to include fraud, bad faith, intentional misconduct, negligence, breach of the Agreement or law, and acts or omissions causing regulatory or contractual violations. For proceedings arguably related to Malfeasance, the Manager must advance documented defense costs monthly; the Indemnitee retains them if cleared, but repays the portion attributable to its own Malfeasance. This obligation survives termination. The Manager must maintain A.M. Best A- or better professional liability coverage ($10 million per claim/$20 million aggregate) and cyber coverage ($5 million per claim/$10 million aggregate); PRIM/PRIT coverage is excess, and the Manager waives insured-loss claims and subrogation. It must provide requested certificates and give required advance and prompt notice of material coverage changes or termination. Each party represents its authority and the Agreement’s enforceability. The Manager must maintain an ERISA-compliant fidelity bond. If registered, it acknowledges PRIM received its Form ADV and disclosure statement at least 48 hours before signing. The Manager is an independent contractor, not an agent."
+                },
+                {
+                  "title": "Insurance, Authority, Bonding, and Form ADV",
+                  "node_id": "0075",
+                  "start_index": 69,
+                  "end_index": 69,
+                  "key_items": [
+                    "19. Insurance.",
+                    "20. Authority.",
+                    "21. Bonding.",
+                    "22. Form ADV."
+                  ],
+                  "summary": "The preceding malfeasance provisions survive termination. The Manager must maintain specified professional liability and cybersecurity insurance with A.M. Best-rated insurers, at stated minimum limits; other PRIM/PRIT coverage is excess, and the Manager and related parties waive claims and subrogation against them for insured losses. On request, the Manager must provide coverage certificates, give at least 30 days’ advance notice of voluntary material changes or termination, and notify PRIM within five business days after learning of such changes. Each party represents that it has authority to enter and perform the Agreement, that doing so creates no material conflict or violation, and that the Agreement is binding and enforceable. The Manager must maintain the fidelity bond that ERISA would require if PRIM or PRIT were subject to it. If registered under the Advisers Act, the Manager’s Forms ADV Parts 1 and 2 and Disclosure Statement must be received by PRIM at least 48 hours before execution."
+                },
+                {
+                  "title": "23. Independent Contractor.",
+                  "node_id": "0076",
+                  "start_index": 69,
+                  "end_index": 70,
+                  "summary": "The Manager is an independent contractor and generally cannot act as agent for or represent PRIM, PRIT, or the Custodian. Approvals, instructions, and communications (except authorized oral instructions) must be emailed and mailed or delivered to the specified contacts: PRIM in Boston, the Manager at its designated address and email, and BNY Mellon in Everett using the listed email addresses. The Manager or PRIM may update its own notice details by written notice; PRIM may update the Custodian’s details by notifying the Manager. Notices take effect upon receipt. Headings are for convenience, the agreement text controls, and schedules are incorporated, with their capitalized terms carrying the agreement’s meanings unless otherwise defined. For agreement-related disputes, interpretation, or party actions, the parties consent to non-exclusive jurisdiction of federal and state courts in Massachusetts; the venue provision begins but is incomplete in the excerpt."
+                },
+                {
+                  "title": "Communications, Headings, and Schedules",
+                  "node_id": "0077",
+                  "start_index": 70,
+                  "end_index": 70,
+                  "key_items": [
+                    "24. Communication.",
+                    "25. Headings; Schedules."
+                  ],
+                  "summary": "Section 24 requires approvals, instructions, and other communications under the Agreement (except authorized oral instructions) to be emailed and mailed or delivered to PRIM, the Manager, or the Custodian at their specified contact details. Either PRIM or the Manager may update its own notice address by written notice to the other; PRIM may update Custodian contact details by written notice to the Manager. Notices between parties take effect upon receipt. Section 25 states that headings are for convenience and the Agreement’s text governs the parties’ rights and obligations. Schedules are incorporated by reference, and capitalized terms in them have the meanings assigned in the Agreement unless defined otherwise in the Schedules."
+                },
+                {
+                  "title": "26. Disputed Matters.",
+                  "node_id": "0078",
+                  "start_index": 70,
+                  "end_index": 71,
+                  "summary": "Disputes may be brought in Massachusetts federal or state courts, with exclusive venue in Suffolk County and waiver of forum non conveniens; the court, not a jury, may award the prevailing litigant reasonable attorneys’ fees and litigation costs. At PRIM’s sole election, disputes may instead be arbitrated in Boston under AAA Commercial Arbitration Rules. Before a final merits determination, parties bear their own expenses and split arbitrator fees; afterward, the arbitrator may award the prevailing party reasonable fees and costs. Process may be served by registered mail or hand at Section 24 notice addresses; certain non-individual or foreign-domiciled Managers must designate a Massachusetts process agent and notify PRIM, with changes notified in advance to PRIM and the Custodian. The Manager cannot assign the Agreement without PRIM’s discretionary written consent. The Agreement is entire and amendable only by signed writing. Massachusetts law governs, without conflicts principles. Waivers must be written and authorized; non-enforcement does not waive later enforcement. Contractual, other-instrument, and legal remedies are cumulative and may be exercised singly or together; the final provision is incomplete in the excerpt."
+                },
+                {
+                  "title": "Disputes, Assignment, Amendments, and Massachusetts Law",
+                  "node_id": "0079",
+                  "start_index": 71,
+                  "end_index": 71,
+                  "key_items": [
+                    "27. Assignment; Amendment.",
+                    "28. Massachusetts Law."
+                  ],
+                  "summary": "Court proceedings must be brought exclusively in Suffolk County, Massachusetts, and the parties waive forum non conveniens; a court, not a jury, awards the prevailing party reasonable legal fees and litigation costs. At PRIM’s election, disputes may go to AAA commercial arbitration in Boston, with awards enforceable in any court with jurisdiction. Before a final merits decision, each party pays its own expenses and shares arbitrator fees equally; afterward, the arbitrator may award the prevailing party reasonable fees and costs. Process may be served by registered mail or hand at the Section 24 notice addresses. A Manager that is an entity or domiciled outside the United States must appoint a Massachusetts service agent before signing and notify PRIM and the Custodian in writing of any replacement agent in the United States. The Manager may not assign the Agreement without PRIM’s sole-discretion written consent. The Agreement is the entire agreement and may be amended only in writing, signed by both parties’ authorized representatives. Massachusetts law governs, without conflict-of-laws principles, and the Agreement is treated as made under seal."
+                },
+                {
+                  "title": "29. General.",
+                  "node_id": "0080",
+                  "start_index": 71,
+                  "end_index": 72,
+                  "summary": "Only authorized party representatives may waive Agreement terms, and waivers must be written; failure to enforce a provision once does not bar later enforcement. Rights and remedies are cumulative. Invalidity of one provision does not affect the others, and the Manager’s confidentiality obligations for data from PRIM or the Custodian survive termination. The Agreement may be signed in counterparts and supersedes prior agreements on the same matters, except for obligations accrued before its date. It is executed as of the Effective Date, with signature blocks for PRIM’s Executive Director and Chief Investment Officer and the Manager’s representative."
+                }
+              ]
+            },
+            {
+              "title": "PENSION RESERVES INVESTMENT MANAGEMENT BOARD",
+              "node_id": "0081",
+              "start_index": 72,
+              "end_index": 72,
+              "summary": "Pension Reserves Investment Management Board\nis held invalid by any law or regulation of any government or by any court, such invalidity shall not affect the enforceability of any other provision hereof. The Manager’s obligations with respect to confidentiality of data received from PRIM or the Custodian shall survive the termination of this Agreement.\n(c) This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. This Agreement supersedes all prior agreements between the parties hereto relating to the matters contained herein, except with respect to obligations thereunder that accrued prior to the date hereof.\nIN WITNESS WHEREOF, the Manager and PRIM have executed this Agreement as of the Effective Date.\nPENSION RESERVES INVESTMENT MANAGEMENT BOARD\nBY:_____________________________ Michael G. Trotsky, CFA Executive Director & Chief Investment Officer"
+            },
+            {
+              "title": "[MANAGER]",
+              "node_id": "0082",
+              "start_index": 72,
+              "end_index": 73,
+              "summary": "[MANAGER]\nBY:______________________________ NAME: ___________________________ TITLE:___________________________\nmapension.com | 53 State Street, Suite 600, Boston, MA 02109 | (617) 946-8401\n72Pension Reserves Investment Management Board\nSchedule A: Investment Objectives and Guidelines [Manager]\nAccount: ___________________________"
+            },
+            {
+              "title": "[Specific guidelines will be customized with managers]",
+              "node_id": "0083",
+              "start_index": 73,
+              "end_index": 77,
+              "key_items": [
+                "I. Statement of Purpose; II. Investment Objectives",
+                "I. Statement of Purpose",
+                "II. Investment Objectives",
+                "III. Investment Guidelines",
+                "A. Authorized Investments"
+              ],
+              "summary": "Schedule A, part of the Investment Management Agreement, sets customizable account objectives and guidelines. Its purposes are to define investment objectives and performance standards, ensure the Manager can assess instrument risks, and limit excessive or inappropriate risk. The Manager seeks the highest total return within the guidelines, measured against a designated benchmark using risk and after-fee returns; monitoring frequency, rolling evaluation period, excess-return and tracking-error targets, and GIPS reporting may be specified. The Manager has discretion subject to authorized investments and strategy-specific restrictions, is responsible for compliance, and must immediately report exceptions. Market-driven breaches are not violations, but the Manager must avoid worsening them and seek to restore compliance within five business days, unless PRIM consents in writing to delay. Schedule B establishes a tiered annual fee based on average managed assets, calculated quarterly from custodian month-end values and adjusted for contribution and withdrawal timing. Fees are paid quarterly in arrears upon invoice. On termination, fees use available quarter-end and termination-date values and are prorated for days managed."
+            },
+            {
+              "title": "Schedule C: Manager Compliance Report [Manager] Account: ___________________________",
+              "node_id": "0084",
+              "start_index": 77,
+              "end_index": 78,
+              "summary": "Schedule C is the Manager Compliance Report and certification under the Investment Management Agreement between Massachusetts PRIM, as trustee of PRIT, and the Manager; it includes a blank Manager account field and incorporates the Agreement’s defined terms. “Applicable Legislation” covers specified Massachusetts statutes from 2007, 2010, and 2022 and M.G.L. Chapter 32, Section 23, and may be updated by PRIM with notice. As soon as practicable after each calendar quarter, in addition to Agreement Paragraph 7 requirements, the Manager must certify it has not deviated from Schedule A investment guidelines or Applicable Legislation. If unable to certify either, it must provide PRIM a detailed written explanation. The document also lists PRIM’s website, Boston address, phone number, and identifies the Pension Reserves Investment Management Board."
+            },
+            {
+              "title": "Schedule D: Monthly Reconciliation Procedure Report [Manager] Account: ___________________________",
+              "node_id": "0085",
+              "start_index": 78,
+              "end_index": 80,
+              "summary": "Schedule D establishes the Manager’s monthly Account reconciliation duties under the Investment Management Agreement. The Manager must submit reconciliation data through the Custodian’s GRX tool according to Attachment 1’s timetable, reconcile its own books against the Custodian’s, and report material differences. Completion requires matching security CUSIPs and share counts; comparing and challenging prices outside internal tolerances; reconciling income, cash, and pending trades/FX; recording methodology differences; resolving discrepancies within 0.15%; and updating records. Attachment 2 describes valuation methodologies; the Custodian’s method governs conflicts, and persistent differences beyond tolerance may require review. After accounting reconciliation, the Manager must email Attachment 3’s performance comparison to the Custodian, which will investigate excessive return differences. The Manager must install and use the Custodian’s online system, contact its investment manager services team if needed, and provide PRIM’s Custodian client-service officer with its reconciliation staff names, roles, and phone numbers. Manager fee payment depends on compliance."
+            },
+            {
+              "title": "ATTACHMENT 1",
+              "node_id": "0086",
+              "start_index": 80,
+              "end_index": 81,
+              "summary": "Attachment 1 sets out PRIM’s monthly reconciliation schedule for public markets investment managers: on the second business day, the Custodian sends preliminary NAV data (available online the morning of the third); on the third, managers begin preliminary NAV reconciliation; by the fifth, they submit preliminary reconciliations through the online system; on the seventh, managers and the Custodian resolve discrepancies and managers return Attachment 3, the Monthly Performance Report; on the tenth, the Custodian confirms accounts and information are final and available on Nexen; on the eleventh, final performance reconciliation is completed and managers email PRIM confirming the account reconciliation and performance report are complete; and on the twelfth, the Custodian issues final performance reports. The document also lists mapension.com, a Boston mailing address, a phone number, and the Pension Reserves Investment Management Board."
+            },
+            {
+              "title": "ATTACHMENT 2",
+              "node_id": "0087",
+              "start_index": 81,
+              "end_index": 81,
+              "summary": "ATTACHMENT 2"
+            },
+            {
+              "title": "METHODOLOGY DIFFERENCES",
+              "node_id": "0088",
+              "start_index": 81,
+              "end_index": 82,
+              "key_items": [
+                "I. Pricing; V. Posting of dividends and interest",
+                "I. Pricing",
+                "V. Posting of dividends and interest",
+                "VI. Computation of realized gain and loss."
+              ],
+              "summary": "The document outlines custody methodology differences: pricing questions go to PRIM’s client service officer; the Custodian accrues bond interest without amortization, records holdings on trade date, uses month-end RT12 Reuters exchange rates for non-dollar securities, records dividends and interest on ex-date and accrues fixed-income interest daily, and calculates realized gains or losses using each security’s average cost. It also includes a monthly performance information form for the Custodian, with contact and fund details; prior- and current-month market values, net cash flows, fees, gross and net returns; current-month and year-to-date investment results; and comments on major flows or corrections. The completed form must reach the Custodian by the end of the seventh business day after month-end for reconciliation. PRIM contact details are provided."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

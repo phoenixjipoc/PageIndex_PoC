@@ -1,0 +1,15 @@
+{
+  "question_id": "CONS-04",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "f11e6a015437cc2f9d8fa29c38231684b7f7b04a3dc87527581117d4d2c13c0f",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct approximately $12bn portfolio.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:43.990137+00:00"
+}

@@ -1,0 +1,149 @@
+{
+  "id": "DDQ-07",
+  "question": "How many fund diligence topics does the ILPA Due Diligence Questionnaire 2.0 (2021) list in its Overview, and what is the last one?",
+  "type": "pair_b",
+  "pair_id": "P6",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:15:04.703062+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The Overview lists **20 fund diligence topics**. The last is **Diversity, Equity and Inclusion**. Source: *ILPA Due Diligence Questionnaire 2.0* (2021), p. 3.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 39039,
+    "input_tokens_details": {
+      "cached_tokens": 28032,
+      "cache_write_tokens": 10989
+    },
+    "output_tokens": 199,
+    "output_tokens_details": {
+      "reasoning_tokens": 11
+    },
+    "total_tokens": 39238,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1222,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1219
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1237
+      },
+      {
+        "input_tokens": 2388,
+        "input_tokens_details": {
+          "cached_tokens": 1219,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 2424
+      },
+      {
+        "input_tokens": 7627,
+        "input_tokens_details": {
+          "cached_tokens": 2385,
+          "cache_write_tokens": 5239
+        },
+        "output_tokens": 30,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7657
+      },
+      {
+        "input_tokens": 7899,
+        "input_tokens_details": {
+          "cached_tokens": 7624,
+          "cache_write_tokens": 272
+        },
+        "output_tokens": 31,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7930
+      },
+      {
+        "input_tokens": 8911,
+        "input_tokens_details": {
+          "cached_tokens": 7896,
+          "cache_write_tokens": 1012
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 8948
+      },
+      {
+        "input_tokens": 10992,
+        "input_tokens_details": {
+          "cached_tokens": 8908,
+          "cache_write_tokens": 2081
+        },
+        "output_tokens": 50,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 11042
+      }
+    ]
+  },
+  "elapsed_seconds": 13.582,
+  "finished_at_utc": "2026-10-27T09:15:18.289678+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 39039,
+    "output_tokens": 199,
+    "cached_input_tokens": 28032,
+    "cache_write_tokens": 10989,
+    "reasoning_tokens": 11,
+    "total_tokens": 39238
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\",\"pages\":\"3-4\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "ILPA__ILPA-DDQ-2.0.pdf",
+      "pages": "3-4",
+      "success": true,
+      "call_id": "call_voZVLjtvAKmIzrQIGhPOAcgd"
+    }
+  ],
+  "successfully_read_documents": [
+    "ILPA__ILPA-DDQ-2.0.pdf"
+  ]
+}

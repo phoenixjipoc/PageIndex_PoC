@@ -1,0 +1,149 @@
+{
+  "id": "INV-07",
+  "question": "In the published questions and answers for a city's pension fund consulting RFP, the city says it sent the RFP to 21 firms and last ran such a search in 2013. What does the plan currently pay for advisory services on its equities and for management of its fixed income?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:16:09.491664+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The City of Creve Coeur says the plan pays **$20,000 per year** for advisory services on its equities, which make up about 70% of plan funds. For fixed-income management, which covers the other 30%, it pays **0.30% on the first $10 million, 0.20% on the next $40 million, and 0.15% on the remaining balance**. fileciteCreve_Coeur_MO__Questions-and-Answers-from-RFP-for-Pension-Consulting-Services.pdf",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 41883,
+    "input_tokens_details": {
+      "cached_tokens": 30899,
+      "cache_write_tokens": 10966
+    },
+    "output_tokens": 300,
+    "output_tokens_details": {
+      "reasoning_tokens": 22
+    },
+    "total_tokens": 42183,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1246,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1243
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1261
+      },
+      {
+        "input_tokens": 2412,
+        "input_tokens_details": {
+          "cached_tokens": 1243,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 47,
+        "output_tokens_details": {
+          "reasoning_tokens": 22
+        },
+        "total_tokens": 2459
+      },
+      {
+        "input_tokens": 7662,
+        "input_tokens_details": {
+          "cached_tokens": 2409,
+          "cache_write_tokens": 5250
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7685
+      },
+      {
+        "input_tokens": 9650,
+        "input_tokens_details": {
+          "cached_tokens": 7659,
+          "cache_write_tokens": 1988
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9692
+      },
+      {
+        "input_tokens": 9944,
+        "input_tokens_details": {
+          "cached_tokens": 9647,
+          "cache_write_tokens": 294
+        },
+        "output_tokens": 47,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9991
+      },
+      {
+        "input_tokens": 10969,
+        "input_tokens_details": {
+          "cached_tokens": 9941,
+          "cache_write_tokens": 1025
+        },
+        "output_tokens": 126,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 11095
+      }
+    ]
+  },
+  "elapsed_seconds": 14.156,
+  "finished_at_utc": "2026-10-27T09:16:23.657826+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 41883,
+    "output_tokens": 300,
+    "cached_input_tokens": 30899,
+    "cache_write_tokens": 10966,
+    "reasoning_tokens": 22,
+    "total_tokens": 42183
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":60}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Creve_Coeur_MO__Questions-and-Answers-from-RFP-for-Pension-Consulting-Services.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Creve_Coeur_MO__Questions-and-Answers-from-RFP-for-Pension-Consulting-Services.pdf\",\"pages\":\"1\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Creve_Coeur_MO__Questions-and-Answers-from-RFP-for-Pension-Consulting-Services.pdf",
+      "pages": "1",
+      "success": true,
+      "call_id": "call_qXTrhEuEjisJXb8hE0GfzBnV"
+    }
+  ],
+  "successfully_read_documents": [
+    "Creve_Coeur_MO__Questions-and-Answers-from-RFP-for-Pension-Consulting-Services.pdf"
+  ]
+}

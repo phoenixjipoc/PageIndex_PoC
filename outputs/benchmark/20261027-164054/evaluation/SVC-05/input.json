@@ -1,0 +1,7 @@
+{
+  "question": "In the Indiana Public Retirement System (INPRS) RFP 24-05 for audit services, which firm has provided INPRS's external audit services and since when, and what limit does INPRS's procurement policy place on contract length?",
+  "gold_answer": "RSM has provided external audit services since 2014. The procurement policy in the INPRS Board Governance Manual limits contract length to 10 years and requires new bids at least every 10 years. (Before 2014 the Indiana State Board of Accounts performed the audits.)",
+  "acceptance": "RSM, since 2014, ten-year maximum and rebidding at least every ten years. Prior SBOA history is optional.",
+  "scope": "single_document",
+  "candidate_answer": "RSM has provided INPRS’s external audit services since 2014. INPRS’s procurement policy limits contracts to **10 years** and requires new bids to be solicited at least every 10 years. [Source: INPRS RFP 24-05, p. 4](INPRS__RFP24-05_AuditServices.pdf#page=4)"
+}

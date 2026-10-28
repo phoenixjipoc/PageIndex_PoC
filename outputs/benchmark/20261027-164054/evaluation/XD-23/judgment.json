@@ -1,0 +1,15 @@
+{
+  "question_id": "XD-23",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "85001933cd987540ac6e1ba5b59e306615a4be1d62850f9a8660e392fa9f1a5f",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correctly limits the unavailable deadline claim to the supplied library without substituting another issuer.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:37.356803+00:00"
+}

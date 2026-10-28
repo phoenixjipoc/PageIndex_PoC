@@ -1,0 +1,149 @@
+{
+  "id": "SVC-02",
+  "question": "In the American Academy of Actuaries' 2011 RFP for retirement plan and related consulting services, what were the plan assets at 12/31/10 of each of its three retirement plans?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:19:10.198136+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The American Academy of Actuaries’ RFP lists these plan assets as of December 31, 2010:\n\n| Retirement plan | Plan assets |\n|---|---:|\n| Money purchase pension plan | $3,015,682 |\n| 401(k) profit-sharing plan | $1,993,513 |\n| Defined benefit plan | $647,181 |\n\n[Source: 2011 RFP, p. 2](American_Academy_of_Actuaries__RFP__AmericanAcademyofActuaries_RetirementPlanService_110512.pdf#page=2)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 42874,
+    "input_tokens_details": {
+      "cached_tokens": 30805,
+      "cache_write_tokens": 12051
+    },
+    "output_tokens": 306,
+    "output_tokens_details": {
+      "reasoning_tokens": 11
+    },
+    "total_tokens": 43180,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1230,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1227
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1245
+      },
+      {
+        "input_tokens": 2396,
+        "input_tokens_details": {
+          "cached_tokens": 1227,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 2432
+      },
+      {
+        "input_tokens": 7635,
+        "input_tokens_details": {
+          "cached_tokens": 2393,
+          "cache_write_tokens": 5239
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7658
+      },
+      {
+        "input_tokens": 9623,
+        "input_tokens_details": {
+          "cached_tokens": 7632,
+          "cache_write_tokens": 1988
+        },
+        "output_tokens": 48,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9671
+      },
+      {
+        "input_tokens": 9936,
+        "input_tokens_details": {
+          "cached_tokens": 9620,
+          "cache_write_tokens": 313
+        },
+        "output_tokens": 55,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9991
+      },
+      {
+        "input_tokens": 12054,
+        "input_tokens_details": {
+          "cached_tokens": 9933,
+          "cache_write_tokens": 2118
+        },
+        "output_tokens": 129,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 12183
+      }
+    ]
+  },
+  "elapsed_seconds": 12.789,
+  "finished_at_utc": "2026-10-27T09:19:22.991140+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 42874,
+    "output_tokens": 306,
+    "cached_input_tokens": 30805,
+    "cache_write_tokens": 12051,
+    "reasoning_tokens": 11,
+    "total_tokens": 43180
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":60}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"American_Academy_of_Actuaries__RFP__AmericanAcademyofActuaries_RetirementPlanService_110512.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"American_Academy_of_Actuaries__RFP__AmericanAcademyofActuaries_RetirementPlanService_110512.pdf\",\"pages\":\"1-3\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "American_Academy_of_Actuaries__RFP__AmericanAcademyofActuaries_RetirementPlanService_110512.pdf",
+      "pages": "1-3",
+      "success": true,
+      "call_id": "call_3939K0sSbf1Iy2SKqRSdjCVm"
+    }
+  ],
+  "successfully_read_documents": [
+    "American_Academy_of_Actuaries__RFP__AmericanAcademyofActuaries_RetirementPlanService_110512.pdf"
+  ]
+}

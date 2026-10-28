@@ -1,0 +1,597 @@
+{
+  "doc_id": "pi-a862c842bdd94281a8aaa2b48ed34f20",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 3,
+      "summary": "The City of Austin Employees’ Retirement System (COAERS) issued a June 26, 2025 RFP for actuarial services for its defined benefit plan using an Actuarially Determined Contribution (ADC) rate. Key dates: questions due July 16; pre-proposal conference July 24; proposals due July 30; bid opening July 31; finalist review November 13, 2025 (time TBD). Inquiries and proposals go to rfp@coaers.org; contact Russell Nash, Deputy Executive Director. The RFP covers COAERS’ funding approach, ADC and contribution corridors, liability schedules, investments, experience studies, and assumptions; core services including annual valuations, GASB reporting, QEBA allocation, member-account interest recommendations, financial-statement assistance, studies, and deadlines; and contract terms, including performance, termination, confidentiality, insurance, liability, records, audits, conflicts, and legal requirements. It also sets proposal schedules, registration, submission and format rules, evaluation and selection procedures, and includes submission, conflict, contact, trade-secret, staff, firm, scope, cost, and proposal-format exhibits and a checklist."
+    },
+    {
+      "title": "INTRODUCTION",
+      "node_id": "0001",
+      "start_index": 4,
+      "end_index": 6,
+      "key_items": [
+        "Purpose; Term of the Engagement",
+        "Purpose",
+        "Term of the Engagement",
+        "How to Find Important Documents Related to this RFP",
+        "INTRODUCTION; Purpose",
+        "INTRODUCTION",
+        "Purpose",
+        "Term of the Engagement",
+        "Timeline for Submitting a Proposal; Pre-Proposal Conference; Bid Opening; Presentations to COAERS",
+        "Timeline for Submitting a Proposal",
+        "Pre-Proposal Conference",
+        "Bid Opening",
+        "Presentations to COAERS",
+        "Prohibited Communications/No Contact Period",
+        "Timeline for Submitting a Proposal; Pre-Proposal Conference; Bid Opening",
+        "Timeline for Submitting a Proposal",
+        "Pre-Proposal Conference",
+        "Bid Opening",
+        "Presentations to COAERS"
+      ],
+      "summary": "COAERS seeks proposals from qualified firms adhering to the American Academy of Actuaries’ Code of Professional Conduct for full-scope actuarial services. The intended agreement is a five-year Master Services Agreement covering calendar years 2026–2030, with annual engagement letters due by October 1 before each year. RFP materials—including registration, actuarial reports and data, policies, sample letters/reports, funding information, and statutes—are available at coaers.org/RFP. Questions are due to Russell Nash at rfp@coaers.org by 5 p.m. Central July 16, 2025; written responses follow the optional virtual pre-proposal conference at noon July 24. Proposals are due by 5 p.m. July 30; a virtual public bid opening is July 31 at noon, when firm names will be read. Selected respondents may be asked to give a no-cost, approximately 90-minute presentation in Austin. Until selection, respondents may contact only the designated email, not listed Board members, except through Board/Committee meetings or existing business relationships; violations may disqualify firms."
+    },
+    {
+      "title": "ADMINISTRATIVE MATTERS",
+      "node_id": "0002",
+      "start_index": 6,
+      "end_index": 9,
+      "summary": "COAERS is a single-employer governmental defined-benefit retirement system established by City ordinance in 1941, governed by Texas law since 1991, and qualified under IRC Section 401(a). Its 11-member Board oversees operations for members and beneficiaries. Participating employers are the City of Austin (over 17,000 active/deferred members and 7,100 retirees) and COAERS staff (38 active/deferred members and 13 retirees). The Board selects the actuary, who values assets and liabilities and calculates employer contributions under Texas Civil Statutes Article 6243n; the Benefits and Services Committee oversees valuations and studies. COAERS staff and its audit and investment consultants support administration; the City administers OPEB. The calendar-year ACFR includes financial statements, management discussion, schedules, and actuarial studies and reports, including GASB 67; the actuary also prepares the City’s GASB 68 report. COAERS has no component units and belongs to no other reporting entity. Its office is at 4700 Mueller Boulevard, Austin. Microsoft Dynamics GP supports accounting and reporting; PensionGold 3 manages pension records, claims, and payroll.",
+      "nodes": [
+        {
+          "title": "COAERS Administration and Participating Employers",
+          "node_id": "0003",
+          "start_index": 6,
+          "end_index": 6,
+          "key_items": [
+            "Type of Entity",
+            "Participating Employers"
+          ],
+          "summary": "COAERS is a single-employer governmental defined-benefit retirement system established by City ordinance in 1941, governed by Texas statute since 1991, and qualified under Internal Revenue Code Section 401(a). Its 11-member Board of Trustees—comprising City officials, employees, retirees, and citizens—oversees system administration and operations for members and beneficiaries. Two employers participate: the City of Austin, with over 17,000 active and deferred members and 7,100 retirees, and COAERS staff, with 38 active and deferred members and 13 retirees."
+        },
+        {
+          "title": "Authority for Actuarial Services",
+          "node_id": "0004",
+          "start_index": 6,
+          "end_index": 7,
+          "key_items": [
+            "ADMINISTRATIVE MATTERS",
+            "Type of Entity"
+          ],
+          "summary": "The COAERS Board of Trustees selects the actuary, who advises on fund operations (but is not an investment adviser or fiduciary) and values fund assets and liabilities. COAERS uses an actuarially determined contribution plan: the actuary forecasts normal cost, adjusted for administrative expenses and post-2022 liability layers, and subtracts employee contributions to calculate the employer rate; requirements are in Texas Civil Statutes Article 6243n. The Board’s Benefits and Services Committee oversees actuarial valuations, experience studies, and special analyses. Key staff are Executive Director Christopher Hanson, Deputy Executive Director Russell Nash, Chief Benefits Officer Teresa Cantu, CFO Yun Quintanilla, Controller Candace Nolte, and CIO David Kushner. CliftonLarsonAllen provides audit services (Bhakti Patel); Meketa provides investment consulting (Leo Festino). The City of Austin administers members’ OPEB. The fiscal year is January 1–December 31. Staff prepare the annual ACFR; it includes the actuary’s Risk Sharing Valuation Study and GASB 67 report, while the actuary also prepares a GASB 68 report for the City. COAERS has no component units and is not part of another reporting entity. Its administrative office is at 4700 Mueller Boulevard, Austin, Texas."
+        },
+        {
+          "title": "COAERS Governance, Contacts, and Financial Reporting",
+          "node_id": "0005",
+          "start_index": 7,
+          "end_index": 7,
+          "key_items": [
+            "Key Staff, Audit, and Investment Contacts",
+            "OPEB Responsibilities",
+            "Fiscal Year",
+            "Annual Comprehensive Financial Report"
+          ],
+          "summary": "The Board’s Benefits and Services Committee supports fiduciary oversight of actuarial valuations, experience studies, and other actuarial analyses. Key staff include the executive and deputy executive directors, benefits and finance leaders, controller, and investment chief. CliftonLarsonAllen provides audit services, with Bhakti Patel as contact; Meketa Investment Group provides investment consulting, with Leo Festino as contact. COAERS does not administer OPEB; the City of Austin, Texas, does. The fiscal year runs January 1–December 31. COAERS staff prepare the annual ACFR’s financial statements, management discussion and analysis, notes, and schedules; it includes the actuary’s Risk Sharing Valuation Study. The actuary also prepares GASB 67 and GASB 68 reports. COAERS has no component units and is neither part of another GASB reporting entity nor a component unit of another entity."
+        },
+        {
+          "title": "Locations",
+          "node_id": "0006",
+          "start_index": 7,
+          "end_index": 8,
+          "key_items": [
+            "Key Staff, Audit, and Investment Contacts; OPEB Responsibilities; Fiscal Year",
+            "Key Staff, Audit, and Investment Contacts",
+            "OPEB Responsibilities",
+            "Fiscal Year",
+            "Annual Comprehensive Financial Report"
+          ],
+          "summary": "Locations\nCOAERS’ administrative office is located at 4700 Mueller Boulevard in Austin Texas.\n7"
+        },
+        {
+          "title": "Financial Computer Systems/Applications",
+          "node_id": "0007",
+          "start_index": 8,
+          "end_index": 9,
+          "summary": "Financial Computer Systems/Applications\nMicrosoft Dynamics GP (Great Plains) is the accounting application used by COAERS to track all general ledger activity, produce financial statements, and create reports. PensionGold Version 3, a product of Levi, Ray, and Shoup, is the pension administration application used for actuarial census data, participant recordkeeping, benefit claims, and benefits payroll.\n8"
+        }
+      ]
+    },
+    {
+      "title": "SECTION ONE - FUNDING APPROACH",
+      "node_id": "0008",
+      "start_index": 9,
+      "end_index": 14,
+      "summary": "COAERS funds long-term pension obligations through an actuarially determined contribution (ADC): Entry Age Normal normal cost, a 0.70%-of-pay administrative expense assumption, and amortized gain/loss layers, less employee contributions, determine the employer rate. Annual valuations and Risk Sharing Valuation Studies guide rates; a corridor has minimum, midpoint, and maximum rates 5% of pay apart. If the ADC exceeds the maximum, employee contributions may rise from 10% by up to 2%; further shortfalls prompt funding discussions. Below the midpoint with funding under 90%, the employer rate remains at the midpoint. For 2024–2026, minimum/midpoint/maximum rates are 3.68/8.68/13.68%, 2.44/7.44/12.44%, and 2.21/7.21/12.21%; ADCs are 8.68%, 8.47%, and 10.05%. The section covers corridor projections through 2053, post-2022 amortization layers, and the City’s separate Legacy Liability payment schedule. It describes $3.5 billion in investments, allocation and oversight, five-year experience studies, and 2024 assumptions: 2.5% inflation, 6.75% return, 1.25% wage inflation, 3.75% ultimate salary scale, 3.5% payroll growth, and specified mortality assumptions.",
+      "nodes": [
+        {
+          "title": "1.1 Funding Approach in General",
+          "node_id": "0009",
+          "start_index": 9,
+          "end_index": 9,
+          "summary": "COAERS uses an actuarially determined contribution (ADC) approach: the actuary calculates normal cost as a percentage of pay, including administrative expenses and post-2022 gain/loss amortization layers, forecasts the next year’s cost, and subtracts employee contributions to determine the employer rate. Employers must also make scheduled Legacy Liability payments to retire the UAAL. The funding objective is to meet long-term pension obligations. Policies include paying off the UAAL over a closed 30-year period; conducting annual actuarial valuations, including Risk Sharing Valuation Studies, to set upcoming employer rates; monitoring rates against a corridor midpoint; increasing employee contributions, up to a 2% maximum, if the employer ADC exceeds the midpoint by more than 5% of pay, and discussing plan changes if employer and employee maximums are exceeded; and conducting experience studies at least every five years to review assumptions and methods. The latest study was as of December 31, 2024."
+        },
+        {
+          "title": "1.2 Actuarial Determined Contribution",
+          "node_id": "0010",
+          "start_index": 9,
+          "end_index": 10,
+          "key_items": [
+            "SECTION ONE - FUNDING APPROACH",
+            "1.1 Funding Approach in General"
+          ],
+          "summary": "COAERS uses an actuarially determined contribution (ADC), consisting of normal cost, a 0.70%-of-pay administrative expense assumption, and amortized liability layers for actuarial gains or losses. Normal cost for each benefit component is calculated using the Entry Age Normal method. Liability layers established for 2023 and 2024 will continue to be calculated annually: losses increase the contribution and gains reduce it. The actuary projects the coming year’s normal cost and subtracts the employee contribution to determine the employer rate. A Risk Sharing Valuation Study as of December 31, 2022 set a contribution corridor with a midpoint based on the expected employer-rate trajectory and minimum and maximum rates 5% of pay below and above it. If the ADC exceeds the maximum, employee contributions must rise from the current 10%, by up to 2% of payroll. If that is insufficient, COAERS and Austin must discuss a funding and expense plan. If the ADC falls below the midpoint while the funded ratio is under 90%, the employer rate stays at the midpoint."
+        },
+        {
+          "title": "1.3 Contribution Rate Corridor & ADC 2024 - 2026",
+          "node_id": "0011",
+          "start_index": 10,
+          "end_index": 11,
+          "summary": "The text presents the 2024–2026 contribution rate corridors: minimums of 3.68%, 2.44%, and 2.21%; midpoints of 8.68%, 7.44%, and 7.21%; maximums of 13.68%, 12.44%, and 12.21%; and ADC rates of 8.68%, 8.47%, and 10.05%, respectively. It also references corridor midpoint, maximum, and minimum projections through 2053. Gains and losses after 2022 create new normal-cost amortization layers, initially using the Legacy Liability’s remaining period; once that period falls below 20 years, new layers use a closed 20-year period. A 2022 actuarial valuation established additional annual City payments to retire the unfunded liability; the full schedule is available at coaers.org/RFP. As of March 31, 2025, COAERS investments totaled $3.5 billion. The Board adopted a diversified, long-term, risk-adjusted strategic allocation, with private-market investments expected to take time to reach target levels."
+        },
+        {
+          "title": "1.4 Contribution Rate Corridor Midpoints, Maximums, and Minimums 2024 to 2053; 1.5 Normal Cost Layers for Gains/Losses After 2022; 1.6 Legacy Liability Payment Schedule",
+          "node_id": "0012",
+          "start_index": 11,
+          "end_index": 11,
+          "key_items": [
+            "1.4 Contribution Rate Corridor Midpoints, Maximums, and Minimums 2024 to 2053",
+            "1.5 Normal Cost Layers for Gains/Losses After 2022",
+            "1.6 Legacy Liability Payment Schedule"
+          ],
+          "summary": "1.4 Contribution Rate Corridor Midpoints, Maximums, and Minimums 2024 to 2053\n1.5 Normal Cost Layers for Gains/Losses After 2022\nGains and losses realized after 2022, create new amortization layers adjusting the normal cost and have the same amortization period as the Legacy Liability until the remaining period for the Legacy Liability is less than 20 years. When the remaining amortization period of the Legacy Liability is less than 20 years, new layers will be amortized over a closed 20-year period.\n1.6 Legacy Liability Payment Schedule\nThe RSVS performed as of December 31, 2022 created a Legacy Liability amortization schedule which establishes the payments the City of Austin is to contribute in addition to the ADC each year to retire the unfunded actuarial accrued liability. The entire schedule of Legacy Liability payments can be found at www.coaers.org/RFP."
+        },
+        {
+          "title": "1.7 Investments",
+          "node_id": "0013",
+          "start_index": 11,
+          "end_index": 12,
+          "key_items": [
+            "1.4 Contribution Rate Corridor Midpoints, Maximums, and Minimums 2024 to 2053; 1.5 Normal Cost Layers for Gains/Losses After 2022",
+            "1.4 Contribution Rate Corridor Midpoints, Maximums, and Minimums 2024 to 2053",
+            "1.5 Normal Cost Layers for Gains/Losses After 2022",
+            "1.6 Legacy Liability Payment Schedule"
+          ],
+          "summary": "As of March 31, 2025, COAERS held $3.5 billion in investments. The Board adopted a diversified strategic asset allocation across global equities, private equity, real assets, private credit, fixed income, and cash, designed to support strong long-term, risk-adjusted returns; implementing the private-market components will take time. Investments are managed prudently and solely to provide member and beneficiary benefits and pay reasonable administrative expenses. The Board’s Investment Policy Statement and guidelines govern the program, supported by an Investment Committee that researches, recommends, and monitors portfolio matters. Meketa Investment Group provides investment consulting, while four COAERS professionals oversee daily implementation."
+        },
+        {
+          "title": "1.8 Experience Studies",
+          "node_id": "0014",
+          "start_index": 12,
+          "end_index": 12,
+          "summary": "1.8 Experience Studies\nCOAERS believes that a periodic review of our actuarial assumptions is crucial to understanding and managing the cost of the benefits promised to members of COAERS. The use of outdated or inappropriate assumptions can result in understated costs which will lead to higher future contribution rates; or overstated costs which place an unnecessary financial burden on the City of Austin and its employees. Accordingly, COAERS conducts experience studies every five years. During each experience study, each assumption is reviewed and compared to the actual experience of the plan with consideration of adding in a slight margin for adverse experience. Then the assumptions, as a whole, are reviewed for reasonableness and consistency. COAERS recently reviewed its actuarial assumptions based on census data as of December 31, 2024. Certain key assumptions are listed below. A full discussion of the assumptions can be found in the Experience Study Report at www.coaers/RFP."
+        },
+        {
+          "title": "1.9 Key Actuarial Assumptions",
+          "node_id": "0015",
+          "start_index": 12,
+          "end_index": 14,
+          "key_items": [
+            "1.8 Experience Studies"
+          ],
+          "summary": "1.9 Key Actuarial Assumptions\nBelow are key actuarial assumptions used in the RSVS as of December 31, 2024.\nPrice inflation Investment return\nWage inflation component of the salary scale Ultimate salary scale assumption Payroll growth assumption\n2.50%\n6.75% comprised of 2.50% inflation and 4.25% real return net of investment-related expenses 1.25%\n3.75% 50 basis point increases to the service-based rates 3.50%\n12Administrative expense Base mortality\nMortality Improvement\n0.70% of payroll Healthy retiree mortality tables published in the Pub-2010 Public Retirement Plans Mortality Tables Report for general employees (PubG-2010). Ultimate mortality rates of the most recently published MP table MP-2021\n13"
+        }
+      ]
+    },
+    {
+      "title": "SECTION TWO – CORE SCOPE OF SERVICES",
+      "node_id": "0016",
+      "start_index": 14,
+      "end_index": 18,
+      "summary": "Respondents must quote an annual fixed price for core services over the five-year term; other work is priced through annual engagement letters. Services require direct supervision and approval by an identified actuary with at least 10 years’ experience and qualifying SOA/AAA credentials. Annual work includes valuations using specified cost, asset-smoothing, and amortization methods; a Risk Sharing Valuation Study; secure census-data review and reconciliation; required actuarial/GASB tables and reporting; one Austin committee presentation; requested IRC §415(b)/QEBA calculations (up to 50 people over the term); and a Board interest-crediting-rate recommendation. The contractor also provides the auditor an annual investment-assumption memo and independence letter, conducts an experience study by 2029 with recommendations and implementation support for specified benefit calculations, and assists with an asset/liability study before 2030. Deadlines are specified for annual and periodic deliverables, presentations, and reports, generally by 5 p.m. Central on the last business day of the designated week; asset/liability assistance timing is to be determined.",
+      "nodes": [
+        {
+          "title": "2.1 Personnel",
+          "node_id": "0017",
+          "start_index": 14,
+          "end_index": 14,
+          "summary": "SECTION TWO – CORE SCOPE OF SERVICES\nRespondents will use Exhibit H to provide an annual fixed price for the core scope of services as described in this section for each year of the five-year term. All other services provided will be priced as agreed to by COAERS by an annual Engagement Letter at the time of the request during the contract.\n2.1 Personnel\nAll services provided for the scope of services described herein must be performed under the direct supervision of a Supervising Actuary who have been regularly engaged in the business of providing actuarial services for at least 10 years and must have the designation of either an Associate or Fellow of the Society of Actuaries and/or Member of the American Academy of Actuaries. The Supervising Actuary must approve all the work provided to COAERS. The Respondent will identify the Supervising Actuary in its response."
+        },
+        {
+          "title": "2.2 Annual Actuarial Valuation (Including a Risk Sharing Valuation Study)",
+          "node_id": "0018",
+          "start_index": 14,
+          "end_index": 15,
+          "key_items": [
+            "SECTION TWO – CORE SCOPE OF SERVICES",
+            "2.1 Personnel"
+          ],
+          "summary": "The annual actuarial valuation uses Entry Age Normal cost, five-year asset smoothing (recognizing 20% of investment gains/losses annually, with offsetting unrecognized amounts immediately recognized), and declining 30-year amortization to 20 years, then closed 20-year layers. Funding period is the weighted average of layers; negative amortization is to be eliminated as soon as possible but is expected until the legacy liability schedule reaches 20 years. The Risk Sharing Valuation Study includes an executive summary and discussion of contribution corridors and rates, legacy liabilities/payments, gain/loss layers, funded status, asset changes, actuarial gains/losses, risk disclosures, methods and assumptions, tables, definitions, and applicable actuarial/GASB requirements. The contractor securely receives, reviews, tests, reconciles, and discloses census-data issues and provides one annual in-person Austin presentation. Annual GASB 67 plan schedules and GASB 68 City financial information are due April 15; neither requires a presentation. On request, QEBA calculations determine IRC §415(b) limits and benefit allocations, estimated for up to 50 people over the contract. Each year, the contractor recommends member-account interest rates to the Board in a letter."
+        },
+        {
+          "title": "Actuarial Reporting, Data Preparation, and QEBA Services",
+          "node_id": "0019",
+          "start_index": 15,
+          "end_index": 15,
+          "key_items": [
+            "2.3 Annual GASB No. 67 Reporting and Accounting Information",
+            "2.4 Annual GASB No. 68 Financial Reporting Information for the City of Austin Texas",
+            "2.5 Annual QEBA Allocation"
+          ],
+          "summary": "The contractor must provide specified actuarial and statistical tables, definitions, and other materials required by actuarial standards or GASB. Before valuations, it must securely receive, review, test, and reconcile COAERS census data, disclose irregularities and any changes in categorization, and use the existing file formats. It must give one annual in-person presentation in Austin to the Benefits & Services Committee on the actuarial and Risk Sharing Valuations. Annual GASB 67 plan reporting schedules and GASB 68 financial reporting information for the City of Austin, meeting Attachment 2 minimum content, are due by April 15; neither requires a presentation. Upon request, the contractor will calculate IRC §415(b) limits and allocate annuitant benefits between the Plan Trust and QEBA, for an estimated maximum of 50 people over the contract (currently 13); no presentation is required."
+        },
+        {
+          "title": "2.6 Annual Interest Rate Credited to Member Accounts Recommendation",
+          "node_id": "0020",
+          "start_index": 15,
+          "end_index": 16,
+          "key_items": [
+            "2.3 Annual GASB No. 67 Reporting and Accounting Information; 2.4 Annual GASB No. 68 Financial Reporting Information for the City of Austin Texas",
+            "2.3 Annual GASB No. 67 Reporting and Accounting Information",
+            "2.4 Annual GASB No. 68 Financial Reporting Information for the City of Austin Texas",
+            "2.5 Annual QEBA Allocation"
+          ],
+          "summary": "The contractor will annually recommend an interest crediting rate to the Board of Trustees using Attachment 12, Board Policy I-3, with no travel or presentation. Annually, it will provide COAERS’ financial statement auditor an investment-return-assumption reasonableness memo and a letter certifying specified information and describing the contractor’s independence; no travel or presentation is required. By December 31, 2029, at least once, it will conduct an experience study of current assumptions and methods against recent experience, recommend appropriate changes, and report findings and methodological recommendations in accordance with accepted actuarial principles and applicable standards. It will assess administrative impacts and provide implementation information, calculations, or actuarial-equivalence approaches for specified service-purchase, lump-sum, retirement-factor, tax-limit, and returned-to-work benefit calculations. It must travel to Austin for separate presentations to the Benefits & Services Committee and full Board. Before December 31, 2030, it will at least once assist the investment consultant with an asset/liability study by supplying projections of assets, liabilities, funded status, benefit payments, and liquidity needs; no travel or presentation is required."
+        },
+        {
+          "title": "Actuarial Assistance and Experience Studies",
+          "node_id": "0021",
+          "start_index": 16,
+          "end_index": 16,
+          "key_items": [
+            "2.7 Annual Financial Statement Actuarial Assistance",
+            "2.8 Periodic Experience Studies"
+          ],
+          "summary": "The contractor will use COAERS’ Board-approved Interest Allocation Determination policy to recommend an interest rate; no travel or formal presentation is required for this work. Annually, it will provide the financial statement auditor an investment return assumption reasonableness memo and a letter certifying specified information and describing independence from COAERS; no travel or presentation is required. At least once by December 31, 2029, it will conduct an experience study reviewing actuarial assumptions and methods against recent experience, recommending appropriate changes under accepted actuarial principles and Actuarial Standards of Practice. A report will present findings and recommendations for each assumption and actuarial methods. The contractor will assess administrative impacts and provide implementation information, calculations, or actuarial-equivalence approaches for service purchases, partial lump sums, early retirement reductions, joint-and-survivor annuities, IRC Section 415 limits, and benefit recalculations for retirees returning to work. It will travel to Austin twice to present to the Benefits & Services Committee and Board of Trustees."
+        },
+        {
+          "title": "2.9 Periodic Asset/Liability Study Assistance",
+          "node_id": "0022",
+          "start_index": 16,
+          "end_index": 17,
+          "key_items": [
+            "2.7 Annual Financial Statement Actuarial Assistance",
+            "2.8 Periodic Experience Studies"
+          ],
+          "summary": "2.9 Periodic Asset/Liability Study Assistance\n(a) Description of the Work. At least once, prior to December 31, 2030, Respondent will provide assistance and information to the COAERS Investment Consultant, in order to perform an Asset/Liability Study. Respondent will provide information necessary to COAERS investment consultant to assist with projections of the plan’s asset and liability values, funded status, benefit payments, and liquidity needs. (b) Travel & Formal Presentation. None.\n16"
+        },
+        {
+          "title": "2.10 Performance Standards - Deadlines for the Completion of Core Services",
+          "node_id": "0023",
+          "start_index": 17,
+          "end_index": 18,
+          "summary": "Section 2.10 sets performance deadlines for annual and periodic deliverables, all due by 5 p.m. Central on the last business day of the stated week. Annual deadlines: COAERS actuarial census data—first week of January; respondent questions/reconciling items—third week of January; QEBA allocation—second week of January; COAERS year-end financial statements—first week of February; actuarial valuation services, including the risk-sharing study—fourth week of February; committee PowerPoint—first week of March; in-person Benefits & Services Committee presentation in Austin—second week of April; final risk-sharing study—first week of April; financial-statement actuarial assistance, GASB 67 reporting/accounting information, and GASB 68 information for the City of Austin—second week of April; interest-rate recommendation letter for member accounts—first week of December. Periodic Experience Study deadlines: committee PowerPoint—fourth week of February 2030; in-person Austin presentation—first week of March 2030; final report—second week of April 2030. Asset/Liability Study assistance is to be determined."
+        }
+      ]
+    },
+    {
+      "title": "SECTION THREE - COAERS TERMS AND CONDITIONS",
+      "node_id": "0024",
+      "start_index": 18,
+      "end_index": 23,
+      "summary": "The section sets a five-year service term (2026–2030), annual Board performance reviews, qualified staffing and notice of personnel changes, and prior approval for subcontractors; specified obligations survive expiration or termination. It covers termination for breach or convenience, cure and notice periods, payment of eligible costs, return and protection of COAERS information, Texas Public Information Act requests, and COAERS ownership and retention of contract work. The contractor must maintain specified insurance and certificates, report coverage changes, and defend and indemnify COAERS for contractor-related claims, including intellectual-property infringement, but not COAERS’ own negligence. Texas law and Travis County venue apply, without waiver of sovereign immunity; contractor personnel and subcontractors are independent contractors. The section also requires licensing assurances, financial-record retention and access for COAERS audits and the City of Austin actuarial audit, warrants no conflicts or improper gifts or financial interests, addresses required relationship disclosures, and requires compliance with actuarial professional rules.",
+      "nodes": [
+        {
+          "title": "Contract Terms and Conditions",
+          "node_id": "0025",
+          "start_index": 18,
+          "end_index": 18,
+          "key_items": [
+            "3.1 Contract Period",
+            "3.2 Annual Performance Evaluation",
+            "3.3 Personnel",
+            "3.4 Terms That Survive Termination"
+          ],
+          "summary": "The contract terms also apply to subcontractors. The service period runs for five years, January 1, 2026, through December 31, 2030. At least annually, the contractor must send an employee to a Board performance evaluation meeting and, at its own expense, complete a questionnaire beforehand. The contractor must assign qualified personnel; it may substitute equally qualified and skilled key personnel at its reasonable discretion, with written notice to COAERS of proposed changes. COAERS prefers not to use subcontractors, and the contractor must obtain prior written approval from the COAERS Executive Director before a subcontractor provides services. Confidentiality, indemnification, transition, records, actuarial and independent actuarial rights, property rights, dispute resolution, invoice and fee verification, and default provisions survive contract termination or expiration."
+        },
+        {
+          "title": "3.5 Termination",
+          "node_id": "0026",
+          "start_index": 18,
+          "end_index": 19,
+          "key_items": [
+            "SECTION THREE - COAERS TERMS AND CONDITIONS; 3.1 Contract Period; 3.2 Annual Performance Evaluation; 3.3 Personnel",
+            "SECTION THREE - COAERS TERMS AND CONDITIONS",
+            "3.1 Contract Period",
+            "3.2 Annual Performance Evaluation",
+            "3.3 Personnel",
+            "3.4 Terms That Survive Termination"
+          ],
+          "summary": "Either party may terminate for an uncured breach after written notice and a 30-day cure period, or on at least 30 days’ written notice; COAERS may also terminate without cause effective 30 days after notice. Contractor is owed eligible non-cancellable expenses and pro rata payment for services through termination, and must return COAERS information. Contractor must protect COAERS information, including health and legally confidential personal information, while recognizing that records may be subject to the Texas Public Information Act. COAERS will notify Contractor of relevant requests within a reasonable time; Contractor must assist with responses and notify COAERS General Counsel within 24 hours of certain third-party requests. Work produced under the relationship belongs exclusively to COAERS, with rights assigned and assistance provided to perfect them; work must be delivered for retention upon request. Contractor must maintain occurrence-based, primary, non-contributory errors and omissions, general liability, automobile, and workers’ compensation insurance, and provide certificates within 10 business days naming COAERS as additional insured. COAERS insurance is excess and non-contributory."
+        },
+        {
+          "title": "Confidentiality, Public Records, and Work Product",
+          "node_id": "0027",
+          "start_index": 19,
+          "end_index": 19,
+          "key_items": [
+            "3.6 Confidentiality and Open Records",
+            "3.7 Work Made for Hire"
+          ],
+          "summary": "The contractor must protect information received from COAERS, including health, personal, and statutorily confidential information. COAERS remains subject to the Texas Public Information Act, will notify the contractor of relevant information requests within a reasonable time, and decides whether to seek an Attorney General ruling; the contractor must assist with responsive documents and notify COAERS General Counsel within 24 hours of third-party requests for state-provided information. The contract and related data may be public. Work produced under the contract belongs exclusively to COAERS upon creation, is treated as work made for hire, and is irrevocably assigned to COAERS if needed. COAERS may secure intellectual-property protections; the contractor must assist without additional charge and provide work for storage and retention upon request."
+        },
+        {
+          "title": "3.8 Insurance",
+          "node_id": "0028",
+          "start_index": 19,
+          "end_index": 20,
+          "key_items": [
+            "3.6 Confidentiality and Open Records",
+            "3.7 Work Made for Hire"
+          ],
+          "summary": "The contractor must maintain occurrence-based, primary, non-contributory errors and omissions, commercial general liability, automobile liability, and workers’ compensation insurance throughout the agreement. Within 10 business days of signing, it must provide certificates naming COAERS as an additional insured; COAERS coverage is excess and non-contributory. The contractor must report policy changes or cancellations within 30 calendar days and use licensed insurers rated “A” by AM Best. It must defend and indemnify COAERS and related parties against claims arising from contractor-side acts or omissions, but not COAERS’ own negligence. Texas law governs, with venue in Travis County. The contract does not waive COAERS’ sovereign immunity or other protections, including through delay or failure to enforce them. The contractor and its personnel and subcontractors are independent contractors, not COAERS employees; COAERS is not liable to subcontractors, and the contractor remains responsible for compliant services. The contractor must also indemnify COAERS against intellectual-property infringement claims; this provision is incomplete in the provided text."
+        },
+        {
+          "title": "Insurance, Indemnity, Governing Law, Immunity, and Contractor Status",
+          "node_id": "0029",
+          "start_index": 20,
+          "end_index": 20,
+          "key_items": [
+            "3.9 Indemnification",
+            "3.10 Applicable Law and Venue",
+            "3.11 No Waiver of Sovereign Immunity",
+            "3.12 Independent Contractor"
+          ],
+          "summary": "Contractor must notify COAERS within 30 calendar days of a material insurance change or cancellation and maintain coverage through licensed companies rated A by AM Best. Contractor must defend and indemnify COAERS and its officers and contractors against claims arising from contractor-side acts or omissions, but not COAERS’s own negligence. Texas law governs, with venue in Travis County. The contract does not waive COAERS’s sovereign immunity or other rights and defenses; failure or delay in enforcing them is not a waiver or basis for estoppel. Contractor and its personnel and subcontractors are independent contractors, not COAERS employees. COAERS is not liable to subcontractors, and contractor remains responsible for subcontracted services meeting the RFP."
+        },
+        {
+          "title": "3.13 Patent, Trademark, Copyright and Other Infringement Claims",
+          "node_id": "0030",
+          "start_index": 20,
+          "end_index": 21,
+          "key_items": [
+            "3.9 Indemnification; 3.10 Applicable Law and Venue; 3.11 No Waiver of Sovereign Immunity",
+            "3.9 Indemnification",
+            "3.10 Applicable Law and Venue",
+            "3.11 No Waiver of Sovereign Immunity",
+            "3.12 Independent Contractor"
+          ],
+          "summary": "Contractor must indemnify COAERS against patent, trademark, copyright, trade-secret, and other proprietary-rights infringement claims arising from either party’s use or acquisition of Contractor-provided services or items, reimburse all related losses and expenses including attorneys’ fees and court costs, cover reasonable COAERS counsel costs (including multiple counsel when needed to avoid conflicts), and confirm it obtained required licenses, patents, and permits. Contractor must retain fiscal and other supporting records showing lawful use of payments for four years after final-invoice submission or until billing questions are resolved, whichever is later, and provide relevant records on reasonable notice for COAERS inspection, monitoring, audit, or evaluation. Contractor must also provide records to the City of Austin’s selected actuarial auditor under Texas Government Code §802.1012. Contractor warrants no actual or potential conflicts or appearance of impropriety; Exhibit B contains a conflict questionnaire. The text lists proposal-review participants: Diana Thomas, Dick Lavine, Michael Benson, Krista Laine, Kelly Crook, Michael Granof, Ed Van Eenoo, Ben Ellinor, Chris Noak, Yuejiao Liu, Anthony B. Ross Sr., Christopher Hanson, Russell Nash, David Kushner, Teresa Cantu, Yun Quintanilla, and Candace Nolte."
+        },
+        {
+          "title": "Contractor Records, Audits, and Obligations",
+          "node_id": "0031",
+          "start_index": 21,
+          "end_index": 21,
+          "key_items": [
+            "3.14 Supporting Documents, Retention, Right to Audit",
+            "3.15 Cooperation with Actuarial Audit"
+          ],
+          "summary": "Contractor must reimburse COAERS for claims and related losses, expenses, judgments, attorneys’ fees, and court costs arising from its use or acquisition of services or items provided to COAERS, including reasonable counsel costs and multiple counsel when needed to avoid conflicts. Contractor confirms it has identified and obtained all required licenses, patents, and permits. It must retain fiscal and other supporting records showing compliant use of payments for four years after final invoices or until billing questions are resolved, whichever is later, and provide relevant work documents and information to COAERS or its agent for inspection, monitoring, audit, or evaluation upon reasonable notice. Contractor must also cooperate with the City of Austin’s actuarial audit under Texas Government Code § 802.1012 by providing relevant documents and information to the City-selected actuarial firm."
+        },
+        {
+          "title": "3.16 No Conflicts",
+          "node_id": "0032",
+          "start_index": 21,
+          "end_index": 22,
+          "key_items": [
+            "3.14 Supporting Documents, Retention, Right to Audit",
+            "3.15 Cooperation with Actuarial Audit"
+          ],
+          "summary": "The contractor warrants that it has no actual or potential conflicts of interest in serving COAERS and that its services would not create an appearance of impropriety; a Conflict of Interest Questionnaire is provided in Exhibit B. The text lists the current trustees, local government officers, and employees involved in proposal reviews: Diana Thomas, Dick Lavine, Michael Benson, Krista Laine, Kelly Crook, Michael Granof, Ed Van Eenoo, Ben Ellinor, Chris Noak, Yuejiao Liu, Anthony B. Ross, Sr., Christopher Hanson, Russell Nash, David Kushner, Teresa Cantu, Yun Quintanilla, and Candace Nolte."
+        },
+        {
+          "title": "3.17 Financial Interests; Gifts",
+          "node_id": "0033",
+          "start_index": 22,
+          "end_index": 23,
+          "key_items": [
+            "3.18 Professional Standards",
+            "3.19 Choice of Law"
+          ],
+          "summary": "The contractor warrants that neither it nor any financially participating party received compensation from COAERS or Texas agencies for preparing contract specifications, and that it has not provided or intends to provide public servants or employees contract-related economic opportunities, employment, gifts, loans, gratuities, discounts, trips, favors, or services. Texas law may require a contracting party to disclose affiliations and business relationships with governing-body members and executive officers; the organization must determine whether to submit Exhibit B, using COAERS’s website for trustee and staff listings, as COAERS cannot advise on that decision. The contractor and participating actuaries must follow the named actuarial professional organizations’ codes, applicable law, and professional-conduct rules where services are rendered. Texas law governs the agreement and related claims, without regard to conflict-of-laws principles, and suits must be brought in a court of competent jurisdiction in Travis County, Texas."
+        }
+      ]
+    },
+    {
+      "title": "SECTION FOUR - PROPOSAL DEADLINES, MEETINGS, FORMAT & INFORMATION",
+      "node_id": "0034",
+      "start_index": 23,
+      "end_index": 27,
+      "summary": "The section establishes the RFP schedule: questions are due July 16, 2025, a virtual pre-proposal conference is July 24, proposals are due July 30, bid opening is July 31, and finalist review is tentatively November 13; COAERS may change dates. Registration and conference attendance are optional. Submit questions and one emailed proposal to Russell Nash at rfp@coaers.org by the stated deadlines. Proposals must be paginated, include a table of contents, follow Exhibit I’s nine-part format, and include Exhibit D. Respondents bear submission and presentation costs; proposals are subject to Texas public-records law, with confidential pages clearly marked. COAERS may reject, amend or cancel the RFP, waive minor irregularities, seek clarifications or best-and-final offers, request presentations or office visits, and award all or part based on best value. Evaluation may consider contract acceptance, expertise, quality, timeliness, liability, confidentiality, staffing, capacity, references, performance, viability, reputation, communication, and five-year pricing. Staff recommend an award to the Board after negotiating material contract terms. After award, the contractor communicates with COAERS leadership and staff.",
+      "nodes": [
+        {
+          "title": "RFP Deadlines, Registration, and Pre-Proposal Conference",
+          "node_id": "0035",
+          "start_index": 23,
+          "end_index": 23,
+          "key_items": [
+            "4.1 Schedule of Events",
+            "4.2 Revisions to Event Deadlines & Dates",
+            "4.3 Proposer Registration",
+            "4.4 Pre-Proposal Conference"
+          ],
+          "summary": "The RFP schedule sets questions due by 5:00 p.m. Central Time on July 16, 2025; a virtual pre-proposal conference at noon July 24; proposals due by 5:00 p.m. July 30; bid opening at noon July 31; and finalist review at a time to be determined November 13. COAERS may change scheduled dates and times. Proposer registration is optional, creates no legal obligations or enforceable promises, and allows COAERS to send RFP information; forms are at coaers.org/RFP. Conference attendance is optional, and registered proposers receive participation instructions. Submit written questions to Deputy Executive Director Russell Nash at rfp@coaers.org by the July 16 deadline; COAERS will respond in writing after the conference."
+        },
+        {
+          "title": "4.5 Proposal Submission",
+          "node_id": "0036",
+          "start_index": 23,
+          "end_index": 24,
+          "key_items": [
+            "SECTION FOUR - PROPOSAL DEADLINES, MEETINGS, FORMAT & INFORMATION; 4.1 Schedule of Events; 4.2 Revisions to Event Deadlines & Dates; 4.3 Proposer Registration",
+            "SECTION FOUR - PROPOSAL DEADLINES, MEETINGS, FORMAT & INFORMATION",
+            "4.1 Schedule of Events",
+            "4.2 Revisions to Event Deadlines & Dates",
+            "4.3 Proposer Registration",
+            "4.4 Pre-Proposal Conference"
+          ],
+          "summary": "Proposals must be submitted as one electronic copy by email to rfp@coaers.org by 5:00 p.m. Central Time, July 30, 2025; respondents are responsible for timely delivery and all preparation, submission, and travel costs. Proposals must be paginated, include an organized table of contents, follow the nine-part format in Exhibit I, and include Exhibit D. Copyrighted proposals will not be considered. Proposals are subject to Texas public-records law; confidential material must be marked on every applicable page in bold, at least 14-point type. Written questions go to Russell Nash at the same email by 5:00 p.m. Central Time, July 16, 2025; official written answers follow the pre-proposal conference. COAERS may reject proposals, cancel or amend the RFP, waive non-material irregularities, request clarifications, BAFOs or presentations, and visit respondents’ offices. Best value determines award, which may be made without a BAFO and in whole or in part. Presentation expenses are respondents’ responsibility; COAERS pays for its staff’s site-visit travel. Proposals remain offers until selection and become COAERS property."
+        },
+        {
+          "title": "Proposal Submission, Format, and Inquiries",
+          "node_id": "0037",
+          "start_index": 24,
+          "end_index": 24,
+          "key_items": [
+            "4.6 Proposal Format",
+            "4.7 Inquiries"
+          ],
+          "summary": "Proposals must be emailed to rfp@coaers.org by 5:00 p.m. Central Time on July 30, 2025; respondents are responsible for timely delivery, and COAERS may reject late submissions. The proposal must include at least the information specified and be organized into nine parts as described in Exhibit I. Russell Nash, Deputy Executive Director, is the authorized contact. Written questions must be emailed to him at the same address by 5:00 p.m. Central Time on July 16, 2025. COAERS will issue official written responses after the Pre-Proposal Conference."
+        },
+        {
+          "title": "4.8 Proposal Evaluation and Award Process",
+          "node_id": "0038",
+          "start_index": 24,
+          "end_index": 25,
+          "key_items": [
+            "4.6 Proposal Format",
+            "4.7 Inquiries"
+          ],
+          "summary": "COAERS sends communications by email and may reject proposals, cancel or amend the RFP, waive non-material irregularities, award all or part of a proposal based on best value, and treat proposals as offers and COAERS property until selection. It may request timely clarifications, written Best and Final Offers (but need not), presentations, or office visits; presentations may be in person in Austin or virtual, last about 1.5 hours, and are at the respondent’s expense, while COAERS pays for its staff’s visit travel. Evaluation may consider all relevant information, including scope and contract acceptance; relevant experience, quality assurance, timelines, liability, confidentiality, personnel, performance standards, GASB and actuarial-study expertise, capacity, references, consultancy value, turnover, viability, reputation, five-year pricing, communication, and presentations. COAERS staff will recommend a respondent to the Board of Trustees after successfully negotiating all material contract terms."
+        },
+        {
+          "title": "Proposal Evaluation Criteria and Presentations",
+          "node_id": "0039",
+          "start_index": 25,
+          "end_index": 25,
+          "key_items": [
+            "4.9 Proposal Evaluation Criteria",
+            "15. Low turnover",
+            "16. Firm relevant years in business/ability to be viable in the future",
+            "17. Firm’s reputation (News, ethics problems, errors, sanctions, etc.)",
+            "4.10 Presentations/Visits"
+          ],
+          "summary": "COAERS may consider any information about a respondent or proposal and evaluate proposals for best value, with no ranking among criteria. Criteria include acceptance of scope and contract terms; risk-sharing valuation or ADC plan experience; quality assurance; timely delivery; responsibility for damages from errors or omissions; confidentiality protection; assigned staff expertise and communication; performance standards and failure damages; GASB experience and implementation; actuarial experience-study assumption recommendations; capacity relative to other clients; comparable-client references; value-added consultancy; low turnover; relevant years in business and future viability; reputation, including news, ethics issues, errors, or sanctions; five-year pricing; and presentations, if held. COAERS may request presentations from selected respondents, in person in Austin or virtually. Staff present the proposal and answer questions; sessions are expected to last about 1.5 hours, and respondents bear all costs, including travel."
+        },
+        {
+          "title": "4.11 Final Selection",
+          "node_id": "0040",
+          "start_index": 25,
+          "end_index": 26,
+          "key_items": [
+            "4.9 Proposal Evaluation Criteria",
+            "4.10 Presentations/Visits"
+          ],
+          "summary": "4.11 Final Selection\nThe COAERS Staff will recommend a Respondent to the COAERS Board of Trustees for consideration for a contract award. Prior to making that recommendation, the COAERS Staff must have successfully negotiated all material terms to the contract for services (e.g., Master Services Agreement).\n25"
+        },
+        {
+          "title": "4.12 Post Contract Point of Contact",
+          "node_id": "0041",
+          "start_index": 26,
+          "end_index": 27,
+          "summary": "4.12 Post Contract Point of Contact\nAfter the award of contract, Contractor will work and communicate directly with the COAERS Executive Director, Board Chair, Benefits & Services Committee Chair, and staff.\n26"
+        }
+      ]
+    },
+    {
+      "title": "EXHIBIT A - PROPOSAL SUBMISSION SHEET",
+      "node_id": "0042",
+      "start_index": 27,
+      "end_index": 28,
+      "key_items": [
+        "RESPONDENT (COMPANY):"
+      ],
+      "summary": "The exhibit is a proposal submission sheet in which the respondent certifies that its submission is accurate, complete, and current; it has not offered or will offer improper benefits to COAERS trustees, employees, or their immediate family; it accepts the RFP terms subject to exceptions stated in its proposal and follows the required response format; it has complied with state and federal antitrust laws and has not shared proposal contents with competitors; and it has contacted no COAERS trustee or employee about the RFP except the authorized contact. The respondent also certifies it is not on the federal terrorism watch list, will honor the proposal through contract execution, offers firm fixed prices for the contract term, and submits a complete proposal. The signer confirms authority to bind the respondent. The form requests company name, signature, printed name, title, date, address, telephone, email, facsimile, and federal tax identification number."
+    },
+    {
+      "title": "EXHIBIT B - CONFLICT OF INTEREST QUESTIONNAIRE",
+      "node_id": "0043",
+      "start_index": 28,
+      "end_index": 29,
+      "summary": "EXHIBIT B - CONFLICT OF INTEREST QUESTIONNAIRE\nTexas law requires a person who contracts or seeks to contract with a local governmental entity to file a questionnaire disclosing the person’s affiliation and business relationship with each member of the governing body and local government officers of the entity. You should review the rules regarding this disclosure. Then your organization will need to determine if you should complete and include Exhibit B with your proposal. You can find a listing of COAERS Trustees and staff on our website at www.coaers.org. COAERS will not be able to give you an opinion as to whether or not you should submit Exhibit B.\n28"
+    },
+    {
+      "title": "EXHIBIT C - RESPONDENT CONTACT INFORMATION",
+      "node_id": "0044",
+      "start_index": 29,
+      "end_index": 30,
+      "summary": "EXHIBIT C - RESPONDENT CONTACT INFORMATION\nPRIMARY CONTACT\nName: Address: City, State, Zip: Office Telephone: Cell Phone:\nFax: Email Address:\nSECONDARY CONTACT\nName: Address: City, State, Zip: Office Telephone: Cell Phone:\nFax: Email Address:\n29"
+    },
+    {
+      "title": "EXHIBIT D - TRADE SECRET ACKNOWLEDGEMENT",
+      "node_id": "0045",
+      "start_index": 30,
+      "end_index": 31,
+      "summary": "EXHIBIT D - TRADE SECRET ACKNOWLEDGEMENT\nI understand that COAERS has no responsibility for protecting information submitted as a trade secret or as confidential unless it is clearly and plainly marked \"Trade Secret” or “Confidential” on each applicable proposal page in at least 14-point font.\nCheck the one box which applies to your response.\nMy organization has submitted information marked \"Trade Secret” or “Confidential” on each page it appears in at least 14-point font.\nMy organization has not submitted information marked \"Trade Secret” or “Confidential.”\nACKNOWLEDGED BY:\nAUTHORIZED SIGNATURE:\nNAME:\nTITLE:\n_____________________________ DATE:\n30"
+    },
+    {
+      "title": "EXHIBIT E – PROFESSIONAL STAFF INFORMATION",
+      "node_id": "0046",
+      "start_index": 31,
+      "end_index": 32,
+      "summary": "EXHIBIT E – PROFESSIONAL STAFF INFORMATION\nShowcase the partner in charge of the engagement and the professional staff you are assigning to COAERS. At a minimum, the following information must be included:\n• Name • Title • Contact Information • Experience with pension plans (or employee benefit plans) • Education\n• Applicable licensure including state of license issuance • Professional Certifications\n• Training Relevant to the COAERS engagement\nWe encourage Respondents to add more information about their staff assigned to COAERS beyond the minimum information in order to showcase experience, skills, and competencies. In addition, provide a professional resume for each staff member who will be working on the COAERS engagement in Part 2 of your proposal. Finally, indicate who will serve as your organization’s Supervising Actuary.\n31"
+    },
+    {
+      "title": "EXHIBIT F – FIRM QUESTIONNAIRE",
+      "node_id": "0047",
+      "start_index": 32,
+      "end_index": 35,
+      "summary": "Exhibit F is a firm questionnaire to be completed in Section 3 by reproducing each heading and question and answering with supporting details. It covers the firm’s history, ownership, corporate form, years in business, Texas licensure, proposed team credentials, Supervising Actuary, other clients and ADC plans, continuity arrangements, and staff turnover. It requests consultancy quality controls, accountability, support tools, working-paper retention, subcontractor use, professional-liability insurance and limits, and liability caps. It addresses technology and disaster recovery, required client systems, confidential-data handling and retention, privacy training, and breach detection and notification. It seeks disclosures of significant media coverage and responses, relevant litigation, arbitration, regulatory sanctions, and staff discipline. The firm must describe ADC valuation experience and its annual COAERS Risk Sharing Valuation Study approach under Texas law and the Funding Approach, including employer contributions, normal cost, gain/loss layers, corridor limits, and responses to required member-rate increases in support of Joint Funding Policy goals. It also covers experience studies, recommended actuarial assumptions, modeling tools, deadline capacity, onboarding tasks and timeline, and the firm’s value proposition.",
+      "nodes": [
+        {
+          "title": "Ownership, Organization, and Resources",
+          "node_id": "0048",
+          "start_index": 32,
+          "end_index": 32,
+          "summary": "Exhibit F is a firm questionnaire to be completed in Section 3 of the proposal by retyping each heading and question and providing answers with any needed details. Under Ownership, Organization, and Resources, it requests the firm’s history and development of its actuarial services team, ownership structure and corporate form, years in business, and confirmation of Texas licensure. It also asks for the proposed COAERS team members’ credentials and experience, identification and qualifications of the Supervising Actuary responsible for the work, the team’s other clients and which are actuarially determined contribution plans, arrangements ensuring continuous relationship coverage when primary team members are unavailable, and disclosure and comment on turnover among actuarial personnel assigned or proposed for the COAERS account."
+        },
+        {
+          "title": "Risk Management – Consultancy",
+          "node_id": "0049",
+          "start_index": 32,
+          "end_index": 33,
+          "summary": "The text requests proposal information on four areas. Consultancy risk management: internal quality controls and Supervising Actuary accountability; team support and tools; working-paper retention; use and roles of subcontractors or non-employees; engagement insurance carriers, coverage, limits, proof, and rationale for professional-liability limits; and any liability caps and rationale. Technology and confidential-information protection: systems supporting services and disaster recovery; systems COAERS must use; secure receipt, electronic and physical protection, and retention of confidential data; staff privacy training; breach detection and notification processes. Professional reputation: significant media reports from the past year and firm responses; relevant litigation, arbitration, or regulatory sanctions in the past five years; and disciplinary actions involving assigned staff. Risk-sharing valuation studies: experience providing annual ADC valuation information and the proposed annual COAERS Risk Sharing Valuation Study approach, demonstrating knowledge of applicable Texas statutory and funding requirements, including calculating the employer’s required contribution for the upcoming calendar year."
+        },
+        {
+          "title": "Risk Management, Data Protection, and Reputation",
+          "node_id": "0050",
+          "start_index": 33,
+          "end_index": 33,
+          "key_items": [
+            "Risk Management - Technology & Protection of Confidential Information",
+            "Professional Reputation"
+          ],
+          "summary": "The page asks about determining Errors and Omissions insurance coverage and why the firm may limit liability for actuarial services to COAERS. It covers the systems supporting actuarial work and their disaster recovery, systems COAERS must use, how confidential information is received, secured, and retained, staff training on protecting personal information, and procedures for identifying and reporting breaches. It also requests major media reports from the past 12 months concerning client services and any firm responses; business litigation, arbitration, or regulatory sanctions involving actuarial and consulting services over the past five years; and professional disciplinary actions involving assigned team members."
+        },
+        {
+          "title": "Experience with Risk Sharing Valuation Studies",
+          "node_id": "0051",
+          "start_index": 33,
+          "end_index": 34,
+          "summary": "Requests information on the firm’s past or current experience providing annual valuation data for other clients’ Actuarially Determined Contributions (ADCs), and its approach to conducting COAERS’s annual Risk Sharing Valuation Study in accordance with Texas Civil Statutes Article 6243n, Section 10(c), and the Funding Approach. The response should explain how the firm will calculate the upcoming calendar year’s Employer Required Contribution, develop plan normal cost and gain/loss layers, and assess the ADC against the City Contribution Corridor’s minimum and maximum. It should also describe how the firm would help COAERS and the City plan actions if the ADC exceeds the corridor maximum and the Member Contribution Rate must rise by more than 2%, while supporting the goals of their Joint Funding Policy."
+        },
+        {
+          "title": "Experience Studies & Actuarial Assumptions",
+          "node_id": "0052",
+          "start_index": 34,
+          "end_index": 35,
+          "key_items": [
+            "Modeling; Capacity to Perform Work & Meet Deliverables; Onboarding",
+            "Modeling",
+            "Capacity to Perform Work & Meet Deliverables",
+            "Onboarding",
+            "Your Firm’s Value Proposition"
+          ],
+          "summary": "The text requests information about the firm’s experience providing actuarial experience studies and its approach to reviewing and recommending assumptions for inflation, investment returns, post-retirement mortality, plan expenses, individual salary increases, and payroll growth. It asks about modeling capabilities, software and tools for projecting outcomes of future experience or plan changes, and the firm’s capacity to complete the Section 2 scope by its Section 2.10 deadlines. It also requests a detailed onboarding list of tasks, deliverables, and timeline for COAERS, and the firm’s value proposition for actuarial consulting services."
+        }
+      ]
+    },
+    {
+      "title": "EXHIBIT G – SCOPE OF SERVICES ACKNOWLEDGEMENT",
+      "node_id": "0053",
+      "start_index": 35,
+      "end_index": 36,
+      "summary": "Exhibit G asks the proposer to acknowledge COAERS’ scope and requirements, identify any impediments to performing the work or working with COAERS, and mark each item as agreed to as written or not; disagreements require comments or alternative language. The proposal will be evaluated partly on these responses. Items cover actuarial services: personnel, annual risk-sharing valuation, GASB 67 and 68 reporting, interest-credit recommendations, QEBA allocation, financial-statement assistance, asset/liability studies, experience studies, and service deadlines. Contract and compliance topics include performance evaluation, contract period and termination, surviving terms, confidentiality and open records, applicable law and venue, sovereign immunity, independent-contractor status, intellectual property and infringement, audit rights and document retention, actuarial audits, conflicts and financial interests or gifts, professional standards, work made for hire, indemnification, and insurance."
+    },
+    {
+      "title": "EXHIBIT H – COST PROPOSAL",
+      "node_id": "0054",
+      "start_index": 36,
+      "end_index": 37,
+      "summary": "Exhibit H requests a cost proposal with a price for each service for each contract year, 2026–2030, based on RFP Section 2. It provides estimated-hours and fixed-price fields for core services: annual actuarial valuation (risk-sharing study), GASB 67 reporting and accounting information, GASB 68 financial reporting information for the City of Austin, QEBA allocation, interest-rate recommendation letter, and financial-statement actuarial assistance, plus 2027 asset/liability study assistance and a 2030 experience study. Bidders must also provide hourly rates, exclusive of travel, for supervising and other actuaries, consultants, support staff, analysts, and other staff. The form invites relevant pricing information, including assumptions, exclusions, and desired payment terms."
+    },
+    {
+      "title": "EXHIBIT I – RESPONDENT’S PROPOSAL FORMAT AND REQUIREMENTS",
+      "node_id": "0055",
+      "start_index": 37,
+      "end_index": 39,
+      "summary": "Proposals must contain nine clearly labeled parts in the specified order: (1) completed Exhibits A–D, with Exhibit B addressing Texas conflict-of-interest disclosure requirements; respondents must determine whether it applies, as COAERS cannot advise them. (2) Exhibit E identifying the Supervising Actuary, assigned staff resumes, and team organizational chart. (3) Corporate documentation, certificates for errors and omissions, commercial general, automobile, and workers’ compensation insurance, audited 2023 and 2024 financial statements with auditor reports, and Exhibit F questionnaire responses. (4) Completed Exhibit G services-and-requirements chart and clearly stated exceptions or alternatives in Exhibit H; state if there are none. COAERS may reject proposals for exceptions or revisions. (5) Work samples: actuarial valuation, risk-sharing study or similar, experience study, GASB 67 and 68 reports, client communication, and optional others. (6) Exhibit H cost proposal, including estimated hours, plus relevant pricing. (7) Master Services Agreement addressing RFP scope and terms. (8) At least four similar-service client references with project and contact details; COAERS will contact them. (9) Other relevant information demonstrating value."
+    },
+    {
+      "title": "PROPOSAL CHECKLIST",
+      "node_id": "0056",
+      "start_index": 39,
+      "end_index": 39,
+      "summary": "The proposal checklist requires a table of contents with page numbers, trade-secret/confidential material marked, 14-point font on every page, and one electronic original emailed to rfp@coaers.org by 5:00 PM Central on July 30, 2025. Required contents are: Part 1, Exhibits A–D (submission sheet, applicable conflict-of-interest questionnaire, contact information, and trade-secret acknowledgement); Part 2, Exhibit E, staff information identifying the supervising actuary, assigned staff resumes, and organizational chart; Part 3, corporate organization documents, proof of insurance, latest audited financial statements and auditor’s report, and Exhibit F firm questionnaire; Part 4, Exhibit G scope-and-requirements acknowledgement chart and detailed explanations of exceptions; Part 5, work samples; Part 6, Exhibit H cost proposal and hours; Part 7, contract or Master Services Agreement including terms in Sections 2 and 3; Part 8, at least four references; and Part 9, additional respondent information."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

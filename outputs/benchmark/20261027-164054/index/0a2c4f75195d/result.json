@@ -1,0 +1,43 @@
+{
+  "file": "Creve_Coeur_MO__Questions-and-Answers-from-RFP-for-Pension-Consulting-Services.pdf",
+  "sha256": "7f1fe63ec6cee200a511c0a38006a330b8888025e5006a0257a79485a9317b3b",
+  "bytes": 45345,
+  "pages": 1,
+  "public_source_url": "https://www.crevecoeurmo.gov/DocumentCenter/View/9851/Questions-and-Answers-from-RFP-for-Pension-Consulting-Services",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:49:39.899062+00:00",
+  "doc_id": "pi-20479d012a7a4f5eae63c6c3d5f60469",
+  "stored_name": "Creve_Coeur_MO__Questions-and-Answers-from-RFP-for-Pension-Consulting-Services.pdf",
+  "reported_usage": {
+    "prompt_tokens": 1218,
+    "completion_tokens": 388,
+    "total_tokens": 1606,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 108
+    }
+  },
+  "elapsed_seconds": 8.051,
+  "finished_at_utc": "2026-10-27T08:49:47.963298+00:00",
+  "model_calls": 2,
+  "http_attempts": 2,
+  "observed_usage": {
+    "input_tokens": 1218,
+    "output_tokens": 388,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 0,
+    "reasoning_tokens": 108,
+    "total_tokens": 1606
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

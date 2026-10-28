@@ -1,0 +1,398 @@
+{
+  "id": "XD-18",
+  "question": "Apart from ILPA's own publications and the PRI covering note, which documents in the corpus refer to ILPA, and for what purpose?",
+  "type": "broad",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:14:36.538418+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "Apart from ILPA’s publications and the PRI covering note, I found three documents that explicitly refer to ILPA:\n\n| Document | Purpose of the reference |\n|---|---|\n| **NJEDA Life Science Seed Fund due-diligence questionnaire**, p. 5 | Asks prospective fund managers whether their proposed reporting package will follow **ILPA Reporting Best Practices**. |\n| **Missouri LAGERS Private Market Consultant RFP**, p. 13 | Asks bidders whether they apply **ILPA principles and guidelines** when sourcing and conducting due diligence on investments. |\n| **NYC BERS Investment Consulting Services RFP**, p. 14 | Uses the **ILPA Capital Call & Distribution Notice Template** as a standard for classifying private-market cash flows. The consultant must supply ILPA transaction types where available and maintain records using those types, subject to the manager’s preparation of the template. |",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 628371,
+    "input_tokens_details": {
+      "cached_tokens": 411312,
+      "cache_write_tokens": 217035
+    },
+    "output_tokens": 2390,
+    "output_tokens_details": {
+      "reasoning_tokens": 364
+    },
+    "total_tokens": 630761,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1216,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1213
+        },
+        "output_tokens": 28,
+        "output_tokens_details": {
+          "reasoning_tokens": 7
+        },
+        "total_tokens": 1244
+      },
+      {
+        "input_tokens": 6484,
+        "input_tokens_details": {
+          "cached_tokens": 1213,
+          "cache_write_tokens": 5268
+        },
+        "output_tokens": 41,
+        "output_tokens_details": {
+          "reasoning_tokens": 16
+        },
+        "total_tokens": 6525
+      },
+      {
+        "input_tokens": 9457,
+        "input_tokens_details": {
+          "cached_tokens": 6481,
+          "cache_write_tokens": 2973
+        },
+        "output_tokens": 488,
+        "output_tokens_details": {
+          "reasoning_tokens": 44
+        },
+        "total_tokens": 9945
+      },
+      {
+        "input_tokens": 12946,
+        "input_tokens_details": {
+          "cached_tokens": 9454,
+          "cache_write_tokens": 3489
+        },
+        "output_tokens": 377,
+        "output_tokens_details": {
+          "reasoning_tokens": 8
+        },
+        "total_tokens": 13323
+      },
+      {
+        "input_tokens": 112334,
+        "input_tokens_details": {
+          "cached_tokens": 12943,
+          "cache_write_tokens": 99388
+        },
+        "output_tokens": 387,
+        "output_tokens_details": {
+          "reasoning_tokens": 44
+        },
+        "total_tokens": 112721
+      },
+      {
+        "input_tokens": 133181,
+        "input_tokens_details": {
+          "cached_tokens": 112331,
+          "cache_write_tokens": 20847
+        },
+        "output_tokens": 395,
+        "output_tokens_details": {
+          "reasoning_tokens": 86
+        },
+        "total_tokens": 133576
+      },
+      {
+        "input_tokens": 135715,
+        "input_tokens_details": {
+          "cached_tokens": 133178,
+          "cache_write_tokens": 2534
+        },
+        "output_tokens": 379,
+        "output_tokens_details": {
+          "reasoning_tokens": 55
+        },
+        "total_tokens": 136094
+      },
+      {
+        "input_tokens": 217038,
+        "input_tokens_details": {
+          "cached_tokens": 135712,
+          "cache_write_tokens": 81323
+        },
+        "output_tokens": 295,
+        "output_tokens_details": {
+          "reasoning_tokens": 104
+        },
+        "total_tokens": 217333
+      }
+    ]
+  },
+  "elapsed_seconds": 38.071,
+  "finished_at_utc": "2026-10-27T09:15:14.612255+00:00",
+  "model_calls": 8,
+  "http_attempts": 8,
+  "observed_usage": {
+    "input_tokens": 628371,
+    "output_tokens": 2390,
+    "cached_input_tokens": 411312,
+    "cache_write_tokens": 217035,
+    "reasoning_tokens": 364,
+    "total_tokens": 630761
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SBCERS__2020-Private-Equity-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"OCERS__investment_consultant_services_rfp.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"INREV__INREV_DDQ_Non-Listed_Real_Estate_Investment_Vehicles_2018.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SBCERS__2020-Private-Equity-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"OCERS__investment_consultant_services_rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"INREV__INREV_DDQ_Non-Listed_Real_Estate_Investment_Vehicles_2018.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf\",\"pages\":\"1-4\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf\",\"pages\":\"1-7\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf\",\"pages\":\"13-14\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf\",\"pages\":\"13-15\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"INREV__INREV_DDQ_Non-Listed_Real_Estate_Investment_Vehicles_2018.pdf\",\"pages\":\"1-3,34-35,37\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\",\"pages\":\"5-7,20-23\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\",\"pages\":\"23-26\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SURS_Illinois__SURS-Investment-Manager-RFP-Template.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Boston_BRS__Attachment_3_BRS_Invest_Consulting_Services_RFP.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"MA_PRIM__PDF-Version-of-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SFERS__SFERS-General-Investment-Consultant-RFP_vFinal.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SDCERS__sdcers-2026-general-investment-consultant-rfp.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"COAERS__COAERS_General_Investment_Consultant_RFP.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Oklahoma_TRS__Investment.Consultant.RFP.adopted.by.Board.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Boston_BRS__Attachment_3_BRS_Invest_Consulting_Services_RFP.pdf\",\"pages\":\"1-12\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SURS_Illinois__SURS-Investment-Manager-RFP-Template.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"MA_PRIM__PDF-Version-of-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SFERS__SFERS-General-Investment-Consultant-RFP_vFinal.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SDCERS__sdcers-2026-general-investment-consultant-rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"COAERS__COAERS_General_Investment_Consultant_RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Oklahoma_TRS__Investment.Consultant.RFP.adopted.by.Board.pdf\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf",
+      "pages": "1-4",
+      "success": true,
+      "call_id": "call_eYg78VIzTaj8QekfnDtJ4EES"
+    },
+    {
+      "document": "NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf",
+      "pages": "1-7",
+      "success": true,
+      "call_id": "call_tK4RgOugEzyA1Xv5GEG1O3h8"
+    },
+    {
+      "document": "Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf",
+      "pages": "13-14",
+      "success": true,
+      "call_id": "call_uLGepWll2pawXaQM3EswLAqr"
+    },
+    {
+      "document": "NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf",
+      "pages": "13-15",
+      "success": true,
+      "call_id": "call_Rpq9qNQ0023LVm710rErxEYL"
+    },
+    {
+      "document": "INREV__INREV_DDQ_Non-Listed_Real_Estate_Investment_Vehicles_2018.pdf",
+      "pages": "1-3,34-35,37",
+      "success": true,
+      "call_id": "call_skjhEEgZdmToHxLMA55BFLJH"
+    },
+    {
+      "document": "TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf",
+      "pages": "5-7,20-23",
+      "success": true,
+      "call_id": "call_EuneBk1bSqG815e9BfcsxHTj"
+    },
+    {
+      "document": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+      "pages": "23-26",
+      "success": true,
+      "call_id": "call_JSLxX4lJdFR86jNjZSYdFeCN"
+    },
+    {
+      "document": "Boston_BRS__Attachment_3_BRS_Invest_Consulting_Services_RFP.pdf",
+      "pages": "1-12",
+      "success": true,
+      "call_id": "call_kxgx9ZLgvQuebabpfi90QuQN"
+    }
+  ],
+  "successfully_read_documents": [
+    "AC_Private_Markets__private-markets-due-diligence-questionnaire.pdf",
+    "Boston_BRS__Attachment_3_BRS_Invest_Consulting_Services_RFP.pdf",
+    "INREV__INREV_DDQ_Non-Listed_Real_Estate_Investment_Vehicles_2018.pdf",
+    "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+    "Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf",
+    "NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf",
+    "NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf",
+    "TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf"
+  ]
+}

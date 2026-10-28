@@ -1,0 +1,15 @@
+{
+  "question_id": "INV-04",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "eb7084a0a15774e2de297f4a4b33dd38ea19a22838a6d398f673d9d6e2a37a79",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "31%总目标及10/7/10/4各资产类别比例全部正确。",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:23:52.966502+00:00"
+}

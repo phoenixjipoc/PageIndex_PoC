@@ -1,0 +1,358 @@
+{
+  "id": "INV-24",
+  "question": "Which of the private equity, alternatives and real assets consultant RFPs in the corpus identify the incumbent or existing consultants, who are they, and may the incumbent compete?",
+  "type": "broad",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:16:54.838616+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "Three specialist-consultant RFPs explicitly identify the incumbent and address whether it may compete:\n\n| RFP | Incumbent or existing consultant | May it compete? |\n|---|---|---|\n| **Santa Barbara County Employees’ Retirement System — private equity (2020)** | **Hamilton Lane** is the incumbent private equity consultant. | **Yes.** The RFP expressly invites it to rebid. [SBCERS RFP, p. 9](SBCERS__2020-Private-Equity-RFP.pdf) |\n| **Baltimore City Employees’ Retirement System — alternatives (2024)** | **Meketa Group** is the incumbent alternatives consultant. **Marquette Associates** is the separate general investment consultant. | **Meketa may submit a proposal; Marquette may not** compete in this alternatives search. [BCERS RFP, pp. 8–9](Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf) |\n| **District of Columbia Retirement Board — real assets (2011)** | **The Townsend Group** is the incumbent real-assets specialist. The RFP also identifies **Meketa Investment Group** as general consultant and **Pantheon** as private-equity specialist. | **Yes.** Townsend is expected to respond; Meketa is also expected to respond. [DCRB RFP, pp. 3–4](DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf) |\n\nA related **Oklahoma TRS general/private-markets RFP** names **Meketa Investment Group** as its *existing private-markets back-office provider*, not as the incumbent for the consulting work being solicited. Its reporting, fee-validation and capital-call services are expressly outside this search; the RFP does not expressly say whether Meketa will bid. [Oklahoma TRS RFP, p. 10](Oklahoma_TRS__Investment.Consultant.RFP.adopted.by.Board.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 319312,
+    "input_tokens_details": {
+      "cached_tokens": 160455,
+      "cache_write_tokens": 158839
+    },
+    "output_tokens": 2198,
+    "output_tokens_details": {
+      "reasoning_tokens": 333
+    },
+    "total_tokens": 321510,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1222,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1219
+        },
+        "output_tokens": 19,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1241
+      },
+      {
+        "input_tokens": 6481,
+        "input_tokens_details": {
+          "cached_tokens": 1219,
+          "cache_write_tokens": 5259
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 6517
+      },
+      {
+        "input_tokens": 9449,
+        "input_tokens_details": {
+          "cached_tokens": 6478,
+          "cache_write_tokens": 2968
+        },
+        "output_tokens": 486,
+        "output_tokens_details": {
+          "reasoning_tokens": 58
+        },
+        "total_tokens": 9935
+      },
+      {
+        "input_tokens": 12871,
+        "input_tokens_details": {
+          "cached_tokens": 9446,
+          "cache_write_tokens": 3422
+        },
+        "output_tokens": 448,
+        "output_tokens_details": {
+          "reasoning_tokens": 8
+        },
+        "total_tokens": 13319
+      },
+      {
+        "input_tokens": 130447,
+        "input_tokens_details": {
+          "cached_tokens": 12868,
+          "cache_write_tokens": 117576
+        },
+        "output_tokens": 566,
+        "output_tokens_details": {
+          "reasoning_tokens": 38
+        },
+        "total_tokens": 131013
+      },
+      {
+        "input_tokens": 158842,
+        "input_tokens_details": {
+          "cached_tokens": 130444,
+          "cache_write_tokens": 28395
+        },
+        "output_tokens": 643,
+        "output_tokens_details": {
+          "reasoning_tokens": 218
+        },
+        "total_tokens": 159485
+      }
+    ]
+  },
+  "elapsed_seconds": 31.387,
+  "finished_at_utc": "2026-10-27T09:17:26.228240+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 319312,
+    "output_tokens": 2198,
+    "cached_input_tokens": 160455,
+    "cache_write_tokens": 158839,
+    "reasoning_tokens": 333,
+    "total_tokens": 321510
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SBCERS__2020-Private-Equity-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"OCERS__investment_consultant_services_rfp.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Oklahoma_TRS__Investment.Consultant.RFP.adopted.by.Board.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SBCERS__2020-Private-Equity-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"OCERS__investment_consultant_services_rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Oklahoma_TRS__Investment.Consultant.RFP.adopted.by.Board.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"SBCERS__2020-Private-Equity-RFP.pdf\",\"pages\":\"3-4,9\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf\",\"pages\":\"3-4,23\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\",\"pages\":\"3-4,8-9\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"OCERS__investment_consultant_services_rfp.pdf\",\"pages\":\"4-6,14-16\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Oklahoma_TRS__Investment.Consultant.RFP.adopted.by.Board.pdf\",\"pages\":\"9-10,17\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\",\"pages\":\"3-4,11\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf\",\"pages\":\"5-7\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf\",\"pages\":\"5-7\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\",\"pages\":\"3-6\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf\",\"pages\":\"4-5\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\",\"pages\":\"3-5\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf\",\"pages\":\"5-7\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "SBCERS__2020-Private-Equity-RFP.pdf",
+      "pages": "3-4,9",
+      "success": true,
+      "call_id": "call_1fPr7yT55MUId28YqrLeBLiu"
+    },
+    {
+      "document": "DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf",
+      "pages": "3-4,23",
+      "success": true,
+      "call_id": "call_cZ4WRcxlul2KgH8aTYWXwBtC"
+    },
+    {
+      "document": "Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf",
+      "pages": "3-4,8-9",
+      "success": true,
+      "call_id": "call_Sgfbq8uggxH2cqb5ENN5HwlM"
+    },
+    {
+      "document": "OCERS__investment_consultant_services_rfp.pdf",
+      "pages": "4-6,14-16",
+      "success": true,
+      "call_id": "call_hgpW4EQXR34h1Dh7LsWE6fGW"
+    },
+    {
+      "document": "Oklahoma_TRS__Investment.Consultant.RFP.adopted.by.Board.pdf",
+      "pages": "9-10,17",
+      "success": true,
+      "call_id": "call_IaYn1gcpBLHScU0dDGwiZWxj"
+    },
+    {
+      "document": "TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf",
+      "pages": "3-4,11",
+      "success": true,
+      "call_id": "call_ZeTA1M9LSl7e4JGGgK2Un1eq"
+    },
+    {
+      "document": "Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf",
+      "pages": "5-7",
+      "success": true,
+      "call_id": "call_JkoWR7K4lXRH4jhH26rk5a4g"
+    },
+    {
+      "document": "Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf",
+      "pages": "5-7",
+      "success": true,
+      "call_id": "call_GDrt42RoQiOCuQzQWCo9HP5u"
+    },
+    {
+      "document": "INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf",
+      "pages": "3-6",
+      "success": true,
+      "call_id": "call_W1zPZsrpasTQjARpQcBKzaER"
+    },
+    {
+      "document": "Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf",
+      "pages": "4-5",
+      "success": true,
+      "call_id": "call_oQqRa4lswVYgYr3y1xL9jJqF"
+    },
+    {
+      "document": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+      "pages": "3-5",
+      "success": true,
+      "call_id": "call_nCy34l2jR7nxpTG1Wyl5PQEW"
+    },
+    {
+      "document": "NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf",
+      "pages": "5-7",
+      "success": true,
+      "call_id": "call_QvP60el3anpzqJW2tR6wl6mE"
+    }
+  ],
+  "successfully_read_documents": [
+    "Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf",
+    "DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf",
+    "Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf",
+    "Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf",
+    "INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf",
+    "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+    "Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf",
+    "NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf",
+    "OCERS__investment_consultant_services_rfp.pdf",
+    "Oklahoma_TRS__Investment.Consultant.RFP.adopted.by.Board.pdf",
+    "SBCERS__2020-Private-Equity-RFP.pdf",
+    "TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf"
+  ]
+}

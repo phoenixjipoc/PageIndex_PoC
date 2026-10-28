@@ -1,0 +1,91 @@
+{
+  "doc_id": "pi-ddb9562b8e8f46c1814533ad160b985c",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "APPENDIX A ",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 7,
+      "summary": "Appendix A is a respondent due-diligence questionnaire covering firm history, offices, ownership, leadership, succession, investment activities, commitments, New Jersey/SSBCI connections, diversity policies, conduct rules, harassment claims, workforce and board diversity, mentorship, and portfolio-company conduct. It asks about the Fund’s legal and tax structure, fundraising, LPs, placement agents, co-investment, borrowing, size, strategy, sectors, stages, geography, competitors, risks, returns, holding periods, investment limits and structures, leverage, control, investor rights, and New Jersey life-sciences and healthcare opportunities. It examines sourcing, screening, due diligence, approvals, valuation, monitoring, staffing, follow-ons, reserves, recycling, exits, compliance controls, and underperforming investments. Further topics include reporting, audits, leadership and team retention, compensation and carry, capital contributions, key-person provisions, ESG and responsible investment, governance, conflicts, RIA status, portfolio support, administration, accounting, service providers, counterparty risk, software, litigation, and investigations.",
+      "nodes": [
+        {
+          "title": "Respondent Firm Due Diligence Questionnaire",
+          "node_id": "0001",
+          "start_index": 1,
+          "end_index": 1,
+          "key_items": [
+            "1.1. Provide a brief overview of respondent, including information on the founding, subsequent history and information on any predecessor firm and/or parent firm.",
+            "1.2. Provide the address for all office locations of respondent. Describe the potential plans for any expected office location changes during the life of the Fund.",
+            "2.2 Does respondent have a senior executive appointed to ensure the policy is executed?",
+            "2.4. Detail respondent’s Code of Conduct that covers harassment, discrimination and/or workplace violence."
+          ],
+          "summary": "The questionnaire requests information on the respondent’s founding and history, offices and planned changes, ownership structure and changes, member biographies and relevant New Jersey or SSBCI connections, management structure and succession, investment and other activities including joint ventures and sidecars, and significant outside commitments. It also asks about the firm’s diversity and inclusion policy and implementation, the executive responsible for its execution, policy and Code of Conduct changes, and conduct rules addressing harassment, discrimination, and workplace violence. Inapplicable responses should be marked “N/A.”"
+        },
+        {
+          "title": "2.5. Indicate if respondent would require such a Code of Conduct for the Fund’s portfolio companies.",
+          "node_id": "0002",
+          "start_index": 1,
+          "end_index": 2,
+          "summary": "2.5. Indicate if respondent would require such a Code of Conduct for the Fund’s portfolio companies.\n152.6. Does respondent have a formal underwriting procedure to evaluate diversity in prospective businesses it is considering for investment? If “yes,” what metrics does respondent consider relevant?\n2.7. Have there been any claims of sexual or general harassment, misconduct or discrimination against any current or former respondent employees (while employed by respondent) within the last 5 years? Please explain."
+        },
+        {
+          "title": "2.8. Does respondent track the gender composition of employees taking family leave benefits? If ‘yes’, provide a summary of employees that have taken family leave in the last three years.",
+          "node_id": "0003",
+          "start_index": 2,
+          "end_index": 2,
+          "summary": "2.8. Does respondent track the gender composition of employees taking family leave benefits? If ‘yes’, provide a summary of employees that have taken family leave in the last three years.\n2.9. For investments made by respondent during the last five years, what is the average percentage of board members identifying as female per company? Average percentage of board members identifying as minorities? Data should be as-of the earlier of the most recent quarter-end or the date the investment was exited. Only include investments in which respondent held a majority interest (either directly or through “club deals”). SSBCI data definition identifies ethnic minorities as the following: Black Americans, Hispanic Americans, Native Americans, Asian Pacific Americans, and Sub Continent Asian American."
+        },
+        {
+          "title": "2.10. Does respondent have formal mentorship program for minorities and/or women?",
+          "node_id": "0004",
+          "start_index": 2,
+          "end_index": 3,
+          "summary": "The questionnaire asks about formal mentorship for women and minorities and partnerships or programs supporting their attraction and retention in private equity. It requests the Fund’s legal and tax structure, distinctive features, fundraising capability and prospective LP relationships, use of unregistered placement agents, co-investment and side-car policies and allocation, and borrowing plans and limits. It covers the investment strategy, transaction size and pace, holding periods, sectors and stages; required and targeted fund size, investment capacity and co-investing; diversification; strategy history and comparison with other funds; competitive advantages and replicable returns; and plans and experience investing in New Jersey life-science and healthcare companies and the local market. It also asks about investment structures, equity and leverage, control preferences and investor rights, investment limits, competitors, strategy risks and mitigation, work with and incentives for portfolio-company management, services provided, and value-creation strengths, sourcing effects, and illustrative case studies."
+        },
+        {
+          "title": "Fund Strategy, Investment Approach, and Limitations",
+          "node_id": "0005",
+          "start_index": 3,
+          "end_index": 3,
+          "key_items": [
+            "4.3. Provide detail on the respondent’s proposed diversification strategy in terms of number of investments and sector allocations.",
+            "4.5. Describe respondent’s competitive advantages and discuss how the respondent attempts to produce replicable returns.",
+            "4.10. Describe any proposed Fund investment limitations (e.g. % of fund in a single company, geography, security type, company stage, etc)."
+          ],
+          "summary": "The page requests information about the Fund size needed to execute its strategy, the respondent’s ability to invest at that scale, and implications for co-investing. It covers portfolio diversification by investment count and sector; the evolution of the respondent’s strategy and its relationship to other funds; competitive advantages and methods for producing replicable returns; and plans, portfolio exposure, market opportunities, and experience in New Jersey life sciences and healthcare. It also asks about investment structures, typical equity and leverage levels, and strategy effectiveness without leverage; historical preferences for control, minority, joint, or sole investments and the rights sought; and proposed limits on concentration, geography, security type, company stage, and other investment characteristics."
+        },
+        {
+          "title": "4.11. Describe and list the Fund’s direct competitors.",
+          "node_id": "0006",
+          "start_index": 3,
+          "end_index": 4,
+          "summary": "The text requests information on the Fund’s direct competitors; investment-strategy risks and mitigations; engagement with portfolio-company management, incentives and services; value-creation strengths, sourcing effects and case studies; target returns, holding period, and factors affecting NJ investment levels. It also asks about the full investment process: sourcing, screening and due diligence (staffing, criteria, documentation, duration and third parties); internal approvals and Investment Committee; valuation and pricing discipline; portfolio monitoring, board representation and professional workloads; follow-on criteria, IPEV guidelines, capital recycling, reserves and independent valuation; exit strategy and historical exits; and post-investment fraud, corruption and compliance controls. Finally, it requests examples of investments with TVPI below 1.0x, including causes, responses, lessons and involvement of outside experts."
+        },
+        {
+          "title": "Investment Strategy, Process, and Portfolio Management",
+          "node_id": "0007",
+          "start_index": 4,
+          "end_index": 4,
+          "key_items": [
+            "4.16. What are possible drivers that could lead to investing more or less capital in NJ-based investments?",
+            "5.4. Provide details on the respondent’s internal decision-making and approval process, including details on the role, composition and function of the respondent’s Investment Committee.",
+            "5.5. Discuss the respondent’s approach to the valuation of investment opportunities and pricing discipline.",
+            "5.7. How many active portfolio companies is each investment professional responsible for? How was this number determined and how has it evolved over the respondent’s history?"
+          ],
+          "summary": "The page asks about target investment return profiles and holding periods, and factors that could increase or decrease capital invested in New Jersey-based opportunities. It covers deal sourcing, screening, due diligence, staffing, documentation, attractiveness criteria, duration, and the use and selection of third parties. It also addresses internal investment decisions and approvals, including the Investment Committee’s role and composition; valuation and pricing discipline; portfolio monitoring, contact frequency, and board representation; and the number of active portfolio companies managed per investment professional, how that workload was set, and how it has changed. Finally, it asks about follow-on investment criteria, use of IPEV valuation guidelines, capital recycling, and follow-on reserves."
+        },
+        {
+          "title": "5.9. Discuss if the respondent proposes that the Fund be valued by an independent, third-party valuation firm.",
+          "node_id": "0008",
+          "start_index": 4,
+          "end_index": 7,
+          "summary": "The questionnaire covers independent fund valuation; investment exit strategies, past exit examples, and post-investment fraud, corruption, and compliance controls; underperforming investments, lessons and expert involvement, and omitted track-record investments. Reporting topics include audit firms and independence, audited carry allocations, and proposed reporting aligned with ILPA practices. Team questions address leadership, shared history, roles and bios, New Jersey networks, retention, training, promotions, key-person events, relevant personal conditions, and past or expected senior departures. Alignment topics include compensation and carry splits, vesting and forfeitures, investment contributions and financing, affiliate commitments, leverage, and clawbacks. ESG and governance topics include advisory bodies, conflicts, personal investments, RIA status, responsible-investment policies, portfolio support, and monitoring. Administration and legal topics cover support functions, accounting principles and internal audits, capital movements, service providers and counterparty risk, business software, and recent or pending litigation or investigations."
+        }
+      ]
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

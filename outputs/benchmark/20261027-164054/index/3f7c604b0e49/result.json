@@ -1,0 +1,43 @@
+{
+  "file": "Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf",
+  "sha256": "ae2a0b861b9193bf89692627dce0af0d13ec248c7013cd25c85f4f8a3d8d5866",
+  "bytes": 257429,
+  "pages": 22,
+  "public_source_url": "https://www.psprs.com/uploads/sites/1/PSPRS_Investment_Consultant_RFP.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:44:17.704714+00:00",
+  "doc_id": "pi-1634e6b884514cbba39c401bb4ae44a7",
+  "stored_name": "Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf",
+  "reported_usage": {
+    "prompt_tokens": 15357,
+    "completion_tokens": 1708,
+    "total_tokens": 17065,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 13510
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 399
+    }
+  },
+  "elapsed_seconds": 16.878,
+  "finished_at_utc": "2026-10-27T08:44:34.596735+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 15357,
+    "output_tokens": 1708,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 13510,
+    "reasoning_tokens": 399,
+    "total_tokens": 17065
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

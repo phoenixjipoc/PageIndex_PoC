@@ -1,0 +1,7 @@
+{
+  "question": "In the Massachusetts PRIM Board's October 2023 RFP for Multi-Asset Credit investment management services, what minimum total firm assets under management must a respondent have?",
+  "gold_answer": "At least $10 billion in total firm assets under management, or alternatively at least $2 billion in multi-asset credit strategy assets under management, as of September 30, 2023.",
+  "acceptance": "$10bn is the direct total-firm threshold answer; elaboration should preserve the OR $2bn multi-asset-credit route. Do not reject a narrow $10bn answer solely for omitting the alternative; do reject an explicit claim that every respondent must have $10bn. As-of date is supportive context.",
+  "scope": "single_document",
+  "candidate_answer": "A respondent must have **at least $10 billion in total firm assets under management** as of September 30, 2023. Alternatively, it can qualify with at least $2 billion in multi-asset credit strategy assets under management. [Source: PRIM RFP, p. 11](MA_PRIM__PDF-Version-of-RFP.pdf#page=11)"
+}

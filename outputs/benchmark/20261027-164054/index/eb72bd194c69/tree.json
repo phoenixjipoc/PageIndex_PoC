@@ -1,0 +1,105 @@
+{
+  "doc_id": "pi-d9cad4ae12964f998d9572cec4f45858",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 1,
+      "summary": "Retirement Plan for CTA Employees\nInvestment Consulting Request for Proposals\nAdvertised Date April 29, 2025\nProposals Due via email\nMay 30, 2025 3:00 pm, Central Time psidrys@ctapension.com\n55 W. Monroe, Suite 1950 Chicago, IL 60603"
+    },
+    {
+      "title": "Investment Consultant RFP Overview",
+      "node_id": "0001",
+      "start_index": 2,
+      "end_index": 2,
+      "key_items": [
+        "INTRODUCTION",
+        "TERM OF AGREEMENT",
+        "TIMELINE",
+        "SUBMISSION PROCESS",
+        "SEARCH CONTACT",
+        "PLAN INVESTMENT SUMMARY"
+      ],
+      "summary": "The Retirement Plan for CTA Employees seeks proposals from qualified firms to provide investment consulting services. Established in 1949 under the Illinois Pension Code, the Plan is managed by an 11-member Board of Trustees responsible for assets and eligible members’ retirement, survivor, and disability benefits. The contract term is five years, with termination without cause permitted on 30 days’ notice. The RFP was issued April 29, 2025; written questions are due May 16 at 3 p.m.; proposals are due May 30 at 3 p.m. Evaluations run May 30–June 9, finalist interviews are tentatively scheduled for the week of June 9, and notifications for the week of June 16. A Board subcommittee oversees the process. The RFP is on ctaretirement.org; email questions to Executive Director Paul Sidrys at psidrys@ctapension.com, using the requested subject line. General-interest answers will be posted beginning May 19. Late proposals will not be considered. As of April 1, 2025, invested assets were about $2 billion, with an expected long-term return of 8.25%."
+    },
+    {
+      "title": "PROPOSAL",
+      "node_id": "0002",
+      "start_index": 3,
+      "end_index": 5,
+      "key_items": [
+        "QUALIFICATIONS; EVALUATION CRITERIA; SELECTION",
+        "QUALIFICATIONS",
+        "EVALUATION CRITERIA",
+        "SELECTION",
+        "QUIET PERIOD",
+        "DISCLOSURE OF PROPOSAL CONTENT; DISPOSITION OF PROPOSALS",
+        "DISCLOSURE OF PROPOSAL CONTENT",
+        "DISPOSITION OF PROPOSALS",
+        "SCOPE OF WORK"
+      ],
+      "summary": "Proposals must be complete, clearly answer the RFP, and be submitted as PDFs by email to the Search Contact by the deadline; paper submissions are not accepted. Respondents must act as fiduciaries, hold current SEC investment-adviser registration (provide latest Forms ADV I and II), have at least three public-fund clients each exceeding $1 billion in assets and ten years in business as of December 31, 2024, assign consultants with ten years’ experience (five as primary), and carry errors-and-omissions or comparable insurance. An appointed Board committee evaluates approach, staff, firm experience, references, and fees; top firms are interviewed. Selection considers technical, management, cost, and oral-presentation elements—not necessarily lowest cost—and is expected at the June 26, 2025 Board meeting. During the quiet period, respondents may not contact Board or staff about the search or provide them anything of value; questions go to the Executive Director. Proposals become public under Illinois FOIA, subject to lawful protection of clearly marked confidential material; submissions become Fund property and imply acceptance of RFP terms. The consultant supports fiduciary oversight, annual reviews, strategy and allocation, monthly performance reporting net of all compensation, provider reviews, manager benchmarking and evaluation, searches and due diligence, training, ongoing information, and specialized research; custodial searches are for general consultants. Consultants must provide client examples of required services."
+    },
+    {
+      "title": "SECTION 1 ORGANIZATIONAL BACKGROUND",
+      "node_id": "0003",
+      "start_index": 5,
+      "end_index": 6,
+      "summary": "The section requests information on the firm’s parent entities, controlling owners, owners with over 7.5% interests, and executive officers; office locations, functions, account-service location, and consulting services; insurance coverage levels and carriers, policy availability, and claims; regulatory investigations or discipline; and actual or potential conflicts involving clients, affiliates, brokerage, investment banking, asset management, Trustees, or other relationships. It asks whether the firm provides trust, asset-management, or securities-brokerage/commission-recapture services, whether it provides them to consulting clients, how conflicts are managed, and the share of revenue from those services (noting the Board will not hire a consultant also seeking Plan asset-management work). It also asks about revenue from money managers for other services, other business lines and related revenue, and relevant lawsuits in the past three years. Finally, it requests a draft service agreement, willingness to modify it and incorporate RFP responses, and whether the firm would seek liability limits or Trust indemnification."
+    },
+    {
+      "title": "SECTION 2 PEOPLE/ORGANIZATION",
+      "node_id": "0004",
+      "start_index": 6,
+      "end_index": 7,
+      "summary": "Requests information about the firm’s staffing levels and organizational chart; names and biographies of officers, consultants, and client-service staff; consultants’ portfolio-management and plan-sponsor experience; and the support structure for servicing accounts. It asks how many consultants hold CFA designations or advanced degrees, who would manage the account day to day and the estimated time commitment, how service continuity is ensured, and whether non-support personnel have joined or left in the past three years and why. It also asks about compensation and incentives, including recruiting and retaining consultants, evaluating and rewarding professionals, employee ownership and vesting criteria or future plans, and the succession plan for major changes involving owners or senior officers, including whether any part has been implemented."
+    },
+    {
+      "title": "SECTION 3 RESEARCH",
+      "node_id": "0005",
+      "start_index": 7,
+      "end_index": 8,
+      "summary": "The section requests information about the firm’s investment research approach across markets, managers, and strategies, including external researcher or academic relationships; the research department’s structure; and examples of how research informs products and services. It asks whether the firm provides research reports and requests two samples, and asks what tools are used to assess managers and markets and whether they are developed in-house or purchased. It also covers asset-liability studies, their methodology, and a sample study for another large public fund; trustee and staff education, including presenter qualifications; and whether clients can access a white-paper database. The firm should describe research, application, measurement, and reporting for portfolio volatility, VaR, hedging, and beta management; processes and capabilities for monitoring and reporting domestic and international market trends and influences; and technology capabilities related to consulting or products, including any custom computer-based analytical tools provided to clients."
+    },
+    {
+      "title": "SECTION 4 ASSET ALLOCATION & INVESTMENT POLICY",
+      "node_id": "0006",
+      "start_index": 8,
+      "end_index": 9,
+      "summary": "The section requests details on the firm’s asset-allocation process, including investment policy statement development and recent updates, typical policy contents, review frequency, portfolio-structure and manager analysis, and manager guidelines. It asks about performance-measurement database size, composition, sources, and comparison indices; monitoring managers’ objectives and selection criteria, including interaction frequency; and development of capital-market and asset-class return assumptions, model ownership or vendors, input development, and client-specific customization. It also seeks a list of asset classes the firm has experience with and has implemented for clients; views on rebalancing targets, ranges, frequency, and execution; positions on indexing and enhanced indexing; and capabilities in custodial searches."
+    },
+    {
+      "title": "SECTION 5 INVESTMENT MANAGER SEARCH",
+      "node_id": "0007",
+      "start_index": 9,
+      "end_index": 11,
+      "key_items": [
+        "SECTION 6 RISK",
+        "SECTION 7 PERFORMANCE REPORTING"
+      ],
+      "summary": "The questionnaire covers investment-manager search and research, including database sources, size and asset-class coverage; data collection and maintenance; database sales and compensation; manager fees; equity-style classification; due diligence and search processes; search history; termination criteria; minority- and women-owned firm databases and client goals; alternative-investment resources and searches; other researched services; and research staffing and responsibilities. Risk questions address absolute and relative risk, controls, monitoring measures and their portfolio levels and importance, tracking error, risk budgeting and manager-structuring tools, outsourcing, and client capabilities and costs. Performance reporting questions cover services, data sources and calculation/reconciliation methods, customization and delivery frequency, sample reports, attribution, benchmark selection and custom benchmarks, watch-list criteria and removal, and proxy voting services and reports."
+    },
+    {
+      "title": "SECTION 8 OTHER CONSIDERATIONS",
+      "node_id": "0008",
+      "start_index": 11,
+      "end_index": 11,
+      "summary": "Section 8 asks firms to explain how they work with emerging minority-, female-, and disability-owned firms within an overall investment plan and support the Fund’s goals under its Emerging Investment Manager Utilization Program and Illinois Public Act 96-0006. It asks about consulting specialties, strengths, differentiators, and limitations; willingness to comply with 40 ILCS 5/1-113.14(c); reasons the Fund should select the firm over competitors; the firm’s philosophy and planned collaboration with the Board of Trustees, staff, and investment managers; and the capital-market beliefs underlying its investment advice."
+    },
+    {
+      "title": "SECTION 9 CLIENT BASE",
+      "node_id": "0009",
+      "start_index": 11,
+      "end_index": 12,
+      "key_items": [
+        "SECTION 10 FEES"
+      ],
+      "summary": "Section 9 requests client counts by asset-size range ($0–50M, $51–500M, $501–1,000M, $1,001–5,000M, and over $5,000M) across public pension funds, Illinois public pension funds, Taft-Hartley funds, and endowments/corporate foundations; a current public-fund client list; at least three public-fund references; and clients that terminated services in the past five years, with reasons. Section 10 asks how fees are determined; whether an all-inclusive retainer is offered and what it covers; proposed investment-consulting fees with service-by-service breakdown (excluding soft-dollar arrangements); the travel-expense policy; other potential costs; and complaints against the firm or its employees received by the SEC or NASD."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

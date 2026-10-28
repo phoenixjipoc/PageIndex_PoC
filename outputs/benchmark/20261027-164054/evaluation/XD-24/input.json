@@ -1,0 +1,7 @@
+{
+  "question": "What annual fee does the Texas Municipal Retirement System (TMRS) currently pay its incumbent general investment consultant?",
+  "gold_answer": "NOT IN CORPUS",
+  "acceptance": "Accept not disclosed/unknown from supplied documents; distinguish blank proposed-fee template from actual incumbent remuneration. No guessed dollar amount.",
+  "scope": "negative",
+  "candidate_answer": "The available TMRS document does **not disclose the incumbent consultant’s annual fee**. Its February 2022 RFP asks bidders to propose an all-inclusive annual fee, but the fee field in the draft agreement is blank. [TMRS general investment consulting RFP, pp. 26, 30](TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf)"
+}

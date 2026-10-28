@@ -1,0 +1,15 @@
+{
+  "question_id": "SVC-19",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "d7c9154f45268714ad1db5978ec4f0a736696195530efe1eebee30caddc98f2e",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "All eleven minimum qualifications retained, including material fee exceptions.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:12.481338+00:00"
+}

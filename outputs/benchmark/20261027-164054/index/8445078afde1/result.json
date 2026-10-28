@@ -1,0 +1,43 @@
+{
+  "file": "Grand_Rapids_GRS__Investment-Consultant-RFP-2023.pdf",
+  "sha256": "f16a330bb2ab6eb30a8459d5829bf5ae9a0786561e8e292beab06232857fb2ba",
+  "bytes": 148912,
+  "pages": 12,
+  "public_source_url": "https://grpensions.org/wp-content/uploads/Investment-Consultant-RFP-2023.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:50:50.414245+00:00",
+  "doc_id": "pi-987a973d46744e9eaf88d2ffa31ffc25",
+  "stored_name": "Grand_Rapids_GRS__Investment-Consultant-RFP-2023.pdf",
+  "reported_usage": {
+    "prompt_tokens": 7463,
+    "completion_tokens": 2104,
+    "total_tokens": 9567,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 2404
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 538
+    }
+  },
+  "elapsed_seconds": 8.622,
+  "finished_at_utc": "2026-10-27T08:50:59.051780+00:00",
+  "model_calls": 9,
+  "http_attempts": 9,
+  "observed_usage": {
+    "input_tokens": 7463,
+    "output_tokens": 2104,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 2404,
+    "reasoning_tokens": 538,
+    "total_tokens": 9567
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

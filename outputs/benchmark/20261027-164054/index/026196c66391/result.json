@@ -1,0 +1,43 @@
+{
+  "file": "CAJPA__28._Appendix_Z-Sample_Invest.pdf",
+  "sha256": "ea1bb65aa7b42689dd00b326025cd3acf50f9f62d78871d8ce1bd2f64af08242",
+  "bytes": 49230,
+  "pages": 9,
+  "public_source_url": "https://cdn.ymaws.com/www.cajpa.org/resource/resmgr/files/accreditation/28._Appendix_Z-Sample_Invest.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:47:09.447149+00:00",
+  "doc_id": "pi-866441e238724dd4a699049551bd4971",
+  "stored_name": "CAJPA__28._Appendix_Z-Sample_Invest.pdf",
+  "reported_usage": {
+    "prompt_tokens": 5146,
+    "completion_tokens": 1727,
+    "total_tokens": 6873,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 1830
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 539
+    }
+  },
+  "elapsed_seconds": 7.506,
+  "finished_at_utc": "2026-10-27T08:47:16.964252+00:00",
+  "model_calls": 8,
+  "http_attempts": 8,
+  "observed_usage": {
+    "input_tokens": 5146,
+    "output_tokens": 1727,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 1830,
+    "reasoning_tokens": 539,
+    "total_tokens": 6873
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

@@ -1,0 +1,149 @@
+{
+  "id": "XD-14",
+  "question": "What questions are asked under section 10.0 'ESG (Environmental, Social, Governance)' of the NJEDA Life Science Seed Fund due diligence questionnaire (Appendix A)?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:14:04.637196+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "Section 10.0 of Appendix A asks eight questions:\n\n1. **10.1:** What role do the respondent’s internal advisory boards play? What matters have been referred to them, including unresolved matters, and what other governing or advisory bodies affect management or investment activity?\n2. **10.2:** What potential, current, or historical conflicts of interest exist? How are they identified, managed, disclosed, and resolved, and what committees help resolve them?\n3. **10.3:** What is the policy on employees’ or affiliates’ personal investments in deals the respondent has reviewed, whether accepted or rejected? If applicable, list prior investments of this kind.\n4. **10.4:** Is the respondent a registered investment advisor (RIA)?\n5. **10.5:** What are the respondent’s ESG-related policies, and how do ESG factors influence its investment beliefs?\n6. **10.6:** What is the implementation status of its responsible investment policy? Are there firm plans to develop its approach to managing ESG factors?\n7. **10.7:** How does the respondent help portfolio companies manage ESG-related risks and opportunities?\n8. **10.8:** What processes would monitor how the proposed Fund’s portfolio companies manage ESG factors?\n\nSource: *NJEDA Life Science Seed Fund due diligence questionnaire*, Appendix A, p. 6 (printed p. 20).",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 40932,
+    "input_tokens_details": {
+      "cached_tokens": 29619,
+      "cache_write_tokens": 11295
+    },
+    "output_tokens": 517,
+    "output_tokens_details": {
+      "reasoning_tokens": 13
+    },
+    "total_tokens": 41449,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1224,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1221
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1239
+      },
+      {
+        "input_tokens": 2390,
+        "input_tokens_details": {
+          "cached_tokens": 1221,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 13
+        },
+        "total_tokens": 2428
+      },
+      {
+        "input_tokens": 7668,
+        "input_tokens_details": {
+          "cached_tokens": 2387,
+          "cache_write_tokens": 5278
+        },
+        "output_tokens": 58,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7726
+      },
+      {
+        "input_tokens": 8038,
+        "input_tokens_details": {
+          "cached_tokens": 7665,
+          "cache_write_tokens": 370
+        },
+        "output_tokens": 59,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 8097
+      },
+      {
+        "input_tokens": 10314,
+        "input_tokens_details": {
+          "cached_tokens": 8035,
+          "cache_write_tokens": 2276
+        },
+        "output_tokens": 65,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10379
+      },
+      {
+        "input_tokens": 11298,
+        "input_tokens_details": {
+          "cached_tokens": 10311,
+          "cache_write_tokens": 984
+        },
+        "output_tokens": 282,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 11580
+      }
+    ]
+  },
+  "elapsed_seconds": 15.355,
+  "finished_at_utc": "2026-10-27T09:14:19.997855+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 40932,
+    "output_tokens": 517,
+    "cached_input_tokens": 29619,
+    "cache_write_tokens": 11295,
+    "reasoning_tokens": 13,
+    "total_tokens": 41449
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":0}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf\",\"pages\":\"6-7\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf",
+      "pages": "6-7",
+      "success": true,
+      "call_id": "call_a3RUSx5J7sFURvogPreUiqUa"
+    }
+  ],
+  "successfully_read_documents": [
+    "NJEDA__NJEDA-LIFE-SCIENCE-SEED-FUND-NOTICE-OF-INVESTMENT-OPPORTUNITY-ISSUED-2023-02-09-.pdf"
+  ]
+}

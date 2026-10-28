@@ -1,0 +1,43 @@
+{
+  "file": "LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf",
+  "sha256": "4d34918d46640652ae74a46e8ea80b6ca12cd8c9faef9882510ee347cef79eae",
+  "bytes": 1645690,
+  "pages": 67,
+  "public_source_url": "https://content.lafpp.lacity.gov/wp-content/uploads/2025/01/RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:58:50.632416+00:00",
+  "doc_id": "pi-56d192f702e446f4ae667faac0fd2d6e",
+  "stored_name": "LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf",
+  "reported_usage": {
+    "prompt_tokens": 67073,
+    "completion_tokens": 17686,
+    "total_tokens": 84759,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 40847
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 4701
+    }
+  },
+  "elapsed_seconds": 48.839,
+  "finished_at_utc": "2026-10-27T08:59:39.482055+00:00",
+  "model_calls": 65,
+  "http_attempts": 65,
+  "observed_usage": {
+    "input_tokens": 67073,
+    "output_tokens": 17686,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 40847,
+    "reasoning_tokens": 4701,
+    "total_tokens": 84759
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

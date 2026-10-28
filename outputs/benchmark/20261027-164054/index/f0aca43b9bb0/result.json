@@ -1,0 +1,43 @@
+{
+  "file": "ILPA__ILPA-DDQ-2.0.pdf",
+  "sha256": "0a883010fd5ea3dfe545d3ed6b5976648d777af69e14632360084d847c3ebad0",
+  "bytes": 847190,
+  "pages": 58,
+  "public_source_url": "https://ilpa.org/wp-content/uploads/2021/11/ILPA-DDQ-2.0.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:52:56.407318+00:00",
+  "doc_id": "pi-5082d3c106284803a1cdb0fe2577f276",
+  "stored_name": "ILPA__ILPA-DDQ-2.0.pdf",
+  "reported_usage": {
+    "prompt_tokens": 78913,
+    "completion_tokens": 21606,
+    "total_tokens": 100519,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 28839
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 6401
+    }
+  },
+  "elapsed_seconds": 35.308,
+  "finished_at_utc": "2026-10-27T08:53:31.731900+00:00",
+  "model_calls": 87,
+  "http_attempts": 87,
+  "observed_usage": {
+    "input_tokens": 78913,
+    "output_tokens": 21606,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 28839,
+    "reasoning_tokens": 6401,
+    "total_tokens": 100519
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

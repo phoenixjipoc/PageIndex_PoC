@@ -1,0 +1,7 @@
+{
+  "question": "Which retirement plan's investment consulting RFP requires that, as of December 31, 2024, the firm have at least three public fund clients each with at least $1B in assets and have been in business at least ten years?",
+  "gold_answer": "The Retirement Plan for CTA Employees (Chicago Transit Authority), in its April 29, 2025 investment consulting RFP.",
+  "acceptance": "Retirement Plan for CTA/Chicago Transit Authority Employees; publication date is optional.",
+  "scope": "single_document",
+  "candidate_answer": "It is the **Retirement Plan for CTA Employees**. Its investment consulting RFP lists both requirements in the qualifications section: at least three public fund clients with $1 billion or more in assets each, and at least ten years in business, as of December 31, 2024. [Source: RFP, p. 3](CTA_Retirement_Plan__RP_Investment_Consultant_RFP_4_29_25.pdf)"
+}

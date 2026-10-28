@@ -1,0 +1,117 @@
+{
+  "id": "INV-18",
+  "question": "What is the full timetable in the City of York (Pennsylvania) Pension Funds' November 2016 RFP for an investment manager, adviser or consultant?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:20:12.661391+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The RFP’s full timetable is: ([City of York RFP, p. 3](York_PA__RFP-Investment_Manager_Advisor_Consultant_-_November_2016.pdf))\n\n| Milestone | Date |\n|---|---|\n| RFP issued | November 28, 2016 |\n| Questions about the RFP due | December 12, 2016 |\n| Responses to questions posted | December 16, 2016 |\n| Proposals due | January 6, 2017 |\n| Interviewees notified | February 17, 2017 |\n| Interviews | March 13–17, 2017 |\n| Selected manager notified | May 19, 2017 |\n| Investment agreement signed | June 16, 2017 |\n| Mandate begins | July 1, 2017 |\n\nThe City reserved the right to amend the timetable.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 10731,
+    "input_tokens_details": {
+      "cached_tokens": 6266,
+      "cache_write_tokens": 4453
+    },
+    "output_tokens": 288,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 11019,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1220,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1217
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1235
+      },
+      {
+        "input_tokens": 2386,
+        "input_tokens_details": {
+          "cached_tokens": 1217,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2425
+      },
+      {
+        "input_tokens": 2669,
+        "input_tokens_details": {
+          "cached_tokens": 2383,
+          "cache_write_tokens": 283
+        },
+        "output_tokens": 46,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2715
+      },
+      {
+        "input_tokens": 4456,
+        "input_tokens_details": {
+          "cached_tokens": 2666,
+          "cache_write_tokens": 1787
+        },
+        "output_tokens": 188,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 4644
+      }
+    ]
+  },
+  "elapsed_seconds": 8.971,
+  "finished_at_utc": "2026-10-27T09:20:21.644622+00:00",
+  "model_calls": 4,
+  "http_attempts": 4,
+  "observed_usage": {
+    "input_tokens": 10731,
+    "output_tokens": 288,
+    "cached_input_tokens": 6266,
+    "cache_write_tokens": 4453,
+    "reasoning_tokens": 0,
+    "total_tokens": 11019
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"York_PA__RFP-Investment_Manager_Advisor_Consultant_-_November_2016.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"York_PA__RFP-Investment_Manager_Advisor_Consultant_-_November_2016.pdf\",\"pages\":\"1-4\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "York_PA__RFP-Investment_Manager_Advisor_Consultant_-_November_2016.pdf",
+      "pages": "1-4",
+      "success": true,
+      "call_id": "call_pTPjrb4oVrSzn5BEhcsLCw6v"
+    }
+  ],
+  "successfully_read_documents": [
+    "York_PA__RFP-Investment_Manager_Advisor_Consultant_-_November_2016.pdf"
+  ]
+}

@@ -1,0 +1,12 @@
+.venv/
+.cache/
+.env
+.env.*
+!.env.example
+vendor/
+.pageindex/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.pem
+*.key

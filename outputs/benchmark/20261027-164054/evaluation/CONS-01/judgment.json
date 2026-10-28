@@ -1,0 +1,15 @@
+{
+  "question_id": "CONS-01",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "5e053181c5878d971a431e407ae809a4024ee9ab14c8261408b9710219038f72",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct approximate market value and date.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:43.956568+00:00"
+}

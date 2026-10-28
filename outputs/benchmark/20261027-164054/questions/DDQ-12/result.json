@@ -1,0 +1,149 @@
+{
+  "id": "DDQ-12",
+  "question": "Which bucket (Not Present, Developing, Intermediate or Advanced) did ILPA assign to KKR under the ILPA ESG Assessment Framework, and what numerical score did KKR receive?",
+  "type": "unanswerable",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:17:26.792546+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "ILPA assigned KKR **no bucket and no numerical score**. The ESG Assessment Framework describes four maturity buckets for limited partners to use when evaluating general partners; it does not publish an assessment of KKR. [ILPA ESG Assessment Framework, p. 1]",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 40081,
+    "input_tokens_details": {
+      "cached_tokens": 29476,
+      "cache_write_tokens": 10587
+    },
+    "output_tokens": 312,
+    "output_tokens_details": {
+      "reasoning_tokens": 106
+    },
+    "total_tokens": 40393,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1224,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1221
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1239
+      },
+      {
+        "input_tokens": 2390,
+        "input_tokens_details": {
+          "cached_tokens": 1221,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 10
+        },
+        "total_tokens": 2425
+      },
+      {
+        "input_tokens": 7628,
+        "input_tokens_details": {
+          "cached_tokens": 2387,
+          "cache_write_tokens": 5238
+        },
+        "output_tokens": 56,
+        "output_tokens_details": {
+          "reasoning_tokens": 23
+        },
+        "total_tokens": 7684
+      },
+      {
+        "input_tokens": 7904,
+        "input_tokens_details": {
+          "cached_tokens": 7625,
+          "cache_write_tokens": 276
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7942
+      },
+      {
+        "input_tokens": 10345,
+        "input_tokens_details": {
+          "cached_tokens": 7901,
+          "cache_write_tokens": 2441
+        },
+        "output_tokens": 46,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 10391
+      },
+      {
+        "input_tokens": 10590,
+        "input_tokens_details": {
+          "cached_tokens": 10342,
+          "cache_write_tokens": 245
+        },
+        "output_tokens": 122,
+        "output_tokens_details": {
+          "reasoning_tokens": 62
+        },
+        "total_tokens": 10712
+      }
+    ]
+  },
+  "elapsed_seconds": 13.725,
+  "finished_at_utc": "2026-10-27T09:17:40.521048+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 40081,
+    "output_tokens": 312,
+    "cached_input_tokens": 29476,
+    "cache_write_tokens": 10587,
+    "reasoning_tokens": 106,
+    "total_tokens": 40393
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-ESG-Assessment-Framework.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-ESG-Assessment-Framework.pdf\",\"pages\":\"1-3\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-ESG-Assessment-Framework-FAQ.pdf\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "ILPA__ILPA-ESG-Assessment-Framework.pdf",
+      "pages": "1-3",
+      "success": true,
+      "call_id": "call_eVdwhXWFyptjjvvV5uxuaSrP"
+    }
+  ],
+  "successfully_read_documents": [
+    "ILPA__ILPA-ESG-Assessment-Framework.pdf"
+  ]
+}

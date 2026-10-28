@@ -1,0 +1,43 @@
+{
+  "file": "INPRS__RFP24-05_AuditServices.pdf",
+  "sha256": "935dc30b340f0bced802c57fc869f39be4544930eb92d81771dab0e9e1c861da",
+  "bytes": 489278,
+  "pages": 33,
+  "public_source_url": "https://www.in.gov/inprs/files/RFP24-05_AuditServices.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:55:47.030539+00:00",
+  "doc_id": "pi-72e20c58c6aa4c20a3e385a866ce2076",
+  "stored_name": "INPRS__RFP24-05_AuditServices.pdf",
+  "reported_usage": {
+    "prompt_tokens": 32158,
+    "completion_tokens": 8460,
+    "total_tokens": 40618,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 19568
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3059
+    }
+  },
+  "elapsed_seconds": 39.486,
+  "finished_at_utc": "2026-10-27T08:56:26.525274+00:00",
+  "model_calls": 26,
+  "http_attempts": 26,
+  "observed_usage": {
+    "input_tokens": 32158,
+    "output_tokens": 8460,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 19568,
+    "reasoning_tokens": 3059,
+    "total_tokens": 40618
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

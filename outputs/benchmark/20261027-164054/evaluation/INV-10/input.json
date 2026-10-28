@@ -1,0 +1,7 @@
+{
+  "question": "An alternative investment consulting RFP describes a private equity portfolio of 225 holdings across 105 general partners. What are the approximate net asset values of the system's absolute return, private credit, private equity and real assets portfolios?",
+  "gold_answer": "Absolute Return about $2.6 billion (11 funds across 10 managers); Private Credit about $1.8 billion (26 holdings, 16 GPs); Private Equity about $4.5 billion (225 holdings, 105 GPs); Real Assets about $3.1 billion (87 holdings, 58 GPs). Issuer: Indiana Public Retirement System (INPRS), RFP 23-09.",
+  "acceptance": "Require correct asset-class mapping to $2.6bn/$1.8bn/$4.5bn/$3.1bn; holdings/GP counts and issuer identification are optional.",
+  "scope": "single_document",
+  "candidate_answer": "The Indiana Public Retirement System RFP lists approximate net asset values of **$2.6 billion** for absolute return, **$1.8 billion** for private credit, **$4.5 billion** for private equity, and **$3.1 billion** for real assets. [Source: INPRS Alternative Investment Consulting Services RFP, p. 5]"
+}

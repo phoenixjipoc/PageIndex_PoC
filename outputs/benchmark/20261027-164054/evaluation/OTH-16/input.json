@@ -1,0 +1,7 @@
+{
+  "question": "In the Police Retirement System of St. Louis (PRS-STL) actuarial RFP, how many years of experience must the principal actuary have?",
+  "gold_answer": "A minimum of five years of professional actuarial experience, plus a minimum of five years of experience testifying before legislative and administrative bodies.",
+  "acceptance": "Five years professional actuarial experience is the core number. A complete description may state the separate five-year testimony requirement; these are not additive ten years and may overlap. Credentials are optional for this question.",
+  "scope": "single_document",
+  "candidate_answer": "The principal actuary must have **at least five years of professional actuarial experience**. The RFP also requires five years of experience testifying before legislative or administrative bodies. [PRS-STL actuarial RFP, p. 8]"
+}

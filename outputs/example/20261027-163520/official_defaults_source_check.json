@@ -1,0 +1,9 @@
+{
+  "source_commit": "e38b40ebaeea26d2c7206b80ce7bc9bf2935cdec",
+  "installed_source_python_files_checked": 96,
+  "installed_source_mismatches": [],
+  "core_inputs_checked": 82,
+  "core_input_mismatches": [],
+  "client_constructor_has_instructions_argument": false,
+  "structure_first_switch_removed": true
+}

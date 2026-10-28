@@ -1,0 +1,43 @@
+{
+  "file": "Anchorage_PFRS__RFP_2025_Final.pdf",
+  "sha256": "1a37f71028a2060a79da578a941355a3c4e862314c72f3ded865afab4910018d",
+  "bytes": 1036581,
+  "pages": 40,
+  "public_source_url": "https://www.muni.org/Departments/apfrs/Documents/RFP%202025%20Final.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:43:54.811380+00:00",
+  "doc_id": "pi-0cb5abd3210649b9a04537174db8980e",
+  "stored_name": "Anchorage_PFRS__RFP_2025_Final.pdf",
+  "reported_usage": {
+    "prompt_tokens": 23266,
+    "completion_tokens": 8081,
+    "total_tokens": 31347,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 8792
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2180
+    }
+  },
+  "elapsed_seconds": 22.861,
+  "finished_at_utc": "2026-10-27T08:44:17.683987+00:00",
+  "model_calls": 31,
+  "http_attempts": 31,
+  "observed_usage": {
+    "input_tokens": 23266,
+    "output_tokens": 8081,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 8792,
+    "reasoning_tokens": 2180,
+    "total_tokens": 31347
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

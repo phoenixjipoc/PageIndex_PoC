@@ -1,0 +1,149 @@
+{
+  "id": "CONS-13",
+  "question": "How many printed copies of the proposal must be submitted in the San Francisco Employees' Retirement System (SFERS) general investment consultant RFP?",
+  "type": "pair_b",
+  "pair_id": "P2",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:14:12.510000+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "Three printed (hard) copies of the proposal must be submitted. The RFP also requires one complete electronic copy. [SFERS RFP, p. 5](SFERS__SFERS-General-Investment-Consultant-RFP_vFinal.pdf#page=5)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 61794,
+    "input_tokens_details": {
+      "cached_tokens": 39602,
+      "cache_write_tokens": 22174
+    },
+    "output_tokens": 211,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 62005,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1216,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1213
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1231
+      },
+      {
+        "input_tokens": 2382,
+        "input_tokens_details": {
+          "cached_tokens": 1213,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2405
+      },
+      {
+        "input_tokens": 7608,
+        "input_tokens_details": {
+          "cached_tokens": 2379,
+          "cache_write_tokens": 5226
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7643
+      },
+      {
+        "input_tokens": 7877,
+        "input_tokens_details": {
+          "cached_tokens": 7605,
+          "cache_write_tokens": 269
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7913
+      },
+      {
+        "input_tokens": 20534,
+        "input_tokens_details": {
+          "cached_tokens": 7874,
+          "cache_write_tokens": 12657
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 20576
+      },
+      {
+        "input_tokens": 22177,
+        "input_tokens_details": {
+          "cached_tokens": 20531,
+          "cache_write_tokens": 1643
+        },
+        "output_tokens": 60,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 22237
+      }
+    ]
+  },
+  "elapsed_seconds": 14.113,
+  "finished_at_utc": "2026-10-27T09:14:26.631097+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 61794,
+    "output_tokens": 211,
+    "cached_input_tokens": 39602,
+    "cache_write_tokens": 22174,
+    "reasoning_tokens": 0,
+    "total_tokens": 62005
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SFERS__SFERS-General-Investment-Consultant-RFP_vFinal.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SFERS__SFERS-General-Investment-Consultant-RFP_vFinal.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"SFERS__SFERS-General-Investment-Consultant-RFP_vFinal.pdf\",\"pages\":\"5-6\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "SFERS__SFERS-General-Investment-Consultant-RFP_vFinal.pdf",
+      "pages": "5-6",
+      "success": true,
+      "call_id": "call_fJtyd9Sqdk9fd4sJi9tLaVzh"
+    }
+  ],
+  "successfully_read_documents": [
+    "SFERS__SFERS-General-Investment-Consultant-RFP_vFinal.pdf"
+  ]
+}

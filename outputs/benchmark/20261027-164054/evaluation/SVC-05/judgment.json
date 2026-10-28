@@ -1,0 +1,15 @@
+{
+  "question_id": "SVC-05",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "53ccd317b7a1e077669dff0752a83df5a3926b50ce29d4b64834211d9378204d",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct auditor, start year, ten-year maximum and rebid interval.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:05.307767+00:00"
+}

@@ -1,0 +1,7 @@
+{
+  "question": "In the Oklahoma Public Employees Retirement System (OPERS) July 2023 RFP for index investment management services, what was the market value of the OPERS Russell 1000 Index mandate as of May 31, 2023, and what is its policy weight?",
+  "gold_answer": "$1,859,650,910 (policy weight 17.00%).",
+  "acceptance": "$1,859,650,910 and 17% (17.00%) match; clearly labeled approximation about $1.86bn is materially acceptable. Do not substitute URSJJ or Russell 1000 Value.",
+  "scope": "single_document",
+  "candidate_answer": "As of May 31, 2023, the OPERS Russell 1000 Index mandate had a market value of **$1,859,650,910** and a **17.00% policy weight**. [OPERS July 2023 RFP, p. 7](Oklahoma_OPERS__RFP_Inv_Mgmt_Index_mandates_July-2023_Final.pdf)"
+}

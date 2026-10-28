@@ -1,0 +1,86 @@
+{
+  "doc_id": "pi-e5758bfd60694ba792a0a31d803b7407",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "BACKGROUND",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 1,
+      "summary": "The request for proposals concerns actuarial services for the Stoneham Retirement System, which serves the Town of Stoneham and Stoneham Housing Authority in Middlesex County, Massachusetts. Governed by the Stoneham Retirement Board, the System manages approximately $91 million in assets and has two staff members. Its latest valuation was as of January 1, 2018, showing a $30 million unfunded liability; the funding schedule targets full funding by 2024. As of December 31, 2018, it had 292 active, 98 inactive, and 280 retired participants and beneficiaries. The System is governed by Massachusetts General Laws Chapter 32, participates in the Massachusetts Contributory Retirement System, and is overseen by PERAC."
+    },
+    {
+      "title": "INSTRUCTIONS TO PROPOSERS",
+      "node_id": "0001",
+      "start_index": 1,
+      "end_index": 5,
+      "summary": "Proposers must register with the Board to obtain the RFP and submit proposals; copies are available in person, by email, or by mail for a fee. All questions and correspondence go in writing to the designated contact by the stated deadline; written answers bind the Board and are shared with registered proposers, while oral answers do not. Numbered addenda must be acknowledged. Proposals are due April 10, 2019, with seven originals and one electronic copy; late submissions are rejected. Submit separate sealed qualifications and fee envelopes, with the fee opened after qualifications review. Proposals require an authorized signature, prescribed forms and certifications, and a 90-day price; corrections or withdrawals must be written and timely. The section sets the procurement schedule, Board rights to revise or cancel, and a contract term of up to seven years, terminable on 30 days’ notice. Responses must describe the firm, staff, experience, resources, methods, references, reports, and valuation schedule. Required services include biennial valuations, funding and GASB analyses, supplemental scenarios, PERAC and Board support, appropriation assistance, and OPEB valuations for 2020, 2022, and 2024; a draft contract is required.",
+      "nodes": [
+        {
+          "title": "INSTRUCTIONS TO PROPOSERS (intro)",
+          "node_id": "0002",
+          "start_index": 1,
+          "end_index": 3,
+          "summary": "Proposers must register with the Board by providing a designated contact’s name, address, phone, fax, and email; only registered proposers may receive the RFP or submit proposals. Copies are available free at the Board office or by email, or by U.S. mail for $25 by certified check or cash. The text provides Karen DeAngelis’s contact details and office hours. All RFP questions and correspondence go to her in writing; questions are due April 4, 2019, at 4:00 p.m. Written answers bind the Board and are shared with all registered proposers; oral answers are nonbinding. Changes are issued by numbered addenda, which proposers must acknowledge. Proposals are due April 10, 2019, at 4:00 p.m., with seven originals and one electronic copy; late submissions or amendments are rejected. Complete proposals may be subject to clarification, disqualification, or waiver of minor informality at the Board’s discretion. Submit two sealed envelopes: one with the Appendix A fee proposal, opened after qualifications review, and one with qualifications and required forms."
+        },
+        {
+          "title": "RESPONSE TO ACTUARIAL CONSULTING SERVICES RFP FIRM NAME:",
+          "node_id": "0003",
+          "start_index": 3,
+          "end_index": 3,
+          "summary": "RESPONSE TO ACTUARIAL CONSULTING SERVICES RFP FIRM NAME:\nAnd the envelope containing your price proposal stating:"
+        },
+        {
+          "title": "RESPONSE TO ACTUARIAL CONSULTING SERVICES RFP – PRICE PROPOSAL FIRM NAME:",
+          "node_id": "0004",
+          "start_index": 3,
+          "end_index": 5,
+          "summary": "The RFP sets submission rules: authorized signature, required forms, public opening, pre-deadline written corrections/withdrawals, sealed numbered modifications, and a 90-day firm price. It lists the procurement schedule from March 7, 2019 issuance through July 9 contract signing, with an anticipated June 25 award; the Board may revise the schedule, cancel or reject proposals, and pays no proposal-preparation costs. Contract term is up to seven years, terminable on 30 days’ notice. Proposals must describe the firm, offices, organization, staff and qualifications, public-pension experience and references, resources, complaints or proceedings, assumption-setting and data-cleaning methods, report format/sample, and binding valuation schedule. Required forms, PERAC vendor certification, and a signed anti-collusion/perjury certification are mandatory, along with Chapter 32 §23B compliance. Services include biennial valuations, assumption and membership-data work, funding analysis and schedules, GASB reporting, supplemental scenarios, PERAC consultation, Board attendance, annual appropriation assistance, and OPEB valuations. Studies cover January 1, 2020, 2022, and 2024. Proposers must provide a draft contract, subject to Board changes."
+        }
+      ]
+    },
+    {
+      "title": "Actuarial Valuation Services and Agreement Requirements",
+      "node_id": "0005",
+      "start_index": 5,
+      "end_index": 5,
+      "key_items": [
+        "SCOPE OF SERVICES",
+        "AGREEMENT"
+      ],
+      "summary": "Proposers must submit a signed certification that their proposal is made in good faith and without collusion or fraud; no award will be made without it. Services include biennial actuarial valuations, reasonable assumptions, membership-data preparation and analysis, funded-status and liability analysis by department or governmental unit, funding-program recommendations, GASB reporting, a written report and recommended funding schedule under M.G.L. Chapter 32, discussion with PERAC, a supplemental report using alternative assumptions and schedules, and periodic board-meeting attendance. Valuations must meet applicable reporting requirements, with PERAC staff able to work with the consultant. Proposers must also be able to prepare OPEB valuations. The agreement may run no more than seven years and covers valuations dated January 1, 2020, 2022, and 2024, necessary board attendance, and annual appropriation-assessment assistance; the Board may terminate on 30 days’ written notice. Proposers must submit a proposed contract, which the Board may amend, alter, or replace."
+    },
+    {
+      "title": "Fee Proposals and Award Selection",
+      "node_id": "0006",
+      "start_index": 6,
+      "end_index": 6,
+      "key_items": [
+        "FEE PROPOSAL",
+        "RULE FOR AWARD"
+      ],
+      "summary": "Proposers must fully complete Appendix A’s fee form and include costs for all required services. Fee and non-fee proposals are opened and evaluated separately; the Board privately reviews and rates non-fee proposals first, then the Retirement Administrator opens the fee proposals. Information becomes public after selection. The Board chooses the proposal offering the best combination of quality and price based on ratings, written evaluations, and costs—not necessarily the lowest-cost or highest-ranked proposal. The Board may interview proposers or seek clarifications, and no service agreement may be executed without Board authorization."
+    },
+    {
+      "title": "EVALUATION CRITERIA",
+      "node_id": "0007",
+      "start_index": 6,
+      "end_index": 8,
+      "summary": "The RFP evaluates proposals on six criteria, each rated from Highly Advantageous to Unacceptable: (1) experience serving public pension funds, especially Massachusetts funds governed by Chapter 32, with ratings based on years and location of experience; (2) firm size, assigned actuaries and support staff’s experience, and staff availability/location; (3) proposal completeness, organization, responsiveness, clarity, and ease of understanding; (4) valuation methodology, data requirements, and a clear, timely, attainable schedule; (5) services for developing and submitting the annual appropriation assessment to PERAC, including data review, calculations, responses to inquiries, and, at the highest level, support for innovative assessment options; and (6) PERAC experience, measured by accepted valuations and demonstrated ability to follow PERAC direction. Ratings decline according to insufficient experience, staffing, proposal quality, methodology or schedules, assessment support, or PERAC experience, with Unacceptable generally indicating absent or inadequate qualifications or information."
+    },
+    {
+      "title": "Fee Proposal and Certification Forms",
+      "node_id": "0008",
+      "start_index": 9,
+      "end_index": 9,
+      "key_items": [
+        "APPENDIX A ",
+        "APPENDIX B "
+      ],
+      "summary": "Appendix A is a fee proposal form requiring proposers to list actuarial consulting fees and GASB Statements No. 67 and 68 fees for Years 1–7, with totals; their combined total is the firm’s proposed fee. Payments are quarterly, subject to a properly submitted and approved request and Board approval by vote at a properly posted meeting under Massachusetts Open Meeting Law. Appendix B is a certification under G.L. c. 32, § 23B(k)(3), affirming under penalties of perjury that the proposal was submitted in good faith and without collusion or fraud. It defines “person” broadly and provides spaces for an authorized signature and title."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

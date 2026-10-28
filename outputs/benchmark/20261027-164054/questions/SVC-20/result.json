@@ -1,0 +1,171 @@
+{
+  "id": "SVC-20",
+  "question": "What scope of services does the Kern County Employees' Retirement Association (KCERA) 2024 actuarial audit services RFP require?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:18:25.094654+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "KCERA’s 2024 RFP requires **one qualified actuarial firm to conduct a full audit** of the assumptions, methods, calculations, and experience underlying its pension valuation. The work has two parts:\n\n1. **Peer-review the July 1, 2019–June 30, 2022 experience study.** Compare KCERA’s census data with the data used by its consulting actuary, assess whether the data and related assumptions support the study, review recommended economic and non-economic assumptions, and reconcile differences in findings, methods, rates, or adjustments. [RFP, Exhibit B, p. 24](KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf#page=24)\n2. **Independently reproduce the June 30, 2023 valuation**, including the Supplemental Retiree Benefit Reserve (SRBR) and GASB 67 valuations. Using the consulting actuary’s assumptions, methods, and funding method—but **not relying on its calculations**—the auditor must assess the supplied raw and scrubbed data, evaluate its results, and reconcile discrepancies. [RFP, Exhibit B, pp. 24–25](KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf#page=24)\n\nThe firm must work with KCERA staff and its consulting actuary and communicate findings **before the consulting actuary completes the June 30, 2024 valuation**, so recommendations can be considered for that valuation. The sample agreement also calls for final digital reports within six months of contract execution and includes attendance at up to two Board or committee meetings. [RFP, Exhibit B, pp. 24–25](KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf#page=24); [sample agreement, p. 39](KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf#page=39)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 71822,
+    "input_tokens_details": {
+      "cached_tokens": 52602,
+      "cache_write_tokens": 19199
+    },
+    "output_tokens": 690,
+    "output_tokens_details": {
+      "reasoning_tokens": 34
+    },
+    "total_tokens": 72512,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1215,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1212
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1230
+      },
+      {
+        "input_tokens": 2381,
+        "input_tokens_details": {
+          "cached_tokens": 1212,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 37,
+        "output_tokens_details": {
+          "reasoning_tokens": 12
+        },
+        "total_tokens": 2418
+      },
+      {
+        "input_tokens": 7621,
+        "input_tokens_details": {
+          "cached_tokens": 2378,
+          "cache_write_tokens": 5240
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7663
+      },
+      {
+        "input_tokens": 7921,
+        "input_tokens_details": {
+          "cached_tokens": 7618,
+          "cache_write_tokens": 300
+        },
+        "output_tokens": 43,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7964
+      },
+      {
+        "input_tokens": 16140,
+        "input_tokens_details": {
+          "cached_tokens": 7918,
+          "cache_write_tokens": 8219
+        },
+        "output_tokens": 49,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 16189
+      },
+      {
+        "input_tokens": 17342,
+        "input_tokens_details": {
+          "cached_tokens": 16137,
+          "cache_write_tokens": 1202
+        },
+        "output_tokens": 73,
+        "output_tokens_details": {
+          "reasoning_tokens": 22
+        },
+        "total_tokens": 17415
+      },
+      {
+        "input_tokens": 19202,
+        "input_tokens_details": {
+          "cached_tokens": 17339,
+          "cache_write_tokens": 1860
+        },
+        "output_tokens": 431,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 19633
+      }
+    ]
+  },
+  "elapsed_seconds": 19.266,
+  "finished_at_utc": "2026-10-27T09:18:44.363212+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 71822,
+    "output_tokens": 690,
+    "cached_input_tokens": 52602,
+    "cache_write_tokens": 19199,
+    "reasoning_tokens": 34,
+    "total_tokens": 72512
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf\",\"pages\":\"24-25\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf\",\"pages\":\"37-39\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf",
+      "pages": "24-25",
+      "success": true,
+      "call_id": "call_7HVmLxzGf38khfQ0RnO9d6PB"
+    },
+    {
+      "document": "KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf",
+      "pages": "37-39",
+      "success": true,
+      "call_id": "call_Wjk6JsAOMrdvzxo0PGnd2FxO"
+    }
+  ],
+  "successfully_read_documents": [
+    "KCERA__RFP_2024_Actuarial_Audit_Final_-_with_Sample_Agreement.pdf"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "SVC-22",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "f8b566a0f690034608b2dcc542ee96f2660c21569d2af6f83b3a7ad8ec68dca1",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "All four proposal deadlines have matching dates, times and zones.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:22.394182+00:00"
+}

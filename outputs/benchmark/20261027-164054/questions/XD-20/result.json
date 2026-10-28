@@ -1,0 +1,149 @@
+{
+  "id": "XD-20",
+  "question": "What minimum GRESB score does INREV require a non-listed real estate vehicle to achieve to pass its due diligence questionnaire?",
+  "type": "unanswerable",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:16:35.104150+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "INREV does **not** require a minimum GRESB score to “pass” its due diligence questionnaire. It asks a vehicle that participates in GRESB to report its score and how it has changed. If the vehicle has no GRESB score, it asks for key ESG indicators and performance metrics instead. [INREV DDQ, §3.8.1, p. 34](INREV__INREV_DDQ_Non-Listed_Real_Estate_Investment_Vehicles_2018.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 58282,
+    "input_tokens_details": {
+      "cached_tokens": 38276,
+      "cache_write_tokens": 19988
+    },
+    "output_tokens": 307,
+    "output_tokens_details": {
+      "reasoning_tokens": 23
+    },
+    "total_tokens": 58589,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1213,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1210
+        },
+        "output_tokens": 24,
+        "output_tokens_details": {
+          "reasoning_tokens": 7
+        },
+        "total_tokens": 1237
+      },
+      {
+        "input_tokens": 2388,
+        "input_tokens_details": {
+          "cached_tokens": 1210,
+          "cache_write_tokens": 1175
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 10
+        },
+        "total_tokens": 2423
+      },
+      {
+        "input_tokens": 7626,
+        "input_tokens_details": {
+          "cached_tokens": 2385,
+          "cache_write_tokens": 5238
+        },
+        "output_tokens": 49,
+        "output_tokens_details": {
+          "reasoning_tokens": 6
+        },
+        "total_tokens": 7675
+      },
+      {
+        "input_tokens": 7934,
+        "input_tokens_details": {
+          "cached_tokens": 7623,
+          "cache_write_tokens": 308
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7976
+      },
+      {
+        "input_tokens": 19130,
+        "input_tokens_details": {
+          "cached_tokens": 7931,
+          "cache_write_tokens": 11196
+        },
+        "output_tokens": 48,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 19178
+      },
+      {
+        "input_tokens": 19991,
+        "input_tokens_details": {
+          "cached_tokens": 19127,
+          "cache_write_tokens": 861
+        },
+        "output_tokens": 109,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 20100
+      }
+    ]
+  },
+  "elapsed_seconds": 12.906,
+  "finished_at_utc": "2026-10-27T09:16:48.015735+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 58282,
+    "output_tokens": 307,
+    "cached_input_tokens": 38276,
+    "cache_write_tokens": 19988,
+    "reasoning_tokens": 23,
+    "total_tokens": 58589
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"INREV__INREV_DDQ_Non-Listed_Real_Estate_Investment_Vehicles_2018.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"INREV__INREV_DDQ_Non-Listed_Real_Estate_Investment_Vehicles_2018.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"INREV__INREV_DDQ_Non-Listed_Real_Estate_Investment_Vehicles_2018.pdf\",\"pages\":\"34-35\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "INREV__INREV_DDQ_Non-Listed_Real_Estate_Investment_Vehicles_2018.pdf",
+      "pages": "34-35",
+      "success": true,
+      "call_id": "call_CZAVp3SuePsJrAxgmKACQ85N"
+    }
+  ],
+  "successfully_read_documents": [
+    "INREV__INREV_DDQ_Non-Listed_Real_Estate_Investment_Vehicles_2018.pdf"
+  ]
+}

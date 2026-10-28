@@ -1,0 +1,372 @@
+{
+  "id": "INV-23",
+  "question": "For the specialist consultant RFPs from DCRB (real assets), Hawaii ERS (2022 private equity and real assets), INPRS (23-09 alternatives), Missouri LAGERS (private markets), TRS Illinois (FY25 private equity), Arizona PSPRS (non-discretionary), Baltimore BCERS (alternatives), SBCERS (2020 private equity) and Illinois FPIF (2023 private markets), what initial contract terms and renewal or extension options are stated?",
+  "type": "broad",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:15:22.548452+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The terms below are **proposed RFP terms**, not confirmation of the contracts ultimately signed.\n\n| RFP | Initial term | Renewal or extension stated |\n|---|---|---|\n| DCRB — real assets | Three years. | No renewal or extension option stated. [RFP, p. 7](DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf#page=7) |\n| Hawaii ERS — 2022 private equity | Three years, beginning around April 1, 2023. | ERS may extend for two years, to 2028. It may also extend at no additional cost solely to finish manager or custodian searches already in progress. [RFP, p. 20](Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf#page=20) |\n| Hawaii ERS — 2022 real assets | Approximately three years, from around July 1, 2023, through June 30, 2026. | ERS may extend for three years, through June 30, 2029. A no-additional-cost extension may also be used solely to finish manager searches already underway. [RFP, p. 20](Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf#page=20) |\n| INPRS — RFP 23-09 alternatives | Five years from final contract execution. | One or more renewals on the same terms at INPRS’s option, totaling no more than five additional years; the stated maximum is ten years. The *sample agreement* also provides for a month-to-month holdover of up to six months after expiration unless the parties take written action. [RFP, p. 20](INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf#page=20) · [Sample agreement, p. 26](INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf#page=26) |\n| Missouri LAGERS — private markets | One year, contemplated to begin around September 1, 2024. | LAGERS has the right, but not the obligation, to continue for an additional two years. Expanded services and fees require mutual agreement, satisfactory negotiation, and Board concurrence. [RFP, pp. 7, 19](Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf#page=7) |\n| TRS Illinois — FY25 private equity | From execution through December 31, 2029, **not to exceed five years**, under the sample agreement. | The sample agreement expressly says the term **may not be extended**. [Sample agreement, pp. 25–26](TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf#page=25) |\n| Arizona PSPRS — non-discretionary | Anticipated three years. | Two possible one-year extensions before rebidding. [RFP, p. 8](Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf#page=8) |\n| Baltimore BCERS — alternatives | Five years. | The RFP asks bidders whether they will accept **two successive two-year options** and to price all four option years. [RFP, p. 24](Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf#page=24) · [Fee schedule, p. 27](Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf#page=27) |\n| SBCERS — 2020 private equity | **No consultant-contract term specified** in the RFP. | No renewal option specified. It asks firms whether they will refrain from proposing fee increases for five years; the fee form’s assumed 15-year *fund* term is not a consultant-contract term. [RFP, pp. 26–27](SBCERS__2020-Private-Equity-RFP.pdf#page=26) |\n| Illinois FPIF — 2023 private markets | **No initial contract term specified** in the RFP. | No renewal or extension option specified. The required 360-day validity of a proposal is an **offer-validity period**, not a contract term. [RFP, p. 6](Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf#page=6) |",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 348500,
+    "input_tokens_details": {
+      "cached_tokens": 231297,
+      "cache_write_tokens": 117182
+    },
+    "output_tokens": 2601,
+    "output_tokens_details": {
+      "reasoning_tokens": 224
+    },
+    "total_tokens": 351101,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1286,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1283
+        },
+        "output_tokens": 28,
+        "output_tokens_details": {
+          "reasoning_tokens": 7
+        },
+        "total_tokens": 1314
+      },
+      {
+        "input_tokens": 6554,
+        "input_tokens_details": {
+          "cached_tokens": 1283,
+          "cache_write_tokens": 5268
+        },
+        "output_tokens": 33,
+        "output_tokens_details": {
+          "reasoning_tokens": 8
+        },
+        "total_tokens": 6587
+      },
+      {
+        "input_tokens": 9519,
+        "input_tokens_details": {
+          "cached_tokens": 6551,
+          "cache_write_tokens": 2965
+        },
+        "output_tokens": 371,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 9890
+      },
+      {
+        "input_tokens": 12325,
+        "input_tokens_details": {
+          "cached_tokens": 9516,
+          "cache_write_tokens": 2806
+        },
+        "output_tokens": 368,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 12693
+      },
+      {
+        "input_tokens": 92761,
+        "input_tokens_details": {
+          "cached_tokens": 12322,
+          "cache_write_tokens": 80436
+        },
+        "output_tokens": 484,
+        "output_tokens_details": {
+          "reasoning_tokens": 52
+        },
+        "total_tokens": 93245
+      },
+      {
+        "input_tokens": 108870,
+        "input_tokens_details": {
+          "cached_tokens": 92758,
+          "cache_write_tokens": 16109
+        },
+        "output_tokens": 252,
+        "output_tokens_details": {
+          "reasoning_tokens": 64
+        },
+        "total_tokens": 109122
+      },
+      {
+        "input_tokens": 117185,
+        "input_tokens_details": {
+          "cached_tokens": 108867,
+          "cache_write_tokens": 8315
+        },
+        "output_tokens": 1065,
+        "output_tokens_details": {
+          "reasoning_tokens": 82
+        },
+        "total_tokens": 118250
+      }
+    ]
+  },
+  "elapsed_seconds": 36.529,
+  "finished_at_utc": "2026-10-27T09:15:59.082792+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 348500,
+    "output_tokens": 2601,
+    "cached_input_tokens": 231297,
+    "cache_write_tokens": 117182,
+    "reasoning_tokens": 224,
+    "total_tokens": 351101
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SBCERS__2020-Private-Equity-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SBCERS__2020-Private-Equity-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf\",\"pages\":\"7\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf\",\"pages\":\"20\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf\",\"pages\":\"20\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\",\"pages\":\"20,26,39\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf\",\"pages\":\"7,19\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\",\"pages\":\"25-26\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf\",\"pages\":\"9-11\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\",\"pages\":\"24-25,27\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"SBCERS__2020-Private-Equity-RFP.pdf\",\"pages\":\"26-28\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\",\"pages\":\"3-5,7-8\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf\",\"pages\":\"7-8\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\",\"pages\":\"36-37\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"SBCERS__2020-Private-Equity-RFP.pdf\",\"pages\":\"1-3,15-16\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\",\"pages\":\"6,10-12,32\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf",
+      "pages": "7",
+      "success": true,
+      "call_id": "call_CpK7XryyfIm0NSvzXfJH3IOQ"
+    },
+    {
+      "document": "Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf",
+      "pages": "20",
+      "success": true,
+      "call_id": "call_Q1r6yI9fTqlS2h6mRImweRoa"
+    },
+    {
+      "document": "Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf",
+      "pages": "20",
+      "success": true,
+      "call_id": "call_wvIEyqPnA4pYQl39rdkCWOEG"
+    },
+    {
+      "document": "INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf",
+      "pages": "20,26,39",
+      "success": true,
+      "call_id": "call_j0kPMILtPy4FSMea31U0udY6"
+    },
+    {
+      "document": "Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf",
+      "pages": "7,19",
+      "success": true,
+      "call_id": "call_aU3gD1tMYSTzSPS527mDQRy1"
+    },
+    {
+      "document": "TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf",
+      "pages": "25-26",
+      "success": true,
+      "call_id": "call_h4Ztjn5urK1MzrJzvZwJv7ni"
+    },
+    {
+      "document": "Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf",
+      "pages": "9-11",
+      "success": true,
+      "call_id": "call_kE45ldxw25Ljm4A1gTiMrxF8"
+    },
+    {
+      "document": "Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf",
+      "pages": "24-25,27",
+      "success": true,
+      "call_id": "call_DpoJ5lnGlcS1lpO1AlKPLlIt"
+    },
+    {
+      "document": "SBCERS__2020-Private-Equity-RFP.pdf",
+      "pages": "26-28",
+      "success": true,
+      "call_id": "call_k3fa5Zck16DdMbOjNJMMOeLp"
+    },
+    {
+      "document": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+      "pages": "3-5,7-8",
+      "success": true,
+      "call_id": "call_90E4VLIebA4HQ6CMtLkA5erL"
+    },
+    {
+      "document": "Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf",
+      "pages": "7-8",
+      "success": true,
+      "call_id": "call_b4bRGVYXWRtsmUa5FPwXXnWe"
+    },
+    {
+      "document": "INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf",
+      "pages": "36-37",
+      "success": true,
+      "call_id": "call_WZnCB31iXwezVIx9eSLuBstT"
+    },
+    {
+      "document": "SBCERS__2020-Private-Equity-RFP.pdf",
+      "pages": "1-3,15-16",
+      "success": true,
+      "call_id": "call_9iUnutQCUIQlg7WeCrq7aglh"
+    },
+    {
+      "document": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+      "pages": "6,10-12,32",
+      "success": true,
+      "call_id": "call_TOoTFQusbPM6oeLWJyzEOZZO"
+    }
+  ],
+  "successfully_read_documents": [
+    "Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf",
+    "Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf",
+    "DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf",
+    "Hawaii_ERS__ERS-REAL-ASSETS-INVESTMENT-CONSULTANT-RFP-2022-06.pdf",
+    "Hawaii_ERS__Private-Equity-RFP-8.25.2022-final.pdf",
+    "INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf",
+    "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+    "Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf",
+    "SBCERS__2020-Private-Equity-RFP.pdf",
+    "TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf"
+  ]
+}

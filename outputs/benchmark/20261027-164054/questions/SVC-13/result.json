@@ -1,0 +1,133 @@
+{
+  "id": "SVC-13",
+  "question": "What evaluation criteria and percentage weights does the Texas Municipal Retirement System (TMRS) global custody RFP use to evaluate respondents?",
+  "type": "pair_a",
+  "pair_id": "P14",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:16:50.323444+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The TMRS global custody RFP uses four weighted criteria to evaluate respondents:\n\n| Evaluation criterion | Weight |\n|---|---:|\n| Scope affirmation, servicing approach, and institutional credentials | 25% |\n| Core and value-added services and technology platforms | 40% |\n| Quality of response and additional evidence of capability | 10% |\n| Competitiveness and reasonableness of economics | 25% |\n\nThe economics criterion considers fees **relative to service quality**, not simply the lowest price. TMRS may also account for estimated transition costs and risks. Source: *TMRS Global Custody and Related Services RFP*, Section V, p. 22.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 36650,
+    "input_tokens_details": {
+      "cached_tokens": 20710,
+      "cache_write_tokens": 15925
+    },
+    "output_tokens": 268,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 36918,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1213,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1210
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1228
+      },
+      {
+        "input_tokens": 2379,
+        "input_tokens_details": {
+          "cached_tokens": 1210,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2414
+      },
+      {
+        "input_tokens": 2640,
+        "input_tokens_details": {
+          "cached_tokens": 2376,
+          "cache_write_tokens": 261
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2676
+      },
+      {
+        "input_tokens": 14490,
+        "input_tokens_details": {
+          "cached_tokens": 2637,
+          "cache_write_tokens": 11850
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 14532
+      },
+      {
+        "input_tokens": 15928,
+        "input_tokens_details": {
+          "cached_tokens": 14487,
+          "cache_write_tokens": 1438
+        },
+        "output_tokens": 140,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 16068
+      }
+    ]
+  },
+  "elapsed_seconds": 9.97,
+  "finished_at_utc": "2026-10-27T09:17:00.299256+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 36650,
+    "output_tokens": 268,
+    "cached_input_tokens": 20710,
+    "cache_write_tokens": 15925,
+    "reasoning_tokens": 0,
+    "total_tokens": 36918
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf\",\"pages\":\"22-24\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf",
+      "pages": "22-24",
+      "success": true,
+      "call_id": "call_XvFoHhZTH8RyncSod7KJIMQH"
+    }
+  ],
+  "successfully_read_documents": [
+    "TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf"
+  ]
+}

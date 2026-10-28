@@ -1,0 +1,230 @@
+{
+  "doc_id": "pi-2acfed474e384d8e98de2440b17bf108",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 3,
+      "summary": "The July 1, 2024 RFP seeks private market consulting services for the Missouri Local Government Employees Retirement System (LAGERS), with Scott Day as contact. It covers the RFP’s purpose, LAGERS and its investments, and investment policy; proposal conditions, schedule, submission instructions, evaluation, finalist visits and presentations, quiet period, contract term, and fees; and minimum service requirements for Year 1 and subsequent years. A questionnaire addresses organizational background, conflicts, client relations, personnel, scope and consulting philosophy, due diligence and investment selection, performance, exhibits, disaster recovery, fees, and references. Terms and conditions cover completeness, clarifications and modifications, guarantees, rejection, misleading statements, public records, deadlines, contract execution and term, provider responsibility, confidentiality, conflicts, liability, nondiscrimination, insurance, termination, assignment, and ownership or key-personnel changes. The final section describes LAGERS’ rights and prerogatives."
+    },
+    {
+      "title": "Section 1: Introduction",
+      "node_id": "0001",
+      "start_index": 4,
+      "end_index": 5,
+      "key_items": [
+        "Purpose & RFP Objectives; Overview of LAGERS; Overview of LAGERS’ Investments",
+        "Purpose & RFP Objectives",
+        "Overview of LAGERS",
+        "Overview of LAGERS’ Investments",
+        "Statement of Investment Policy",
+        "Section 1: Introduction Purpose & RFP Objectives; Overview of LAGERS",
+        "Section 1: Introduction Purpose & RFP Objectives",
+        "Overview of LAGERS",
+        "Overview of LAGERS’ Investments"
+      ],
+      "summary": "Missouri LAGERS seeks qualified firms to provide private-market consulting, including investment advice, monitoring, and reporting across private equity, real assets, private debt, and liquid alternatives such as hedge funds. Services are divided into year one and later years; LAGERS may, but need not, retain the consultant for year-two-onward services. Established in 1967 under Missouri law, LAGERS serves more than 800 public agencies, has over 35,000 active members, and pays benefits to more than 28,000 retirees and beneficiaries. It manages a defined-benefit plan that paid $455 million in retirement benefits in fiscal 2023. Its strategic asset allocation is referenced, with a new study expected by March 2025. LAGERS’ financial reports and investment policy are available at molagers.org."
+    },
+    {
+      "title": "Section 2:  Conditions",
+      "node_id": "0002",
+      "start_index": 5,
+      "end_index": 7,
+      "key_items": [
+        "Sequence of Events; Explanation of Events",
+        "Sequence of Events",
+        "Explanation of Events",
+        "Instructions for Submitting Proposals",
+        "Section 2: Conditions Sequence of Events",
+        "Explanation of Events",
+        "1. Issue RFP: This RFP is being issued by LAGERS on July 5, 2024",
+        "Evaluation Criteria",
+        "Miscellaneous Information",
+        "Due Diligence Visits and Oral Presentations by Finalists",
+        "Quiet Time",
+        "Contract Term; Fee Schedule",
+        "Contract Term",
+        "Fee Schedule"
+      ],
+      "summary": "LAGERS’s RFP schedule: issued July 5, 2024; clarification questions due by email July 12 at 5 p.m. CT, with responses by July 19; proposals due July 26 at 5 p.m. CT; finalists selected August 2 and presented to the Board during August 12–16; contract finalized by August 30; implementation begins by September 1. Email proposals to Scott Day at sday@molagers.org; receipt is confirmed that day or the next business day. LAGERS may retain submissions, use their ideas, and treat retained responses as public records under Missouri law. Responses accept RFP conditions unless specific exceptions are stated and accepted in the contract; incomplete responses may be rejected. Providers should explain their distinctive value and unavailable services. Evaluation considers service capacity, private-market expertise and team, technology, investment support, reporting, reputation, clients, conflicts, proposal/presentation quality, fees, and transition costs; lowest fee is not decisive, and other criteria may apply. Finalists may face site visits or presentations. Quiet-period contact, lobbying, or influence is prohibited; violations may disqualify, and efforts must be disclosed within five days. Contract term is one year, with a possible mutually agreed two-year extension."
+    },
+    {
+      "title": "Section 3: Minimum Requirements and Scope of Services",
+      "node_id": "0003",
+      "start_index": 7,
+      "end_index": 9,
+      "key_items": [
+        "Minimum Requirements and Scope of Services",
+        "2. Quantitative Due Diligence"
+      ],
+      "summary": "The provider must be legally eligible to contract with LAGERS; have at least five years in business and private-market advisory experience as of March 31, 2024; be SEC-registered and submit Form ADV Parts I and II; accept all requirements; advise at least three public funds with $10B+ in assets; assign a lead consultant with five years’ relevant U.S. public-pension experience; and have no material or potential conflicts. Year 1 services include portfolio analysis and construction, institutional allocation comparisons, secondary-sale and future-allocation recommendations, pacing and cash-flow models, requested board presentations, and access to manager performance and due-diligence reports. From Year 2, services continue and add quantitative, operational, and legal due diligence; fund-document review and negotiation support; subscription, AML, wire-verification, closing, amendment, and certification assistance; quarterly market, allocation, fund, commitment, cash-flow, valuation, performance, peer, and subscription-line reporting; and requested private-market education for staff and the board."
+    },
+    {
+      "title": "Section 4:  Questionnaire",
+      "node_id": "0004",
+      "start_index": 9,
+      "end_index": 18,
+      "summary": "The questionnaire requests firm, subcontractor, account-team and backup-personnel details; organizational history, financial condition, insurance, cybersecurity, fund management, conflicts, services, revenue, pension experience, fiduciary status and referral benefits. It covers compliance controls and conflicts, five-year client, asset, fee, gain/loss and client-type data, loss reasons, and client communications, issue resolution, service delivery and training. Personnel questions address qualifications, diversity, conduct, staffing, turnover, private-markets expertise, roles, compensation, succession, workload, growth and trustee education. Advisers must define service coverage and describe manager selection, databases, due diligence, legal and operational support, portfolio construction, liquidity, sourcing, access, allocation, benchmarks and public-pension experience. Further questions address investment sourcing and approval, monitoring, emerging managers, continuation vehicles, performance measurement, benchmarks, reconciliation, reporting and online tools. Requested exhibits include research, diligence, recommendations, monitoring, client and resource materials. The questionnaire also seeks disaster-recovery and continuity procedures, a multi-year fee proposal with optional and startup costs, and three recent client references for each asset class.",
+      "nodes": [
+        {
+          "title": "Organizational Overview",
+          "node_id": "0005",
+          "start_index": 9,
+          "end_index": 10,
+          "key_items": [
+            "Section 4: Questionnaire"
+          ],
+          "summary": "Section 4 is a questionnaire requiring responses organized by section title, question number, question, and response. Organizational Overview requests contact and subcontractor details; assigned account and backup personnel; litigation, financial stability and statements, firm history, insurance and cybersecurity; fund management and conflict controls; service and revenue breakdowns, including parent-company, discretionary, private-market and public-pension revenue; public-pension consulting experience; SEC registration or fiduciary status; and referral payments or manager-related benefits. Conflicts of Interest covers services to fund-of-funds and discretionary managers, compliance staffing and enforcement, overlapping consulting and investment activities, and database-sale compensation. Client Relations asks for five-year client, pension, asset, soft-dollar, gain/loss and client-type/location data, reasons for losses, and communication, resolution, service-information and training processes. Personnel requests organizational charts and employee credentials, diversity initiatives, conduct standards, staffing and turnover data, private-market team sizes and collaboration, team roles, and compensation alignment."
+        },
+        {
+          "title": "Conflicts of Interest and Client Relations",
+          "node_id": "0006",
+          "start_index": 10,
+          "end_index": 10,
+          "key_items": [
+            "Conflicts of Interest",
+            "Client Relations"
+          ],
+          "summary": "The page asks about potential conflicts arising from private-market consulting, including how conflicts are managed when the firm also manages investments in the same areas and whether it receives compensation for manager, GP, or fund database information. It requests details about the compliance officer, support staff, biography, and how employee compliance is monitored and enforced—or who manages conflicts if there is no officer. Client-relations questions seek five years of client and pension counts and assets under advisement as of March 31, 2024; the number and percentage of clients using soft-dollar fee arrangements; and client gains and losses by type and location, including reasons for losses. It also asks how the firm handles formal and informal oral and written communications, inquiries and problem resolution, service availability and delivery issues, and client training on services and systems."
+        },
+        {
+          "title": "Personnel – Qualifications, Compensation, and Roles",
+          "node_id": "0007",
+          "start_index": 10,
+          "end_index": 11,
+          "key_items": [
+            "Client Relations"
+          ],
+          "summary": "The text requests information on personnel, qualifications, compensation, and roles: an organizational chart with locations, experience, education, training, certifications, industry tenure, and firm tenure; workplace programs supporting minorities and women, their start dates, and success benchmarks; and any written conduct standards and how they are monitored and enforced. It asks for firmwide professional headcount and three years of hires and departures by role; private-markets consulting staff levels and use of other teams; team roles and interactions; and how compensation aligns with client interests. It also seeks the LAGERS account team structure and succession plans, workload and client limits, and plans for growth in staffing, assets, and clients per consultant. Further topics include trustee education experience and research materials, plus private-markets experience metrics by asset class (private equity, real assets, private debt, and hedge funds), including managers and partnerships reviewed, clients assisted, capital deployed, and partnerships monitored for performance reporting."
+        },
+        {
+          "title": "Scope of Work",
+          "node_id": "0008",
+          "start_index": 11,
+          "end_index": 12,
+          "summary": "The scope asks advisers to identify whether each response applies to Private Markets (private equity, private credit, infrastructure, real estate) and/or Marketable Alternatives (hedge funds). It covers manager search, selection, shortlisting, and written recommendation rationales; advice on sub-asset classes, manager count, co-investments, investment style, and diversification; database capabilities for research, evaluation, scoring, and peer comparisons; in-depth investment and operational due diligence, on-site frequency, and ongoing review of managers’ strategies and processes; support for capital calls, KYC/AML documentation, and operational matters; review of legal agreements for market-standard terms; plans to mitigate the J-curve and maintain exposure while awaiting capital calls; and readiness to present to the Board and provide quarterly reports."
+        },
+        {
+          "title": "Private Market Consulting Philosophy",
+          "node_id": "0009",
+          "start_index": 12,
+          "end_index": 13,
+          "summary": "The text requests a private-markets consulting firm’s philosophy and advisory approach, including relationships with boards, staff, and managers, and how liquidity shapes portfolio construction. It asks whether the firm invests directly and how it selects deals; how it monitors and reports market trends, with a sample research report; and how it sources investments, accesses otherwise unavailable funds, and gains competitive advantages in deal flow. It also asks about access to capacity-constrained managers and prioritizing clients, procedures for maintaining access to top-tier GPs/funds, and the benchmark used to identify top-quartile managers, including its advantages and drawbacks. The firm should describe strengths that support superior performance and service, its manager-access and commitment-allocation process, and whether discretionary clients receive allocation advantages over advisory clients. Finally, it requests experience with public pension plans across limited partnerships, LLCs, fund-of-funds, co-investments, secondaries, continuation vehicles, and targeted or specialized programs, including when each vehicle is optimal."
+        },
+        {
+          "title": "Due Diligence Process/Investment Selection",
+          "node_id": "0010",
+          "start_index": 13,
+          "end_index": 15,
+          "summary": "The section requests a comprehensive account of the firm’s due diligence and investment-selection practices: approved GP/fund lists; opportunity sourcing, relationship development, search counts by year and vertical, recommendation identification, and data generation. It asks for due diligence roles, outsourcing, process steps, qualitative and quantitative drivers, focus areas, data verification, legal review, ILPA use, approvals and committee resumes, non-U.S. GP differences, conflict checks, LAGERS requests, and ongoing review/site visits. It seeks redacted reports for an approved and declined investment, fund-structure expertise, client roster influence, and differences by prior relationship, investment stage, and business cycle, including screening, negotiation, monitoring, and outside advisers. Other topics include LPAC memberships; partnership terms and bargaining results; research staffing, visits, and reviews; first-time and emerging-manager policies, commitments, examples, and performance; continuation vehicles; client allocation priorities and queues; and sourcing databases’ ownership, coverage, contents, collection, verification, update frequency, unbiased representation, research reports, and strategy-classification criteria."
+        },
+        {
+          "title": "Private Market Performance",
+          "node_id": "0011",
+          "start_index": 15,
+          "end_index": 16,
+          "summary": "The text requests a private-markets consultant’s detailed approach to GP monitoring, including staffing and visit frequency, review criteria, investment reviews, issue detection and remediation, actions for troubled investments, and termination recommendations. It asks for five-year secondary-sale turnover; performance measurement methods, data sources, database capabilities and tracked asset categories; prospective-investment tracking; portfolio analytics; peer-universe and benchmark details; fair manager comparisons; and quarterly/annual reporting, reconciliation of returns, cash flows and NAVs with managers and custodians, and report timing. It also asks about online client services and analytical tools. Required exhibits include due diligence and research materials, pacing plans, questionnaires, white papers, performance reviews, client and resource lists, team expertise and deal flow, conduct standards, investment recommendations/rejections, and monitoring reports. Disaster-recovery backups and testing frequency must be described. A cost proposal must show projected fees for year one and subsequent years, optional service pricing, and startup costs."
+        },
+        {
+          "title": "Reporting, Exhibits, and Disaster Recovery",
+          "node_id": "0012",
+          "start_index": 16,
+          "end_index": 16,
+          "key_items": [
+            "Exhibits",
+            "Disaster Recovery"
+          ],
+          "summary": "The page asks about timelines for preparing quarterly and annual client reports; quarterly reconciliation procedures, verification of managers’ returns, report and IRR availability, and reconciliation of performance, cash flows, and NAV data with managers and custodian banks. It also requests details of LAGERS-accessible online services, account analysis and performance, and customized analytical or reporting tools. Requested exhibits include manager due diligence reports, pacing plans, due diligence questionnaires, research reports, white papers, quarterly performance reviews, client tools and educational materials, client lists by type, private-market resources by type with team expertise and five-year deal-flow volume, professional conduct standards, recent recommendation and rejection memos, and portfolio-status and monitoring reports. Disaster recovery questions cover backup procedures for system failure or disruptions lasting over eight hours, and the frequency of disaster-recovery and business-continuity testing."
+        },
+        {
+          "title": "Fees",
+          "node_id": "0013",
+          "start_index": 16,
+          "end_index": 17,
+          "key_items": [
+            "Exhibits",
+            "Disaster Recovery"
+          ],
+          "summary": "Fees\nA cost proposal must be prepared and submitted with your firm’s service proposal. Your cost proposal must include total projected fees charged based on the requested services broken out by year 1 and year 2 onward as defined in the ‘Minimum Requirements and Scope of Services’ section.\nThe fees can be a single line item or broken down by service in which LAGERS and elect to subscribe to specific services or not. As noted in the RFP, LAGERS reserves the right to, but not obligation, to engage the Private Market Consultant for year 2 services. Finally, please include any one-time start-up costs LAGERS may incur to begin service.\nPage | 16"
+        },
+        {
+          "title": "References",
+          "node_id": "0014",
+          "start_index": 17,
+          "end_index": 18,
+          "summary": "References\nFor each asset class to which you are responding, provide the following information from three (3) current or recent (within the past 12 months) investment consulting services clients: client name and address, contact name, title, phone number, email address, and a brief statement of services rendered.\nPage | 17"
+        }
+      ]
+    },
+    {
+      "title": "Section 5:  Terms and Conditions",
+      "node_id": "0015",
+      "start_index": 18,
+      "end_index": 21,
+      "key_items": [
+        "General Terms and Conditions",
+        "Completeness; Requests for Modifications of a Response; Provider Guarantees; Request for Clarification of RFP; Rejection/Waiver of Information",
+        "Completeness",
+        "Requests for Modifications of a Response",
+        "Provider Guarantees",
+        "Request for Clarification of RFP",
+        "Rejection/Waiver of Information",
+        "False or Misleading Statements",
+        "Section 5: Terms and Conditions General Terms and Conditions Completeness; Requests for Modifications of a Response; Provider Guarantees; Request for Clarification of RFP",
+        "Section 5: Terms and Conditions General Terms and Conditions Completeness",
+        "Requests for Modifications of a Response",
+        "Provider Guarantees",
+        "Request for Clarification of RFP",
+        "Rejection/Waiver of Information",
+        "Public Records; Response Deadline",
+        "Public Records",
+        "Response Deadline",
+        "Terms and Conditions of Contract for the Successful Provider",
+        "Contract Execution; Term of Contract",
+        "Contract Execution",
+        "Term of Contract",
+        "Specific Conditions",
+        "Provider Responsibility; Confidentiality",
+        "Provider Responsibility",
+        "Confidentiality",
+        "Conflict of Interest",
+        "Public Records; Response Deadline; Terms and Conditions of Contract for the Successful Provider Contract Execution; Term of Contract; Specific Conditions Provider Responsibility",
+        "Public Records",
+        "Response Deadline",
+        "Terms and Conditions of Contract for the Successful Provider Contract Execution",
+        "Term of Contract",
+        "Specific Conditions Provider Responsibility",
+        "Confidentiality",
+        "Hold Harmless; Nondiscrimination; Insurance; Termination; Assignments",
+        "Hold Harmless",
+        "Nondiscrimination",
+        "Insurance",
+        "Termination",
+        "Assignments",
+        "Changes in Ownership Structure and/or Key Personnel",
+        "Hold Harmless; Nondiscrimination; Insurance; Termination",
+        "Hold Harmless",
+        "Nondiscrimination",
+        "Insurance",
+        "Termination",
+        "Assignments"
+      ],
+      "summary": "Responses must be complete, include appendices, and may be incorporated into the selected provider’s contract; later materials count only if requested. Providers may request LAGERS-approved changes before the deadline, but cannot modify responses afterward. Submitted terms cannot change during the engagement, and fees are guaranteed for the contract term. Clarification questions are due July 12, 2024, by 5 p.m. CT, by email to sday@molagers.org; oral requests are not accepted, and LAGERS may accept, reject, or seek written supplements. LAGERS may reject responses or waive defects; intentionally misleading statements may disqualify a response. Records may be public. Responses are due electronically by July 26, 2024, at 5 p.m. CT; late submissions are disqualified. The contemplated contract starts around September 1, 2024, initially for one year, with a possible two-year extension, subject to negotiation and Board approval, and takes effect only upon authorized signatures. Contract duties cover prudent, LAGERS-focused service; confidentiality; conflict disclosure and ethics; indemnification; nondiscrimination; insurance certification; termination; restrictions on assignment; and advance notice of key-personnel changes. Material ownership or personnel changes may prompt immediate termination."
+    },
+    {
+      "title": "Section 6:  LAGERS Rights",
+      "node_id": "0016",
+      "start_index": 21,
+      "end_index": 21,
+      "key_items": [
+        "Rights and Prerogatives"
+      ],
+      "summary": "LAGERS reserves broad discretion over the RFP and award process: it may accept or reject proposals, make no award or award in whole or part, waive or modify minor errors with provider notice and concurrence, use submitted ideas unless protected as proprietary, change deadlines, withdraw and reissue or amend the RFP and specifications, and negotiate separately with any source. It may move to the next eligible offeror if negotiations fail within a timeframe LAGERS sets, seek clarifications or revisions from award-capable providers, and eliminate mandatory requirements unmet by all offerors. Evaluation may consider proposals, site visits, interviews, investigations of provider qualifications, experience, capability and finances, and public information. LAGERS may impose performance penalties under applicable rules or policies and extend acceptance testing, awarding to the next most responsive bidder if performance is unsatisfactory."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

@@ -1,0 +1,245 @@
+{
+  "doc_id": "pi-090a28813ad64e1a8c66b22ba47b7640",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 2,
+      "summary": "October 2022 OCERS Custody Services RFP questions and answers cover three data requests. Q1 asks for account counts and market values for actively/separately managed US and non-US assets, non-US values by country, bank loans, positions by country, passively managed assets, and passive fund counts by type, emphasizing fund investments rather than accounts. Details are provided in a linked Accounts and MVs download. Q2 requests annual US and non-US buy/sell trades by investment type (and country for non-US), incoming/outgoing wires, derivative transactions (swaps, options, futures), and vendor checks; details are in a linked Transactions download. Q3 requests annual spot FX volume in USD equivalent by market, distinguishing custodial indirect FX from third-party activity; details are in a linked FX Activity download."
+    },
+    {
+      "title": "Custody Services RFP: Accounts, Transactions, and FX",
+      "node_id": "0001",
+      "start_index": 2,
+      "end_index": 2,
+      "key_items": [
+        "Answer:",
+        "Question 2:",
+        "Answer:",
+        "Question 3:"
+      ],
+      "summary": "The page requests information on managed US and non-US accounts and asset market values, including country-level values, bank loans, positions, passive assets, and fund counts by type; annual US and non-US buy/sell trades by investment type and country, wires, derivative transactions, and vendor checks; and annual spot FX volume in USD equivalent by market, distinguishing custodial indirect FX from third-party activity. Each answer directs readers to the corresponding Accounts and MVs, Transactions, or FX Activity files at the shared Dropbox link."
+    },
+    {
+      "title": "Answer:",
+      "node_id": "0002",
+      "start_index": 2,
+      "end_index": 3,
+      "summary": "The RFP requests account and market-value details: actively/separately managed US and non-US accounts and assets (including non-US values by country), bank loans, positions by country, passive assets, and passive funds by type, emphasizing fund investments rather than account counts. Transaction data requested includes annual US and non-US trades by investment type (and country for non-US), wires, derivatives, and vendor checks. It also requests annual spot FX volume by market, separating custodial indirect from third-party activity. Details for these items are provided through linked Accounts and MVs, Transactions, and FX Activity files. OCERS reports seasonal cash balances that peak early in the year due to prepayments and are often above $100 million; a cash-balance chart is included. OCERS requires all services in Section 3 and welcomes suggestions for additional beneficial services. Alternatives commitment levels are available in the linked Private Investments report."
+    },
+    {
+      "title": "OCERS Cash Balances and Service Requirements",
+      "node_id": "0003",
+      "start_index": 3,
+      "end_index": 3,
+      "key_items": [
+        "Question 5:",
+        "Answer:"
+      ],
+      "summary": "OCERS reports seasonal cash balances that peak at the beginning of the year due to prepayments and often exceed $100 million. A chart shows fund cash balances in USD over time from 2014 to 2022. OCERS requires all services listed in Section 3, Scope of Services, and asks providers to identify any additional services they believe would benefit OCERS."
+    },
+    {
+      "title": "Question 6:",
+      "node_id": "0004",
+      "start_index": 3,
+      "end_index": 4,
+      "summary": "OCERS refers respondents to its Private Investments report for the USD commitment level of its alternatives. It requires monthly performance consolidations: a preliminary report covering hedge fund statements and benchmark, portfolio, and any necessary composite performance within 10 business days after month-end, followed by a finalized report before the next month-end. Custom benchmarks are required; details are in the Benchmark History table of the OCERS Total Portfolio report (pages 33–34, or PDF pages 37–38). Monthly attribution, peer and manager universe comparisons, Board reporting materials, and monthly compliance monitoring are not required, though OCERS is interested in providers’ capabilities in each area."
+    },
+    {
+      "title": "OCERS Reporting and Benchmark Requirements",
+      "node_id": "0005",
+      "start_index": 4,
+      "end_index": 4,
+      "key_items": [
+        "Question 8:",
+        "Answer:",
+        "Question 9:",
+        "Answer:",
+        "Question 10:",
+        "Answer:",
+        "Question 11:",
+        "Answer:"
+      ],
+      "summary": "OCERS requires preliminary monthly performance reports covering hedge fund statements and benchmark, portfolio, and any necessary composite performance within 10 business days after month-end; final reports are due before the following month-end. Custom benchmarks are required, with details in the Benchmark History table of the OCERS Total Portfolio report (pages 33–34, PDF pages 37–38) at the provided link. Monthly attribution, peer and manager universe comparisons, and board reporting materials are not required, though OCERS is interested in learning about providers’ capabilities in these areas."
+    },
+    {
+      "title": "Question 12:",
+      "node_id": "0006",
+      "start_index": 4,
+      "end_index": 5,
+      "summary": "OCERS does not require monthly compliance monitoring but is interested in the provider’s capabilities; its internal compliance report covers performance, organizational/legal issues, and investment policies/guidelines, including largest holdings, cash exposure, emerging-markets exposure, and credit ratings. For securities-lending estimates, OCERS directs respondents to an Excel custody-positions report dated June 30, 2022, via the provided Dropbox link; requested fields are as-of date, fund name, security identifiers (CUSIP/SEDOL), security name, shares, base-currency market value, and country of issue. OCERS uses a collateral pool. Its Compass Fund targets attractive yield, principal safety, and daily liquidity, normally investing about 80% of net assets in securities with ESG scores. Selection priorities are capital preservation, liquidity, yield, then ESG considerations consistent with ERISA. Eligible securities may have no more than 18 months’ legal maturity; the manager endeavors to keep weighted-average maturity within 75 days and maturity-to-final within 180 days. Minimum ratings or comparable quality are specified by maturity (13 months or less versus over 13 months). The excerpt ends with a 10% investment limit."
+    },
+    {
+      "title": "OCERS Compliance, Holdings, and Collateral Guidelines",
+      "node_id": "0007",
+      "start_index": 5,
+      "end_index": 5,
+      "key_items": [
+        "Answer:",
+        "Question 14:"
+      ],
+      "summary": "OCERS’ internal Compliance Report covers performance, organizational/legal issues, and investment policies, including holdings, cash and emerging-market exposure, and credit ratings. For a securities-lending estimate, Question 13 requests an Excel holdings report with as-of date, fund name, CUSIP/Sedol, security name, share count, base-currency market value, and country of issue; a custody positions file is linked. Question 14 states OCERS uses a collateral pool. The Compass Fund targets attractive yield, principal safety, and daily liquidity, and normally invests about 80% of net assets in securities with ESG scores. Investment priorities are capital preservation, liquidity, yield, then ESG considerations. Guidelines set an 18-month maximum remaining legal maturity, target weighted-average maturity of 75 days or less, and weighted-average maturity to final of 180 days or less. Securities must meet specified short- or longer-maturity credit ratings from at least two major rating agencies, or be judged comparable quality. The text ends by stating the Fund may invest up to 10%."
+    },
+    {
+      "title": "Answer:",
+      "node_id": "0008",
+      "start_index": 5,
+      "end_index": 6,
+      "summary": "OCERS’ internal compliance report covers performance, organizational/legal issues, and investment policies and guidelines, including holdings, cash and emerging-market exposure, and credit ratings. For securities-lending estimates, the requested Excel holdings report should include as-of date, fund, security identifiers and name, share count, base-currency market value, and country of issue; a custody-positions file is linked. OCERS uses a pooled cash-collateral fund (Compass), targeting yield, principal safety, and daily liquidity, with approximately 80% in ESG-scored securities. Selection priorities are capital preservation, liquidity, yield, then ESG; guidelines set maturity limits, minimum credit ratings, and a 10% limit for qualifying commingled vehicles. OCERS accepts only cash collateral and has no lending restrictions. Reported gross lending revenue was $1,192,213.48 for calendar 2021, $1,036,357.72 for July 2021–June 2022, and $978,922.47 for October 2021–September 2022. The fee split is 80% OCERS / 20% State Street. Proposed contract terms are available in a linked document."
+    },
+    {
+      "title": "OCERS Securities Lending Policies and Revenue",
+      "node_id": "0009",
+      "start_index": 6,
+      "end_index": 6,
+      "key_items": [
+        "Answer:",
+        "Question 16:",
+        "Answer:",
+        "Question 17:",
+        "Answer:",
+        "Question 18:",
+        "Answer:"
+      ],
+      "summary": "A preceding statement says assets are invested at purchase in commingled vehicles managed by the Trustee or its affiliates, consistent with Investment Policy Guidelines. OCERS accepts only cash collateral and has no current borrower or loan restrictions. Gross securities lending revenue before fee split was $1,192,213.48 for calendar 2021, $1,036,357.72 for July 2021–June 2022, and $978,922.47 for October 2021–September 2022. The fee split is 80% to OCERS and 20% to State Street."
+    },
+    {
+      "title": "Question 19:",
+      "node_id": "0010",
+      "start_index": 6,
+      "end_index": 7,
+      "summary": "For Questions 19–20, OCERS directs respondents to the linked Proposed Custodian Contract for contract terms and the Services Agreement. For Question 21, it provides the fiduciary standard: the custodian must perform all services with the care, skill, diligence, and responsibility of a professional custodian; fiduciary duties apply only to asset safekeeping and related duties, while the standard of care applies to all services unless a specific service is expressly exempted. The text does not separately state the current custodian’s agreed standard or whether the requirements are negotiable. For Question 22, portfolio reports are linked on RFP pages 4 and 43 and reattached; respondents with download problems should check security restrictions or email OCERS. For Question 23, OCERS says the manager list was previously provided and reattaches it via the link."
+    },
+    {
+      "title": "OCERS Custodian Agreement and Portfolio Information",
+      "node_id": "0011",
+      "start_index": 7,
+      "end_index": 7,
+      "key_items": [
+        "Question 21:",
+        "Answer:",
+        "Question 22:",
+        "Answer:"
+      ],
+      "summary": "The proposed custodian contract is available through a Dropbox link for review. The custodian’s fiduciary role is limited to safekeeping assets and related duties, while its professional-custodian standard of care applies to all services unless a specific service is expressly exempted. OCERS portfolio reports are linked on pages 4 and 43 of the RFP and re-shared via Dropbox; users unable to download them should check firewall or cybersecurity restrictions or request the documents by email."
+    },
+    {
+      "title": "Question 23:",
+      "node_id": "0012",
+      "start_index": 7,
+      "end_index": 8,
+      "summary": "OCERS re-attached its manager list via a Dropbox link. It targets conversion to a new custodian in June–July 2023, subject to revision. Areas of focus are covered in the RFP questionnaires, with additional information potentially requested during interviews or later stages. Incoming email is limited to 10 MB; OCERS can provide an invitation link for larger files. Current fees are a flat $580,000 for custody, accounting, cash management, performance reporting, and risk reporting, covering Section 3’s full scope. OCERS issued its last RFP over five years ago and seeks best-in-class service, a strong team, and technology and tools to support its increasingly complex investment program and streamline monitoring. Best available daily valuation is acceptable for non-month-end dates; true audited daily accounting is not required."
+    },
+    {
+      "title": "Custodian RFP and Service Requirements",
+      "node_id": "0013",
+      "start_index": 8,
+      "end_index": 8,
+      "key_items": [
+        "Question 25:",
+        "Answer:",
+        "Question 26:",
+        "Answer:",
+        "Question 27:",
+        "Answer:",
+        "Question 28:",
+        "Answer:"
+      ],
+      "summary": "OCERS targeted conversion to a new custodian in June–July 2023, subject to revision. Its focus areas are covered in the RFP questionnaires, with additional information potentially requested during interviews or later stages. Incoming email is limited to 10 MB; OCERS can provide an upload link for larger files. Current custody, accounting, cash management, performance reporting, and risk reporting services cost a flat $580,000, covering the full Section 3 scope. After more than five years since its last RFP, OCERS seeks best-in-class custodial services and a strong team to support its increasingly complex investment program, including technology and tools to make monitoring smoother."
+    },
+    {
+      "title": "Question 29:",
+      "node_id": "0014",
+      "start_index": 8,
+      "end_index": 9,
+      "summary": "OCERS accepts the best available daily valuation for non-month-end dates; audited daily accounting is not required. Financial reports and account, market-value, and transaction data are available for download via the provided Dropbox link. Requested data include totals and allocations for separately managed accounts (including country allocations for global SMAs), asset types and holdings for single-line investments, buy/sell volumes by manager and holding, incoming and outgoing wire counts, and derivatives activity, values, holdings, and transaction volumes. Private investments are held in individual accounts and grouped into appropriate asset classes. OCERS is interested in capital call execution services, in which the custodian arranges and pays capital calls."
+    },
+    {
+      "title": "OCERS Reporting and Investment Details",
+      "node_id": "0015",
+      "start_index": 9,
+      "end_index": 9,
+      "key_items": [
+        "Question 31:",
+        "Answer:",
+        "Question 32:",
+        "Answer:"
+      ],
+      "summary": "The page provides a download link for OCERS financial reporting documents in Excel, including Private Investments and Total Portfolio. It also directs readers to Accounts, Market Values, and Transactions files for account totals; separately managed account values, holdings, asset and country allocations; single-line asset types and holdings; manager and holding buy/sell volumes; incoming and outgoing wire counts; and derivatives activity, values, holdings, and transaction volumes. Finally, it states that OCERS investments are held in individual accounts and grouped into appropriate asset classes, with further details in the portfolio reports."
+    },
+    {
+      "title": "Question 33:",
+      "node_id": "0016",
+      "start_index": 9,
+      "end_index": 10,
+      "summary": "OCERS is interested in capital call execution. It requires monthly preliminary hedge fund performance reports and monthly reports for all investments by mid-month, with a month-end true-up; see Question 7 for details. OCERS creates internal alternative-asset reports and receives reports from its custodian and consultants, covering items such as pacing, values, cash flows, commitments, dates, vintage, geographic and sector exposure, gains/losses, IRR, and investment multiples. It uses State Street Private Markets tools and consultants to monitor these assets. OCERS requests a securities-lending earnings estimate and other information explaining the provider’s platform and capacity. To support accurate custody fee quotes with and without securities lending and an appropriate fee split, the provider requests an Excel asset list with security name, identifier, shares, price, and market value in base currency and USD, plus cash and non-cash collateral guidelines."
+    },
+    {
+      "title": "Alternative Asset Reporting and Securities Lending",
+      "node_id": "0017",
+      "start_index": 10,
+      "end_index": 10,
+      "key_items": [
+        "Question 35:",
+        "Answer:",
+        "Question 36:",
+        "Answer:",
+        "Question 37:",
+        "Answer:"
+      ],
+      "summary": "OCERS requests monthly preliminary performance reports for hedge fund investments and all investments by mid-month, with month-end true-ups; further details are referenced in question 7. It creates internal alternative-asset reports and receives reports from its custodian and investment consultants, covering items such as pacing, market values, cash flows, commitments, dates, vintage years, regional, sector and country exposures, gains or losses, IRR, and investment multiples. OCERS uses State Street Private Markets reporting tools and relies on consultants to monitor and track alternative assets. It also requests a securities-lending earnings estimate and other information that helps explain the platform and its capacity."
+    },
+    {
+      "title": "Question 38:",
+      "node_id": "0018",
+      "start_index": 10,
+      "end_index": 11,
+      "summary": "The text covers RFP questions 38–42. For a custody and securities-lending fee estimate, OCERS is asked for an Excel asset list, cash and non-cash collateral guidelines, and lending restrictions; it refers respondents to questions 13–18. Benchmark information is in the OCERS Total Portfolio report’s Benchmark History table (PDF pages 27–28). OCERS receives performance and risk reports from its custodian and investment consultants, prepares quarterly compliance reports internally, and uses Caissa (acquired by Burgiss) for risk management. It accepts RFP documents by secure link or email attachment, requesting searchable formats. Executive Summary limits are Part I: 1,250 words or 3 pages; Part II: 1,250 words or 3 pages; and Part III: 500 words or 1 page. The summary should briefly and comprehensively describe the respondent’s background, strengths, and weaknesses."
+    },
+    {
+      "title": "Custody Services RFP Questions and Answers",
+      "node_id": "0019",
+      "start_index": 11,
+      "end_index": 11,
+      "key_items": [
+        "Answer:",
+        "Question 39:",
+        "Answer:",
+        "Question 40:",
+        "Answer:",
+        "Question 41:",
+        "Answer:",
+        "Question 42:"
+      ],
+      "summary": "Securities lending restrictions are addressed in Questions 13–18. OCERS’ performance benchmarks are listed in the Total Portfolio report’s Benchmark History table (pages 37–38; PDF pages 27–28). Custodians and investment consultants provide performance and risk reports; OCERS prepares quarterly compliance reports and uses Caissa, acquired by Burgiss, for risk management. RFP materials may be submitted by secure link or email attachments, provided they are searchable. The Executive Summary should briefly and comprehensively describe the respondent’s background, strengths, and weaknesses, with limits of Part I: 1,250 words or 3 pages; Part II: 1,250 words or 3 pages; and Part III: 500 words or 1 page."
+    },
+    {
+      "title": "Answer:",
+      "node_id": "0020",
+      "start_index": 11,
+      "end_index": 12,
+      "summary": "The response directs securities-lending restriction questions to answers 13–18 and benchmark inquiries to the OCERS Total Portfolio report’s Benchmark History table. OCERS receives performance and risk reports from its custodian and consultants, prepares quarterly compliance reports internally, and uses Caissa (now Burgiss) for risk management and aggregation. RFP materials may be submitted by secure link or email attachment and must be searchable. Executive-summary limits are Part I: 1,250 words/3 pages; Part II: 1,250 words/3 pages; Part III: 500 words/1 page. Risk-data transmission questions concern OCERS’s third-party aggregator, Caissa. Fail experience means the percentage of trades over the prior five years where funds or securities were not delivered within a reasonable time. Fund administration means comprehensive custody services under Section 3, plus any other useful services. OCERS will consider standalone securities-lending services if integrated seamlessly with its custodian; respondents must complete specified sections of Exhibits B–G, including Questionnaire Parts I, III, IV-E, IV-G, IV-I, IV-K, and Fee Proposal Questions 2–5."
+    },
+    {
+      "title": "Custody RFP Questions 43–46",
+      "node_id": "0021",
+      "start_index": 12,
+      "end_index": 12,
+      "key_items": [
+        "Answer:",
+        "Question 44:",
+        "Answer:",
+        "Question 45:",
+        "Answer:",
+        "Question 46:",
+        "Answer:"
+      ],
+      "summary": "OCERS confirms its risk aggregator is Caissa, recently acquired by Burgiss. It asks custodians to report the percentage of trades over the past five years on which they failed to deliver funds or securities within a reasonable time. Fund administration means the comprehensive custody services in Section 3, plus any other services vendors consider useful. OCERS will consider stand-alone securities lending, provided the platform integrates seamlessly with its custodian. Stand-alone proposals must include Exhibits B, C, D, F; specified parts of Exhibit E (I, III, IV-E, IV-G, IV-I, IV-K); and Exhibit G fee questions 2–5."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

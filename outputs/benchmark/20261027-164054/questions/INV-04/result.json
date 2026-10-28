@@ -1,0 +1,149 @@
+{
+  "id": "INV-04",
+  "question": "In the Illinois Firefighters' Pension Investment Fund (FPIF) February 2023 RFP for private markets investment consulting and discretionary OCIO advisory services, what long-term target allocation to private markets is FPIF building, and how is it split across asset classes?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:20:29.173493+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "FPIF was building toward a **31% long-term allocation to private markets**, split as follows:\n\n| Asset class | Target allocation |\n|---|---:|\n| Private equity | 10% |\n| Private debt | 7% |\n| Real estate | 10% |\n| Infrastructure | 4% |\n\nThe RFP says that **half of each real estate and infrastructure target** is intended for core open-ended vehicles, with the remainder for non-core commitments. [Source: FPIF February 2023 RFP, p. 1](https://ifpif.org/investments/investment-procurement/)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 45949,
+    "input_tokens_details": {
+      "cached_tokens": 31637,
+      "cache_write_tokens": 14294
+    },
+    "output_tokens": 294,
+    "output_tokens_details": {
+      "reasoning_tokens": 9
+    },
+    "total_tokens": 46243,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1241,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1238
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1256
+      },
+      {
+        "input_tokens": 2407,
+        "input_tokens_details": {
+          "cached_tokens": 1238,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 9
+        },
+        "total_tokens": 2441
+      },
+      {
+        "input_tokens": 7644,
+        "input_tokens_details": {
+          "cached_tokens": 2404,
+          "cache_write_tokens": 5237
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7679
+      },
+      {
+        "input_tokens": 7914,
+        "input_tokens_details": {
+          "cached_tokens": 7641,
+          "cache_write_tokens": 270
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7950
+      },
+      {
+        "input_tokens": 12446,
+        "input_tokens_details": {
+          "cached_tokens": 7911,
+          "cache_write_tokens": 4532
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 12488
+      },
+      {
+        "input_tokens": 14297,
+        "input_tokens_details": {
+          "cached_tokens": 12443,
+          "cache_write_tokens": 1851
+        },
+        "output_tokens": 132,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 14429
+      }
+    ]
+  },
+  "elapsed_seconds": 13.463,
+  "finished_at_utc": "2026-10-27T09:20:42.639765+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 45949,
+    "output_tokens": 294,
+    "cached_input_tokens": 31637,
+    "cache_write_tokens": 14294,
+    "reasoning_tokens": 9,
+    "total_tokens": 46243
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\",\"pages\":\"3-4\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+      "pages": "3-4",
+      "success": true,
+      "call_id": "call_aCZZH0mssarHfUcwNrxlyc4X"
+    }
+  ],
+  "successfully_read_documents": [
+    "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "file": "Hawaii_ERS__ERS-Private-Equity-AD.pdf",
+  "sha256": "137a8d21d09f84ff54f92a811f5f3a703076c544a089c7b69cf60f57ca9bc56f",
+  "bytes": 12825,
+  "pages": 2,
+  "public_source_url": "https://ers.ehawaii.gov/wp-content/uploads/2013/06/ERS-Private-Equity-AD.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:51:49.421343+00:00",
+  "doc_id": "pi-fdb6590ca5f7485abc97ea8f38a03563",
+  "stored_name": "Hawaii_ERS__ERS-Private-Equity-AD.pdf",
+  "reported_usage": {
+    "prompt_tokens": 825,
+    "completion_tokens": 301,
+    "total_tokens": 1126,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 25
+    }
+  },
+  "elapsed_seconds": 5.916,
+  "finished_at_utc": "2026-10-27T08:51:55.349915+00:00",
+  "model_calls": 2,
+  "http_attempts": 2,
+  "observed_usage": {
+    "input_tokens": 825,
+    "output_tokens": 301,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 0,
+    "reasoning_tokens": 25,
+    "total_tokens": 1126
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "INV-02",
+  "question": "What is the proposal deadline, and how many copies must be submitted, for the City of Madison (Florida) Police Officers' and Firefighters' Retirement System RFP No. 2025-0901 for investment consulting services?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:13:48.350171+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "Proposals were due **by 2:00 p.m. on September 1, 2025**. Proposers had to submit **one original and five copies**—six sets total. [RFP No. 2025-0901, pp. 3–4](Madison_FL__2025-RFP-for-Investment-Consulting-Management-Services.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 29375,
+    "input_tokens_details": {
+      "cached_tokens": 19182,
+      "cache_write_tokens": 10178
+    },
+    "output_tokens": 218,
+    "output_tokens_details": {
+      "reasoning_tokens": 10
+    },
+    "total_tokens": 29593,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1234,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1231
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1249
+      },
+      {
+        "input_tokens": 2400,
+        "input_tokens_details": {
+          "cached_tokens": 1231,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 10
+        },
+        "total_tokens": 2435
+      },
+      {
+        "input_tokens": 7638,
+        "input_tokens_details": {
+          "cached_tokens": 2397,
+          "cache_write_tokens": 5238
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7676
+      },
+      {
+        "input_tokens": 7922,
+        "input_tokens_details": {
+          "cached_tokens": 7635,
+          "cache_write_tokens": 284
+        },
+        "output_tokens": 45,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7967
+      },
+      {
+        "input_tokens": 10181,
+        "input_tokens_details": {
+          "cached_tokens": 7919,
+          "cache_write_tokens": 2259
+        },
+        "output_tokens": 85,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10266
+      }
+    ]
+  },
+  "elapsed_seconds": 13.78,
+  "finished_at_utc": "2026-10-27T09:14:02.141962+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 29375,
+    "output_tokens": 218,
+    "cached_input_tokens": 19182,
+    "cache_write_tokens": 10178,
+    "reasoning_tokens": 10,
+    "total_tokens": 29593
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Madison_FL__2025-RFP-for-Investment-Consulting-Management-Services.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Madison_FL__2025-RFP-for-Investment-Consulting-Management-Services.pdf\",\"pages\":\"1-5\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Madison_FL__2025-RFP-for-Investment-Consulting-Management-Services.pdf",
+      "pages": "1-5",
+      "success": true,
+      "call_id": "call_LkKWy6tphf88AQGCS5OjbA9K"
+    }
+  ],
+  "successfully_read_documents": [
+    "Madison_FL__2025-RFP-for-Investment-Consulting-Management-Services.pdf"
+  ]
+}

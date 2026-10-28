@@ -1,0 +1,43 @@
+{
+  "file": "Delaware__TRE21101-RECDKEEPR-rfp.pdf",
+  "sha256": "5656a2d6aee56a6eb2c12e718f6c171e167af6819094e0e2a50068d7d2022c4f",
+  "bytes": 1089597,
+  "pages": 109,
+  "public_source_url": "https://bidcondocs.delaware.gov/TRE/TRE21101-RECDKEEPR-rfp.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:50:11.467905+00:00",
+  "doc_id": "pi-6f043fe4ec1a4440bcef344d82b1e003",
+  "stored_name": "Delaware__TRE21101-RECDKEEPR-rfp.pdf",
+  "reported_usage": {
+    "prompt_tokens": 71792,
+    "completion_tokens": 23892,
+    "total_tokens": 95684,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 28800
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 6741
+    }
+  },
+  "elapsed_seconds": 38.893,
+  "finished_at_utc": "2026-10-27T08:50:50.375397+00:00",
+  "model_calls": 85,
+  "http_attempts": 85,
+  "observed_usage": {
+    "input_tokens": 71792,
+    "output_tokens": 23892,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 28800,
+    "reasoning_tokens": 6741,
+    "total_tokens": 95684
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

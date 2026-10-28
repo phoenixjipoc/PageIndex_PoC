@@ -1,0 +1,7 @@
+{
+  "question": "In Clark County, Washington's RFP 955 for a deferred compensation 457 plan administrator, how much was held in the 457 Plans as of December 31, 2025, and who is the current provider?",
+  "gold_answer": "Approximately $167 million; the current provider is Lincoln Financial.",
+  "acceptance": "Accept approximately $167m (or appropriately reconciled table total) and Lincoln Financial; not just County-only $162.85m.",
+  "scope": "single_document",
+  "candidate_answer": "As of December 31, 2025, the 457 Plans held **approximately $167 million**. The current provider named in Clark County’s RFP #955 is **Lincoln Financial**. [Source: RFP #955, p. 5](Clark_County_WA__-rfp-955-deferred-compensation-457-plan-administrator.pdf#page=5)"
+}

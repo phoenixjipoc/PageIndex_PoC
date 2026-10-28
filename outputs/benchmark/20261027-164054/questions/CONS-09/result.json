@@ -1,0 +1,141 @@
+{
+  "id": "CONS-09",
+  "question": "Which retirement system's investment consultant RFP requires firms to certify that they currently provide investment consulting services to clients whose combined assets total at least $50 billion?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:17:13.433932+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The **Teachers’ Retirement System of the State of Illinois (TRS)**. Its investment consultant RFP lists the $50 billion combined-client-assets requirement in Appendix B, “Statement of Minimum Qualifications” (p. 13).",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 41427,
+    "input_tokens_details": {
+      "cached_tokens": 23786,
+      "cache_write_tokens": 17626
+    },
+    "output_tokens": 298,
+    "output_tokens_details": {
+      "reasoning_tokens": 19
+    },
+    "total_tokens": 41725,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1219,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1216
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1234
+      },
+      {
+        "input_tokens": 2385,
+        "input_tokens_details": {
+          "cached_tokens": 1216,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 105,
+        "output_tokens_details": {
+          "reasoning_tokens": 19
+        },
+        "total_tokens": 2490
+      },
+      {
+        "input_tokens": 2965,
+        "input_tokens_details": {
+          "cached_tokens": 2382,
+          "cache_write_tokens": 580
+        },
+        "output_tokens": 86,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 3051
+      },
+      {
+        "input_tokens": 17229,
+        "input_tokens_details": {
+          "cached_tokens": 2962,
+          "cache_write_tokens": 14264
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 17271
+      },
+      {
+        "input_tokens": 17629,
+        "input_tokens_details": {
+          "cached_tokens": 17226,
+          "cache_write_tokens": 400
+        },
+        "output_tokens": 50,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 17679
+      }
+    ]
+  },
+  "elapsed_seconds": 10.822,
+  "finished_at_utc": "2026-10-27T09:17:24.261799+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 41427,
+    "output_tokens": 298,
+    "cached_input_tokens": 23786,
+    "cache_write_tokens": 17626,
+    "reasoning_tokens": 19,
+    "total_tokens": 41725
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf\",\"pages\":\"13\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf",
+      "pages": "13",
+      "success": true,
+      "call_id": "call_XvJe0EFvjgRkDKNhjBFCnWHS"
+    }
+  ],
+  "successfully_read_documents": [
+    "TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "question": "In the Illinois Municipal Retirement Fund (IMRF) sample RFP for investment consulting, real estate consulting and performance measurement services, on what factors are respondents evaluated and ranked during the selection process?",
+  "gold_answer": "Three factors: (1) Organization - stability, ownership, documented experience of key professionals; (2) Consulting Skill - investment philosophy, investment manager information collection and monitoring systems, risk management tools, performance measurement systems, and breadth of consulting expertise and experience; (3) Fees - consulting fees for services requested and associated costs.",
+  "acceptance": "Three factors with substantively equivalent descriptions suffice; exact wording and order are unnecessary.",
+  "scope": "single_document",
+  "candidate_answer": "IMRF evaluates and ranks respondents on three factors:\n\n1. **Organization:** Stability, ownership, and the documented experience of key professionals.\n2. **Consulting skill:** Investment philosophy; systems for collecting and monitoring investment-manager information; risk-management tools; performance-measurement systems; and the breadth of consulting expertise and experience.\n3. **Fees:** Consulting fees for the requested services and associated costs. [IMRF sample RFP, p. 14](IMRF__sample-investment-consulting-rfp.pdf)"
+}

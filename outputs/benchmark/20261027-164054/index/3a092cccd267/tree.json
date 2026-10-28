@@ -1,0 +1,42 @@
+{
+  "doc_id": "pi-7eb67562273f493386dfe2a6c13353a7",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "External Audit DB Plans RFP 515-22-300",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 1,
+      "key_items": [
+        "ANSWER"
+      ],
+      "summary": "OKLAHOMA PUBLIC EMPLOYEES RETIREMENT SYSTEM\nQuestion and Answer Document\nExternal Audit DB Plans RFP 515-22-300\n1. QUESTION: What are some things you would like to see improved in the financial audit process compared to previous years?\nANSWER: Due to the diligent work of the accounting staff, our internal auditor firm and our external auditor, we’ve been fortunate to have smooth audit engagements for many years. Our desire is for that to continue.\n2. QUESTION: Were there any management letters issued in prior years’ audits? If so, could you please provide an example?"
+    },
+    {
+      "title": "ANSWER: No",
+      "node_id": "0001",
+      "start_index": 1,
+      "end_index": 2,
+      "key_items": [
+        "ANSWER; ANSWER",
+        "ANSWER",
+        "ANSWER",
+        "ANSWER"
+      ],
+      "summary": "OPERS uses an internally developed Oracle pension system and has no definitive replacement plans during the contract, though discussions are underway and a project would take years. It uses Microsoft Dynamics SL for its general ledger and is reviewing alternatives. Census testing typically covers 15–20 employers annually, with 25 participants per employer. The five-member evaluation committee comprises the Executive Director, Chief Investment Officer, General Counsel, Business Manager, and Chief Financial Officer. An Oklahoma Accountancy Board approval screenshot is acceptable evidence of good standing; required non-collusion and supplier-contract forms are on the OPERS RFP webpage. The text provides prior-audit fieldwork dates, durations, hours, and staffing in a table, and directs questions about audit hours and staffing to that table. FY2021 audit fees totaled $73,000. An initial response to an earlier question is “No.”"
+    },
+    {
+      "title": "ANSWER: Yes",
+      "node_id": "0002",
+      "start_index": 2,
+      "end_index": 3,
+      "key_items": [
+        "ANSWER"
+      ],
+      "summary": "The Oklahoma Accountancy Board website screenshot showing the firm’s approval to audit Oklahoma governmental entities is sufficient evidence of good standing. The missing non-collusion certification and supplier contract forms are available on the OPERS RFP website. Prior-audit information lists fieldwork dates, durations, hours, and staffing for the OPERS/URSJJ and GASB 68/75 engagements; questions about audit hours and personnel refer to that information. FY2021 contractual fees totaled $73,000. GASB 68/75 work was always performed remotely; OPERS/URSJJ work was remote during the pandemic, and OPERS accepts remote or onsite engagements. Retaining audit documentation for 11 years for the first contract year is acceptable."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

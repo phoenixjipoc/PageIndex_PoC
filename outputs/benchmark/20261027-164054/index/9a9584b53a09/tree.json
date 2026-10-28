@@ -1,0 +1,866 @@
+{
+  "doc_id": "pi-fa750e19d6f9400dbd3a0930d4fe837d",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 2,
+      "summary": "The document is INPRS’s Request for Proposals No. 22-04 for Core Plus Fixed Income Investment Management, released October 31, 2022. Inquiries were due November 18 and proposals December 23, 2022, both by 3:00 p.m. EST. It covers the RFP introduction, INPRS background, issuer and contacts, inquiry and submission procedures, offer changes or withdrawal, confidentiality, response costs, proposal validity, taxes, registration, discussions, compliance certification, and milestones. Proposal requirements include general instructions, a transmittal letter, business proposal, and fee proposal. Further sections describe the scope of services and contract award, including contract term and evaluation criteria. Appendices provide essential clauses and a sample investment management agreement, mandatory taxpayer identification and foreign registration forms, and a questionnaire."
+    },
+    {
+      "title": "SECTION 1 – INTRODUCTION",
+      "node_id": "0001",
+      "start_index": 3,
+      "end_index": 9,
+      "summary": "INPRS seeks qualified firms to manage its strategic Core Plus Fixed Income allocation. The section describes INPRS’s statutory status, administration of 16 funds, approximately $42.5 billion in assets, defined-benefit return assumption, investment allocation targets and defined-contribution options. It identifies INPRS as issuer and Capital Cities as the assisting consultant. Respondents must use the designated inquiry process; proposals were due December 23, 2022, and could be changed or withdrawn before the deadline. INPRS may issue addenda, extend deadlines, allow correction of minor omissions, or disqualify responses for major omissions or unauthorized contact. Proposal records are generally public, with procedures for claiming confidentiality and submitting redacted copies. Respondents bear their costs, must maintain proposal validity, and cannot charge INPRS taxes. Out-of-state corporations must register before contract discussions. INPRS may hold discussions and seek clarification. Respondents certify compliance with state obligations and must report new actions; INPRS may investigate and impose remedies. The section concludes with solicitation milestones through selection and contract negotiation.",
+      "nodes": [
+        {
+          "title": "1.1 Title; 1.2 Overview of Request for Core Plus Fixed Income Investment Management",
+          "node_id": "0002",
+          "start_index": 3,
+          "end_index": 3,
+          "key_items": [
+            "1.1 Title",
+            "1.2 Overview of Request for Core Plus Fixed Income Investment Management"
+          ],
+          "summary": "SECTION 1 – INTRODUCTION\n1.1 Title\nRequest for Proposals (“RFP”) for core plus fixed income investment management services for the Indiana Public Retirement System (“INPRS” or the “System”)\n1.2 Overview of Request for Core Plus Fixed Income Investment Management\nINPRS is soliciting proposals from all qualified investment firms who wish to be considered as an investment manager to provide portfolio management services for INPRS’ strategic allocation to Core Plus Fixed Income."
+        },
+        {
+          "title": "1.3 INPRS Background",
+          "node_id": "0003",
+          "start_index": 3,
+          "end_index": 4,
+          "key_items": [
+            "1.3.1     History",
+            "1.1 Title; 1.2 Overview of Request for Core Plus Fixed Income Investment Management",
+            "1.1 Title",
+            "1.2 Overview of Request for Core Plus Fixed Income Investment Management",
+            "1.3 INPRS Background",
+            "1.3.2 Investments"
+          ],
+          "summary": "Established by 2011 statute, INPRS is an independent body corporate and governmental instrumentality—not a state department or agency—that administers 16 funds for Indiana public employees: eight defined benefit funds (PERF DB; TRF Pre-’96 DB and ’96 DB; ’77 Fund; JRS; EG&C; PARF; LE DB), five defined contribution funds (PERF DC and My Choice; TRF DC and My Choice; LE DC), two OPEB funds (SDBF and RMBA), and the custodial LPSPR. INPRS manages about $42.5 billion; its defined benefit plan assumes a 6.25% investment return. Portfolio target allocations (ranges) are public equity 20% (17–23%), private markets 15% (10–20%), non-inflation-linked fixed income 20% (17–23%), inflation-linked fixed income 15% (12–18%), commodities 10% (7–13%), real assets 10% (5–15%), absolute return 5% (0–10%), and risk parity 20% (15–25%); total exposure is 115%, maximum 120%. The DC plan has seven core options and target-date funds totaling about $6 billion. The text provides links to INPRS information, annual reports, and DC investment fact sheets."
+        },
+        {
+          "title": "1.4 Issuer",
+          "node_id": "0004",
+          "start_index": 4,
+          "end_index": 4,
+          "summary": "1.4 Issuer\nINPRS is issuing this RFP in accordance with Indiana statutes governing the procurement of services and certain administrative policies of INPRS. Capital Cities is INPRS’s defined contribution consulting firm and assisted INPRS staff in the preparation of this RFP and will consult on the evaluation of responses."
+        },
+        {
+          "title": "1.5 Contacts",
+          "node_id": "0005",
+          "start_index": 4,
+          "end_index": 5,
+          "key_items": [
+            "1.3.2 Investments",
+            "1.4 Issuer"
+          ],
+          "summary": "Respondents must direct inquiries only through the RFP process; unauthorized contact with INPRS staff or trustees may disqualify them. Questions must be emailed to procurement contact Stanton Lanman by the deadlines in Section 1.16; INPRS may answer in writing and post responses, revisions, or interpretations as website addenda, potentially extending the proposal deadline. Proposals were due by email on December 23, 2022, at 3:00 p.m. EST; late submissions will not be considered. Offers may be modified or withdrawn in writing before the deadline. INPRS may allow all affected respondents five calendar days to correct minor errors or omissions after notice; major omissions, including missing prices, may lead to disqualification. Proposal materials are subject to Indiana’s Access to Public Records law; the excerpt ends before further details."
+        },
+        {
+          "title": "RFP Inquiries, Proposal Submission, and Changes",
+          "node_id": "0006",
+          "start_index": 5,
+          "end_index": 5,
+          "key_items": [
+            "1.6 Inquiries about the RFP for INPRS",
+            "1.7 Invitation to Submit Proposals",
+            "1.8 Modification or Withdrawal of Offers"
+          ],
+          "summary": "Respondents receive equal access to RFP communications. Inquiries must be emailed to procurement contact Stanton Lanman by the Section 1.16 deadlines; INPRS decides whether to answer in writing and posts responses online. RFP revisions or interpretations will be issued as website addenda, and the proposal deadline may be extended if needed. Proposals are due by email to procurements@inprs.in.gov by December 23, 2022, at 3:00 PM EST; late proposals are rejected. Offers may be modified or withdrawn in writing by email before the submission deadline, but not afterward. At its discretion, INPRS may give affected respondents five calendar days after notification to correct minor errors or omissions. Major omissions, including missing prices, are not minor and may disqualify a proposal."
+        },
+        {
+          "title": "1.9 Confidential Information",
+          "node_id": "0007",
+          "start_index": 5,
+          "end_index": 6,
+          "key_items": [
+            "1.6 Inquiries about the RFP for INPRS; 1.7 Invitation to Submit Proposals",
+            "1.6 Inquiries about the RFP for INPRS",
+            "1.7 Invitation to Submit Proposals",
+            "1.8 Modification or Withdrawal of Offers"
+          ],
+          "summary": "Proposal materials are generally public records under Indiana’s APRA and may be accessed after contract award unless a statutory exception applies. Respondents claiming an exception must identify it in the Transmittal Letter, place confidential material in a separate folder, and submit a separate redacted public version. INPRS determines confidentiality and may seek guidance from the Public Access Counselor (PAC); objections may also be raised with the PAC, whose guidance INPRS follows. Respondents bear all proposal-preparation and contract-anticipation costs. Proposals must remain valid for at least 180 days after the deadline; proposals accepted for negotiations remain valid until replaced by a contract or rejected. INPRS is tax-exempt and will not pay taxes levied on Respondents. Out-of-state corporate Respondents must register with Indiana’s Secretary of State before doing business with INPRS; registration forms are available from its Corporations Division in Indianapolis or online."
+        },
+        {
+          "title": "Proposal Disclosure, Costs, Validity, and Taxes",
+          "node_id": "0008",
+          "start_index": 6,
+          "end_index": 6,
+          "key_items": [
+            "1.10 RFP Response Costs",
+            "1.11 Proposal Life",
+            "1.12 Taxes"
+          ],
+          "summary": "After contract award, RFP materials and responses are generally public records under Indiana’s APRA unless a statutory exception applies. Respondents must identify claimed exceptions in the Transmittal Letter, separately mark confidential information, and provide a redacted public-release copy. INPRS determines confidentiality and may consult the Public Access Counselor (PAC); respondents may challenge determinations with the PAC and are encouraged to follow its guidance. INPRS does not reimburse proposal preparation or other anticipated-contract costs. Proposals must remain valid for at least 180 days after the due date; proposals accepted for negotiations remain valid until replaced by a contract or rejected. INPRS is exempt from federal, state, and local taxes and will not pay taxes imposed on the Respondent under a resulting contract."
+        },
+        {
+          "title": "1.13 Secretary of State Registration",
+          "node_id": "0009",
+          "start_index": 6,
+          "end_index": 7,
+          "key_items": [
+            "1.10 RFP Response Costs; 1.11 Proposal Life",
+            "1.10 RFP Response Costs",
+            "1.11 Proposal Life",
+            "1.12 Taxes"
+          ],
+          "summary": "1.13 Secretary of State Registration\nBefore an out-of-state corporate Respondent can do business with INPRS, the Respondent must be registered with the Indiana Secretary of State. If an out-of-state corporate Respondent does not have such registration at present, the Respondent should contact:\nSecretary of State of Indiana Corporations Division\n302 West Washington Street, E018 Indianapolis, IN 46204 (317) 232-6576\nFor the necessary registration application form, or it can be accessed via the internet at the web address\n- 6 -provided in Appendix B.2. It is each Respondent’s responsibility to register prior to the initiation of any contract discussions, but registration is not a requirement to submit a response."
+        },
+        {
+          "title": "1.14 Discussion Format",
+          "node_id": "0010",
+          "start_index": 7,
+          "end_index": 7,
+          "summary": "1.14 Discussion Format\nINPRS reserves the right to conduct discussions, either oral or written, with those Respondents determined by INPRS to be reasonably viable to being selected for award. INPRS also reserves the right to seek clarification to resolve issues as deemed necessary by INPRS."
+        },
+        {
+          "title": "1.15 Compliance Certification",
+          "node_id": "0011",
+          "start_index": 7,
+          "end_index": 8,
+          "key_items": [
+            "1.14 Discussion Format"
+          ],
+          "summary": "The Respondent certifies that it and its principals have no outstanding criminal, civil, or enforcement actions initiated by Indiana and are not delinquent on taxes, fees, or other required payments to the State. It must immediately notify INPRS if such actions arise. INPRS may conduct background checks at any time; if liabilities are found, it may bar the Respondent from contracting, cancel contracts, offset obligations against payments, and suspend further payments or purchases until the liabilities are paid and proof is provided."
+        },
+        {
+          "title": "1.16 Summary of Milestones",
+          "node_id": "0012",
+          "start_index": 8,
+          "end_index": 9,
+          "summary": "1.16 Summary of Milestones\nThe following is the expected timeline for this solicitation:\nACTIVITY\nEXPECTED DATE\nOctober 31, 2022\nRelease of RFP Respondent’s Inquiry Period Ends Answers to Inquiries Published to INPRS Web Page Respondent RFP Submissions Due\nNovember 18, 2022, 3:00 P.M. (EST)\nDecember 2, 2022\nDecember 23, 2022, 3:00 P.M. (EST)\nJanuary - February 2023\nFinalist Presentations at INPRS / Onsite Visits Selection of Manager(s)\nFebruary 2023\nContract Negotiation\nMarch 2023\n- 8 -"
+        }
+      ]
+    },
+    {
+      "title": "SECTION 2 – PROPOSAL CONTENT REQUIREMENTS",
+      "node_id": "0013",
+      "start_index": 9,
+      "end_index": 12,
+      "summary": "The section establishes the required proposal format and electronic submission process. A complete submission must include a transmittal letter, business proposal, fee proposal, and Form W-9. The transmittal letter identifies the RFP and respondent, provides contact details, confirms capability and willingness to meet RFP and INPRS contract terms, and includes an authorized signature and proof of authority. Confidentiality claims must identify each protected item, its statutory basis and rationale, and include a redacted public version; blanket or incomplete claims are rejected. The business proposal must follow the specified headings and include an executive summary, experience and personnel details, organizational capability and financial statements/audit, a completed questionnaire, explained exceptions and proposed amendments to the base agreement (essential clauses are non-negotiable), and response assumptions, including INPRS responsibilities. The fee proposal must detail all costs in U.S. dollars based on Section 3 services and asset thresholds, remain guaranteed through the contract term, be paid quarterly in arrears, and answer the questionnaire’s fees and terms portion; inadequate detail may disqualify the respondent.",
+      "nodes": [
+        {
+          "title": "2.1 General Instructions",
+          "node_id": "0014",
+          "start_index": 9,
+          "end_index": 9,
+          "summary": "SECTION 2 – PROPOSAL CONTENT REQUIREMENTS\n2.1 General Instructions\nTo facilitate the timely evaluation of proposals, a standard format for proposal submission has been developed and is documented in this section. All Respondents are required to format their proposals in a manner consistent with the guidelines described below.\nA complete proposal must be submitted electronically per the guidelines in Section 1.7 of this RFP and must include the following:\n• A transmittal letter (with the information in Section 2.2 of this RFP).\n• A business proposal (with the information and attachments described in Section 2.3 of this RFP).\n• A fee proposal (with the information in Section 2.4 of this RFP).\n• Form W-9 (see Appendix B.1)"
+        },
+        {
+          "title": "2.2 Transmittal Letter",
+          "node_id": "0015",
+          "start_index": 9,
+          "end_index": 10,
+          "key_items": [
+            "2.2.1 Identification of RFP; 2.2.2 Identification of Manager; 2.2.3 Summary of Ability and Desire to Supply the Required Services",
+            "2.2.1 Identification of RFP",
+            "2.2.2 Identification of Manager",
+            "2.2.3 Summary of Ability and Desire to Supply the Required Services",
+            "2.2.4 Signature of Authorized Representative",
+            "SECTION 2 – PROPOSAL CONTENT REQUIREMENTS; 2.1 General Instructions; 2.2 Transmittal Letter; 2.2.1 Identification of RFP; 2.2.2 Identification of Manager",
+            "SECTION 2 – PROPOSAL CONTENT REQUIREMENTS",
+            "2.1 General Instructions",
+            "2.2 Transmittal Letter",
+            "2.2.1 Identification of RFP",
+            "2.2.2 Identification of Manager",
+            "2.2.3 Summary of Ability and Desire to Supply the Required Services",
+            "2.2.5 Confidential Information; 2.2.6 Other Information",
+            "2.2.5 Confidential Information",
+            "2.2.6 Other Information"
+          ],
+          "summary": "The transmittal letter must identify the RFP by title and number; provide the respondent’s name, address, contact name, phone, and email; summarize its ability and willingness to provide the services under the RFP terms, including INPRS standard contract clauses; and be signed by a legally authorized representative, with proof of authority such as corporate bylaws or a board resolution. For any confidentiality claim under APRA, list each document or section claimed exempt, identify the applicable statutory exception, explain how it applies, and provide a separately redacted public-release version. Blanket confidentiality claims are not accepted, and claims lacking this information will not be considered confidential. The letter may include other brief information."
+        },
+        {
+          "title": "2.3 Business Proposal",
+          "node_id": "0016",
+          "start_index": 10,
+          "end_index": 11,
+          "key_items": [
+            "2.3.1 Executive Summary; 2.3.2 Relevant Experience; 2.3.3 Organizational Capability; i. Personnel",
+            "2.3.1 Executive Summary",
+            "2.3.2 Relevant Experience",
+            "2.3.3 Organizational Capability",
+            "i. Personnel",
+            "ii. Registration to do Business",
+            "2.2.5 Confidential Information; 2.2.6 Other Information; 2.3 Business Proposal; 2.3.1 Executive Summary; 2.3.2 Relevant Experience",
+            "2.2.5 Confidential Information",
+            "2.2.6 Other Information",
+            "2.3 Business Proposal",
+            "2.3.1 Executive Summary",
+            "2.3.2 Relevant Experience",
+            "2.3.3 Organizational Capability",
+            "iii. Financial Statements; 2.3.4 Required Questionnaire, Appendix C; 2.3.5 Investment Management Agreement; 2.3.6 Assumptions",
+            "iii. Financial Statements",
+            "2.3.4 Required Questionnaire, Appendix C",
+            "2.3.5 Investment Management Agreement",
+            "2.3.6 Assumptions"
+          ],
+          "summary": "The business proposal must follow specified section titles and include: an executive summary describing the proposed service scope; relevant experience and personnel information per Appendix C; organizational capability for the Section 3 work, including Indiana Secretary of State business-registration status (registration must be completed before contract negotiations and is the respondent’s responsibility) and income statements and balance sheets for the two latest fiscal years plus the latest audit report; a completed Appendix C questionnaire; and any clearly explained exceptions to the base investment management agreement (Appendix A.2), with proposed amendments where applicable, noting essential clauses in Appendix A.1 are non-negotiable. Respondents must also list assumptions underlying their response, including INPRS responsibilities."
+        },
+        {
+          "title": "2.4 Fee Proposal",
+          "node_id": "0017",
+          "start_index": 11,
+          "end_index": 12,
+          "key_items": [
+            "2.3.4 Required Questionnaire, Appendix C; 2.3.5 Investment Management Agreement",
+            "2.3.4 Required Questionnaire, Appendix C",
+            "2.3.5 Investment Management Agreement",
+            "2.3.6 Assumptions"
+          ],
+          "summary": "2.4 Fee Proposal\nPlease provide a detailed fee proposal. Fee calculations/formulas shall assume U.S. dollars. The Services and asset thresholds detailed in SECTION 3 – SCOPE OF SERVICES of this RFP are the basis for the proposed fees. The proposed fees shall include all costs for providing Services to INPRS as described and shall be guaranteed through the contract term. In no case will the final fee be higher than the fee contained in the Proposal. Payment of fees shall be quarterly in arrears. Please answer the “Investment Vehicles, Fees, & Terms” portion of the Questionnaire. FAILURE TO SUBMIT A DETAILED FEE PROPOSAL MAY ELIMINATE A RESPONDENT’S ORGANIZATION FROM CONSIDERATION.\n- 11 -"
+        }
+      ]
+    },
+    {
+      "title": "SECTION 3 – SCOPE OF SERVICES",
+      "node_id": "0018",
+      "start_index": 12,
+      "end_index": 13,
+      "summary": "INPRS seeks proposals for two Core Plus Fixed Income managers for its DC Plan, with a combined mandate of about $185 million, benchmarked to the Bloomberg U.S. Aggregate Bond Index and governed by its Investment Policy Statement. The RFP aims to identify qualified firms with suitable expertise, performance history, and resources. Requirements include SEC registration; at least $2 billion firm AUM; 10 years managing Core Plus fixed income; at least seven years of GIPS-compliant strategy and senior-team performance; at least $500 million strategy AUM and $100 million capacity; and an active, long-only approach targeting benchmark-beating risk-adjusted returns net of fees. Firms must offer an eligible vehicle (separate accounts or collective trusts preferred) and comply with the IPS. Separate accounts require specified Sudan, terror-state, and Israel-related divestment screens and acceptance of INPRS contracts. The DC Fixed Income Fund is split equally between passive Aggregate exposure and two Core Plus managers; it also supports the Target Date glidepath. INPRS may leverage DB assets and manager relationships, with BNY Mellon unitizing mandates and fees negotiated across plans."
+    },
+    {
+      "title": "SECTION 4 – CONTRACT AWARD",
+      "node_id": "0019",
+      "start_index": 13,
+      "end_index": 14,
+      "key_items": [
+        "4.1 Length of Contract",
+        "4.2 Evaluation Criteria",
+        "SECTION 4 – CONTRACT AWARD",
+        "4.1 Length of Contract",
+        "4.2 Evaluation Criteria"
+      ],
+      "summary": "INPRS may award to the proposal(s) most advantageous under all evaluation factors, take other action or make no award, and, if a selected contract cannot be completed, negotiate with the next qualified respondent or decline to award. INPRS may clarify proposals, reject any or all, award without discussions, and divide the investment contract among multiple respondents; proposals should therefore offer best price and technical terms. The Executive Director or designee makes the final discretionary selection. The contract runs five years from execution, with optional renewals on the same terms, for a maximum total of ten years. A qualified evaluation team assesses proposals for ability to meet requirements efficiently and cost-effectively, with quality service and minimal error, and may consider other material factors. Criteria include performance (returns and tracking error on comparable core-plus fixed-income mandates), investment process, organizational ownership and strategy, investment-team integrity, depth, experience and stability, risk management, public-plan experience, fees, and portfolio characteristics."
+    },
+    {
+      "title": "APPENDIX A – SAMPLE INVESTMENT MANAGEMENT AGREEMENT",
+      "node_id": "0020",
+      "start_index": 14,
+      "end_index": 15,
+      "summary": "Appendix A provides the sample investment management agreement to be used if an award is made. Respondents should review it and submit proposed amendments with their business proposal, following RFP section 2.3.6, explaining each change and stating whether it is required or merely desired. INPRS is unlikely to accept changes unless, in its discretion, they are necessary to perform the services. If a required change is unacceptable, the proposal may be rejected; Appendix A.1 lists non-negotiable essential clauses. Respondents must clearly identify and explain all exceptions to the solicitation’s terms and conditions. Exceptions may negatively affect evaluation, and INPRS may refuse to consider exceptions not disclosed in the proposal."
+    },
+    {
+      "title": "APPENDIX A.1 – ESSENTIAL CLAUSES",
+      "node_id": "0021",
+      "start_index": 15,
+      "end_index": 44,
+      "summary": "Appendix A.1 identifies mandatory, non-negotiable contract clauses and prohibited terms, including limits on indemnity, liability, governing law, venue, dispute resolution, taxes, fees, advance payment, records, disclosure, ethics, nondiscrimination, audits, and subcontracting. It includes a bidder acknowledgment and a template INPRS investment-management agreement covering term, definitions, appointment, fiduciary duties, instructions, custody, trading, reporting, meetings, compensation, termination, indemnification, representations, insurance, recordkeeping, confidentiality, conflicts, legal and ethics compliance, disputes, notices, funding, interpretation, entire agreement, severability, waivers, assignment, drug-free workplace, audits, authority, debarment, MBE/WBE requirements, non-collusion, and signatures. Exhibits address the mandate and benchmark, fee schedule and comparable-investor fee protections, prohibited brokers, authorized persons, the investment policy statement, and placement-agent disclosures.",
+      "nodes": [
+        {
+          "title": "Essential Clauses in the System’s Investment Management Agreement",
+          "node_id": "0022",
+          "start_index": 15,
+          "end_index": 16,
+          "key_items": [
+            "APPENDIX A .1 – ESSENTIAL CLAUSES"
+          ],
+          "summary": "RFP respondents must review and comment on the System’s boilerplate investment management agreement; listed clauses are non-negotiable, and bids should account for any liability risks. Section 17 preserves the Manager’s indemnification duties and the System’s ability to recover damages; the System cannot indemnify the Manager. Section 18(H) investigations and complaints is essential and cannot be materially changed. Section 21 requires records retention under applicable law, including Indiana schedules, and inspection. Section 22 addresses confidential public records and required Social Security disclosures. Section 25 requires nondiscrimination without liability limits or substituted policies. Section 26(B) requires Indiana ethics compliance, including telephone solicitation rules. Section 28 mandates Indiana law and state-court venue, preserving Eleventh Amendment immunity. Section 29 rejects advance binding dispute resolution except Indiana courts, but permits later ADR. Sections 38 and 39 require unmodified drug-free workplace provisions and audit terms. Section 44 requires managers using subcontractors to offer bidding opportunities to listed Indiana-certified minority- or women-owned businesses; it does not apply without subcontractors."
+        },
+        {
+          "title": "Additional contract provisions to which the System will not agree:",
+          "node_id": "0023",
+          "start_index": 16,
+          "end_index": 16,
+          "summary": "Additional contract provisions to which the System will not agree:\n \nAny provision requiring the System to provide insurance or an indemnity; Any provision requiring the contract to be construed in accordance with the laws of any state other than Indiana; Any provision requiring suit to be brought in any state other than Indiana; Any mandatory dispute resolution other than the courts; Any provision requiring the System to pay taxes; Any provision requiring the System to pay penalties, liquidated damages, interest, or attorney fees; Any provision modifying the statute of limitations; Any provision relating to a time in which the System must make a claim; Any provision requiring payment in advance, except for rent; and Any provision limiting disclosure of information in contravention of the Indiana Access to Public Records Act\n       "
+        },
+        {
+          "title": "Acknowledgement",
+          "node_id": "0024",
+          "start_index": 16,
+          "end_index": 17,
+          "key_items": [
+            "Additional contract provisions to which the System will not agree:"
+          ],
+          "summary": "The text includes an acknowledgment that the signer has reviewed and agrees to the System’s mandatory contract provisions, with fields for signature, name, title, company, and date. It then begins Appendix A.2, an Investment Management Agreement between the Indiana Public Retirement System (INPRS) and an unnamed Manager, effective on a date to be specified. The recitals state that INPRS considers the agreement to be in the best interests of the System, its members, and beneficiaries, and that the Manager wishes to provide investment and management services. The parties agree to the agreement’s terms in consideration of the recitals, mutual promises, covenants, representations, conditions, and benefits."
+        },
+        {
+          "title": "1. Term",
+          "node_id": "0025",
+          "start_index": 17,
+          "end_index": 17,
+          "summary": "1. Term\n( ) years. It shall commence as of the date\nThis Management Agreement shall be for a period of the last party executes this Management Agreement, and shall continue in full force and effect for ( ) years from the effective date. Notwithstanding Section 16 of this Management Agreement, unless otherwise terminated, modified, or renewed in writing by the parties, this Management Agreement will automatically renew on a month-to-month basis after the termination date for a period not to exceed ( ) months."
+        },
+        {
+          "title": "2. Definitions, Gender and Number",
+          "node_id": "0026",
+          "start_index": 17,
+          "end_index": 18,
+          "key_items": [
+            "THIS INVESTMENT MANAGEMENT AGREEMENT; A. Agents; B. Authorized Instructions; C. Authorized Persons",
+            "THIS INVESTMENT MANAGEMENT AGREEMENT",
+            "A. Agents",
+            "B. Authorized Instructions",
+            "C. Authorized Persons",
+            "E. Claims"
+          ],
+          "summary": "The section establishes that capitalized terms have the stated meanings and that masculine, feminine, and neuter genders, and singular and plural forms, include one another unless context requires otherwise. It defines Agents as Manager’s service-providing employees, agents, or representatives, excluding independent providers; Authorized Instructions as directions from Authorized Persons, who are System-designated personnel authorized to direct Manager; and Board as the System’s Board of Trustees. Claims covers liabilities and related losses, expenses, proceedings, judgments, fines, and penalties connected with the agreement. It defines the Custodian and separate Sub-Account holding and accounting for Managed Assets; the Disclosure Statement as Manager’s SEC Form ADV Part II; and the Effective Termination Date as the cessation date in the System’s notice. Investment Guidelines comprise the IPS and agreement scope; Legal Requirements include applicable laws and regulatory requirements. Managed Assets include allocated System property and all related additions and growth. Standard of Care requires expert fiduciary care, skill, prudence, and diligence. System Records include all relevant records created or maintained by Manager or its Agents."
+        },
+        {
+          "title": "3. Appointment of Manager and Acceptance of Appointment",
+          "node_id": "0027",
+          "start_index": 18,
+          "end_index": 19,
+          "key_items": [
+            "F. Custodian; G. Disclosure Statement",
+            "F. Custodian",
+            "G. Disclosure Statement",
+            "H. Effective Termination Date",
+            "I. Investment Guidelines"
+          ],
+          "summary": "The System appoints the Manager as fiduciary to invest and manage the Managed Assets under the mandate and benchmark specified in Exhibit A; the Manager accepts responsibility and agrees to follow the Agreement. The Manager and its agents must meet the defined Standard of Care, and the Manager is liable for related claims arising from failures. The Manager acts only as the System’s limited agent, not as its employee, partner, or joint venturer; service providers are the Manager’s employees. The System supplies and updates in writing a list of Authorized Persons and signature specimens (Exhibit D); absent a designee, the Manager takes direction from the Executive Director. Authorized Instructions must generally be written and authenticated, though verbal instructions may be accepted with written confirmation. Unauthorized instructions must be rejected and reported; in exceptional circumstances, the Manager may sell securities to prevent exceptional loss when authorized persons cannot be reached. The System’s Custodian maintains a separate Sub-Account; the System retains ownership, and the Manager may not take possession, custody, title, or ownership of the assets."
+        },
+        {
+          "title": "Manager Duties, Agency, and Authorized Instructions",
+          "node_id": "0028",
+          "start_index": 19,
+          "end_index": 19,
+          "key_items": [
+            "4. Standard of Care",
+            "5. Limited Status as Agent",
+            "6. Authorized System Personnel",
+            "7. Authorized Instructions"
+          ],
+          "summary": "The benchmark is determined under Exhibit A. The Manager owes the System and its agents the defined fiduciary Standard of Care and is liable for related claims arising from failures to meet it. The Manager acts solely as agent for managing the Managed Assets; the agreement creates no employment, partnership, joint venture, or similar relationship, and service providers are employees only of the Manager. The System supplies and updates in writing a list of Authorized Persons and applicable signature specimens; until notified of changes, the Manager may rely on the current list. If none is designated, the Manager takes direction only from the Executive Director. Authorized Instructions must be written and sent by specified mail, courier, fax, or authenticated electronic means, though verbal instructions may be accepted at the Manager’s discretion with written confirmation. Instructions bind upon receipt. The Manager must reject and report unauthorized instructions to the Chief Investment Officer, but may exercise discretion to dispose of securities in extraordinary circumstances when an Authorized Person cannot be reached, to prevent exceptional loss of value."
+        },
+        {
+          "title": "8. Custody of Managed Assets",
+          "node_id": "0029",
+          "start_index": 19,
+          "end_index": 20,
+          "key_items": [
+            "4. Standard of Care; 5. Limited Status as Agent; 6. Authorized System Personnel",
+            "4. Standard of Care",
+            "5. Limited Status as Agent",
+            "6. Authorized System Personnel",
+            "7. Authorized Instructions"
+          ],
+          "summary": "The System must direct its Custodian to maintain a separate Sub-Account that tracks Managed Assets and related transactions apart from the System’s other assets. The System retains ownership. The Manager may not possess or hold custody, title, or ownership of the assets; register securities in its or a nominee’s name; or acquire income or proceeds from them. The Manager has no responsibility for collecting income, physically acquiring, or safeguarding the assets; those duties belong solely to the Custodian."
+        },
+        {
+          "title": "9. Investment Duties of Manager",
+          "node_id": "0030",
+          "start_index": 20,
+          "end_index": 21,
+          "key_items": [
+            "A. Investment Guidelines; B. Trading Procedures; C. Broker/Dealers",
+            "A. Investment Guidelines",
+            "B. Trading Procedures",
+            "C. Broker/Dealers",
+            "D. Trade Confirmation and Settlement"
+          ],
+          "summary": "The Manager, as fiduciary, may manage the Sub-Account under the agreement, IPS, Investment Guidelines, and applicable law. It may trade subject to the Guidelines and written revisions received from the System. Trades settle through the System’s Custodian, which retains the assets; the Manager directs trades and supplies settlement information. The Manager must prudently select reputable brokers for favorable net execution, avoid brokers barred by the System or affiliated with the investment consultant or Manager, and follow notified list changes. It must send confirmations to the Custodian, use DTC’s Institutional Delivery System when eligible, and help resolve settlement issues. The Board and Authorized Persons must forward information on asset rights and keep securities deliverable; the Manager directs timely action on rights it knows of. The Custodian provides requested online access and statements, and the Manager cooperates in monthly reconciliation without guaranteeing supplied information’s accuracy. Reports use agreed formats, trade-date accounting and accruals where available, and are signed and certified. Monthly reports cover performance, portfolio characteristics versus benchmarks, sector/country weights, and performance attributes; requested regulatory statements and filings are due within 30 days. Meetings occur upon request at mutually agreed times."
+        },
+        {
+          "title": "Managed Account Operations, Reconciliation, and Reporting",
+          "node_id": "0031",
+          "start_index": 21,
+          "end_index": 21,
+          "key_items": [
+            "10. Sub-Account Reconciliation",
+            "11. Written Reports"
+          ],
+          "summary": "The Manager uses the Company’s Institutional Delivery System for trade confirmation and settlement and cooperates to resolve settlement discrepancies. The Board or Authorized Persons must promptly pass along Custodian information about rights or events requiring investment decisions and ensure securities are held in deliverable form. The Manager directs action on such rights when it has actual knowledge. On request and where possible, the Custodian provides online Sub-Account access and reasonably requested statements; the Manager disclaims responsibility for the accuracy of information supplied by the System or Custodian but cooperates in monthly reconciliation. Reports use mutually agreed formats, trade-date accounting, and accrual treatment for income where available. An authorized officer signs and certifies them as accurate and consistent with Investment Guidelines; the Manager disclaims responsibility for third-party information. By month-end, the Manager reports the prior month’s investment status and performance, including benchmark comparisons, sector and country weights, and performance attributes. Within 30 days of request, it provides regulatory statements, responses, and filings concerning relevant financial or regulatory matters."
+        },
+        {
+          "title": "12. Meetings",
+          "node_id": "0032",
+          "start_index": 21,
+          "end_index": 22,
+          "key_items": [
+            "E. Discretionary Rights and Powers Affecting the Managed Assets"
+          ],
+          "summary": "The System may request mutually scheduled meetings to review the Manager’s performance and investment strategy; the Manager must also answer System staff and Board questions on reasonable notice at no extra charge. Compensation is mutually agreed, initially under Exhibit B’s fee schedule. The Manager must use required invoice forms and submit quarterly invoices within 30 days after each quarter, covering only services already performed, with partial quarters prorated; payments are made in arrears under Indiana law and System policies. Subject to applicable ethics rules, the System may attend the Manager’s client seminars and training on the same terms. The System may terminate the agreement, in whole or in part, for any reason by notice. The Manager retains System records under the agreement’s retention provisions and is paid for services through the effective termination date. A final invoice, daily-prorated at the current fee rate, is due within 30 days; if late, the System determines any amount due based on available information, and that determination is final. The System then authorizes payment and is not liable for post-termination services."
+        },
+        {
+          "title": "Manager Services, Compensation, and Training",
+          "node_id": "0033",
+          "start_index": 22,
+          "end_index": 22,
+          "key_items": [
+            "13. Compensation for Services",
+            "14. Invoices for Compensation",
+            "15. Seminars and Training Programs"
+          ],
+          "summary": "The Manager will review performance and investment strategy with the System and, on reasonable notice, answer System staff and Board members’ questions without extra charge. Compensation is mutually agreed, initially under Exhibit B’s fee schedule, and covers all services. The Manager must submit required forms and quarterly invoices within 30 days after each quarter, including prorated fees for partial quarters. Invoices may cover only completed services; payment is made in arrears under Indiana law and System policies. Subject to applicable state and System ethics rules, the System may attend the Manager’s client seminars and training events on the same terms as other clients."
+        },
+        {
+          "title": "16. Termination; Rights, Remedies, and Responsibilities upon Termination; Termination for Convenience",
+          "node_id": "0034",
+          "start_index": 22,
+          "end_index": 23,
+          "summary": "The System may terminate the agreement in whole or part for any reason by notice, or immediately if it considers termination necessary to protect the plan or trust assets. The Manager must retain System Records and is entitled to payment for services rendered before the effective termination date, subject to the contract price plus written-approved changes. Within 30 days, it must submit a reasonably certified final invoice prorating unpaid quarterly fees daily at its current compensation level; if it fails, the System’s estimate based on available information is final. The System then authorizes payment and is not liable for post-termination services. Termination does not waive claims for either party’s earlier defaults. Unless directed otherwise, the Manager must stop services on the effective date, but continue necessary work on pending transactions during a transition period of up to three months, at the existing compensation level, and cooperate in transferring services and records to a successor. Remedies under this section are cumulative and nonexclusive."
+        },
+        {
+          "title": "17. Indemnification",
+          "node_id": "0035",
+          "start_index": 23,
+          "end_index": 23,
+          "summary": "17. Indemnification\nManager shall indemnify, defend, and hold harmless the State of Indiana and the System, its officers, fiduciaries (excluding Manager), employees, and agents, from and against any and all Claims arising from or relating to any bad faith, negligence, willful misconduct, improper or unethical practice, infringement of intellectual property rights, breach of fiduciary duty, breach of trust, breach of confidentiality, breach of Agreement, violation of any Legal Requirement, or any other act or omission of or by Manager or any of its Agents acting in connection with this Management Agreement. This indemnification shall survive any termination of this Management Agreement. The System shall not provide such indemnification to Manager."
+        },
+        {
+          "title": "18. Manager’s Representations, Warranties, and Covenants",
+          "node_id": "0036",
+          "start_index": 23,
+          "end_index": 26,
+          "summary": "The Manager represents that it is authorized to enter and perform the agreement, which is binding subject to insolvency and equity limitations, and that performance violates no law, order, or agreement. It must meet service standards, promptly correct requested errors or omissions, avoid knowingly infringing intellectual-property rights or using trade secrets, and provide its auditor’s opinion letter and ADV Part II annually. It warrants compliance with restrictions on contingent-fee solicitors (subject to stated exceptions) and gratuities; breaches may result in termination and fee recovery or deduction, with gratuity violations permitting termination on one calendar day’s written notice. Within three business days it must report specified material changes, including inaccurate representations, personnel, control, organizational or portfolio-management changes, and bankruptcy filings. It must promptly report specified investigations, examinations, complaints, and proceedings, with information kept confidential until public unless law requires otherwise. The Manager also represents its investment-adviser registration (or exemption), ERISA Section 3(38) status, asset status, responsible agents’ qualifications and disciplinary history, disclosed placement-agent fees, and delivery of its Disclosure Statement; it acknowledges the System’s reliance on these commitments.",
+          "nodes": [
+            {
+              "title": "18. Manager’s Representations, Warranties, and Covenants (intro)",
+              "node_id": "0037",
+              "start_index": 23,
+              "end_index": 24,
+              "summary": "Manager represents that it is authorized to enter and perform the agreement, which is binding subject to standard insolvency and equity limitations, and that doing so violates no law, order, or agreement. Services must meet contractual standards, and Manager must promptly correct errors or omissions on request. Manager warrants it has not used prohibited contingent-fee solicitors; breach permits immediate termination for default and recovery or deduction of the fee. It has not given, and will not give, gratuities to System or Indiana officials or employees to secure the agreement or favorable treatment; violations permit termination on one calendar day’s written notice. Manager must avoid knowingly infringing others’ intellectual property or trade secrets, provide its auditor opinion letter and ADV Part II annually, and notify the System in writing within three business days of specified material changes, including inaccurate representations, senior-personnel or control changes, organizational or portfolio-management changes, or bankruptcy filings. To the extent legally permitted, Manager must promptly notify the System in writing of investigations or examinations; the provision also refers to complaints, but the text ends before specifying details."
+            },
+            {
+              "title": "Manager Obligations, Disclosures, and Changes",
+              "node_id": "0038",
+              "start_index": 24,
+              "end_index": 24,
+              "key_items": [
+                "F. Annual Documents",
+                "G. Changes"
+              ],
+              "summary": "Manager’s services must meet the agreement’s standards, and errors or omissions must be promptly corrected when requested. Manager warrants it has not used prohibited contingent-fee solicitors, subject to stated employee and agency exceptions; breach allows immediate termination for default and recovery or deduction of the fee. Manager must not offer gratuities to System or Indiana State personnel to secure the agreement or favorable treatment; violation permits termination on one calendar day’s written notice. Manager must not knowingly infringe others’ intellectual-property rights or use their trade secrets. Each year, Manager must provide its auditor’s opinion letter and ADV Part II. Within three business days, Manager must notify the System in writing if its representations, warranties, or covenants materially cease to be true; assigned senior personnel materially change; control changes; or another material portfolio-management or organizational change occurs, including bankruptcy filings."
+            },
+            {
+              "title": "H. Investigations and Complaints",
+              "node_id": "0039",
+              "start_index": 24,
+              "end_index": 25,
+              "summary": "H. Investigations and Complaints. To the extent permitted by applicable law, Manager shall promptly advise the System in writing of any ordinary investigation, examination,\n- 24 -complaint, disciplinary action, or other proceeding relating to or affecting Manager’s ability to perform its duties under this Management Agreement that is commenced by any of the following:\ni. The Securities and Exchange Commission of the United States (the “SEC”);\nii.\nThe New York Stock Exchange;\niii.\nThe American Stock Exchange;\niv.\nThe National Association of Securities Dealers;\nv. Any Attorney General or any regulatory agency of any state of the United States;\nvi.\nAny U. S. Government department or agency; or\nvii.\nAny governmental agency regulating securities of any country in which Manager is doing business. Except as otherwise required by law, the System shall maintain the confidentiality of all such information until the investigating entity makes the information public."
+            },
+            {
+              "title": "I. Registered Investment Advisor",
+              "node_id": "0040",
+              "start_index": 25,
+              "end_index": 26,
+              "summary": "The Manager represents that it is SEC-registered as an investment adviser, unless exempt, and will promptly notify the System if registration ends or is suspended. It is an ERISA Section 3(38) Investment Manager for its allocated Managed Assets and will maintain that status; those assets are not ERISA plan assets. Its responsible agents are experienced and have no specified convictions, adverse findings, pleas, or consent decrees involving trust or fiduciary breaches, fraud, securities or bankruptcy law violations. No placement-agent fees were paid except as disclosed in Exhibit F. The Manager delivered its Disclosure Statement, receipt of which the System acknowledges. The Manager acknowledges that the System relies on these representations and commitments as a material inducement to enter the agreement."
+            }
+          ]
+        },
+        {
+          "title": "19. Liability Insurance",
+          "node_id": "0041",
+          "start_index": 26,
+          "end_index": 27,
+          "key_items": [
+            "A. Commercial General Liability Insurance Policy",
+            "C. Financial Institutions Blanket Fidelity Bond"
+          ],
+          "summary": "Manager must provide and maintain insurance throughout the agreement to protect the System and Indiana from claims arising from negligent or intentional acts or omissions by Manager, subcontractors, or their agents. Required coverage: commercial general liability, including contractual liability and premises, operations, independent-contractor, personal-injury, and assumed-contract liability, with limits of at least $5 million per occurrence and $25 million aggregate; Manager must ensure subcontractors are adequately insured. Professional liability must cover rendered or unrendered services, with at least $5 million per claim; claims-made policies require a one-year tail, and defense-cost, per-incident/person, and aggregate limits must meet specified minimums. Fidelity coverage must be at least $3 million per occurrence and aggregate, covering employee dishonesty, physical loss or disappearance of property, forged instruments, and computer manipulation. Insurers must be authorized in Indiana; the State, System, and their agents and employees must be additional insureds where appropriate, and policies must be primary. Provide certificates 15 days before commencement and renewals as required; insurers must give 30 days’ cancellation notice, and Manager must promptly notify the System of cancellations. Coverage does not limit liability; failure to maintain it is a material breach potentially permitting termination for cause."
+        },
+        {
+          "title": "20. Replacement of Manager’s Agents",
+          "node_id": "0042",
+          "start_index": 27,
+          "end_index": 27,
+          "summary": "20. Replacement of Manager’s Agents\nUpon demand by the System, Manager shall replace any Agent assigned to perform services under this Management Agreement who the System determines is unable to effectively execute the responsibilities required by this Management Agreement."
+        },
+        {
+          "title": "21. Record Retention and Inspection",
+          "node_id": "0043",
+          "start_index": 27,
+          "end_index": 28,
+          "key_items": [
+            "20. Replacement of Manager’s Agents; A. Record Maintenance",
+            "20. Replacement of Manager’s Agents",
+            "A. Record Maintenance",
+            "B. Record Review and Audit"
+          ],
+          "summary": "Manager and any sub-Managers must maintain Managed Asset and System Records under applicable retention standards and schedules, including Indiana requirements. The System may inspect, audit, copy, or transcribe records during the agreement or as law permits; on reasonable notice, records and responsible personnel must be available during business hours, and copies are free. Information received for the agreement must remain confidential absent the System’s written consent. The parties must comply with Indiana laws governing Social Security numbers and personal information; Manager must pay commercially reasonable breach-notification and related costs for disclosures caused by its error. A party affected by specified force majeure events must promptly notify the other and make efforts to resume performance. The System may renew the agreement as authorized by law. Manager and its agents must not discriminate in employment or service provision; breach may be material. The conflict-of-interest section begins by defining immediate family as a person’s spouse and unemancipated children."
+        },
+        {
+          "title": "Confidentiality, Force Majeure, Renewal, and Nondiscrimination",
+          "node_id": "0044",
+          "start_index": 28,
+          "end_index": 28,
+          "key_items": [
+            "22. Confidentiality",
+            "23. Force Majeure; Suspension and Termination",
+            "24. Renewal Option",
+            "25. Nondiscrimination"
+          ],
+          "summary": "Manager must keep System-related information confidential and comply with laws governing Social Security numbers and personal information; if Manager’s error causes disclosure, it must pay commercially reasonable breach-related costs, without limiting other liability. For a force majeure event, the affected party must promptly notify the other and make every effort to resume performance. The System may renew the agreement as authorized by law. Manager and its agents must not discriminate in employment, and acceptance also confirms compliance with federal nondiscrimination requirements for services; a breach may be material. Section 26, “Conflict of Interest, Compliance with Laws, and Ethics,” is shown as a heading only."
+        },
+        {
+          "title": "A. Conflict of Interest",
+          "node_id": "0045",
+          "start_index": 28,
+          "end_index": 29,
+          "key_items": [
+            "22. Confidentiality; 23. Force Majeure; Suspension and Termination; 24. Renewal Option",
+            "22. Confidentiality",
+            "23. Force Majeure; Suspension and Termination",
+            "24. Renewal Option",
+            "25. Nondiscrimination"
+          ],
+          "summary": "The section defines immediate family as a person’s spouse and unemancipated children; interested parties as the agreement signatory, anyone holding at least a 3% interest in a non-individual Manager, and their immediate family members; and identifies the Indiana Department of Administration and Indiana State Ethics Commission. The System may cancel the agreement without recourse by Manager if an interested party is a System employee. It will not do so if Manager provides a Commission opinion that the agreement and the employee’s System employment do not violate employee ethics laws or rules. The System may take action, including cancellation, consistent with a Commission opinion obtained under this section. Manager must disclose when an interested party is or becomes a System employee, but only regarding facts Manager knows or reasonably could know."
+        },
+        {
+          "title": "B. Laws and Ethics",
+          "node_id": "0046",
+          "start_index": 29,
+          "end_index": 31,
+          "summary": "Manager must comply with applicable laws; later legal changes will be reviewed for contract amendments. Manager and agents must meet Indiana ethics rules, disclose known or reasonably knowable financial interests of System employees and specified family members, and risk immediate termination and statutory penalties for violations. Manager certifies it and its principals owe no overdue State payments; amounts may be withheld, and work or payments suspended until paid and documented. Manager must disclose State-initiated actions; work may be withheld during them, subject to written review when liability is genuinely disputed. Delayed payments incur no penalty or interest. Manager and sub-managers must maintain required permits and comply with health, safety, and environmental laws; violations may justify termination. Entity registration/reporting and specified past and continuing telephone-solicitation compliance certifications apply to Manager, principals, affiliates, and agents. The System is tax-exempt and assumes no Manager taxes. Indiana law and courts govern. Disputes require prompt resolution; unaffected work must continue, with resulting failure costs borne by Manager. Arbitration requires mutual agreement; otherwise Indiana courts decide. Disputed payments may be withheld; up to three unintentionally unpaid, undisputed invoices do not justify termination. Written notices may be confirmed fax, overnight courier, or registered/certified mail; System notices go to its Chief Investment Officer at the stated Indianapolis address, with a copy as specified."
+        },
+        {
+          "title": "Taxes, Governing Law, Disputes, and Notices",
+          "node_id": "0047",
+          "start_index": 31,
+          "end_index": 31,
+          "key_items": [
+            "27. Taxes",
+            "28. Governing Laws",
+            "29. Disputes",
+            "30. Notices",
+            "Notices to the System shall be sent to:"
+          ],
+          "summary": "The System is exempt from state, federal, and local taxes and is not responsible for taxes imposed on the Manager. Indiana law governs the agreement, with suits brought in Indiana state court. Disputes must be addressed promptly; the Manager must continue unaffected work, and bears costs caused by failing to do so. Unresolved disputes may go to arbitration by mutual agreement or to an Indiana court. The System may withhold payment on disputed items; inadvertent nonpayment of up to three undisputed invoices does not allow termination, though the Manager may sue to collect. Notices must be written and delivered by confirmed fax, overnight courier, or prepaid registered or certified first-class mail. System notices go to the Chief Investment Officer, Indiana Public Retirement System, 1 North Capitol Ave, Suite 001, Indianapolis, IN 46204-2908."
+        },
+        {
+          "title": "With a copy to:",
+          "node_id": "0048",
+          "start_index": 31,
+          "end_index": 32,
+          "key_items": [
+            "27. Taxes; 28. Governing Laws; 29. Disputes; 30. Notices",
+            "27. Taxes",
+            "28. Governing Laws",
+            "29. Disputes",
+            "30. Notices",
+            "Notices to the System shall be sent to:"
+          ],
+          "summary": "The text provides blank contact and copy-to details for notices to the Manager, then sets out clauses 31–34: the agreement is canceled if the Board of Trustees determines in writing that funds are unavailable, and that determination is final; headings are for convenience, and the agreement must be interpreted fairly, with both parties having participated equally in its negotiation; the agreement and incorporated exhibits, schedules, and appendices constitute the entire agreement and supersede prior and contemporaneous related agreements and communications; and invalid or unenforceable provisions do not affect the remaining provisions."
+        },
+        {
+          "title": "Notices and Agreement Terms",
+          "node_id": "0049",
+          "start_index": 32,
+          "end_index": 32,
+          "key_items": [
+            "Notices to the Manager shall be sent to:",
+            "With a copy to:",
+            "31. Funding Cancellation",
+            "32. Section Headings; Interpretation",
+            "33. Entire Agreement; Exhibits, Schedules, and Appendices"
+          ],
+          "summary": "Provides fields for notice recipients and a copy recipient, including names, titles, company, and addresses. States that the agreement is canceled if the Board of Trustees determines in writing that funding is not appropriated or available, and that its determination is final. Headings are for convenience only; the agreement is to be interpreted according to its fair meaning, with neither party favored, noting both parties and counsel participated equally in review and negotiation. The agreement and its attached exhibits, schedules, and appendices constitute the entire agreement, supersede prior and contemporaneous related agreements and communications, and incorporate those attachments by reference."
+        },
+        {
+          "title": "34. Severability",
+          "node_id": "0050",
+          "start_index": 32,
+          "end_index": 33,
+          "key_items": [
+            "Notices to the Manager shall be sent to:; With a copy to:; 31. Funding Cancellation; 32. Section Headings; Interpretation",
+            "Notices to the Manager shall be sent to:",
+            "With a copy to:",
+            "31. Funding Cancellation",
+            "32. Section Headings; Interpretation",
+            "33. Entire Agreement; Exhibits, Schedules, and Appendices"
+          ],
+          "summary": "The agreement provides that if any provision is invalid, void, or unenforceable, the remaining provisions stay in effect. Waiving one breach does not waive other or later breaches; delay or partial exercise of a right is not a waiver, and waivers or excuses must be written and signed. The Manager may not assign or delegate rights or duties without the System’s prior written consent, which it may withhold at its discretion; approved arrangements bind and benefit both parties’ successors. The Manager must make a good-faith effort to maintain a drug-free workplace and notify the System in writing within 10 days after learning an employee was convicted of a workplace drug offense. Agreements over $25,000 also require an executed Drug-Free Workplace Certification. Certification falsification or violations, or failure to meet workplace obligations, may constitute material breach and lead to payment suspension, termination, or debarment for up to three years. The certification is required under Indiana Executive Order 90-5 and begins by requiring a drug-free-workplace statement be published and provided to employees."
+        },
+        {
+          "title": "Waivers, Assignment, and Drug-Free Workplace",
+          "node_id": "0051",
+          "start_index": 33,
+          "end_index": 33,
+          "key_items": [
+            "35. Waiver",
+            "36. Assignment and Delegation",
+            "37. Maintaining a Drug-Free Workplace"
+          ],
+          "summary": "A waiver of a breach does not waive earlier or later breaches or other provisions; failure, delay, or partial exercise of a right does not waive it or prevent further exercise. Waivers and excuses for breaches must be written and signed. The Manager may not assign or delegate rights or duties without the System’s prior written consent, which it may grant or withhold at its discretion; approved assignments or delegations bind and benefit both parties’ successors. The Manager must make a good-faith effort to maintain a drug-free workplace and notify the System in writing within 10 days after learning an employee was convicted of a workplace drug crime. Agreements over $25,000 are also subject to the Manager’s Drug-Free Workplace Certification. Falsifying or violating that Certification, or failing to meet the workplace requirements, is a material breach and may result in suspended payments, termination, or debarment for up to three years."
+        },
+        {
+          "title": "38. Drug-Free Workplace Certification",
+          "node_id": "0052",
+          "start_index": 33,
+          "end_index": 34,
+          "key_items": [
+            "35. Waiver; 36. Assignment and Delegation; 37. Maintaining a Drug-Free Workplace",
+            "35. Waiver",
+            "36. Assignment and Delegation",
+            "37. Maintaining a Drug-Free Workplace",
+            "A. Publishing and providing to all of its employees a statement notifying employees that"
+          ],
+          "summary": "The certification, required by Indiana Executive Order 90-5, must be fully executed by the Manager and included in the agreement documents before an award or an agreement, purchase order, or agreement exceeding $25,000 is valid. False certification or violations may lead to suspended payments, termination, or debarment from State contracting for up to three years. The Manager must provide a drug-free workplace by publishing a policy prohibiting unlawful controlled-substance activity and specifying consequences; educating employees about workplace drug risks, policy, available assistance, and penalties; requiring employees to follow the policy and report workplace drug convictions within five days; notifying the System in writing within ten days of learning of a conviction; and, within 30 days of notice, taking appropriate personnel action up to termination or requiring participation in an approved assistance or rehabilitation program. The Manager must make a good-faith effort to implement these measures."
+        },
+        {
+          "title": "39. Audits",
+          "node_id": "0053",
+          "start_index": 34,
+          "end_index": 34,
+          "summary": "39. Audits\nManager acknowledges that it may be required to submit to an audit of funds paid through this Management Agreement. Any such audit shall be conducted in accordance with IC 5-11-1, et seq. and audit guidelines specified by the System. If an error is discovered as a result of an audit performed by Manager or the System, or if Manager becomes aware of any error through any other means, Manager shall use commercially-reasonable efforts to promptly correct such error or to cause the appropriate party to correct such error."
+        },
+        {
+          "title": "40. Authority to Bind Manager",
+          "node_id": "0054",
+          "start_index": 34,
+          "end_index": 35,
+          "key_items": [
+            "B. Establishing a drug-free awareness program to inform employees of",
+            "39. Audits"
+          ],
+          "summary": "The agreement provides that the Manager’s signatory is authorized to bind the Manager without further acceptance once the System accepts it. Additional or changed work requires prior written System authorization, and extra compensation requires written approval by all signatories. The Manager certifies that it and relevant principals and subcontractors are not debarred or suspended, must verify lawyers’ federal and state status, bear resulting costs or penalties, promptly report any lawyer’s suspension or debarment, and terminate that person’s work if requested. The System disclaims penalties, liquidated damages, interest, and attorney fees except as Indiana law allows; prompt-payment liability is limited to System-originated funding. The Manager must comply with MBE/WBE plans and applicable laws and cooperate with program monitoring, reviews, assessments, and audits. A section titled “Non-Collusion and Acceptance” follows, but no provisions are included in the text."
+        },
+        {
+          "title": "Management Agreement Responsibilities and Compliance",
+          "node_id": "0055",
+          "start_index": 35,
+          "end_index": 35,
+          "key_items": [
+            "41. Changes in Work",
+            "42. Debarment and Suspension",
+            "43. Penalties/Interest/Attorney’s Fees",
+            "44. Minority and Women’s Business Enterprise Compliance"
+          ],
+          "summary": "The Manager’s signatory represents that they are authorized to execute the agreement, have obtained required approvals, and that no further Manager acceptance is needed after System acceptance. Section 41 requires prior written System authorization for additional or changed work and written approval by all signatories for extra compensation. Section 42 certifies that Manager, its principals, and subcontractors are not debarred or suspended; requires verification of lawyers’ eligibility, Manager responsibility for resulting costs or penalties, prompt notice of any lawyer’s suspension or debarment, and termination of that person’s work upon System request. Section 43 limits the System’s liability for penalties, damages, interest, and attorney’s fees to what Indiana law permits; prompt-payment liability is based only on System-originated funding. Section 44 requires compliance with MBE/WBE plans, laws, and regulations, and cooperation with program monitoring, assessments, reviews, and audits."
+        },
+        {
+          "title": "45. Non-Collusion and Acceptance",
+          "node_id": "0056",
+          "start_index": 35,
+          "end_index": 36,
+          "key_items": [
+            "41. Changes in Work; 42. Debarment and Suspension; 43. Penalties/Interest/Attorney’s Fees",
+            "41. Changes in Work",
+            "42. Debarment and Suspension",
+            "43. Penalties/Interest/Attorney’s Fees",
+            "44. Minority and Women’s Business Enterprise Compliance"
+          ],
+          "summary": "45. Non-Collusion and Acceptance\n- 35 -The undersigned attests, subject to the penalties for perjury, that he is the contracting party, or that he is the representative, agent, member, or officer of the contracting party, that he has not, nor has any other member, employee, representative, agent, or officer of the firm, company, corporation, or partnership represented by him, directly or indirectly, to the best of his knowledge, entered into or offered to enter into any combination, collusion, or agreement to receive or pay, and that he has not received or paid any sum of money or other consideration for the execution of this Management Agreement other than that which appears upon the face of the Management Agreement.\nThe parties having read and understood the foregoing terms of this Management Agreement do by their respective signatures dated below hereby agree to the terms hereof."
+        },
+        {
+          "title": "<<Manager>>",
+          "node_id": "0057",
+          "start_index": 36,
+          "end_index": 36,
+          "summary": "<<Manager>>\nBy: Printed Name: ___________________________________________ Title: Date: _________________________________________________"
+        },
+        {
+          "title": "Indiana Public Retirement System",
+          "node_id": "0058",
+          "start_index": 36,
+          "end_index": 37,
+          "key_items": [
+            "<<Manager>>"
+          ],
+          "summary": "Indiana Public Retirement System\nBy: Printed Name: Title: Date: ________________________________________________\n- 36 -"
+        },
+        {
+          "title": "EXHIBIT A",
+          "node_id": "0059",
+          "start_index": 37,
+          "end_index": 37,
+          "summary": "EXHIBIT A"
+        },
+        {
+          "title": "SPECIFIC MANDATE AND BENCHMARK",
+          "node_id": "0060",
+          "start_index": 37,
+          "end_index": 38,
+          "summary": "The Specific Mandate and Benchmark section is intentionally blank. Exhibit B provides a fee schedule based on assets under management, though no rates are shown. Fees accrue monthly on month-end Managed Asset values and are paid quarterly in arrears at one-quarter of the applicable annual rate, using values determined by INPRS’ Custodian and adjusted for cash flows. Fee schedule changes require mutual agreement under the Investment Management Agreement. If the Manager gives an investor of equal or lesser size more favorable fees, it must offer the System the same arrangement in writing within 30 days and annually certify that no Comparable Investor has a better fee schedule. The Manager and its affiliates are excluded from the definition of Comparable Investor."
+        },
+        {
+          "title": "EXHIBIT B FEE SCHEDULE",
+          "node_id": "0061",
+          "start_index": 38,
+          "end_index": 39,
+          "key_items": [
+            "Assets Under Management",
+            "Annual Fee (bps)"
+          ],
+          "summary": "Exhibit B sets out a fee schedule based on Managed Assets, with headings for asset levels and annual fees in basis points but no rates shown. Fees accrue monthly on month-end asset values and are calculated and paid quarterly in arrears at one-quarter of the applicable annual rate, using values determined by INPRS’ Custodian and adjusted for cash flows. Schedule changes require mutual agreement under the Investment Management Agreement. If Manager gives an investor of equal or smaller size more favorable fees before, on, or after the agreement date, it must offer the System the same arrangement in writing within 30 days. Manager must annually certify that no Comparable Investor has a more favorable fee schedule; Manager and its affiliates are excluded from that category."
+        },
+        {
+          "title": "EXHIBIT C",
+          "node_id": "0062",
+          "start_index": 39,
+          "end_index": 39,
+          "summary": "EXHIBIT C"
+        },
+        {
+          "title": "PROHIBITED BROKER/DEALER LIST",
+          "node_id": "0063",
+          "start_index": 39,
+          "end_index": 40,
+          "summary": "PROHIBITED BROKER/DEALER LIST\nNo broker/dealers are deemed unsuitable for the System trades as of the date of execution of this Management Agreement.\n- 39 -"
+        },
+        {
+          "title": "EXHIBIT D",
+          "node_id": "0064",
+          "start_index": 40,
+          "end_index": 40,
+          "summary": "EXHIBIT D"
+        },
+        {
+          "title": "SYSTEM LIST OF AUTHORIZED PERSONS",
+          "node_id": "0065",
+          "start_index": 40,
+          "end_index": 41,
+          "summary": "SYSTEM LIST OF AUTHORIZED PERSONS\n(Intentionally left blank)\n- 40 -EXHIBIT E\nINVESTMENT POLICY STATEMENT\nhttp://www.in.gov/inprs/files/INPRS_IPS.pdf\n- 41 -"
+        },
+        {
+          "title": "EXHIBIT E; INVESTMENT POLICY STATEMENT",
+          "node_id": "0066",
+          "start_index": 41,
+          "end_index": 41,
+          "key_items": [
+            "EXHIBIT E",
+            "INVESTMENT POLICY STATEMENT"
+          ],
+          "summary": "EXHIBIT E\nINVESTMENT POLICY STATEMENT"
+        },
+        {
+          "title": "http://www.in.gov/inprs/files/INPRS_IPS.pdf",
+          "node_id": "0067",
+          "start_index": 41,
+          "end_index": 42,
+          "summary": "http://www.in.gov/inprs/files/INPRS_IPS.pdf\n- 41 -"
+        },
+        {
+          "title": "EXHIBIT F",
+          "node_id": "0068",
+          "start_index": 42,
+          "end_index": 42,
+          "summary": "EXHIBIT F"
+        },
+        {
+          "title": "PLACEMENT AGENT DISCLOSURE LETTER1",
+          "node_id": "0069",
+          "start_index": 42,
+          "end_index": 44,
+          "summary": "A Placement Agent Disclosure Letter asks the Investment Manager whether it used a placement agent for an investment or to obtain a relationship with the System. If so, it requests the agent and affiliated personnel, services and investor scope, compensation details, regulatory or lobbyist registration and confirmation, and any disciplinary actions, investigations, or sanctions. If no agent was used, the manager proceeds to the representations and signature. The signer confirms compliance with the System’s policy and that the letter has no material inaccuracies or omissions, acknowledges possible public disclosure under Indiana public-records law, and agrees to comply with the policy, its remedies, and requests for further information or documents. The form includes fields for name, title, and date; undefined capitalized terms are defined in the policy and procedures."
+        }
+      ]
+    },
+    {
+      "title": "APPENDIX B – MANDATORY RESPONDENT FORMS",
+      "node_id": "0070",
+      "start_index": 44,
+      "end_index": 45,
+      "key_items": [
+        "B.1 Taxpayer Identification Number Request",
+        "https://www.irs.gov/pub/irs-pdf/fw9.pdf",
+        "B.2 Foreign Registration Statement",
+        "https://forms.in.gov/Download.aspx?id=13562",
+        "APPENDIX B – MANDATORY RESPONDENT FORMS"
+      ],
+      "summary": "APPENDIX B – MANDATORY RESPONDENT FORMS\nB.1 Taxpayer Identification Number Request\nhttps://www.irs.gov/pub/irs-pdf/fw9.pdf\nB.2 Foreign Registration Statement\nhttps://forms.in.gov/Download.aspx?id=13562\n- 44 -"
+    },
+    {
+      "title": "APPENDIX C – QUESTIONNAIRE",
+      "node_id": "0071",
+      "start_index": 45,
+      "end_index": 55,
+      "summary": "A questionnaire for the Indiana Public Retirement System’s proposed Core Plus fixed-income mandate. It requests information on the manager’s organization, ownership, finances, products, clients, governance, succession, diversity, and business changes; investment-team experience, structure, compensation, continuity, and outsourced work; and investment philosophy, research, portfolio construction, ESG, instruments, technology, trading, growth, performance, attribution, and supporting data. It also covers risk management, allocation, monitoring, counterparties, reporting, service, benchmarks, historical results and flows, capacity, vehicles, fees, and terms. Further due diligence addresses regulatory and litigation matters, insurance, compliance, AML, operations, internal controls, conflicts, service providers, business continuity, audits, and related information.",
+      "nodes": [
+        {
+          "title": "Indiana Public Retirement System",
+          "node_id": "0072",
+          "start_index": 45,
+          "end_index": 45,
+          "summary": "APPENDIX C – QUESTIONNAIRE\nIndiana Public Retirement System"
+        },
+        {
+          "title": "Core Plus Fixed Income Investment Management",
+          "node_id": "0073",
+          "start_index": 45,
+          "end_index": 55,
+          "summary": "A comprehensive due-diligence questionnaire for a proposed Core Plus fixed-income mandate, covering the firm’s history, ownership, finances, affiliates, products, assets, clients, locations, governance, succession, business changes, and diversity ownership; investment-team structure, experience, compensation, retention, continuity, and outsourced work; and strategy philosophy, research, portfolio construction, ESG, instruments, technology, trading, growth, performance, attribution, and supporting portfolio and GIPS data. It assesses risk definitions and controls, allocation, monitoring, escalation, counterparties, client reporting and service, benchmarks, targets, historical allocations and results, investment vehicles, clients, flows, capacity, fees, and terms. It also requests regulatory, litigation, insurance, compliance, AML, operational, trading, internal-control, conflict, service-provider, business-continuity, audit, and other relevant information.",
+          "nodes": [
+            {
+              "title": "APPENDIX C – QUESTIONNAIRE",
+              "node_id": "0074",
+              "start_index": 45,
+              "end_index": 55,
+              "summary": "A comprehensive due-diligence questionnaire for a proposed Core Plus fixed-income mandate. It examines the firm’s history, strategy, ownership, finances, affiliates, products, assets, clients, staffing, locations, governance, succession, business changes, and diversity ownership; the investment team’s organization, experience, compensation, retention, continuity, and outsourced work; and the strategy’s philosophy, research, portfolio construction, ESG, instruments, technology, trading, growth, performance, attribution, and supporting portfolio and GIPS data. It assesses risk definitions, allocation, monitoring, escalation, counterparties, and guideline controls. It covers client reporting, transparency, access, and service; benchmarks, targets, historical allocations and results; vehicle mix, clients, flows, capacity, and proposed fees and terms. It also requests regulatory, litigation, insurance, compliance, AML, operational, trading, internal-control, conflict, service-provider, business-continuity, and audit information, plus any other relevant details.",
+              "nodes": [
+                {
+                  "title": "I. BACKGROUND & GENERAL INFORMATION",
+                  "node_id": "0075",
+                  "start_index": 45,
+                  "end_index": 47,
+                  "summary": "A due-diligence questionnaire for Core Plus fixed-income managers covering firm and primary-contact details; history, affiliates, investment focus, corporate strategy, growth targets, and planned products; organizational and ownership changes; other business lines and their revenue/AUM; investment platform, product lineup, mandate-level AUM, and fixed-income assets by style over time, including material flows. It asks about Core Plus clients and investor mix, staffing, research, clients, and firm-wide AUM over ten years; office locations, functions, and team locations; significant and employee ownership, convertible or revenue-linked debt, subsidiaries, joint ventures, and financial arrangements. It also addresses broker-dealer affiliations, client trading, soft dollars, personnel management, product-group profit sharing, succession and continuity, terminated strategies or products, and women- and minority-ownership status."
+                },
+                {
+                  "title": "II. INVESTMENT TEAM",
+                  "node_id": "0076",
+                  "start_index": 47,
+                  "end_index": 48,
+                  "summary": "The section requests details on the investment team managing the proposed mandate: groups, responsibilities, functional organization, decision-makers, and employee counts, gains, and losses by role for the prior three calendar years and YTD through June 30, 2022. It asks about key individuals’ other duties, time allocated to the mandate, and other-strategy AUM; formal committees’ purpose, participants, frequency, and decision/override authority; and investment-professional compensation, bonus criteria, contracts, and retention arrangements. It also covers individuals’ personal investments in the mandate and any favorable commingled-fund terms, succession and continuity plans, talent-development and hiring preferences, views on specialist versus generalist analysts and portfolio managers, material team-structure changes and their timing and reasons, and any outsourced investment activities, providers’ roles, and affiliate status."
+                },
+                {
+                  "title": "III. INVESTMENT STRATEGY",
+                  "node_id": "0077",
+                  "start_index": 48,
+                  "end_index": 50,
+                  "summary": "The questionnaire seeks details on the Core Plus strategy’s investment philosophy, active-management value, process and evolution, including top-down/bottom-up research, competitive advantages, quantitative and qualitative decisions, portfolio constraints, and ESG use and policy. It covers investment-thesis and security analysis, sell discipline, position sizing and portfolio breadth, non-benchmark securities, derivatives, currency exposure and hedging, and changes in the fixed-income universe. It asks how process compliance and periodic reviews are handled, including material changes. Other topics include technology, portfolio and operational tools and planned enhancements; trading capabilities across markets and time zones; mandate and firm asset growth; expected performance in different environments and lessons from strong and weak periods; and performance attribution methods and their use. Requested supporting information includes current portfolio characteristics, historical subsector exposures, and independently verified GIPS-compliant Core Plus composite performance and verification, or an explanation if unavailable."
+                },
+                {
+                  "title": "IV. RISK MANAGEMENT",
+                  "node_id": "0078",
+                  "start_index": 50,
+                  "end_index": 50,
+                  "summary": "The section asks how risk is defined for the mandate, whether a tracking-error target or risk budget is used, and how portfolio risk is allocated across countries, currencies, duration, and securities, both absolutely and relative to the benchmark. It requests details of risk monitoring functions and tools, including responsible individuals and contacts; key non-investment risks and controls to mitigate them; and how risk management collaborates with, yet remains independent of, other investment functions. It also covers escalation when risk metrics breach targets, mandate counterparties and transaction types, counterparty-risk monitoring and management, material changes to risk and portfolio-monitoring processes with their timing and reasons, and safeguards for compliance with investment guidelines."
+                },
+                {
+                  "title": "V. REPORTING AND CLIENT SERVICE",
+                  "node_id": "0079",
+                  "start_index": 50,
+                  "end_index": 51,
+                  "summary": "V. REPORTING AND CLIENT SERVICE\n1. How long after month-end are estimated and final values and/or performance available to clients?\n2. Describe the standard level of transparency and reporting package provided to investors for the proposed mandate.\n- 50 -3. Can investors receive custom reports? If so, discuss the range of customization available.\n4. Describe the level of access clients have to your portfolio managers, research analysts, and other investment professionals.\n5. In addition to standard reporting and communications, describe any other elements of client service (e.g., white papers, educational seminars, annual meetings) that you believe add value to the client- manager relationship."
+                },
+                {
+                  "title": "VI. PERFORMANCE & PORTFOLIO COMPOSITION",
+                  "node_id": "0080",
+                  "start_index": 51,
+                  "end_index": 51,
+                  "summary": "Requests a benchmark and rationale; performance and risk targets, including expected benchmark outperformance over a market cycle; structural biases affecting performance across market environments; country, currency, and sector allocations for the past five calendar years; since-inception attribution and expected value from top-down versus bottom-up decisions; an Excel file of monthly results for the past 120 months or since inception, whichever is shorter, stating gross or net of fees and when the current team assumed responsibility; and explanations of periods of unusually strong or weak performance or high or low volatility."
+                },
+                {
+                  "title": "VII. INVESTMENT VEHICLES, FEES & TERMS",
+                  "node_id": "0081",
+                  "start_index": 51,
+                  "end_index": 53,
+                  "summary": "The section requests AUM by separate-account versus commingled vehicle, including account counts, assets, gains and losses for June 2020, 2021 and 2022, and whether the allocation has changed. It asks for the five largest separately managed accounts as of June 30, 2022, with client or plan type, inception date and assets. For 2022 YTD and 2018–2021, it seeks institutional relationships over $20 million gained and lost, excluding flows from existing clients, plus explanations for lost accounts. It also requests the top 1, 5 and 10 clients’ shares of strategy AUM; current AUM, any hard capacity limit and its rationale, and capacity considerations for the proposed mandate; and the proposed separate-account fee schedule, willingness to use performance-based fees, whether fees include other INPRS mandates, and any other information clarifying the proposal."
+                },
+                {
+                  "title": "VIII. REGULATORY, LEGAL, COMPLIANCE",
+                  "node_id": "0082",
+                  "start_index": 53,
+                  "end_index": 54,
+                  "summary": "The section requests information on the firm’s investment-adviser registration or exemption, ADV Part II, and other regulatory registrations; its latest regulatory inspection, findings, and remediation; and any investment-related regulatory inquiries, client-asset litigation, or employee felony convictions. It asks for errors-and-omissions, professional-liability, fiduciary insurance and fidelity-bond coverage, carriers, claims, and coverage denials with reasons. It also covers the Chief Compliance Officer and the compliance group’s duties, reporting, and compensation; written ethics policies and how adherence is ensured; the compliance manual and verification of procedures; escalation and resolution of violations; AML procedures and the designated MLRO; and any bankruptcy, receivership, trusteeship, or assignment for creditors."
+                },
+                {
+                  "title": "IX. OPERATIONS, TRADING & INTERNAL CONTROLS",
+                  "node_id": "0083",
+                  "start_index": 54,
+                  "end_index": 55,
+                  "summary": "The section requests information on operations, trading, and internal controls, including middle/back-office structure and transaction personnel; portfolio, analysis, trading, and accounting systems and whether they are third-party or in-house; trade allocation and controls on performance differences across similar accounts; pre- and post-trade guideline monitoring and independent compliance oversight; best-execution policies; money-transfer controls and authorized signatories; changes in service providers; and business-continuity and disaster-recovery plans. It also asks about outside ownership, economic arrangements, affiliations, and affiliated-firm compensation, including services, fees, and payment sources; employee personal-trading policies; family relationships among operations or compliance staff and conflict safeguards; other mandate-related conflicts and controls; professional counterparties and relationship duration (legal advisers, auditors, banks, marketers, administrators, prime brokers, and others); and operational-risk management, SSAE 18 or equivalent reviews, and available auditor opinions on control design and effectiveness."
+                },
+                {
+                  "title": "X. ADDITIONAL INFORMATION",
+                  "node_id": "0084",
+                  "start_index": 55,
+                  "end_index": 55,
+                  "summary": "X. ADDITIONAL INFORMATION\n1. Is there anything else you would like us to know about your firm or the proposed strategy that was not covered in the previous questions?\n- 55 -"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

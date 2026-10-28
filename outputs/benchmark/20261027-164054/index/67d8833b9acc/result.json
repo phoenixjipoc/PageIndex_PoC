@@ -1,0 +1,43 @@
+{
+  "file": "OCERS__custodian_rfp_2022-2023.pdf",
+  "sha256": "ea310090ff570bfde2dcb0c2e4111371a99b127cdd1bc93ff62a3fac12fdd203",
+  "bytes": 729008,
+  "pages": 51,
+  "public_source_url": "https://ocers.org/sites/main/files/file-attachments/custodian_rfp_2022-2023.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:02:58.203623+00:00",
+  "doc_id": "pi-f21274f7418d4b0e84cd58ccb1ed4182",
+  "stored_name": "OCERS__custodian_rfp_2022-2023.pdf",
+  "reported_usage": {
+    "prompt_tokens": 40214,
+    "completion_tokens": 11032,
+    "total_tokens": 51246,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 22797
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2930
+    }
+  },
+  "elapsed_seconds": 31.444,
+  "finished_at_utc": "2026-10-27T09:03:29.660764+00:00",
+  "model_calls": 43,
+  "http_attempts": 43,
+  "observed_usage": {
+    "input_tokens": 40214,
+    "output_tokens": 11032,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 22797,
+    "reasoning_tokens": 2930,
+    "total_tokens": 51246
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

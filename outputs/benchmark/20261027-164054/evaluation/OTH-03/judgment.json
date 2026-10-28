@@ -1,0 +1,15 @@
+{
+  "question_id": "OTH-03",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "49260c42aeb06e4ed3e9f6c9b3b791cbca9a28328ab8da86ec7e40635ea4e0df",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct participant counts mapped to both plans.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:27:19.638405+00:00"
+}

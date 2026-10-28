@@ -1,0 +1,43 @@
+{
+  "file": "COAERS__COAERS_Actuarial_Services_RFP_June_26_2025.pdf",
+  "sha256": "a89d8daf380af06c1d596616c130aa76686da2f939ee9a2394839ba598bf68e7",
+  "bytes": 1182628,
+  "pages": 39,
+  "public_source_url": "https://www.coaers.org/files/4fbea168c/COAERS+Actuarial+Services+RFP+June+26+2025.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:48:02.889562+00:00",
+  "doc_id": "pi-a862c842bdd94281a8aaa2b48ed34f20",
+  "stored_name": "COAERS__COAERS_Actuarial_Services_RFP_June_26_2025.pdf",
+  "reported_usage": {
+    "prompt_tokens": 37859,
+    "completion_tokens": 13265,
+    "total_tokens": 51124,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 15111
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3807
+    }
+  },
+  "elapsed_seconds": 21.102,
+  "finished_at_utc": "2026-10-27T08:48:24.005534+00:00",
+  "model_calls": 45,
+  "http_attempts": 45,
+  "observed_usage": {
+    "input_tokens": 37859,
+    "output_tokens": 13265,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 15111,
+    "reasoning_tokens": 3807,
+    "total_tokens": 51124
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

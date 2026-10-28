@@ -1,0 +1,15 @@
+{
+  "question_id": "DDQ-06",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "94204d5a366293d297fa5eb652ed028cb38a3460d69b5cacdf4e58f045778aec",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct fourteen topics and last topic.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:27:02.549641+00:00"
+}

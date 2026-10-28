@@ -1,0 +1,15 @@
+{
+  "question_id": "XD-18",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "73baf669e13eb8871b9ea1d95f781651191a2be7e2795c273a5676370cc542bd",
+  "score": 0.5,
+  "verdict": "partial",
+  "reason": "Correct three documents and purposes, but omits Arizona PSPRS and ILPA-recommended portfolio metrics.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:37.312475+00:00"
+}

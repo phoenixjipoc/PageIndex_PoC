@@ -1,0 +1,43 @@
+{
+  "file": "Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf",
+  "sha256": "0b99ee1d127d33dba151c6e2ccd774f72520aa88b4748b8f84ffa8cdce811ee5",
+  "bytes": 462653,
+  "pages": 28,
+  "public_source_url": "https://www.bcers.org/wp-content/uploads/2024/09/RFP-Alternatives-Consultant-rev.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:45:59.074476+00:00",
+  "doc_id": "pi-8f36a4b9666e4482bdd97e12a13d29c1",
+  "stored_name": "Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf",
+  "reported_usage": {
+    "prompt_tokens": 28311,
+    "completion_tokens": 7764,
+    "total_tokens": 36075,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 15448
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2105
+    }
+  },
+  "elapsed_seconds": 30.443,
+  "finished_at_utc": "2026-10-27T08:46:29.529357+00:00",
+  "model_calls": 30,
+  "http_attempts": 30,
+  "observed_usage": {
+    "input_tokens": 28311,
+    "output_tokens": 7764,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 15448,
+    "reasoning_tokens": 2105,
+    "total_tokens": 36075
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

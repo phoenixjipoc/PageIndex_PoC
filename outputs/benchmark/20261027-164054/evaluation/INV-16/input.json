@@ -1,0 +1,7 @@
+{
+  "question": "In the Santa Barbara County Employees' Retirement System (SBCERS) 2020 RFP for a discretionary private equity consultant, how many years must the proposing firm have been in business?",
+  "gold_answer": "At least five (5) years providing services similar to those in the Scope of Services, measured as of December 31, 2020. (Separately, the organization must have provided investment management services for private equity transactions for five or more years.)",
+  "acceptance": "At least five years providing similar services suffices. The as-of date and separate five-year investment-management-services condition are optional for this question.",
+  "scope": "single_document",
+  "candidate_answer": "The proposing firm must have been in business for **at least five years**, providing services similar to those in the RFP’s scope of services. [SBCERS 2020 RFP, p. 8](SBCERS__2020-Private-Equity-RFP.pdf)"
+}

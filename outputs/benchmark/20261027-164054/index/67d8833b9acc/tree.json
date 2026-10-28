@@ -1,0 +1,446 @@
+{
+  "doc_id": "pi-f21274f7418d4b0e84cd58ccb1ed4182",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 3,
+      "summary": "October 2022 Request for Proposal for custody services issued by the Orange County Employees Retirement System (OCERS), with its address, phone number, and website. The contents cover the introduction, OCERS background, service scope (accounting, security settlement, cash management, securities lending, direct brokerage, corporate and class actions and proxy processing, technology, reporting, and personnel), general conditions, point of contact and quiet period, schedule, proposal requirements, evaluation criteria, nondiscrimination, California Public Records Act and Brown Act notices, contract negotiations, and OCERS reservations. Exhibits provide intent-to-respond, proposal cover page, minimum qualifications certification, executive summary (background, competitive advantages, and firm metrics/core competencies), questionnaire (organization, client services, legal/compliance/conflicts, services, and transition/implementation), references, and fee proposal."
+    },
+    {
+      "title": "OCERS Custody Services RFP and Background",
+      "node_id": "0001",
+      "start_index": 4,
+      "end_index": 4,
+      "key_items": [
+        "Section 1: Introduction",
+        "Section 2: Background"
+      ],
+      "summary": "OCERS seeks proposals from qualified firms for comprehensive custody services. Proposals are due November 15, 2022, at 5 p.m. PST; written questions and the required Intent to Respond are due October 21, 2022, at 5 p.m. The intent must be emailed to OCERS’ Investment Team, and failure to submit may disqualify a firm; submission instructions and service details are in Sections 7 and 3. Established in 1945, OCERS provides retirement and related benefits to about 49,000 members and is overseen by a nine-member fiduciary Board, with more than 90 employees and a Board-appointed CEO. Its globally diversified portfolio held about $22.4 billion as of December 2021, uses varied investment structures and external managers, and is managed by the CIO under approved policies. OCERS reports under GASB requirements using full accrual accounting. Further investment and financial information is available on its website."
+    },
+    {
+      "title": "Section 3: Scope of Services",
+      "node_id": "0002",
+      "start_index": 4,
+      "end_index": 9,
+      "summary": "OCERS’ custody RFP describes the system’s history, governance, roughly 49,000 members, $22.4 billion diversified portfolio, investment oversight, and GASB/full-accrual reporting; it gives proposal and question/intent deadlines and submission instructions. OCERS seeks comprehensive custody services and may award or split them. Proposers need applicable licenses, bonding, competitive insurance, adequate resources, and a Minimum Qualifications Certification; the contract is five years with an optional one-year renewal. Requirements cover multi-currency accounting, valuation, income, corporate actions, manager reconciliations, and GASB 72; domestic/international settlement, FX, fail-float protection, cash sweeps, transfers, wires, and automated cash flows; and securities lending, collateral, borrower oversight, reporting, and default indemnity. Services also include directed brokerage and fee rebates, proxy and corporate-action notifications, class-action claims, and secure technology for investment data, compliance, analytics, customized reporting, backups, continuity, and data feeds. Reporting deadlines and specifications span monthly, quarterly, and annual accounting, performance, holdings, alternatives, commissions, audits, reconciliations, litigation, and ad hoc reports. Assigned staff must meet with OCERS, present to its Board, and support audits.",
+      "nodes": [
+        {
+          "title": "Section 1: Introduction",
+          "node_id": "0003",
+          "start_index": 4,
+          "end_index": 4,
+          "summary": "OCERS seeks proposals from qualified firms for comprehensive custody services, with proposals due by 5:00 p.m. PST November 15, 2022; submission instructions are in Section 7. Written questions and Exhibit A Intent to Respond forms are due by 5:00 p.m. October 21, 2022, emailed to investmentsrfp@ocers.org; failure to submit intent may disqualify a firm. Established in 1945 under California’s 1937 Act, OCERS serves about 49,000 members, including over 20,000 retirees, and provides retirement, disability, death, and cost-of-living benefits. A nine-member Board has fiduciary and administrative authority; the CEO manages an agency of over 90 employees. Its globally diversified portfolio held about $22.4 billion as of December 31, 2021, across multiple asset classes and external-manager vehicle types; the CIO manages investments under committee-approved policies. Financial statements follow GASB rules and full accrual accounting. Further portfolio, policy, allocation, and financial information is online. Requested custody services include safekeeping, asset servicing, performance and accounting, GASB support, cash sweeps, trade settlement, compliance, fund look-through, proxy notifications, and class-action support."
+        },
+        {
+          "title": "Section 2: Background",
+          "node_id": "0004",
+          "start_index": 4,
+          "end_index": 5,
+          "summary": "OCERS, established in 1945 under California’s 1937 County Employees Retirement Law, provides retirement, disability, death, and cost-of-living benefits to about 49,000 members, including over 20,000 retirees. Its nine-member Board has fiduciary and administrative authority and appoints the CEO; the CIO manages investments under approved policies. OCERS has over 90 employees and a globally diversified portfolio of about $22.4 billion as of December 31, 2021, invested through various external-manager structures. Member and employer contributions largely cover retiree payrolls. Financial statements follow GASB requirements and full-accrual accounting; further investment and financial information is available on OCERS’ website. The custody RFP seeks services including safekeeping, asset servicing, analytics, accounting and GASB support, cash management, trade settlement, compliance, fund look-through, proxy and class-action support, corporate actions, derivatives, manager reconciliation, and alternative-investment support. OCERS may award or split services at its discretion. Proposers need applicable licenses and bonding, competitive insurance, and resources to perform the work. The contract is five years with an optional one-year renewal, and respondents must submit the Minimum Qualifications Certification."
+        },
+        {
+          "title": "A. Accounting",
+          "node_id": "0005",
+          "start_index": 5,
+          "end_index": 6,
+          "summary": "The RFP specifies accounting services covering multi-currency trade-date and accrual accounting; broad asset and transaction types; payable-date income posting; calendar-year reporting; secondary pricing; cost and market valuation with average-cost gains/losses; corporate-action notifications; monthly manager reconciliations and variance reporting; and support for GASB 72 fair-value disclosures. Settlement requirements include access to domestic and international depositories, physical securities settlement, foreign exchange, fail-float protection, electronic trade-data access, and delivery-versus-payment. Cash management includes daily STIF sweeps and compounding, proper income and transaction posting, contractual-date cash flows, directed overnight investment, same-day cash-trade settlement, transfers and wires/ACH, reporting on two sweep vehicles’ returns and maturities, disclosure of foreign-deposit negative-rate costs, and cloud systems automating cash flows and capital calls. Securities lending must cover eligible domestic and international securities, borrower limits and ongoing reviews, and collateral in mutually acceptable cash, securities, or letters of credit."
+        },
+        {
+          "title": "Custody Reconciliation, Security Settlement, and Cash Management",
+          "node_id": "0006",
+          "start_index": 6,
+          "end_index": 6,
+          "key_items": [
+            "B. Security Settlement",
+            "C. Cash Management"
+          ],
+          "summary": "Requires monthly custodian–manager reconciliations, reporting and resolving material variances, and support for GASB 72 fair-value disclosures in OCERS’ annual financial report. Security settlement includes access to domestic and international depositories and settlement networks, physical securities settlement, foreign exchange, fail-float protection, electronic trade-data access, and delivery-versus-payment. Cash management covers daily sweeps into a STIF, daily compounding and proper crediting of income and transactions, contractual-date cash flows, directed overnight investment, same-day cash-trade settlement, account transfers and wire/ACH services. It also requires 12- and 36-month net returns, average maturities, and investment characteristics for two common sweep vehicles; explanations and cost estimates for negative interest on foreign deposits; and cloud-based automation of capital calls, distributions, and internal and external cash flows."
+        },
+        {
+          "title": "D. Security Lending",
+          "node_id": "0007",
+          "start_index": 6,
+          "end_index": 7,
+          "key_items": [
+            "B. Security Settlement",
+            "C. Cash Management"
+          ],
+          "summary": "Security lending covers eligible domestic and international securities; borrower eligibility, limits and ongoing reviews; mutually acceptable collateral, competitive coverage including accrued income, daily monitoring and collateral calls; collection of distributions; daily collateral and monthly activity/borrower reports; OCERS’s right to exclude borrowers; and default indemnification. Directed brokerage services include arrangements with domestic and international firms, notifying managers of available firms, coordinating and monitoring activity, quarterly distribution of rebated fees, and monthly manager reports. Corporate-action services provide annual reports and proxy materials, notify OCERS of pending corporate and legislative actions and class-action litigation, supply relevant information, and file and monitor securities class-action claims. Technology includes secure web-based access to management and accounting information, current and historical performance, prices, values and exchange rates, composite portfolios, transactions, holdings and aggregate performance, class-action tracking and deadlines, customized reports, and ad hoc queries."
+        },
+        {
+          "title": "Securities Lending, Brokerage, and Corporate Actions",
+          "node_id": "0008",
+          "start_index": 7,
+          "end_index": 7,
+          "key_items": [
+            "E. Direct Brokerage Services",
+            "F. Corporate Actions, Class Actions, and Proxy Processing"
+          ],
+          "summary": "Requires competitive collateralization for domestic and international securities, including accrued income; daily monitoring and top-ups; collection of loaned-security income and distributions; daily collateral and monthly lending reports; the right to exclude borrowers; and indemnification against borrower default. Directed brokerage services include arrangements with domestic and international firms, notifying managers of available firms, coordinating and monitoring activity, quarterly distribution of rebated fees, and monthly manager-level reports. Corporate-action and proxy services include providing annual reports and proxy materials, notifying OCERS of corporate and legislative actions and class-action litigation, supplying relevant securities information, and filing and monitoring class-action claims."
+        },
+        {
+          "title": "G. Technology",
+          "node_id": "0009",
+          "start_index": 7,
+          "end_index": 8,
+          "key_items": [
+            "E. Direct Brokerage Services",
+            "F. Corporate Actions, Class Actions, and Proxy Processing"
+          ],
+          "summary": "Requires a web- or internet-based system integrated with access management and accounting systems to provide current and historical performance, prices, market values, exchange rates, composite portfolios, transactions, holdings, and aggregate performance data. The system must track and report class actions, exposures, filings, and deadlines, and support customized reports and ad hoc queries. It must monitor compliance with California State investment limits and Board policies, provide robust backups to protect data and minimize downtime with rapid information access, support disaster recovery and business continuity, and deliver data feeds to third-party risk aggregators such as Burgiss."
+        },
+        {
+          "title": "H. Reporting Requirements",
+          "node_id": "0010",
+          "start_index": 8,
+          "end_index": 9,
+          "summary": "The requirements cover monthly accounting reports (balance sheet and income statement) within seven business days after month-end, preliminary performance reports within ten business days, rerun/finalized accounting reports four business days before the next month-end, and finalized performance reports before that month-end. Annual holdings, transaction, and investment-data reports are due within 30 calendar days after December 31. Monthly and quarterly analytics must meet OCERS’ format requirements; quarterly alternative-asset reports must show commitments, drawdowns, distributions, and IRRs. Reporting also includes largest stock and bond holdings; broker commissions by manager, service class, and broker, including cost- and share-based measures; and fiscal-year-end reports meeting applicable GASB standards. Provide annual audited IT and fund-accounting internal-control reports and requested bridge letters; daily transaction access; other OCERS-requested and California Public Records Act ad hoc reports; monthly reconciliations with investment-manager accounting reports, copies to OCERS, and notice of material variances; and securities litigation reports twice yearly or more often on request."
+        },
+        {
+          "title": "I. Personnel",
+          "node_id": "0011",
+          "start_index": 9,
+          "end_index": 9,
+          "summary": "I. Personnel\n1. Proposer shall assign appropriate accounting and investment performance personnel to the OCERS account and make assigned personnel available as needed. Additionally, assigned personnel should be available to meet with OCERS staff at dates and times determined by OCERS at least semi-annually, or more frequently if required by OCERS, to discuss services related to OCERS needs.\n2. Proposer must make presentations to the Board as required to discuss services related to OCERS.\n3. Proposer shall provide competent personnel to facilitate access to records and information that may be required for audit purposes.\n4. Proposer shall provide the personnel to assist OCERS’ auditor with any and all investment inquiries."
+        }
+      ]
+    },
+    {
+      "title": "Section 4: General Conditions",
+      "node_id": "0012",
+      "start_index": 9,
+      "end_index": 9,
+      "summary": "Proposals must comply with all material RFP terms and procedures or may be disqualified; OCERS may waive or allow correction of non-material errors and may modify, amend, or cancel the RFP. Before the submission deadline, OCERS may issue addenda to known interested respondents, and failure to receive or acknowledge an addendum does not excuse compliance. Proposals remain irrevocable for 120 days after the deadline; references to days mean business days unless stated otherwise. Submitted proposals become OCERS’s exclusive property and will not be returned. Submission confirms the respondent has read and understood the RFP and agrees to its requirements, except for requirements clearly and specifically identified as exceptions in the proposal."
+    },
+    {
+      "title": "Section 5: Point of Contact and Quiet Period",
+      "node_id": "0013",
+      "start_index": 9,
+      "end_index": 10,
+      "key_items": [
+        "I. Personnel",
+        "Section 4: General Conditions"
+      ],
+      "summary": "The RFP quiet period runs from issuance until selection is announced. Respondents may discuss the RFP only with the designated OCERS Investment Team contact, not OCERS Investment Team members or Board members; violations may result in disqualification at OCERS’ discretion. Respondents with existing OCERS business must limit communications to that business. OCERS’ business hours are 8:00 a.m.–5:00 p.m. PT, Monday–Friday, excluding federal and state holidays. The contact is OCERS’ Investment Team, P.O. Box 1229, Santa Ana, CA 92702; phone (714) 569-4884; email investmentsrfp@ocers.org. RFP status and announcements are available at www.OCERS.org and https://www.ocers.org/request-proposal."
+    },
+    {
+      "title": "Section 6: RFP Schedule",
+      "node_id": "0014",
+      "start_index": 10,
+      "end_index": 11,
+      "key_items": [
+        "The Point of Contact for all matters relating to this RFP is:",
+        "Date"
+      ],
+      "summary": "Section 6 provides a tentative RFP schedule that OCERS may change: RFP release October 7, 2022; intent to respond/questions due October 21; answers posted October 28; proposals due November 15; semi-finalist selection and interviews in January 2023; finalist site visits in February; and service award in March. Later milestones are to be determined. Proposals must reach the Section 5 point of contact by the scheduled deadline. OCERS accepts electronic submissions only, in Microsoft Word or Adobe Acrobat PDF format, sent to the email address listed in Section 5."
+    },
+    {
+      "title": "Section 7: Proposal Requirements",
+      "node_id": "0015",
+      "start_index": 11,
+      "end_index": 11,
+      "summary": "Proposals must include the Exhibit B cover page, Exhibit C minimum qualifications certification, Exhibit D executive summary, Exhibit E questionnaire response, Exhibit F references, and Exhibit G fee proposal. The executive summary should describe the respondent’s background, experience, qualifications, competitive advantages, specialties, limitations, and reasons for selection. Provide at least three (5) references for similar services, plus names and detailed qualifications and relevant experience of fully trained staff assigned to OCERS work. Include copies of pertinent required licenses, the respondent’s standard professional services contract, and any other information relevant to OCERS’ selection process."
+    },
+    {
+      "title": "Section 8: Evaluation Criteria",
+      "node_id": "0016",
+      "start_index": 11,
+      "end_index": 12,
+      "key_items": [
+        "Section 7: Proposal Requirements"
+      ],
+      "summary": "OCERS evaluates proposals holistically, without specific weighting, based on services and capabilities, client coverage, respondent experience and reputation, proposed team quality and staffing, technology and cybersecurity, pricing and value, transition and conversion, proposal quality and completeness, references, and other relevant factors. Finalists may be asked to interview or present to the Investment and Finance Teams. OCERS may request more information or reject proposals at its sole discretion if submissions are insufficient; false, incomplete, or unresponsive statements may also lead to rejection."
+    },
+    {
+      "title": "Section 9: Non-Discrimination Requirement",
+      "node_id": "0017",
+      "start_index": 12,
+      "end_index": 12,
+      "summary": "Section 9: Non-Discrimination Requirement\nBy submitting a proposal, the respondent represents that it and its subsidiaries do not and will not discriminate against any employee or applicant for employment on the basis of race, religion, color, national origin, ethnic group identification, mental disability, physical disability, medical condition, genetic information, marital status, ancestry, sex, gender, sexual orientation, gender identity, gender expression, age, or military and veteran status."
+    },
+    {
+      "title": "Section 10: Notice Regarding the California Public Records Act and the Brown Act",
+      "node_id": "0018",
+      "start_index": 12,
+      "end_index": 13,
+      "key_items": [
+        "Section 9: Non-Discrimination Requirement"
+      ],
+      "summary": "Proposal materials are subject to disclosure under the California Public Records Act (CPRA), except where exempt. Respondents seeking protection must explain the basis and separately mark specific material “TRADE SECRETS,” “CONFIDENTIAL,” or “PROPRIETARY”; marking an entire proposal is ineffective, and pricing and fees are not protected. Markings represent a good-faith belief but are not conclusive, and respondents may need to justify them in writing. For a records request, if OCERS agrees material is exempt, it may notify the respondent to seek a protective order at its own expense or deny disclosure. OCERS retains discretion to disclose information and is not liable for inadvertent or authorized disclosure. If OCERS denies disclosure or discloses material because law or a court requires it, the respondent must reimburse, indemnify, defend, and hold harmless OCERS and its related boards, personnel, and agents against associated claims, losses, and expenses."
+    },
+    {
+      "title": "Section 11: Contract Negotiations",
+      "node_id": "0019",
+      "start_index": 13,
+      "end_index": 13,
+      "summary": "Section 11: Contract Negotiations\nOCERS will negotiate a contract with the successful respondent, which will contain such terms as OCERS, in its sole discretion, may require. In addition, the selected firm will agree that this RFP and the firm’s proposal will be incorporated by reference into any resulting contract. The final Scope of Services to be included in the contract will be determined at the conclusion of the RFP process.\nThis RFP is not an offer to contract. Acceptance of a proposal neither commits OCERS to award a contract to any respondent, nor does it limit OCERS’ right to negotiate the terms of a contract in OCERS’ best interest, including the addition of terms not mentioned in this RFP. The final contract must, among other terms and conditions required by OCERS, allow OCERS to terminate the contract a) for OCERS’ convenience, b) if funds are not appropriated for the services to be provided, or c) for default."
+    },
+    {
+      "title": "Section 12: Reservations by OCERS",
+      "node_id": "0020",
+      "start_index": 13,
+      "end_index": 14,
+      "key_items": [
+        "Section 11: Contract Negotiations"
+      ],
+      "summary": "OCERS reserves broad discretion to cancel or modify the RFP; investigate respondents and request information; reject respondents or proposals for performance concerns or any reason; waive irregularities and negotiate as needed; make full, multiple, partial, or no awards; select the best fit for its requirements and service needs, not necessarily the lowest-cost proposal; seek respondent-specific documentation or clarification; decline to contract with respondents or negotiate with a nonrespondent; determine how much awarded services are used; defer selection; and consider information beyond respondents’ submissions."
+    },
+    {
+      "title": "Exhibit A: Intent to Respond",
+      "node_id": "0021",
+      "start_index": 14,
+      "end_index": 15,
+      "summary": "Exhibit A: Intent to Respond\nIf you choose to submit a proposal in response to this RFP, please submit this Intent to Respond to OCERS’ Investment Team via email no later than 5:00 p.m., PT, October 21, 2022. Failure to submit your Intent to Respond may disqualify your firm from submitting a proposal.\nOCERS’ responses to written requests for clarification or additional information will be provided to all firms that have submitted an Intent to Respond.\nFrom:\nFirm Name\nContact Name\nTitle\nPhone Number\nEmail Address\nDate\nTo: OCERS’ Investment Team Email: Investmentsrfp@ocers.org Re: Intent to Respond\nOur firm intends to submit a response for OCERS’ RFP for Custody Services\nPlease forward inquiries to the following contact:\nContact Name\nTitle\nPhone Number\nEmail Address\nMailing Address\nCustody Services: Request for Proposal\n14 of 15"
+    },
+    {
+      "title": "Exhibit B: Proposal Cover Page",
+      "node_id": "0022",
+      "start_index": 15,
+      "end_index": 16,
+      "summary": "Exhibit B is a proposal cover page for the Custody Services RFP, with fields for the firm’s name, address, website, contact person and title, phone, and email. The signer affirms that the proposal is complete and accurate, the entire RFP has been reviewed, and the respondent intends to comply. The respondent confirms adequate expertise and capacity; no unresolved questions or scope ambiguities; fees cover the full scope with no additional charges to OCERS; disclosure of relevant actual or potential interests involving OCERS personnel; acknowledgment that proposal materials and RFP correspondence are subject to the California Public Records Act; no current state or federal regulatory investigation; agreement to OCERS Services Agreement terms except as noted; and the signatory’s authority to bind the respondent. Fields are provided for authorized signature, printed name and title, and date."
+    },
+    {
+      "title": "Exhibit C: Minimum Qualifications Certification",
+      "node_id": "0023",
+      "start_index": 16,
+      "end_index": 19,
+      "key_items": [
+        "For All Respondents:",
+        "For Custody Services Respondents:"
+      ],
+      "summary": "Exhibit C requires every RFP respondent to sign and return the certification with written evidence of qualifications. All must agree to fiduciary duties under applicable law; custody proposers need five years of similar operations, five defined-benefit clients (including two public plans with at least $25 billion each), and a relationship contact with seven years’ client-facing custody experience. Respondents must carry or obtain competitive liability and errors-and-omissions insurance, accept contractual fiduciary and indemnity obligations, disclose conflicts, affiliations, revenue sources and specified benefits annually, and warrant their RFP statements are complete and true. Custody proposers must be authorized in California, have at least $500 billion in custody (including $100 billion international equity and fixed income), 30 defined-benefit clients including 10 qualifying public funds, ten years’ experience, annual SOC reports, a complete questionnaire, and $75 million insurance. Securities-lending proposers face corresponding authorization, asset, client, experience, SOC, questionnaire, and insurance thresholds; their account administrator needs five years’ experience, including three at the firm. An authorized signatory certifies the information and supplies signature, date, name/title, and firm."
+    },
+    {
+      "title": "Exhibit D: Executive Summary",
+      "node_id": "0024",
+      "start_index": 19,
+      "end_index": 20,
+      "key_items": [
+        "Part I: Background Information; Part II: Competitive Advantages, Distinctive Capabilities, and Differentiators",
+        "Part I: Background Information",
+        "Part II: Competitive Advantages, Distinctive Capabilities, and Differentiators",
+        "Part III: Metrics for your Firm and Core Competencies",
+        "Exhibit D: Executive Summary",
+        "Part I: Background Information; Part II: Competitive Advantages, Distinctive Capabilities, and Differentiators",
+        "Part I: Background Information",
+        "Part II: Competitive Advantages, Distinctive Capabilities, and Differentiators",
+        "Part III: Metrics for your Firm and Core Competencies"
+      ],
+      "summary": "Exhibit D requests an executive summary of no more than 1,250 words covering the firm’s location, business lines, custody staffing, institutional and public pension clients; two or three reasons OCERS should retain it; a high-level global custody fee proposal; service-team biographies; core competencies and value proposition; and confirmation of compliance with all minimum requirements or exceptions cross-referenced to supporting rationale. It also asks about technology investments and benefits to public pension funds, actions taken in the past three years to maintain service levels, and distinctive capabilities or strategies not commonly available from comparable-fee global custodians. On one page, respondents must identify three service areas where they expect to outperform competitors for OCERS and propose 5–10 effective service penalties and 5–10 performance incentives."
+    },
+    {
+      "title": "Exhibit E: Questionnaire",
+      "node_id": "0025",
+      "start_index": 20,
+      "end_index": 45,
+      "summary": "The questionnaire covers the proposer’s organization, ownership, history, locations, staffing, services, client base, revenues, assets, and investment exposures. It asks about OCERS service teams, qualifications, capacity, turnover, retention, communications, inquiry resolution, service quality, research, regulatory updates, auxiliary services, education, and comparable public-fund clients. Legal and risk topics include registrations, regulatory and litigation history, filings and financial condition, compliance, controls, audits, data and vendor management, disaster recovery, insurance, conflicts, brokerage practices, AML, sanctions, pay-to-play, and ability to meet obligations. Service questions address performance and risk analytics, manager relations, accounting, reporting, valuation, custody, settlement, pricing, corporate actions, proxy voting, claims, technology and security, cash management, securities lending, global custody, foreign exchange, tax, audit access, staffing, fees, controls, and future plans, including OCERS-specific proposals, incentives, penalties, and alternative-investment transparency. It also requests transition plans, timelines, resources, contingencies, OCERS commitments, handling of ongoing items and historical data, prior transition lessons, and exit costs.",
+      "nodes": [
+        {
+          "title": "Part I: Organization, Administration, and General Information",
+          "node_id": "0026",
+          "start_index": 20,
+          "end_index": 22,
+          "key_items": [
+            "Exhibit E: Questionnaire",
+            "Part I: Organization, Administration, and General Information",
+            "of Clients",
+            "Tax-Exempt Client Asset Size Distribution"
+          ],
+          "summary": "The questionnaire requests information on whether the firm will act as an ERISA fiduciary; office locations, functions, staffing, and OCERS service locations; ownership and affiliations; firm history and recent or expected organizational changes; and an executive summary of the Institutional Master Trust/Custody unit. It asks what differentiates the custodian, its capabilities for specified institutional client types, and organization charts for the unit and its place in firm management. Proposers must report revenue by business line, including defined-benefit revenue; client counts and assets under custody for tax-exempt and public-fund clients for 2017–2021; and tax-exempt trust/custody clients gained or lost, with counts and market values. It also requests client counts, plan counts, and assets by client category and asset-size band as of December 31, 2021, plus portfolio percentages invested in hedge funds, private equity, real assets, real estate, derivatives, cryptocurrencies, and other nontraditional investments."
+        },
+        {
+          "title": "Part II: Client Services",
+          "node_id": "0027",
+          "start_index": 22,
+          "end_index": 24,
+          "key_items": [
+            "Location"
+          ],
+          "summary": "The questionnaire requests details on global custody account administration and proposed OCERS staffing, including team members’ names, biographies, experience, credentials, responsibilities, locations, and staffing levels across service, operations, reporting, securities lending, private markets, IT, and brokerage. It asks about team tenure and clients served; three-year staff and relationship-officer turnover; competitive advantages, retention programs, accounts per officer, inquiry handling and response times, and plans for growth. It seeks product-development spending, R&D staffing, IT staffing proportions, service-quality commitments, quality programs, client-survey frequency and results, and team members’ claims history. Topics also include client communications, inquiry and problem resolution, service information, training, issue notification and recurrence prevention; research offerings, fees, discounts, and access conditions; regulatory monitoring and client communications; auxiliary services, transition management, and commission recapture; prioritization and timely service; client education opportunities and costs; and comparable public-fund clients."
+        },
+        {
+          "title": "Part III: Legal, Compliance, and Conflicts of Interest",
+          "node_id": "0028",
+          "start_index": 24,
+          "end_index": 27,
+          "summary": "The section requests information and supporting documents on the firm’s U.S. regulatory registrations, acceptance of California jurisdiction, regulatory history, investigations, inspections, industry sweeps, litigation, claims, settlements, disciplinary matters, controversies, and unresolved compliance or control issues. It seeks ADV filings, custody agreements, audit and financial reports, auditor findings, financial-stability ratios, Federal Reserve capital measures, and credit ratings. Respondents must describe conduct standards, compliance monitoring, legal and compliance resources, risk management, internal controls, audits and oversight, data retention and transfer, vendor relationships, subcontracting, and disaster recovery. It also asks for insurance and indemnification details, coverage limits and carriers; conflicts policies and potential conflicts; ownership or sales relationships with investment-related businesses, brokerage and soft-dollar practices, staff board service, and relationships with OCERS personnel. Finally, it covers AML, Patriot Act, OFAC and pay-to-play compliance, and the firm’s ability to meet obligations."
+        },
+        {
+          "title": "Part IV: Services Offered",
+          "node_id": "0029",
+          "start_index": 27,
+          "end_index": 44,
+          "summary": "Part IV is a service-provider questionnaire covering performance measurement, risk analytics and compliance; manager relations, reconciliation, accounting, reporting and valuation; securities custody, settlement, pricing, corporate actions, proxy voting and class-action claims; and system capabilities, technology enhancements, security, disaster recovery and business continuity. It examines cash management, securities lending—including collateral, returns, risks, controls and indemnification—and global custody, including sub-custodians, foreign exchange, tax reclaims, settlement and service quality. Audit controls, independent reports, access to records and credit ratings are also addressed. Respondents describe staffing, systems, procedures, fees, service levels, controls, reporting, client experience and future plans. The section concludes with OCERS-specific proposals on complex portfolio needs, performance indicators, incentives and penalties, competitive strengths, transparency and risk reporting for alternative investments, and an optional securities-lending proposal.",
+          "nodes": [
+            {
+              "title": "Part IV – A: Performance Measurement, Risk Analytics, and Compliance",
+              "node_id": "0030",
+              "start_index": 27,
+              "end_index": 30,
+              "key_items": [
+                "Part IV: Services Offered"
+              ],
+              "summary": "A Request for Proposal questionnaire asks firms to identify their performance measurement, risk analytics, and compliance services; client types, client counts and AUM; staffing; reporting and research examples; and system capabilities, fees, customization, and enhancement plans. It covers performance methodologies, pricing and data sources, automation, calculation frequency and availability, gross/net and currency-adjusted returns, cash flows, lagged returns, alternatives, derivatives, commingled funds, and data loading. It asks about benchmarks, indexes, universes, attribution, exposures, portfolio characteristics, risk models, alternative-asset risk proxies, stress testing, VaR, and online access. Questions address reconciliation with accounting and managers, audits, return revisions, accuracy controls, and reporting turnaround. Compliance topics include guideline setup, monitoring scope, asset classes, timing, customization, exceptions, and system tests. Firms must also describe monitoring for Patriot Act, AML, sanctions, and OFAC-listed entities, including service levels, fees, and sample reports."
+            },
+            {
+              "title": "Part IV – B: Investment Manager Relations & Reconciliation Process",
+              "node_id": "0031",
+              "start_index": 30,
+              "end_index": 30,
+              "summary": "The section asks about investment-manager relations and reconciliation practices, including how managers submit settlement instructions and applicable deadlines; competitive advantages in handling manager hires and terminations; whether a dedicated liaison group manages reconciliations and how it works with accounting, or how relationships are otherwise managed. It covers the organization’s reconciliation role and procedures, including timing relative to report mailing, formal record matching, frequency, investigation of pricing and market-value differences, and client communication of exceptions. It also asks about pricing-discrepancy tolerances and resolution, corporate-action cost allocation and rate disputes, commission-recapture reconciliation and brokerage delays, and whether designated client-service accounting staff reconcile exceptions with alternative-investment general partners or managers, including differences for non-traditional managers."
+            },
+            {
+              "title": "Part IV – C: Accounting & Reporting",
+              "node_id": "0032",
+              "start_index": 30,
+              "end_index": 32,
+              "key_items": [
+                "Part IV – B: Investment Manager Relations & Reconciliation Process"
+              ],
+              "summary": "The questions cover accounting-system automation, manual error risks, client interest/dividend payments, alternative-investment capital calls, NAVs and IRRs, and examples and frequency of reports. They address trade-date/accrual reporting, pending transactions and accrued interest, audit and annual-report timing, statement close periods, late-report rebates, interim reporting and fees, stale-value dates, accuracy controls, commission-recapture detail, and data retention. They ask about GASB 40, 28, 53 and 72 reporting, private-market valuation and performance, and preparation for future GASB rules. Other topics include custom and 24-hour online access, real-time versus batch data, help-desk and technology needs, daily NAV methods and adoption, reconciliations, valuation discrepancies, materiality, corrections and indemnification, and pricing mutual funds, trusts and fund-of-funds. They also cover third-party administrator records, general-ledger feeds, options and futures, failed trades, exchange rates, FX fiduciary duties and best execution, foreign-tax reclaims, and data transmissions to risk aggregators and their vendors."
+            },
+            {
+              "title": "Part IV – D: Security Movement and Control",
+              "node_id": "0033",
+              "start_index": 32,
+              "end_index": 33,
+              "summary": "The questionnaire requests information on depository memberships and services, asset registration and custody, transaction-processing automation, physical settlement locations, securities lost or misplaced in the past three years, custody and settlement staffing and reporting, and corporate-action processing. It asks for purchase and sale fail rates and fail-float practices, including account compensation, cash-balance effects, and manager notifications. It covers income collection, timely settlement, reinvestment availability of dividends and interest, and proxy-information transmission. Pricing questions address primary and supplemental sources by asset class, investigation of significant price changes, pricing of unlisted and difficult securities, update frequency, and matrix pricing, with sources requested for listed, OTC and international stocks; convertibles; domestic and foreign bonds; mortgages and derivatives; asset-backed securities; commercial paper; bank loans; real estate; venture capital; private placements; futures; and options. It also asks about brokerage expertise in transition trades and crossing, alternative prime brokerage products, and fund administration services."
+            },
+            {
+              "title": "Part IV – E: System Capabilities & Disaster Recovery",
+              "node_id": "0034",
+              "start_index": 33,
+              "end_index": 34,
+              "summary": "The section asks about average time to provision a new employee’s system access; disaster-recovery backups, data-retrieval time, business-continuity procedures, testing frequency and date, and the longest outage and its cause; hot-site and personnel backup arrangements and locations; significant recent changes to core accounting and security movement/control systems and their implementation dates; planned enhancements and timelines; security procedures; downtime during the past year and normal availability hours; whether domestic and global accounting use one multicurrency system; and plan/participant accounting capabilities, including tracking multiple plans or participants in a shared asset pool and how that arrangement would be managed."
+            },
+            {
+              "title": "Part IV – F: Cash Management",
+              "node_id": "0035",
+              "start_index": 34,
+              "end_index": 34,
+              "summary": "The section requests information on short-term investment options, including guidelines, objectives, fact sheets, fees, and available currencies and interest-bearing balances. It asks about controls for OCERS-initiated payments, wires, capital calls, and other cash movements; automation and outsourcing trends; daily cash-investment procedures; STIF interest-crediting and purchase/sale settlement timing; and handling of interest, dividends, and sale proceeds versus purchase debits. It also covers communication of wire and book-transfer instructions, client use of separate cash managers, reimbursement for erroneous overnight debits, overdraft notification, fees, and cause investigation. Finally, it asks which countries do not follow standard cash-management policies and why."
+            },
+            {
+              "title": "Part IV – G: Securities Lending",
+              "node_id": "0036",
+              "start_index": 34,
+              "end_index": 39,
+              "summary": "The section requests a securities-lending business overview and history; program availability, structure, providers, markets, philosophy, pricing, differentiators, market-share evidence, client base, participation and lendable assets. It seeks insurance and indemnification terms, including coverage, limits, exclusions and carriers, plus client gains and losses and historical losses. Respondents must report lending volumes and asset-class metrics, including utilization, fees, rebates, spreads, earnings and investment yields. The questionnaire also covers eligibility and participation, collateral and reinvestment policies, income allocation, borrower credit review and concentration, limits, stress tests, defaults, litigation, fiduciary status, agent/principal models, recalls, sell fails, settlement and communications, reporting tools, mark-to-market, investment breaches, regulation, audits, staffing, contracts and bankruptcy/foreign-law risks. It asks about coordination with managers, lending to custodians, income timing, T+1 recall changes, collateral-pool losses and NAVs below $1, controls, and the scope and limits of indemnity for operational, borrower-default and collateral-investment losses.",
+              "nodes": [
+                {
+                  "title": "Part IV – F: Cash Management",
+                  "node_id": "0037",
+                  "start_index": 34,
+                  "end_index": 36,
+                  "summary": "The questionnaire requests a description and brief history of the securities lending business; details of client-protection insurance and indemnification, including coverage, carriers, ratings, levels, limits, deductibles, expiration, and dishonesty coverage; and program availability, establishment, delivery model/provider, total size, cash-collateral pool and separate-account assets, and participating markets. It asks about program philosophy, rate negotiation, differentiators, and a recent third-party market-share benchmark. Respondents must describe their client base and provide participating-client counts and lendable assets by sponsor type as of December 31, 2021. They must report the prior 12 months’ average loan volume and, by asset class, lendable base, loans outstanding, utilization, rebate/fees, demand spread, net-of-rebate spreads, and reinvestment spread. Finally, they must report clients gained and lost by period, with counts and associated market values at initiation or termination."
+                },
+                {
+                  "title": "Clients Lost (Number)",
+                  "node_id": "0038",
+                  "start_index": 36,
+                  "end_index": 39,
+                  "summary": "A custody-services RFP requests historical client losses for 2019–2021 and detailed information on securities-lending capabilities, client eligibility and participation, collateral and cash reinvestment policies, income and loan allocation, borrower credit assessment and limits, stress testing, defaults, litigation, fiduciary status, agent/principal models, sell fails, recalls, and indemnification. It asks about fees, revenue splits, eligible assets on loan, spreads and earnings by asset class, investment yields and vehicles, contracts and risks (including borrower/sub-custodian bankruptcy and foreign law), coordination with managers, mark-to-market, investment guideline breaches, regulation, audits and staff segregation. It also covers settlement and communication systems, reporting and online tools, lending to custodians, income timing, recall changes for T+1, borrower lists and concentration, collateral-pool losses and NAVs below $1, year-by-year losses and controls, and operational, borrower-default, and collateral-investment indemnity availability, scope, and limitations."
+                }
+              ]
+            },
+            {
+              "title": "Part IV – H: Global Custody",
+              "node_id": "0039",
+              "start_index": 39,
+              "end_index": 41,
+              "summary": "A global custody RFP questionnaire covering non-U.S. separately managed asset custody, operating history, assets and clients, country-by-country sub-custodians and holdings, selection and review criteria, and terminated relationships. It asks about depositories, settlement and clearing, communications, cash timing, foreign exchange options, income collection, foreign-tax receivables and reclaims, and multi-currency accounting for forwards and options. Other topics include reconciliation, insurance, local- and U.S.-dollar reporting, five-year FX revenue, failed-trade handling and settlement statistics, class-action tracking, claims and transition responsibilities, and domestic/international safekeeping coverage. Respondents must describe custody, accounting and performance analytics operations, new products, service tiers, costs, reporting deadlines, SLAs, quality controls, client satisfaction, shared metrics, and correction of valuation or transaction errors. The questionnaire also addresses relationship-manager workloads and client tiers, underlying databases, their integration into client reporting, and quality controls across multi-database systems."
+            },
+            {
+              "title": "Part IV – I: Audit Controls",
+              "node_id": "0040",
+              "start_index": 41,
+              "end_index": 41,
+              "summary": "Part IV – I: Audit Controls\n1. Who is responsible for monitoring audit recommendations made to management?\n2. Provide copies of your most recent 10-k and 8-k filings, SSAE 16 (SAS 70) and SOC 1 report (Service Organization Controls Report).\n3. Provide copies of any Internal Control opinions issued by your independent auditors specifically related to your custody services within the last three years.\n4. Are you willing to afford OCERS staff and contracted CPA firms continued access to the corporate audit reports and the working papers of the custodian’s internal audit division?\n5. List your current credit rating from all credit agencies that rate your organization for the past four (4) fiscal years along with the specific part of your company that was rated.\n6. Are trust department records and procedures included in audits by your external auditor? To what degree? What level of certification is provided with annual reports? May client auditors examine bank records pertaining to client accounts?"
+            },
+            {
+              "title": "Part IV – J: Corporate Actions, Proxy Voting Services, and Class Action Claims Filing",
+              "node_id": "0041",
+              "start_index": 41,
+              "end_index": 43,
+              "key_items": [
+                "Part IV – I: Audit Controls"
+              ],
+              "summary": "The RFP requests details on the dedicated corporate-actions, proxy, securities-litigation, and claims unit; procedures and timing for domestic and international entitlements and accruals; and end-to-end class-action claims services, including obtaining historical holdings and trading data from State Street and BNY Mellon, identifying eligible U.S. and foreign cases, filing claims, addressing deficiencies, recovering and verifying proceeds, and quarterly reporting. It asks whether work is in-house or subcontracted, service limits, pre-conversion claims using third-party data, and processing cutoffs. Corporate-action questions cover information sources, client notices and response deadlines, instruction channels, election implementation, sub-custodian controls, and account postings. Proxy questions cover meeting sources and notices, position transmission frequency, share reconciliation and discrepancies, loan recalls, powers of attorney, unsupported markets (including MSCI ACWI IMI coverage) and voting alternatives, add-on services, and ISS experience. It also requests ESG data and analytics offerings, tracked and reportable metrics, and integration with other services."
+            },
+            {
+              "title": "Part IV – K: Technology",
+              "node_id": "0042",
+              "start_index": 43,
+              "end_index": 43,
+              "summary": "Part IV – K: Technology\n1. Describe the systems enhancement team at your company, outlining the number of employees, team structure and service model.\n2. Describe in detail the quality control and testing team and how your company ensures systems enhancements meet quality control standards. Please provide detail using specific examples of a new product launch or enhancement that was pursued within the last year that targeted a business solution using technology.\n3. Describe the system enhancements your company implemented in the past year in core-accounting, corporate actions, trade processing, benefit payments, performance, and risk analytics. How many are planned in the next 1-to-3 years in these areas and outline the business processes that these systems are enhancing.\n4. Does your company engage in the use of joint ventures or outside contractors in its technology solutions strategy? If so, please describe these arrangements and the extent to which outside businesses are engaged in the technology strategy and where they enter the processes described in the systems enhancement and production environment structure?"
+            },
+            {
+              "title": "Part IV – L: Strategy Relating to OCERS",
+              "node_id": "0043",
+              "start_index": 43,
+              "end_index": 44,
+              "key_items": [
+                "Part IV – K: Technology"
+              ],
+              "summary": "The RFP asks respondents to identify 3–5 complex portfolio aspects affecting OCERS service; list ten commonly used performance indicators for $20–$30 billion clients; propose 5–10 penalties and 5–10 incentives, recommended financial terms, and client counts using each; and describe three service areas where they would outperform competitors. It also requests plans, current offerings, future capabilities, and pricing for improving transparency into alternative-fund holdings, including hedge funds and private equity, plus any beneficial risk-reporting services. Respondents may submit an optional stand-alone securities-lending proposal, but must still complete all relevant RFP sections and Exhibit C minimum qualifications for securities lending."
+            }
+          ]
+        },
+        {
+          "title": "Part V: Transition & Implementation",
+          "node_id": "0044",
+          "start_index": 44,
+          "end_index": 45,
+          "summary": "The section requests details on the transition and implementation approach, including a conversion calendar, tasks and timelines for the Fund and Master Custodian, and the personnel, equipment, training, consultants, procedures, and controls provided. It asks for the expected duration, contingency plans and remedies for delays, and the time commitment required from OCERS and the provider. It also covers the relationship between transition and permanent account-administration teams; handling in-process transactions, claims, and performance-measurement files; willingness and fees for loading historical data; problems encountered in recent transitions and their solutions; and costs clients may face when leaving the provider."
+        }
+      ]
+    },
+    {
+      "title": "Exhibit F: References",
+      "node_id": "0045",
+      "start_index": 45,
+      "end_index": 46,
+      "summary": "Exhibit F requests at least five client references, including the offeror’s three most recent conversions comparable in size and scope to OCERS. Each reference must use a separate form listing the offeror, client name and address, contact name/title, phone and email, contract dates, and services provided; OCERS may contact references. Exhibit G requests annual flat-dollar custody fees in U.S. dollars for years 1–5 under both bundled securities lending (if awarded the lending mandate, without offsetting lending revenue against the fee) and unbundled lending (if not awarded the mandate). It also asks for the proposed securities-lending revenue split between OCERS and the bank, any indemnification beyond broker-default coverage, proposed short-term investment vehicles and total expense ratio including management fees, overdraft charges, and services included in the quoted custody fee."
+    },
+    {
+      "title": "OCERS Custody Services Fee Proposal",
+      "node_id": "0046",
+      "start_index": 46,
+      "end_index": 46,
+      "key_items": [
+        "Exhibit G: Fee Proposal",
+        "Flat Dollar Custody Fee",
+        "OCERS",
+        "1st Year",
+        "2nd Year",
+        "3rd Year",
+        "4th Year",
+        "5th Year",
+        "Flat Dollar Custody Fee",
+        "OCERS",
+        "1st Year",
+        "2nd Year",
+        "3rd Year",
+        "4th Year"
+      ],
+      "summary": "Requests annual flat-dollar custody fees for OCERS for five years under both bundled securities lending (mandate granted) and unbundled securities lending (no mandate) scenarios. Also asks for the securities-lending revenue split between OCERS and the bank, any indemnification beyond broker default, proposed short-term investment vehicles and their total expense ratios, overdraft charges, and a description of services included in the flat custody fee."
+    },
+    {
+      "title": "5th Year",
+      "node_id": "0047",
+      "start_index": 46,
+      "end_index": 51,
+      "key_items": [
+        "Exhibit G: Fee Proposal",
+        "TUCS"
+      ],
+      "summary": "Exhibit G requests annual flat-dollar custody fees for years 1–5 under bundled (securities lending permitted) and unbundled arrangements, plus the lending revenue split and any additional indemnification, proposed short-term investments and total expense ratio, and overdraft charges. Respondents must identify which services are included in the flat fee and itemize charges when not included: full domestic/international custody, safekeeping, asset servicing, transaction processing, multicurrency accounting and reporting, online services, performance measurement and analytics, and advanced analytics platforms. The proposal also covers settlement and income collection, transition/conversion, penalty and out-of-pocket costs, compliance and risk analytics, proxy services, class actions, alternative-investment support, and independent derivatives valuation and processing. It requests fees for related service levels and features, including reporting, voting, legal filings, private-investment accounting and monitoring, capital calls, and distributions, as well as ad hoc third-party reports for Freedom of Information Act requests and any other fees excluded from the flat fee."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

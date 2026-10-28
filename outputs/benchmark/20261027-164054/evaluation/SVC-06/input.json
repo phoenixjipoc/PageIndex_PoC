@@ -1,0 +1,7 @@
+{
+  "question": "A county 457(b) deferred compensation plan RFP subject to the rules of the New York State Deferred Compensation Board states a minimum deferral amount required by the Model Plan. What is that minimum, and within how many business days must participant deferrals be invested?",
+  "gold_answer": "$260 for any plan year (Model Plan Section 3.2(a)); deferrals must be invested no later than two (2) business days following receipt (Model Plan Section 4.1). The issuer is the Monroe County (NY) Deferred Compensation Plan / Committee (RFP dated August 4, 2023).",
+  "acceptance": "Accept $260 per plan year and within two business days after receipt. Issuer, date and Model Plan section numbers are optional.",
+  "scope": "single_document",
+  "candidate_answer": "The Model Plan minimum is **$260 per plan year**. Participant deferrals must be invested according to the participant’s directions **no later than two business days after receipt**. [Source: Monroe County RFP, p. 8](Monroe_County_NY__10406.pdf#page=8)"
+}

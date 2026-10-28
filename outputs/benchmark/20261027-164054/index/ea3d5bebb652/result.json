@@ -1,0 +1,43 @@
+{
+  "file": "MA_PRIM__PDF-Version-of-RFP.pdf",
+  "sha256": "1712791cbfce3ef8bc1fdde996fd1e4b22ee594bcf50aca8f789ea19aecb2f75",
+  "bytes": 1309036,
+  "pages": 66,
+  "public_source_url": "https://www.mapension.com/wp-content/uploads/2023/10/PDF-Version-of-RFP.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:00:26.751209+00:00",
+  "doc_id": "pi-8505d401fddc43fa9b5b26669bd173aa",
+  "stored_name": "MA_PRIM__PDF-Version-of-RFP.pdf",
+  "reported_usage": {
+    "prompt_tokens": 44434,
+    "completion_tokens": 9836,
+    "total_tokens": 54270,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 26152
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2459
+    }
+  },
+  "elapsed_seconds": 32.722,
+  "finished_at_utc": "2026-10-27T09:00:59.485275+00:00",
+  "model_calls": 40,
+  "http_attempts": 40,
+  "observed_usage": {
+    "input_tokens": 44434,
+    "output_tokens": 9836,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 26152,
+    "reasoning_tokens": 2459,
+    "total_tokens": 54270
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

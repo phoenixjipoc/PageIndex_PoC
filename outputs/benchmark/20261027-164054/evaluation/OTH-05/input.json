@@ -1,0 +1,7 @@
+{
+  "question": "Under Missouri LAGERS' private markets consultant RFP, how many public fund clients of what minimum size must a respondent provide non-discretionary private market investment consulting to?",
+  "gold_answer": "At least three public fund clients with assets of at least $10 billion (as of March 31, 2024).",
+  "acceptance": "At least three public-fund clients with at least $10bn each. March31,2024 is a useful qualifier, not a separately asked fact.",
+  "scope": "single_document",
+  "candidate_answer": "A respondent must provide non-discretionary private-market investment consulting to **at least three public fund clients**, each with **at least $10 billion in assets**, as of March 31, 2024. [Missouri LAGERS RFP, p. 7](Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf)"
+}

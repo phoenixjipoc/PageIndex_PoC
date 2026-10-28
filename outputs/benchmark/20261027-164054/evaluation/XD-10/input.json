@@ -1,0 +1,7 @@
+{
+  "question": "How many lettered appendices does the ILPA Due Diligence Questionnaire 2.0 list in its table of contents, and what are they?",
+  "gold_answer": "Eight appendices (A-H): A - Requested Documents; B - Templates: Team Members; C - Templates: References; D - Templates: Third-Party(s) and Technology Tool(s); E - Templates: Fund; F - Templates: Portfolio Investments; G - Templates: GP-Led Secondaries / Continuation Funds; H - Templates: Credit Facilities. Compared with v1.2, the new ones are the Third-Party/Technology, GP-Led Secondaries / Continuation Funds and Credit Facilities templates, and the Fund and Portfolio Investments templates move to E and F.",
+  "acceptance": "Require count eight and all eight titles or unambiguous short equivalents. v1.2 comparison is optional.",
+  "scope": "single_document",
+  "candidate_answer": "The table of contents lists **eight lettered appendices**, A through H: fileciteILPA__ILPA-DDQ-2.0.pdf\n\n- **A:** Requested Documents\n- **B:** Templates: Team Members\n- **C:** Templates: References\n- **D:** Templates: Third-Parties and Technology Tools\n- **E:** Templates: Fund\n- **F:** Templates: Portfolio Investments\n- **G:** Templates: GP-Led Secondaries / Continuation Funds\n- **H:** Templates: Credit Facilities"
+}

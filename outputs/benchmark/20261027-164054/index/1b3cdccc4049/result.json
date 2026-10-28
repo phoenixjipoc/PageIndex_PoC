@@ -1,0 +1,43 @@
+{
+  "file": "OCERS__investment_consultant_services_rfp.pdf",
+  "sha256": "5c10b781b096cc828717506a77569aa681ae43b4c15074400e0f2aa4768dcd92",
+  "bytes": 630996,
+  "pages": 37,
+  "public_source_url": "https://www.ocers.org/sites/main/files/file-attachments/investment_consultant_services_rfp.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:03:39.932606+00:00",
+  "doc_id": "pi-dc490da926ed4c16a1b19fc7e3a360b6",
+  "stored_name": "OCERS__investment_consultant_services_rfp.pdf",
+  "reported_usage": {
+    "prompt_tokens": 28013,
+    "completion_tokens": 8377,
+    "total_tokens": 36390,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 10227
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1985
+    }
+  },
+  "elapsed_seconds": 23.569,
+  "finished_at_utc": "2026-10-27T09:04:03.513078+00:00",
+  "model_calls": 32,
+  "http_attempts": 32,
+  "observed_usage": {
+    "input_tokens": 28013,
+    "output_tokens": 8377,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 10227,
+    "reasoning_tokens": 1985,
+    "total_tokens": 36390
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

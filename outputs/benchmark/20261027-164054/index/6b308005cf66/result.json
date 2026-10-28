@@ -1,0 +1,43 @@
+{
+  "file": "Rice_University__2021_Benefit_Plan_RFP_-_final.pdf",
+  "sha256": "2343939d6535c29927f17030e4a10e402b48618ec2bbdb1e1a137aa0b9f6549d",
+  "bytes": 171917,
+  "pages": 6,
+  "public_source_url": "https://controller.rice.edu/sites/g/files/bxs3861/files/2021-12/2021%20Benefit%20Plan%20RFP%20%20-%20final.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:05:44.839821+00:00",
+  "doc_id": "pi-0e3864d4522e4dcf8ed3bb96759f7929",
+  "stored_name": "Rice_University__2021_Benefit_Plan_RFP_-_final.pdf",
+  "reported_usage": {
+    "prompt_tokens": 6112,
+    "completion_tokens": 1761,
+    "total_tokens": 7873,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 2933
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 382
+    }
+  },
+  "elapsed_seconds": 7.858,
+  "finished_at_utc": "2026-10-27T09:05:52.715942+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 6112,
+    "output_tokens": 1761,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 2933,
+    "reasoning_tokens": 382,
+    "total_tokens": 7873
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

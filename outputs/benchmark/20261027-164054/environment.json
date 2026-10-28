@@ -1,0 +1,16 @@
+{
+  "python": "3.11.15 (main, Apr  7 2026, 20:47:24) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26100-SP0",
+  "pageindex_version": "0.2.10",
+  "endpoint_host": "api.openai.com",
+  "container_default_model_not_used": "gpt-5.4",
+  "installed_source_matches": true,
+  "official_instructions_sha256": "62139bc295ae87105849be38157ecf0cd95a13443a0a7f3e49f64150b8e5ba86",
+  "packages": {
+    "openai": "2.54.0",
+    "openai-agents": "0.20.0",
+    "litellm": "1.105.5",
+    "PyPDF2": "3.0.1",
+    "pypdfium2": "5.14.0"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "file": "AVFPD__RFP-Actuatial-Services-2024.pdf",
+  "sha256": "a6eb3704fb8bf4c88fb0ebc6bdd9df3f49e69368e8a111e61c4a9b4c1309020b",
+  "bytes": 717841,
+  "pages": 9,
+  "public_source_url": "https://avfpd.org/wp-content/uploads/2024/07/RFP-Actuatial-Services-2024.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:43:37.982852+00:00",
+  "doc_id": "pi-861ff8927edd44c2acb5128397d7589b",
+  "stored_name": "AVFPD__RFP-Actuatial-Services-2024.pdf",
+  "reported_usage": {
+    "prompt_tokens": 5523,
+    "completion_tokens": 1698,
+    "total_tokens": 7221,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 1715
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 399
+    }
+  },
+  "elapsed_seconds": 7.951,
+  "finished_at_utc": "2026-10-27T08:43:45.948137+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 5523,
+    "output_tokens": 1698,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 1715,
+    "reasoning_tokens": 399,
+    "total_tokens": 7221
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

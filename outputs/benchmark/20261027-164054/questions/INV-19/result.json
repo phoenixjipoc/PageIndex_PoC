@@ -1,0 +1,165 @@
+{
+  "id": "INV-19",
+  "question": "Under the Baltimore City Employees' Retirement Systems (BCERS) alternatives consultant RFP, what must the consultant's quarterly performance report include at a minimum?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:17:02.137060+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "Under the BCERS alternatives consultant RFP, the **quarterly performance report must include, at a minimum**:\n\n- A market overview and outlook;\n- An allocation breakdown by geography, strategy, and industry;\n- An update on each fund and a listing of funds by strategy;\n- For each fund: commitment date and amount, drawdowns, outstanding commitment, distributions, net asset value, IRR, and multiples; and\n- Aggregates of the drawdown, outstanding-commitment, distribution, net-asset-value, IRR, and multiple figures for the core private equity portfolio, the specialized portfolio, and the combined portfolio.\n\nThe quarterly report must also be reconciled with the BCERS custodian bank’s records. [Source: BCERS Alternatives Consultant RFP, pp. 6–7](Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf).",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 66599,
+    "input_tokens_details": {
+      "cached_tokens": 47615,
+      "cache_write_tokens": 18963
+    },
+    "output_tokens": 371,
+    "output_tokens_details": {
+      "reasoning_tokens": 10
+    },
+    "total_tokens": 66970,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1218,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1215
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1233
+      },
+      {
+        "input_tokens": 2384,
+        "input_tokens_details": {
+          "cached_tokens": 1215,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 10
+        },
+        "total_tokens": 2419
+      },
+      {
+        "input_tokens": 7622,
+        "input_tokens_details": {
+          "cached_tokens": 2381,
+          "cache_write_tokens": 5238
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7645
+      },
+      {
+        "input_tokens": 9610,
+        "input_tokens_details": {
+          "cached_tokens": 7619,
+          "cache_write_tokens": 1988
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9645
+      },
+      {
+        "input_tokens": 9886,
+        "input_tokens_details": {
+          "cached_tokens": 9607,
+          "cache_write_tokens": 276
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9922
+      },
+      {
+        "input_tokens": 16913,
+        "input_tokens_details": {
+          "cached_tokens": 9883,
+          "cache_write_tokens": 7027
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 16955
+      },
+      {
+        "input_tokens": 18966,
+        "input_tokens_details": {
+          "cached_tokens": 16910,
+          "cache_write_tokens": 2053
+        },
+        "output_tokens": 185,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 19151
+      }
+    ]
+  },
+  "elapsed_seconds": 15.429,
+  "finished_at_utc": "2026-10-27T09:17:17.569513+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 66599,
+    "output_tokens": 371,
+    "cached_input_tokens": 47615,
+    "cache_write_tokens": 18963,
+    "reasoning_tokens": 10,
+    "total_tokens": 66970
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":60}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf\",\"pages\":\"5-7\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf",
+      "pages": "5-7",
+      "success": true,
+      "call_id": "call_D3AYSgVBT977RODnBHymqyaE"
+    }
+  ],
+  "successfully_read_documents": [
+    "Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf"
+  ]
+}

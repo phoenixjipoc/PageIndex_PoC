@@ -1,0 +1,149 @@
+{
+  "id": "OTH-02",
+  "question": "How many Core Plus Fixed Income managers does INPRS anticipate hiring under RFP 22-04, what is the combined mandate size, and what benchmark will be used?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:16:37.684622+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "INPRS anticipates hiring **two Core Plus Fixed Income managers** for a **combined mandate of approximately $185 million**. The strategies are expected to be benchmarked against the **Bloomberg U.S. Aggregate Bond Index**. [RFP 22-04, p. 12](INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf#page=12)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 72064,
+    "input_tokens_details": {
+      "cached_tokens": 44719,
+      "cache_write_tokens": 27327
+    },
+    "output_tokens": 243,
+    "output_tokens_details": {
+      "reasoning_tokens": 9
+    },
+    "total_tokens": 72307,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1222,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1219
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1237
+      },
+      {
+        "input_tokens": 2388,
+        "input_tokens_details": {
+          "cached_tokens": 1219,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 9
+        },
+        "total_tokens": 2422
+      },
+      {
+        "input_tokens": 7625,
+        "input_tokens_details": {
+          "cached_tokens": 2385,
+          "cache_write_tokens": 5237
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7659
+      },
+      {
+        "input_tokens": 7905,
+        "input_tokens_details": {
+          "cached_tokens": 7622,
+          "cache_write_tokens": 280
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7940
+      },
+      {
+        "input_tokens": 25594,
+        "input_tokens_details": {
+          "cached_tokens": 7902,
+          "cache_write_tokens": 17689
+        },
+        "output_tokens": 41,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 25635
+      },
+      {
+        "input_tokens": 27330,
+        "input_tokens_details": {
+          "cached_tokens": 25591,
+          "cache_write_tokens": 1736
+        },
+        "output_tokens": 84,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 27414
+      }
+    ]
+  },
+  "elapsed_seconds": 12.621,
+  "finished_at_utc": "2026-10-27T09:16:50.311877+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 72064,
+    "output_tokens": 243,
+    "cached_input_tokens": 44719,
+    "cache_write_tokens": 27327,
+    "reasoning_tokens": 9,
+    "total_tokens": 72307
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf\",\"pages\":\"12-13\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf",
+      "pages": "12-13",
+      "success": true,
+      "call_id": "call_HscDnb90O2jLYdXTa6tMG6k7"
+    }
+  ],
+  "successfully_read_documents": [
+    "INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf"
+  ]
+}

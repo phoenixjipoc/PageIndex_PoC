@@ -1,0 +1,149 @@
+{
+  "id": "CONS-15",
+  "question": "List the core functions that the City of Creve Coeur Employee Pension Plan expects from its pension fund consultant in its May 2020 RFP.",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:15:14.645274+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The May 2020 RFP lists these **core functions** for the pension fund consultant:\n\n- Help develop and maintain the investment policy statement.\n- Plan asset allocation annually and monitor it regularly.\n- Recommend changes when markets shift significantly, and alert the Board to concerns.\n- Research and recommend investments in each asset class.\n- Monitor recommended investments closely; meet with the Pension Board quarterly in person and monthly or as needed by phone.\n- Provide monthly portfolio-performance reports and statements.\n- Guide City staff on sourcing funds, opening accounts, and tracking liquidity for pension payments.\n- Coordinate with investment managers, funds, and custodians to ensure timely year-end financial reporting and quarterly updates.\n\nSource: *City of Creve Coeur Employee Pension Plan, Pension Fund Consulting Services RFP*, pp. 1–2.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 43756,
+    "input_tokens_details": {
+      "cached_tokens": 30748,
+      "cache_write_tokens": 12990
+    },
+    "output_tokens": 337,
+    "output_tokens_details": {
+      "reasoning_tokens": 9
+    },
+    "total_tokens": 44093,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1218,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1215
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1233
+      },
+      {
+        "input_tokens": 2384,
+        "input_tokens_details": {
+          "cached_tokens": 1215,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 9
+        },
+        "total_tokens": 2418
+      },
+      {
+        "input_tokens": 7621,
+        "input_tokens_details": {
+          "cached_tokens": 2381,
+          "cache_write_tokens": 5237
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7644
+      },
+      {
+        "input_tokens": 9609,
+        "input_tokens_details": {
+          "cached_tokens": 7618,
+          "cache_write_tokens": 1988
+        },
+        "output_tokens": 46,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9655
+      },
+      {
+        "input_tokens": 9931,
+        "input_tokens_details": {
+          "cached_tokens": 9606,
+          "cache_write_tokens": 322
+        },
+        "output_tokens": 53,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9984
+      },
+      {
+        "input_tokens": 12993,
+        "input_tokens_details": {
+          "cached_tokens": 9928,
+          "cache_write_tokens": 3062
+        },
+        "output_tokens": 166,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 13159
+      }
+    ]
+  },
+  "elapsed_seconds": 13.902,
+  "finished_at_utc": "2026-10-27T09:15:28.553180+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 43756,
+    "output_tokens": 337,
+    "cached_input_tokens": 30748,
+    "cache_write_tokens": 12990,
+    "reasoning_tokens": 9,
+    "total_tokens": 44093
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":60}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Creve_Coeur_MO__RFP-for-Pension-Fund-Consulting-Svcs-May-2020-revised.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Creve_Coeur_MO__RFP-for-Pension-Fund-Consulting-Svcs-May-2020-revised.pdf\",\"pages\":\"1-5\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Creve_Coeur_MO__RFP-for-Pension-Fund-Consulting-Svcs-May-2020-revised.pdf",
+      "pages": "1-5",
+      "success": true,
+      "call_id": "call_c2JNx8GoagU0SbwYzrqvtGWn"
+    }
+  ],
+  "successfully_read_documents": [
+    "Creve_Coeur_MO__RFP-for-Pension-Fund-Consulting-Svcs-May-2020-revised.pdf"
+  ]
+}

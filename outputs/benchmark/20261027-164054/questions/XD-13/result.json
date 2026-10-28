@@ -1,0 +1,165 @@
+{
+  "id": "XD-13",
+  "question": "What does the ILPA Due Diligence Questionnaire 2.0 ask about GP-led secondaries and continuation funds in Section 6?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:14:49.110199+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "Section 6 asks firms to disclose whether they completed **GP-led secondary** or **continuation fund** transactions in the past five years. For each type, it asks whether every transaction had LPAC conflict review, offered existing limited partners a status quo option, rolled over 100% of GP carry, and excluded companies in IPO or pre-IPO discussions.\n\nIt then asks the firm to explain:\n\n- **Conflicts and disclosure:** how the LPAC and LPs review conflicts, when and what information they receive, how GP benefits not shared with LPs are handled, and whether LPAC members or affiliates participate as buyers.\n- **LP choices and terms:** what information LPs receive before their decision deadline; how information symmetry is maintained; how new fund documents and side letters compare with existing terms; and the economic and legal terms offered to selling, rolling, and new investors.\n- **Rationale and alignment:** why the transaction was chosen over a fund extension or traditional exit, and its effect on GP economics, alignment of interests, and key-person provisions.\n- **Pricing and costs:** how bidders and potential acquirers are identified, how valuations are established and advisers used, and how transaction costs, broken-deal or termination fees, management fees, and carry are allocated.\n- **Related deals:** how the firm discloses arrangements with acquirers, such as stapled transactions or side deals.\n\nThese are **questions for the GP to answer**, not assertions that any particular transaction followed those practices. [ILPA DDQ 2.0, Section 6, PDF pp. 17–18](ILPA__ILPA-DDQ-2.0.pdf)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 86811,
+    "input_tokens_details": {
+      "cached_tokens": 56193,
+      "cache_write_tokens": 30597
+    },
+    "output_tokens": 554,
+    "output_tokens_details": {
+      "reasoning_tokens": 37
+    },
+    "total_tokens": 87365,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1216,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1213
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1231
+      },
+      {
+        "input_tokens": 2382,
+        "input_tokens_details": {
+          "cached_tokens": 1213,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 43,
+        "output_tokens_details": {
+          "reasoning_tokens": 18
+        },
+        "total_tokens": 2425
+      },
+      {
+        "input_tokens": 7628,
+        "input_tokens_details": {
+          "cached_tokens": 2379,
+          "cache_write_tokens": 5246
+        },
+        "output_tokens": 30,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7658
+      },
+      {
+        "input_tokens": 7900,
+        "input_tokens_details": {
+          "cached_tokens": 7625,
+          "cache_write_tokens": 272
+        },
+        "output_tokens": 31,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7931
+      },
+      {
+        "input_tokens": 8912,
+        "input_tokens_details": {
+          "cached_tokens": 7897,
+          "cache_write_tokens": 1012
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 8947
+      },
+      {
+        "input_tokens": 28173,
+        "input_tokens_details": {
+          "cached_tokens": 8909,
+          "cache_write_tokens": 19261
+        },
+        "output_tokens": 58,
+        "output_tokens_details": {
+          "reasoning_tokens": 19
+        },
+        "total_tokens": 28231
+      },
+      {
+        "input_tokens": 30600,
+        "input_tokens_details": {
+          "cached_tokens": 28170,
+          "cache_write_tokens": 2427
+        },
+        "output_tokens": 342,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 30942
+      }
+    ]
+  },
+  "elapsed_seconds": 20.536,
+  "finished_at_utc": "2026-10-27T09:15:09.651802+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 86811,
+    "output_tokens": 554,
+    "cached_input_tokens": 56193,
+    "cache_write_tokens": 30597,
+    "reasoning_tokens": 37,
+    "total_tokens": 87365
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":10}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\",\"part\":2}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\",\"pages\":\"17-19\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "ILPA__ILPA-DDQ-2.0.pdf",
+      "pages": "17-19",
+      "success": true,
+      "call_id": "call_PaMTo694dGBeyJxDDNWPbOGr"
+    }
+  ],
+  "successfully_read_documents": [
+    "ILPA__ILPA-DDQ-2.0.pdf"
+  ]
+}

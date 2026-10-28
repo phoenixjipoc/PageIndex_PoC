@@ -1,0 +1,7 @@
+{
+  "question": "Which retirement system's global custody RFP states that the system does not currently participate in securities lending, and what is the planned start date for the custody contract?",
+  "gold_answer": "The Texas Municipal Retirement System (TMRS), in its December 2020 RFP for Global Custody and Related Services; the contract start date is January 3, 2022.",
+  "acceptance": "TMRS and January 3, 2022 suffice; issuance month and securities-lending support contingencies are optional.",
+  "scope": "single_document",
+  "candidate_answer": "The **Texas Municipal Retirement System (TMRS)** states that it does not currently participate in securities lending. Its global custody RFP lists **January 3, 2022** as the planned contract start date. [Source: TMRS Global Custody RFP, pp. 3, 15](TMRS__TMRS_RFP_Global_Custody_Related_Services.pdf)"
+}

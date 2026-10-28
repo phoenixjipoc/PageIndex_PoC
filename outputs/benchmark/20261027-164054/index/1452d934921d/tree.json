@@ -1,0 +1,196 @@
+{
+  "doc_id": "pi-b06bc09def1a48b6b530935431d0bb48",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 3,
+      "summary": "The document’s contents include an overview, FAQs, cover sheet, basic and detailed questions, and appendices for requested documents and templates covering team members, references, funds, and portfolio investments. Version 1.1 (September 2016) added ILPA Reporting Template questions, revised governance and risk/compliance/ESG content to align with PRI guidance, and refreshed links and formatting. Version 1.2 (September 2018) added Diversity and Inclusion questions, six Appendix A documents including a Team Diversity Template, and clarified Detailed Question 4.4; a red-line version is available at ilpa.org. The ILPA DDQ was developed with industry participants to reduce redundant, customized diligence questionnaires and administrative burden while supporting transparency and analysis. Compiled from more than a dozen questionnaires and reviewed by an ILPA committee and industry leaders, it is voluntary and does not replace LP-specific diligence. Its 14 topics span firm and fund information, strategy, process, team, alignment, markets, terms, governance/risk/compliance, ESG, track record, accounting/reporting, legal/administration, and diversity/inclusion. It provides short- and long-form questions and suggested diligence documents/data. A confidentiality and limitations disclaimer, ILPA contact details, and directions for further information are included."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "node_id": "0001",
+      "start_index": 4,
+      "end_index": 5,
+      "summary": "The ILPA DDQ aims to reduce diligence workload and redundant customized questionnaires, but its use is voluntary and may not suit every fund. GPs may focus firm-level answers on business units relevant to the fund, while briefly describing unrelated units and explaining exclusions. Sensitive information need not be disclosed where confidentiality or other concerns apply; GPs may offer it in person, redacted, or later, with an explanation and guidance. GPs should answer relevant questions and explain skipped detailed questions briefly; mark skipped basic questions “N/A” in the Reference field. Basic yes/no answers are a checklist, not investment criteria by themselves: LPs should review detailed responses and follow up. Additional questions should be provided separately, not added to the DDQ. “Team Members” includes firm personnel and specified former personnel; “Principals” are management and other core contributors, designated at GP discretion with rationale available. Answers should be included in the DDQ rather than merely cited from the PPM."
+    },
+    {
+      "title": "Cover Sheet",
+      "node_id": "0002",
+      "start_index": 6,
+      "end_index": 6,
+      "summary": "A cover sheet collecting general firm and fund information. Firm details include name/business unit, address, phone, supervising regulators and registration numbers, and a contact for additional information. Fund details include the GP and fund legal names, regulators and registration numbers, size and reporting currency, management fees, investment focus, targeted/minimum/maximum or capped size, first-close amount and closings to date, investment/follow-on/extension periods, strategic, geographic and industry focus, completion and first-close dates, and fund term. Miscellaneous fund terms include period allocations, hurdle, carried interest, catch-up, carry escrow, and GP commitment percentages."
+    },
+    {
+      "title": "Basic Questions",
+      "node_id": "0003",
+      "start_index": 7,
+      "end_index": 11,
+      "summary": "The section presents yes/no/reference due-diligence questions covering the Firm’s business lines, defaults, bankruptcies, outside activities, public status, Fund practices and leverage, investment strategy, specialist teams, Principals’ circumstances and departures, and alignment of their investments and commitments. Market Environment has no basic questions and is addressed in detail elsewhere. Fund Terms covers ILPA Principles, fee/carry options, side letters, in-specie distributions, and opt-outs. Governance, risk, compliance, and ESG topics include information safeguards, ethics, environmental studies, regulatory registration, ESG policies and commitments, UNPRI, OECD presence, and portfolio-company standards. Track Record questions address portfolio-company distress, valuation policies and oversight, audit independence and opinions, carried-interest audits, ILPA-aligned reporting, administration, and GIPS compliance. Legal/Administration covers investigations, internal controls and business software, diversity and inclusion, workplace conduct, family leave and gender tracking, mentorship and industry programs, reporting and investigating misconduct, plans to implement missing policies, and claims of harassment, misconduct, or discrimination.",
+      "nodes": [
+        {
+          "title": "Basic Questions (intro)",
+          "node_id": "0004",
+          "start_index": 7,
+          "end_index": 8,
+          "summary": "A due-diligence questionnaire asks yes/no/reference questions about: the Firm’s unrelated business lines, debt-payment defaults, bankruptcy history, outside activities of the Firm and its Principals, team-member bankruptcies, and public-company status; Fund co-investments, affiliated ownership of investments, placement agents and restrictions on unregistered agents, annual investor meetings, in-camera LP Advisory Board sessions, and balance-sheet leverage; strategy changes from the prior fund, public securities/PIPEs, and hostile transactions; dedicated debt and operations teams, securities trading, and foreign-currency management; Principals’ circumstances affecting duties, historical key-person events and significant staff departures, and expected departures; and alignment matters, including whether Principals or affiliates invest, whether their commitments are leveraged, loaned, funded by deferred management fees or other Firm-managed investments, and prior-fund carry clawbacks."
+        },
+        {
+          "title": "7.0 Market Environment",
+          "node_id": "0005",
+          "start_index": 8,
+          "end_index": 9,
+          "key_items": [
+            "p.9",
+            "10.1 Does the Firm have an ESG policy (or equivalent CSR/SRI policy)?",
+            "10.2 Is the Firm a signatory to the United Nations Principles for Responsible Investing (UNPRI)?",
+            "10.3 Is the Firm and/or any of its affiliated entities organized in a country that is a member of the Organization for Economic Co-operation and Development (OECD)?",
+            "10.4 Does the Firm have policies that encourage portfolio companies to adopt external standards and codes (such as the United Nations Global Compact)?",
+            "10.5 Does the Firm make formal commitments relating to ESG integration in fund formation contracts, Limited Partnership Agreements, or in side letters when requested by investors?"
+          ],
+          "summary": "The text is a due-diligence questionnaire. Market Environment has no basic questions, with further coverage in a detailed section. Fund Terms asks whether the firm endorses the latest ILPA Private Equity Principles; offers LPs fee/carry options; has granted side letters and will extend their terms to requesting LPs; prohibits in-specie distributions; and allows LP investment opt-outs. Firm Governance/Risk/Compliance covers policies for safeguarding material nonpublic information, adoption of the latest CFA Institute ethics code or equivalent, environmental impact studies for portfolio investments, and investment-adviser or broker-dealer registration. ESG questions address an ESG/CSR/SRI policy, UNPRI signatory status, OECD-country organization of the firm or affiliates, policies encouraging portfolio companies to adopt external standards such as the UN Global Compact, and formal ESG commitments in fund documents or requested side letters. Questions use yes/no/reference response fields."
+        },
+        {
+          "title": "11.0 Track Record",
+          "node_id": "0006",
+          "start_index": 9,
+          "end_index": 10,
+          "key_items": [
+            "p.9",
+            "11.1 Have any of the portfolio companies or properties held by the Firm filed for bankruptcy?",
+            "11.2 Have any of the Firm’s portfolio companies or properties failed to make payments under any secured or unsecured indebtedness during the Firm’s period of ownership?",
+            "11.3 Have any of the Firm’s portfolio investments ever received a qualified audit opinion during the Firm’s period of ownership?",
+            "11.4 Are any investments in the Firm’s track record excluded from the provided appendices?",
+            "p.10",
+            "12.1 Has the Firm’s Valuation Policy (as referenced in Appendix A) remained significantly unchanged over the past five years?",
+            "12.2 Will the Fund follow the most recent version of the IPEV Valuation Guidelines?",
+            "12.3 Will the Fund be valued by an independent, third-party valuation firm?",
+            "12.4 Will the Fund’s LP Advisory Board approve or review valuations?",
+            "12.5 Is the Fund’s audit firm unaffiliated with the Firm or any of its current or former Team Members?",
+            "12.6 Does the Fund’s audit firm only provide the Fund and Firm (plus the Firm’s Principals and affiliates) with audit services?",
+            "12.7 Have none of the funds managed by the Firm ever received a qualified audit opinion?",
+            "12.9 Will carry payments and allocation associated with the Fund be audited (as part of an annual audit of the General Partner and its funds)?",
+            "12.12 Will the ILPA Reporting Template be completed and provided to all of the Fund’s Limited Partners on a regular basis?",
+            "12.13 Will the ILPA Standardized Capital Call and Distribution Template be completed and provided to all of the Fund’s Limited Partners on a regular basis?"
+          ],
+          "summary": "A due diligence questionnaire asks whether any portfolio companies or properties filed for bankruptcy, missed secured or unsecured debt payments, received qualified audit opinions, or were omitted from track-record appendices. It also asks whether the Fund’s valuation policy has changed significantly in five years; whether valuations follow current IPEV guidelines, use an independent third party, and receive LP Advisory Board review or approval; and whether the audit firm is unaffiliated and limited in scope. Further questions cover qualified audit opinions among the Firm’s funds and audits of prior and future carried interest payments and allocations for compliance with partnership terms. Reporting questions address alignment with ILPA best practices, use of capable fund administrators, regular provision of ILPA reporting and capital-call/distribution templates to all LPs, and GIPS compliance of performance information in marketing and reporting. Responses are requested as yes/no with references."
+        },
+        {
+          "title": "13.0 Legal/Administration",
+          "node_id": "0007",
+          "start_index": 10,
+          "end_index": 11,
+          "key_items": [
+            "p.10",
+            "13.1 Have there been no criminal or administrative proceedings or investigations against the Firm, its affiliated entities and/or any of its current or former Team Members?",
+            "13.2 Have there been no investigations by an industry regulatory body of the Firm, its affiliated entities and/or any of its current or former Team Members?",
+            "13.3 Does the Firm seek an assessment of its internal controls (e.g. SAS 70) on a periodic basis?",
+            "13.4 Does the Firm use a standard IT package and/or internally developed software for business functions like portfolio management, trade order management, administration and risk?",
+            "p.11",
+            "14.1 Does the Firm have a formal Diversity and Inclusion policy or initiative? If ‘yes’, provide a copy of the policy (as referenced in Appendix A).",
+            "14.2 (Only if ‘no’ to 14.1) Would you be willing to develop and implement a policy or initiative within one year?",
+            "14.4 (Only if ‘no’ to 14.3) Would you be willing to develop and implement such a code within one year?",
+            "14.5 (As noted in 14.3) Does the Firm require such a Code of Conduct at its portfolio companies?",
+            "14.6 (Only if ‘no’ to 14.5) Would you be willing to require such a code at the Firm’s current/future portfolio companies within one year?",
+            "14.7 Does the Firm have a Family Leave policy?",
+            "14.8 (Only if ‘no’ to 14.7) Would you be willing to develop and implement such a policy within one year?",
+            "14.10 (Only if ‘no’ to 14.9) Would you be willing to begin tracking this information within one year?",
+            "14.11 Does the Firm have a formal mentorship program for minorities and/or women?",
+            "14.14 (Only if ‘no’ to 14.13) Would you be willing to establish and communicate procedures within one year?"
+          ],
+          "summary": "The questionnaire asks whether the Firm, affiliates, or current/former team members have faced criminal, administrative, or industry-regulatory investigations; whether internal controls are periodically assessed; and whether standard or internally developed software supports business functions such as portfolio, trade, administration, and risk management. It covers the Firm’s diversity and inclusion policy or willingness to adopt one within a year; conduct codes addressing harassment, discrimination, and workplace violence, including adoption at portfolio companies; family leave policies and gender tracking of leave takers, with a three-year summary; mentorship for women and minorities; partnerships and programs promoting their attraction and retention in private equity; and reporting/investigation procedures for harassment or discrimination. For absent policies or procedures, it asks about implementing them within a year. It also asks whether harassment, misconduct, or discrimination claims have been made against current or former employees in the past five years, and requests supporting documents or information where specified."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Questions",
+      "node_id": "0008",
+      "start_index": 12,
+      "end_index": 22,
+      "key_items": [
+        "p.21",
+        "14.2. Describe the development/implementation of and/or any significant changes to the Firm’s Diversity and Inclusion policy, Code of Conduct, and Family Leave policy that are expected in the next year.",
+        "14.3. Describe the Firm’s process for recruiting new employees to the investment team? Operations team? Administrative team?",
+        "14.4. If applicable, describe the Firm’s formal mentorship program.",
+        "p.22",
+        "14.5. What percentage of the Firm’s female employees were promoted in the last year? What percentage of the Firm’s minority employees were promoted in the last year?",
+        "14.6. What percentage of the Firm’s female employees departed in the last year? What percentage of the Firm’s minority employees departed in the last year?"
+      ],
+      "summary": "A comprehensive private-equity fund due-diligence questionnaire covering: the firm’s history, ownership, organization, activities, finances, culture, plans, reputation and budget; the fund’s legal/tax structure, fundraising, investors, co-investments, borrowing, governance and expenses; investment strategy, markets, risks, portfolio construction, leverage, value creation, returns and exits; sourcing, diligence, approvals, valuation, monitoring, fraud prevention and third-party involvement; team experience, communications, hiring, retention, succession and departures; compensation, carry, GP commitments and alignment; market conditions, competitors and fund terms, including fees, transfers, indemnification and distributions; firm governance, conflicts, compliance, risk management, regulation and ESG policies, integration, portfolio oversight and LP disclosures; track record, losses, benchmarks, IPOs and failures; accounting, valuation, reporting, legal matters, administration, service providers, insurance and software; and diversity, inclusion, recruiting, mentorship, workforce outcomes, board representation and misconduct claims. The questionnaire requests supporting examples, comparisons with prior funds and industry standards, relevant policies, data and appendices."
+    },
+    {
+      "title": "Appendix A - Requested Documents (if applicable)**",
+      "node_id": "0009",
+      "start_index": 23,
+      "end_index": 23,
+      "summary": "A due-diligence document request covering current and prior fund partnership agreements and PPMs; AGM and LP Advisory Board materials; regulatory disclosures, GP agreement, investment advisory agreement, side letters, and LP lists, including non-reups, secondary sales, and advisory board members. It requests audited and quarterly fund reporting, firm financial statements, capital-call/distribution notices, investment diligence examples, firm and fund budgets, ownership/management/legal-tax charts, a waterfall example, benchmarked fund returns, and an IPO graph. Policies and operational materials include disaster recovery, business continuity, valuation, risk management, compliance, ethics, conflicts, and personal trading. Diversity-related requests include team demographics, inclusion and family-leave policies and leave-use statistics, supported organizations, and harassment/discrimination reporting and investigation procedures."
+    },
+    {
+      "title": "Appendix B - Templates: Team Members**",
+      "node_id": "0010",
+      "start_index": 24,
+      "end_index": 24,
+      "key_items": [
+        "B1: Team Members – Investment Professionals (current); B2: Team Members – Non-Investment Professionals (current); B3: Team Members (former); B4: Firm Internal Advisory Board(s); B5: Office Locations",
+        "B1: Team Members – Investment Professionals (current)",
+        "B2: Team Members – Non-Investment Professionals (current)",
+        "B3: Team Members (former)",
+        "B4: Firm Internal Advisory Board(s)",
+        "B5: Office Locations"
+      ],
+      "summary": "Appendix B requests team-member and office information. For current investment professionals: background, titles at hire/current, birth year, tenure and promotion dates, location, relevant experience, prior employers and years, education, investment committee and key-person/principal status, directorships and time commitments, lead/non-lead investments, target and average investment workload, and time allocation across investment activities, operations, marketing, investor relations, administration, non-fund initiatives, other work, and new versus existing funds. For current non-investment professionals: identity, title, role, location, background, birth year, tenure, experience, and education. For investment and senior non-investment professionals who departed in the last 10 years: identity, departure title, firm dates, location, lead/non-lead investments, current status, and departure reason. For internal advisory boards: members’ biographies, board, joining year, role, and affiliations. For every past or present office: location, duties, office head, current and peak staffing, opening and closing years, and phone number."
+    },
+    {
+      "title": "Appendix C - Templates: References**",
+      "node_id": "0011",
+      "start_index": 25,
+      "end_index": 25,
+      "key_items": [
+        "p.25",
+        "C1: References – General",
+        "C2: References – Portfolio Companies",
+        "C3: References – Service Providers",
+        "C4: References – Limited Partners",
+        "C5: References – LP Advisory Board Members",
+        "C6: References – Auditors",
+        "C7: References – Placement Agents",
+        "C8: References – Background Checks"
+      ],
+      "summary": "Appendix C specifies reference information to provide: (C1) a broad range of general references, including co-investors, deal sources, bankers, and personal references, with contact, company, title, and relationship details; (C2) references at portfolio companies in the last two funds, including current and displaced CEOs; (C3) third-party service providers used in the past five years, with contact, role, relationship, and contract-expiration details; (C4) all limited partners in the current and previous funds, including institution, investor type, contact, admission source, fund, and commitment; (C5) previous-fund LP advisory board members, with institution, identity, investor type, and title; (C6) auditors of the Fund and prior funds, with firm, funds audited, and contact details; (C7) fundraising placement agents and advisors, including services, contacts, fund, commitment status, fees, and registration numbers; and (C8) background-check vendors used for the Firm or employees, with services and contact details."
+    },
+    {
+      "title": "Appendix D - Templates: Fund**",
+      "node_id": "0012",
+      "start_index": 26,
+      "end_index": 26,
+      "key_items": [
+        "D1: Performance & Attribution: Fund; D2: Cash Flows: Fund",
+        "D1: Performance & Attribution: Fund",
+        "D2: Cash Flows: Fund"
+      ],
+      "summary": "Appendix D1 requests since-inception performance and attribution for each prior fund, using NAVs as of the most recent quarter and, where applicable, separately reporting the GP and aggregate LP shares. Report fund name, vintage, initial capital-call date, fund size, contributions and distributions (including/excluding fees), current NAV, and net/gross TVPI, DVPI, RVPI, and IRR. Include portfolio-company fees collected, distinguishing fees benefiting LPs; realized and estimated unrealized carry; current clawback balance; investment counts made and remaining; and average investment age. Values must be provided in fund reporting currency, US dollars, and euros where specified. D2 requests detailed since-inception cash flows, including stock distributions, split between GP and LP shares, with transaction-date amounts in all three currencies. Include fund name, flow date, reporting currency, flow type and description, and most recent-quarter NAV. Data must support calculating net/gross IRRs and multiples and reconcile to financial statements and D1."
+    },
+    {
+      "title": "Appendix E - Templates: Portfolio Investments**",
+      "node_id": "0013",
+      "start_index": 27,
+      "end_index": 29,
+      "key_items": [
+        "E1: Deal Log: Portfolio Investments; E2: Performance & Attribution: Portfolio Investments",
+        "E1: Deal Log: Portfolio Investments",
+        "E2: Performance & Attribution: Portfolio Investments",
+        "E3: Cash Flows: Portfolio Investments; E4: Fee Schedule: Portfolio Investments; E5: Debt Maturities: Portfolio Investments",
+        "E3: Cash Flows: Portfolio Investments",
+        "E4: Fee Schedule: Portfolio Investments",
+        "E5: Debt Maturities: Portfolio Investments",
+        "E6: Investment Details: Portfolio Investments"
+      ],
+      "summary": "Appendix E specifies portfolio-investment templates: E1 requests a five-year deal log of opportunities showing interest, due diligence or an LOI, with opportunity, source, transaction size/currency, purchase type, auction type and pipeline status. E2 requires since-inception realized and unrealized performance and attribution tables, in fund and investment currencies, covering investment and exit details; geography, sector, thesis, securities, ownership, governance, operating/valuation metrics and CAGR; capital, cost, proceeds, reported value, IRR, TVPI/DVPI/RVPI, carry, valuation method, deal team, co-investors and covenant compliance. Note spin-offs and partial divestitures. E3 details investment cash flows and quarter-end values, including relevant prior deals of lead team members, reconciled to financial statements and E2 and sufficient to calculate returns. E4 lists portfolio-company fees and cash flows. E5 reports unrealized-investment debt, maturities, tranches, fees and payment schedules, covering three pre-investment years through ownership. E6 provides investment-level qualitative summaries, annual financial and capitalization data, company status, events, valuation assumptions and bridge, add-on acquisitions, and future cash-flow, valuation and realization expectations."
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

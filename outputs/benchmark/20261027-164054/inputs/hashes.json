@@ -1,0 +1,8 @@
+{
+  "questions/queries.json": "d755d0acdb75fd32ff9f68d0c52a7fc62579d703960bb02cf733cab502c3f824",
+  "questions/standards.json": "c3c84c1335cb6d9ab06e14e06d2238ab4f232e5ea4458477309eeb193ffa2bfb",
+  "questions/questions_verified.csv": "38c71b342515695d56e852748a95d6ce14baff10452c038adb092a4242a7028a",
+  "documents/manifest_S.csv": "e0bb1f452ab1323d7388dbb43f85217a9d66ec3f44164977222191e02a2dd5a6",
+  "requirements.lock.txt": "902229486ddd16bb7e119c38ccbc0648be18eb5fe10c4abfde5bc37f7c03c622",
+  "pageindex_source.json": "fc1127fcaf053bba510f8cfa3a27876e2d4c1a5f6d20602462836e89e8adb51c"
+}

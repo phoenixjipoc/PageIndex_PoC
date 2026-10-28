@@ -1,0 +1,7 @@
+{
+  "question": "In the Baltimore City Employees' Retirement Systems (BCERS) RFP for an alternatives consultant, how many years must the proposing firm have been in business?",
+  "gold_answer": "At least seven (7) years providing general consulting services plus private equity consulting services, or alternatives consulting services only (all minimum qualifications must be met as of November 8, 2024, 3:00 p.m. EDT).",
+  "acceptance": "Seven years is sufficient for the narrow question. Service type and qualification deadline are optional; five-year staff experience is not the firm threshold.",
+  "scope": "single_document",
+  "candidate_answer": "The proposing firm must have been in business for **at least seven years**. [BCERS Alternatives Consultant RFP, p. 7](Baltimore_BCERS__RFP-Alternatives-Consultant-rev.pdf)"
+}

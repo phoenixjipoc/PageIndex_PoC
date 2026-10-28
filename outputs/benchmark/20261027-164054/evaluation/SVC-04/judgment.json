@@ -1,0 +1,15 @@
+{
+  "question_id": "SVC-04",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "fc0f13f184632114ff9c1e12b51470a3fb112f2d94c32bee53771e0d0b925339",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct original, paper and electronic copies and one-year offer validity.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:25:58.922483+00:00"
+}

@@ -1,0 +1,7 @@
+{
+  "question": "Which meetings must the investment consultant attend under the IMRF sample RFP for investment consulting, real estate consulting and performance measurement services, and how many days of meetings per year does IMRF estimate?",
+  "gold_answer": "(1) Monthly IMRF Board meetings; (2) Investment Committee meetings; (3) the Annual IMRF Roundtable; (4) regional meetings with investment managers; (5) related investment meetings and discussions; (6) formal interviews with existing and potential investment managers; (7) ad hoc due diligence meetings with investment managers and staff. IMRF estimates about sixty days of meetings per year with the Board and/or staff, plus frequent telephone discussions with staff.",
+  "acceptance": "All seven meeting categories and about 60 days/year. Frequent telephone calls and principal-attendance details are optional.",
+  "scope": "single_document",
+  "candidate_answer": "The consultant must attend monthly IMRF Board meetings, Investment Committee meetings, the annual IMRF Roundtable, regional meetings with investment managers, related investment meetings and discussions, formal interviews with existing and prospective investment managers, and ad hoc due-diligence meetings with managers and staff. IMRF estimates **60 days of meetings per year** with trustees and/or staff. [IMRF sample RFP, p. 6](IMRF__sample-investment-consulting-rfp.pdf)"
+}

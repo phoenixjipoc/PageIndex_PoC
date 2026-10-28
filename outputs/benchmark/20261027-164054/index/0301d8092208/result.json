@@ -1,0 +1,43 @@
+{
+  "file": "INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf",
+  "sha256": "00e711d8e5f60ae2fe7290810b334d47600910a67d0b45c6f6ce0d91473b15ff",
+  "bytes": 1063300,
+  "pages": 58,
+  "public_source_url": "https://www.in.gov/inprs/files/RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:54:39.543246+00:00",
+  "doc_id": "pi-8dc0510a06224e4dbfdab0e7f0cac886",
+  "stored_name": "INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf",
+  "reported_usage": {
+    "prompt_tokens": 45971,
+    "completion_tokens": 14158,
+    "total_tokens": 60129,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 23487
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 4130
+    }
+  },
+  "elapsed_seconds": 37.811,
+  "finished_at_utc": "2026-10-27T08:55:17.365185+00:00",
+  "model_calls": 52,
+  "http_attempts": 52,
+  "observed_usage": {
+    "input_tokens": 45971,
+    "output_tokens": 14158,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 23487,
+    "reasoning_tokens": 4130,
+    "total_tokens": 60129
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

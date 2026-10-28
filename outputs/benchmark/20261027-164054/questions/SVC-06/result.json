@@ -1,0 +1,149 @@
+{
+  "id": "SVC-06",
+  "question": "A county 457(b) deferred compensation plan RFP subject to the rules of the New York State Deferred Compensation Board states a minimum deferral amount required by the Model Plan. What is that minimum, and within how many business days must participant deferrals be invested?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:19:33.300446+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The Model Plan minimum is **$260 per plan year**. Participant deferrals must be invested according to the participant’s directions **no later than two business days after receipt**. [Source: Monroe County RFP, p. 8](Monroe_County_NY__10406.pdf#page=8)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 43258,
+    "input_tokens_details": {
+      "cached_tokens": 30518,
+      "cache_write_tokens": 12722
+    },
+    "output_tokens": 219,
+    "output_tokens_details": {
+      "reasoning_tokens": 17
+    },
+    "total_tokens": 43477,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1241,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1238
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1256
+      },
+      {
+        "input_tokens": 2407,
+        "input_tokens_details": {
+          "cached_tokens": 1238,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 9
+        },
+        "total_tokens": 2441
+      },
+      {
+        "input_tokens": 7644,
+        "input_tokens_details": {
+          "cached_tokens": 2404,
+          "cache_write_tokens": 5237
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 8
+        },
+        "total_tokens": 7682
+      },
+      {
+        "input_tokens": 7894,
+        "input_tokens_details": {
+          "cached_tokens": 7641,
+          "cache_write_tokens": 250
+        },
+        "output_tokens": 29,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7923
+      },
+      {
+        "input_tokens": 11347,
+        "input_tokens_details": {
+          "cached_tokens": 7891,
+          "cache_write_tokens": 3453
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 11382
+      },
+      {
+        "input_tokens": 12725,
+        "input_tokens_details": {
+          "cached_tokens": 11344,
+          "cache_write_tokens": 1378
+        },
+        "output_tokens": 68,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 12793
+      }
+    ]
+  },
+  "elapsed_seconds": 13.724,
+  "finished_at_utc": "2026-10-27T09:19:47.031718+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 43258,
+    "output_tokens": 219,
+    "cached_input_tokens": 30518,
+    "cache_write_tokens": 12722,
+    "reasoning_tokens": 17,
+    "total_tokens": 43477
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"offset\":10,\"limit\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Monroe_County_NY__10406.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Monroe_County_NY__10406.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Monroe_County_NY__10406.pdf\",\"pages\":\"7-8\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Monroe_County_NY__10406.pdf",
+      "pages": "7-8",
+      "success": true,
+      "call_id": "call_JerD2T5Xr1uQubiEG6GV0ahS"
+    }
+  ],
+  "successfully_read_documents": [
+    "Monroe_County_NY__10406.pdf"
+  ]
+}

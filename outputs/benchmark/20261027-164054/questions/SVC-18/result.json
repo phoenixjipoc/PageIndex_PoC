@@ -1,0 +1,149 @@
+{
+  "id": "SVC-18",
+  "question": "What minimum qualifications must an audit firm meet in the Kern County Employees' Retirement Association (KCERA) RFP for audit services?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:16:14.620420+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "Under KCERA’s **minimum qualifications** for audit services, the firm must:\n\n- Be a professional public accounting firm organized at least regionally and providing audit and other attest services.\n- Have completed **at least five audits in the past five years** of defined-benefit pension plans with assets exceeding **$2 billion**.\n- Have experience auditing domestic and foreign equities, fixed income, real estate, alternative investments, commodities, and securities lending.\n- Have an established U.S. office and be independent, licensed, and in good standing in California.\n- Assign a U.S.-based engagement partner—and, if different, opinion-signing partner—with at least **10 years** of public-accounting experience including defined-benefit pension audits, and a California CPA license in good standing.\n- Assign a U.S.-based engagement manager with at least **five years** of public-accounting experience including such audits, and a CPA license in good standing in a U.S. state.\n- Assign a U.S.-based on-site supervisor with at least **three years** of professional auditing experience including such audits, and a CPA license in good standing in a U.S. state. The manager and supervisor must be available for consultations and in-person meetings throughout the year.\n\nSource: KCERA *RFP for Audit Services*, Attachment 2, “Minimum and Desirable Qualifications Certification,” pp. 29–30.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 52889,
+    "input_tokens_details": {
+      "cached_tokens": 35088,
+      "cache_write_tokens": 17783
+    },
+    "output_tokens": 464,
+    "output_tokens_details": {
+      "reasoning_tokens": 14
+    },
+    "total_tokens": 53353,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1214,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1211
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1229
+      },
+      {
+        "input_tokens": 2380,
+        "input_tokens_details": {
+          "cached_tokens": 1211,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 14
+        },
+        "total_tokens": 2419
+      },
+      {
+        "input_tokens": 7622,
+        "input_tokens_details": {
+          "cached_tokens": 2377,
+          "cache_write_tokens": 5242
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7661
+      },
+      {
+        "input_tokens": 7917,
+        "input_tokens_details": {
+          "cached_tokens": 7619,
+          "cache_write_tokens": 295
+        },
+        "output_tokens": 40,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7957
+      },
+      {
+        "input_tokens": 15970,
+        "input_tokens_details": {
+          "cached_tokens": 7914,
+          "cache_write_tokens": 8053
+        },
+        "output_tokens": 46,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 16016
+      },
+      {
+        "input_tokens": 17786,
+        "input_tokens_details": {
+          "cached_tokens": 15967,
+          "cache_write_tokens": 1816
+        },
+        "output_tokens": 285,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 18071
+      }
+    ]
+  },
+  "elapsed_seconds": 15.302,
+  "finished_at_utc": "2026-10-27T09:16:29.928690+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 52889,
+    "output_tokens": 464,
+    "cached_input_tokens": 35088,
+    "cache_write_tokens": 17783,
+    "reasoning_tokens": 14,
+    "total_tokens": 53353
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"offset\":10,\"limit\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf\",\"pages\":\"29-32\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf",
+      "pages": "29-32",
+      "success": true,
+      "call_id": "call_AW1Hm1uhV990KQ2C6TsH2lq5"
+    }
+  ],
+  "successfully_read_documents": [
+    "KCERA__KCERA_RFP_for_Audit_Services_with_Attachments_Exhibits.pdf"
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": "INV-17",
+  "question": "What evaluation criteria and weights does the Arizona Public Safety Personnel Retirement System (PSPRS) use in its RFP for non-discretionary investment consultant services?",
+  "type": "medium",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:17:40.529822+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "PSPRS weights proposals for **non-discretionary investment consultant services** as follows:\n\n| Evaluation criterion | Weight |\n|---|---:|\n| Relevant knowledge and experience in similar engagements, and capacity to provide experienced staff | **25%** |\n| Quality and breadth of capabilities in strategic advice, identifying and evaluating new investments, operational and investment due diligence, manager performance reporting and monitoring, and back-office support | **30%** |\n| Ability to meet service requirements—including communication with the CIO, investment team, Trustees, and Board consultant; responsiveness to ongoing and special issues; operational plan; and quality of assigned staff | **25%** |\n| Overall proposed cost | **20%** |\n\nPSPRS may evaluate written submissions and finalist interviews, but interviews are not guaranteed. The RFP also sets minimum qualifications, including experience providing the required services to public pension trusts with at least $10 billion in assets under management. [Source: PSPRS Investment Consultant RFP, pp. 5–6]",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 59854,
+    "input_tokens_details": {
+      "cached_tokens": 45560,
+      "cache_write_tokens": 14273
+    },
+    "output_tokens": 405,
+    "output_tokens_details": {
+      "reasoning_tokens": 29
+    },
+    "total_tokens": 60259,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1219,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1216
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1234
+      },
+      {
+        "input_tokens": 2385,
+        "input_tokens_details": {
+          "cached_tokens": 1216,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 54,
+        "output_tokens_details": {
+          "reasoning_tokens": 29
+        },
+        "total_tokens": 2439
+      },
+      {
+        "input_tokens": 7679,
+        "input_tokens_details": {
+          "cached_tokens": 2382,
+          "cache_write_tokens": 5294
+        },
+        "output_tokens": 23,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7702
+      },
+      {
+        "input_tokens": 10634,
+        "input_tokens_details": {
+          "cached_tokens": 7676,
+          "cache_write_tokens": 2955
+        },
+        "output_tokens": 33,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10667
+      },
+      {
+        "input_tokens": 10896,
+        "input_tokens_details": {
+          "cached_tokens": 10631,
+          "cache_write_tokens": 262
+        },
+        "output_tokens": 34,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10930
+      },
+      {
+        "input_tokens": 12765,
+        "input_tokens_details": {
+          "cached_tokens": 10893,
+          "cache_write_tokens": 1869
+        },
+        "output_tokens": 40,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 12805
+      },
+      {
+        "input_tokens": 14276,
+        "input_tokens_details": {
+          "cached_tokens": 12762,
+          "cache_write_tokens": 1511
+        },
+        "output_tokens": 206,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 14482
+      }
+    ]
+  },
+  "elapsed_seconds": 16.065,
+  "finished_at_utc": "2026-10-27T09:17:56.608859+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 59854,
+    "output_tokens": 405,
+    "cached_input_tokens": 45560,
+    "cache_write_tokens": 14273,
+    "reasoning_tokens": 29,
+    "total_tokens": 60259
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":0}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf\",\"pages\":\"5-6\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf",
+      "pages": "5-6",
+      "success": true,
+      "call_id": "call_za4ApMX9lMbaNjVExbW3PHnb"
+    }
+  ],
+  "successfully_read_documents": [
+    "Arizona_PSPRS__PSPRS_Investment_Consultant_RFP.pdf"
+  ]
+}

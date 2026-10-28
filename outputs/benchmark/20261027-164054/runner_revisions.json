@@ -1,0 +1,24 @@
+[
+  {
+    "revision": 1,
+    "at_utc": "2026-10-27T08:45:39.420005+00:00",
+    "snapshot_directory": "inputs/revision-01",
+    "reason": "Operational fix only: retry atomic checkpoint replacement on transient Windows PermissionError; preserve original start time when resuming. No model, prompt, corpus, ordering or scoring changes. Initial process stopped after 5 indexed documents and before sending the sixth document.",
+    "files": {
+      "run_benchmark.py": "3cc9a10456ceed9989dfd2abc9a0f32ca5b79fdf845b626d0a584c08bcd21c2f",
+      "benchmark_audit.py": "d17fb4ec3013e94ebccb6a9500fc7354e7dd7c1698c6dfd54b4d7717e4fb6608",
+      "connection.py": "387d454902da2f89d2e5fd4c310cd48d4fb97d82fe76b2ceb196989dede5e15a"
+    }
+  },
+  {
+    "revision": 2,
+    "at_utc": "2026-10-27T09:10:52.329525+00:00",
+    "snapshot_directory": "inputs/revision-02",
+    "reason": "Operational fix only: use RLock for the progress counter because the controller calls checkpoint while holding the same lock. The existing process has already loaded revision 1; its independent question workers can complete all submitted jobs. Once all 110 result checkpoints are terminal, restart with this revision to finish bookkeeping without repeating model calls. No generation or scoring settings changed.",
+    "files": {
+      "run_benchmark.py": "796ff361800bdd2ccd331f375dac185ba3a83cd872e2080b506a761208b30d1f",
+      "benchmark_audit.py": "d17fb4ec3013e94ebccb6a9500fc7354e7dd7c1698c6dfd54b4d7717e4fb6608",
+      "connection.py": "387d454902da2f89d2e5fd4c310cd48d4fb97d82fe76b2ceb196989dede5e15a"
+    }
+  }
+]

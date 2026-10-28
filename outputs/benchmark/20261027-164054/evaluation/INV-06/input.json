@@ -1,0 +1,7 @@
+{
+  "question": "A real assets investment consulting solicitation states that the funds' strategic asset allocation targets were adopted by the Board in 2003. As of September 30, 2010, how much did the Board have in its separate account private real estate program, its separate account private infrastructure program, and public real estate securities, and how large were its unfunded commitments?",
+  "gold_answer": "About $164 million in the separate account private real estate program, $59 million in the separate account private infrastructure program, $25 million in public real estate securities, and about $88 million in unfunded commitments to real estate and infrastructure funds. Issuer: District of Columbia Retirement Board (Solicitation DCRB-2011-001); total Funds were over $4.2 billion.",
+  "acceptance": "Accept approximately $164m/$59m/$25m/$88m mapped to the four requested categories. Issuer, solicitation number and total $4.2bn fund size are optional.",
+  "scope": "single_document",
+  "candidate_answer": "As of September 30, 2010, the Board had approximately **$164 million** in its separate-account private real estate program, **$59 million** in its separate-account private infrastructure program, and **$25 million** in public real estate securities. It also had approximately **$88 million in unfunded commitments** to real estate and infrastructure funds. [Source: D.C. Retirement Board real-assets consulting RFP, p. 4](DC_Retirement_Board__dcrb-rfp-real-assets-investment-consulting-services.pdf#page=4)"
+}

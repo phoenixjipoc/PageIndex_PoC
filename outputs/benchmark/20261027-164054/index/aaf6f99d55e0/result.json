@@ -1,0 +1,43 @@
+{
+  "file": "TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf",
+  "sha256": "5612c8ae2aeedb4f1ccb66215a1a40b8385fe63eac727f928b6c5cd8d3c98ae9",
+  "bytes": 1047277,
+  "pages": 95,
+  "public_source_url": "https://www.trsil.org/sites/default/files/documents/FY25-RFP-Private-Equity-Investment-Consultant.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:11:53.735273+00:00",
+  "doc_id": "pi-8c50c5185a2641faada900d2307c3646",
+  "stored_name": "TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf",
+  "reported_usage": {
+    "prompt_tokens": 78127,
+    "completion_tokens": 21415,
+    "total_tokens": 99542,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 51571
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 8186
+    }
+  },
+  "elapsed_seconds": 63.687,
+  "finished_at_utc": "2026-10-27T09:12:57.437158+00:00",
+  "model_calls": 64,
+  "http_attempts": 64,
+  "observed_usage": {
+    "input_tokens": 78127,
+    "output_tokens": 21415,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 51571,
+    "reasoning_tokens": 8186,
+    "total_tokens": 99542
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

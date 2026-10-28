@@ -1,0 +1,15 @@
+{
+  "question_id": "SVC-01",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "ee06510dd448f393f5607d31aec38a4ccc612a05e54722d6cc3217e2012c29df",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct June 30 as-of dates for valuations and roll-forward updates.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:25:58.889874+00:00"
+}

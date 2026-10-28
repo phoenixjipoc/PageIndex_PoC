@@ -1,0 +1,192 @@
+{
+  "id": "XD-06",
+  "question": "One private equity due diligence questionnaire asks whether the fund gives limited partners more than a certain number of business days' notice for capital calls. What is the threshold, and in which section of the questionnaire is this question?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:17:37.337846+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "The threshold is **more than 10 business days’ notice**. It appears in **Section 7.0, “Credit Facilities,” question 7.14** of the ILPA Due Diligence Questionnaire 2.0 (PDF page 20).",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 121143,
+    "input_tokens_details": {
+      "cached_tokens": 76459,
+      "cache_write_tokens": 44663
+    },
+    "output_tokens": 580,
+    "output_tokens_details": {
+      "reasoning_tokens": 130
+    },
+    "total_tokens": 121723,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1231,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1228
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1246
+      },
+      {
+        "input_tokens": 2397,
+        "input_tokens_details": {
+          "cached_tokens": 1228,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 44,
+        "output_tokens_details": {
+          "reasoning_tokens": 19
+        },
+        "total_tokens": 2441
+      },
+      {
+        "input_tokens": 7644,
+        "input_tokens_details": {
+          "cached_tokens": 2394,
+          "cache_write_tokens": 5247
+        },
+        "output_tokens": 134,
+        "output_tokens_details": {
+          "reasoning_tokens": 54
+        },
+        "total_tokens": 7778
+      },
+      {
+        "input_tokens": 8267,
+        "input_tokens_details": {
+          "cached_tokens": 7641,
+          "cache_write_tokens": 623
+        },
+        "output_tokens": 80,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 8347
+      },
+      {
+        "input_tokens": 14154,
+        "input_tokens_details": {
+          "cached_tokens": 8264,
+          "cache_write_tokens": 5887
+        },
+        "output_tokens": 184,
+        "output_tokens_details": {
+          "reasoning_tokens": 30
+        },
+        "total_tokens": 14338
+      },
+      {
+        "input_tokens": 42784,
+        "input_tokens_details": {
+          "cached_tokens": 14151,
+          "cache_write_tokens": 28630
+        },
+        "output_tokens": 66,
+        "output_tokens_details": {
+          "reasoning_tokens": 27
+        },
+        "total_tokens": 42850
+      },
+      {
+        "input_tokens": 44666,
+        "input_tokens_details": {
+          "cached_tokens": 42781,
+          "cache_write_tokens": 1882
+        },
+        "output_tokens": 57,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 44723
+      }
+    ]
+  },
+  "elapsed_seconds": 20.472,
+  "finished_at_utc": "2026-10-27T09:17:57.815059+00:00",
+  "model_calls": 7,
+  "http_attempts": 7,
+  "observed_usage": {
+    "input_tokens": 121143,
+    "output_tokens": 580,
+    "cached_input_tokens": 76459,
+    "cache_write_tokens": 44663,
+    "reasoning_tokens": 130,
+    "total_tokens": 121723
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"offset\":10,\"limit\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\",\"part\":2}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\",\"part\":3}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\",\"part\":4}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf\",\"pages\":\"17-20\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"ILPA__ILPA-DDQ-2.0.pdf\",\"pages\":\"19-20\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf",
+      "pages": "17-20",
+      "success": true,
+      "call_id": "call_izHlpif3g6B56xWNhluct65f"
+    },
+    {
+      "document": "ILPA__ILPA-DDQ-2.0.pdf",
+      "pages": "19-20",
+      "success": true,
+      "call_id": "call_eAitHwxOPB9DiNDRBv1cPvGu"
+    }
+  ],
+  "successfully_read_documents": [
+    "ILPA__ILPA-DDQ-2.0.pdf",
+    "ILPA__ILPA_Due_Diligence_Questionnaire_v1.2.pdf"
+  ]
+}

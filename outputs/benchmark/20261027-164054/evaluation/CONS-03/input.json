@@ -1,0 +1,7 @@
+{
+  "question": "In the Anchorage Police and Fire Retirement System 2025 investment consultant RFP, what is the minimum amount of assets under management a firm must have?",
+  "gold_answer": "At least $2 billion under management.",
+  "acceptance": "Accept at least $2bn under management.",
+  "scope": "single_document",
+  "candidate_answer": "A firm must have **at least $2 billion under management** to meet the RFP’s minimum consultant requirements. [Source: Anchorage Police and Fire Retirement System 2025 RFP, p. 8](Anchorage_PFRS__RFP_2025_Final.pdf#page=8)."
+}

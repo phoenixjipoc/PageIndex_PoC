@@ -1,0 +1,15 @@
+{
+  "question_id": "XD-14",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "ca1b490b22fdefc53da61d1918bcd703d5ea6a2d8fcb92653d40fb674e550704",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "All eight governance and ESG topics are covered.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:29.067452+00:00"
+}

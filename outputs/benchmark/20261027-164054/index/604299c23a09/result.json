@@ -1,0 +1,43 @@
+{
+  "file": "CCCERA__2018_cccera_master_custodian_rfp_april_2018.pdf",
+  "sha256": "2c304e4fb89424fe052f7929a25237daeaa96bfc9da0e482f1d6beb7b29f1e64",
+  "bytes": 539265,
+  "pages": 86,
+  "public_source_url": "https://www.cccera.gov/sites/main/files/file-attachments/2018_cccera_master_custodian_rfp_april_2018.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:47:16.987019+00:00",
+  "doc_id": "pi-213771730a30470d80919b7a27546d18",
+  "stored_name": "CCCERA__2018_cccera_master_custodian_rfp_april_2018.pdf",
+  "reported_usage": {
+    "prompt_tokens": 67364,
+    "completion_tokens": 14547,
+    "total_tokens": 81911,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 45761
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 4801
+    }
+  },
+  "elapsed_seconds": 45.871,
+  "finished_at_utc": "2026-10-27T08:48:02.872025+00:00",
+  "model_calls": 52,
+  "http_attempts": 52,
+  "observed_usage": {
+    "input_tokens": 67364,
+    "output_tokens": 14547,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 45761,
+    "reasoning_tokens": 4801,
+    "total_tokens": 81911
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

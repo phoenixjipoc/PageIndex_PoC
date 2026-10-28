@@ -1,0 +1,43 @@
+{
+  "file": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+  "sha256": "8babdc152651e80fd4ce6aacbee0887b049fabef9575dd2d82422db74498432e",
+  "bytes": 360176,
+  "pages": 33,
+  "public_source_url": "https://ifpif.org/wp-content/uploads/2023/02/Private-Markets-RFP-2023.02.13.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:56:48.781122+00:00",
+  "doc_id": "pi-0a24dbb92ec64128a7c881cd30708320",
+  "stored_name": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+  "reported_usage": {
+    "prompt_tokens": 22785,
+    "completion_tokens": 4654,
+    "total_tokens": 27439,
+    "prompt_tokens_details": {
+      "cached_tokens": 14825,
+      "cache_write_tokens": 4026
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1162
+    }
+  },
+  "elapsed_seconds": 17.132,
+  "finished_at_utc": "2026-10-27T08:57:05.922919+00:00",
+  "model_calls": 17,
+  "http_attempts": 17,
+  "observed_usage": {
+    "input_tokens": 22785,
+    "output_tokens": 4654,
+    "cached_input_tokens": 14825,
+    "cache_write_tokens": 4026,
+    "reasoning_tokens": 1162,
+    "total_tokens": 27439
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

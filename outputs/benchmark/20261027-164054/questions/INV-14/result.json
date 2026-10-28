@@ -1,0 +1,149 @@
+{
+  "id": "INV-14",
+  "question": "In the Massachusetts PRIM Board's September 2026 RFP for Active Global Core Equity investment management services, what minimum total firm assets under management must a respondent have?",
+  "type": "pair_b",
+  "pair_id": "P11",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:20:04.972547+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "A respondent must have **at least $5 billion in total firm assets under management** as of June 30, 2026. [Source: PRIM RFP, Section VI, p. 14](MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf#page=14).",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 59337,
+    "input_tokens_details": {
+      "cached_tokens": 38612,
+      "cache_write_tokens": 20707
+    },
+    "output_tokens": 244,
+    "output_tokens_details": {
+      "reasoning_tokens": 10
+    },
+    "total_tokens": 59581,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1222,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1219
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1237
+      },
+      {
+        "input_tokens": 2388,
+        "input_tokens_details": {
+          "cached_tokens": 1219,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 35,
+        "output_tokens_details": {
+          "reasoning_tokens": 10
+        },
+        "total_tokens": 2423
+      },
+      {
+        "input_tokens": 7663,
+        "input_tokens_details": {
+          "cached_tokens": 2385,
+          "cache_write_tokens": 5275
+        },
+        "output_tokens": 38,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 7701
+      },
+      {
+        "input_tokens": 7964,
+        "input_tokens_details": {
+          "cached_tokens": 7660,
+          "cache_write_tokens": 301
+        },
+        "output_tokens": 39,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 8003
+      },
+      {
+        "input_tokens": 19390,
+        "input_tokens_details": {
+          "cached_tokens": 7961,
+          "cache_write_tokens": 11426
+        },
+        "output_tokens": 45,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 19435
+      },
+      {
+        "input_tokens": 20710,
+        "input_tokens_details": {
+          "cached_tokens": 19387,
+          "cache_write_tokens": 1320
+        },
+        "output_tokens": 72,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 20782
+      }
+    ]
+  },
+  "elapsed_seconds": 11.687,
+  "finished_at_utc": "2026-10-27T09:20:16.665267+00:00",
+  "model_calls": 6,
+  "http_attempts": 6,
+  "observed_usage": {
+    "input_tokens": 59337,
+    "output_tokens": 244,
+    "cached_input_tokens": 38612,
+    "cache_write_tokens": 20707,
+    "reasoning_tokens": 10,
+    "total_tokens": 59581
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":0}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf\",\"pages\":\"13-14\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf",
+      "pages": "13-14",
+      "success": true,
+      "call_id": "call_Z9td5Eo1TRnQ5baJswnxvRuO"
+    }
+  ],
+  "successfully_read_documents": [
+    "MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf"
+  ]
+}

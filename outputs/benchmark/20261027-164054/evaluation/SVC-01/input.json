@@ -1,0 +1,7 @@
+{
+  "question": "In the Apple Valley Fire Protection District's 2024 RFP for GASB 75 OPEB actuarial services, as of which dates must the actuary deliver the biennial OPEB valuations and the biennial roll-forward updates?",
+  "gold_answer": "Biennial valuations as of June 30, 2024, June 30, 2026 and June 30, 2028; biennial roll-forward updates as of June 30, 2025, June 30, 2027 and June 30, 2029.",
+  "acceptance": "Require June 30 in 2024/2026/2028 for valuations and 2025/2027/2029 for roll-forward updates. These are as-of dates, not submission deadlines.",
+  "scope": "single_document",
+  "candidate_answer": "The actuary must deliver the **biennial OPEB valuations** as of June 30, 2024, June 30, 2026, and June 30, 2028. The **biennial roll-forward updates** are due as of June 30, 2025, June 30, 2027, and June 30, 2029. fileciteAVFPD__RFP-Actuatial-Services-2024.pdfp3"
+}

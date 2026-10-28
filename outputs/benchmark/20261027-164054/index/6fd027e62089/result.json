@@ -1,0 +1,43 @@
+{
+  "file": "Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf",
+  "sha256": "8f9009c0b7269264703a3adfb4943dbcde2e910e1a5bf60ffe75b683f7397705",
+  "bytes": 337910,
+  "pages": 21,
+  "public_source_url": "https://www.molagers.org/wp-content/uploads/2024/07/LAGERS-Private-Consultant-RFP-Final.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:01:23.226460+00:00",
+  "doc_id": "pi-2acfed474e384d8e98de2440b17bf108",
+  "stored_name": "Missouri_LAGERS__LAGERS-Private-Consultant-RFP-Final.pdf",
+  "reported_usage": {
+    "prompt_tokens": 17008,
+    "completion_tokens": 4310,
+    "total_tokens": 21318,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 12171
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1047
+    }
+  },
+  "elapsed_seconds": 16.937,
+  "finished_at_utc": "2026-10-27T09:01:40.178242+00:00",
+  "model_calls": 16,
+  "http_attempts": 16,
+  "observed_usage": {
+    "input_tokens": 17008,
+    "output_tokens": 4310,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 12171,
+    "reasoning_tokens": 1047,
+    "total_tokens": 21318
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

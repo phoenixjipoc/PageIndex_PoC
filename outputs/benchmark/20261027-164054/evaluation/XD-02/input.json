@@ -1,0 +1,7 @@
+{
+  "question": "A 2021 covering note describes an update to a responsible-investment due diligence questionnaire for private equity limited partners. When was the first version of that questionnaire launched, who adopted it, when was the working group for the update set up, and over how long had LPs and GPs been giving comments?",
+  "gold_answer": "The PRI Limited Partners Private Equity Responsible Investment DDQ was first launched in 2015 and adopted by ILPA as part of the broader ILPA DDQ. The PRI set up a working group of PRI signatories in early 2021. LPs and GPs had given comments, written and verbal, over the past four months. The updated ESG DDQ is Section 19 of the ILPA DDQ.",
+  "acceptance": "2015, ILPA, early 2021 and preceding four months. Signatory composition, written/verbal distinction and section19 identifier are optional.",
+  "scope": "single_document",
+  "candidate_answer": "The first version launched in **2015** and was adopted by **ILPA** as part of its broader due diligence questionnaire. PRI set up the update working group in **early 2021**; LPs and GPs had been providing written and verbal comments for **the preceding four months**. [Source: PRI covering note, p. 1](PRI__PRI-DDQ-ILPA-Covering-Note.pdf#page=1)"
+}

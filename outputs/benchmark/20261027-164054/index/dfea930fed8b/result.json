@@ -1,0 +1,43 @@
+{
+  "file": "Stoneham_MA__Request-for-proposals---Actuarial-Services-PDF.pdf",
+  "sha256": "7a1c3a57006dd857e05353d4825b6bd46a60ba6711a6bcdd6ee921827c0c8be8",
+  "bytes": 452824,
+  "pages": 9,
+  "public_source_url": "https://stoneham-ma.gov/DocumentCenter/View/582/Request-for-proposals---Actuarial-Services-PDF",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:09:38.129372+00:00",
+  "doc_id": "pi-e5758bfd60694ba792a0a31d803b7407",
+  "stored_name": "Stoneham_MA__Request-for-proposals---Actuarial-Services-PDF.pdf",
+  "reported_usage": {
+    "prompt_tokens": 8235,
+    "completion_tokens": 2198,
+    "total_tokens": 10433,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 5399
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 444
+    }
+  },
+  "elapsed_seconds": 14.974,
+  "finished_at_utc": "2026-10-27T09:09:53.115483+00:00",
+  "model_calls": 9,
+  "http_attempts": 9,
+  "observed_usage": {
+    "input_tokens": 8235,
+    "output_tokens": 2198,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 5399,
+    "reasoning_tokens": 444,
+    "total_tokens": 10433
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

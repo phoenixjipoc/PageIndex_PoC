@@ -1,0 +1,43 @@
+{
+  "file": "American_Academy_of_Actuaries__RFP__AmericanAcademyofActuaries_RetirementPlanService_110512.pdf",
+  "sha256": "5614bc0f651ffc3efca3f17e97dd941a600107904e48b8b1f8909ac60abe7244",
+  "bytes": 34665,
+  "pages": 6,
+  "public_source_url": "https://www.actuary.org/pdf/RFP_%20AmericanAcademyofActuaries_RetirementPlanService_110512.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:43:45.961124+00:00",
+  "doc_id": "pi-928851b5f8d54e61b41a9a627217f2c6",
+  "stored_name": "American_Academy_of_Actuaries__RFP__AmericanAcademyofActuaries_RetirementPlanService_110512.pdf",
+  "reported_usage": {
+    "prompt_tokens": 4646,
+    "completion_tokens": 1205,
+    "total_tokens": 5851,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 3669
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 391
+    }
+  },
+  "elapsed_seconds": 8.825,
+  "finished_at_utc": "2026-10-27T08:43:54.794993+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 4646,
+    "output_tokens": 1205,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 3669,
+    "reasoning_tokens": 391,
+    "total_tokens": 5851
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

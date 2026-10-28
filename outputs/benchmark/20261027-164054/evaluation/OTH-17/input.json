@@ -1,0 +1,7 @@
+{
+  "question": "What are the evaluation criteria and their weights used in Level IV of the LACERS 2025 actuarial consulting services RFP?",
+  "gold_answer": "Professionalism 15; Proposed Scope of Services Description and Methodology 30; Qualifications, Experience, and Accomplishments 35; Value of Cost 20; Total 100.",
+  "acceptance": "Professionalism15, proposed scope/method30, qualifications/experience35, value/cost20. Points or percentages accepted because weights total100.",
+  "scope": "single_document",
+  "candidate_answer": "In **Level IV — Proposed Services and Compensation**, LACERS evaluates the proposed services and fees using these criteria:\n\n| Criterion | Weight |\n|---|---:|\n| Professionalism of the RFP response | 15% |\n| Proposed scope of services and methodology | 30% |\n| Qualifications, experience, and accomplishments | 35% |\n| Value of cost | 20% |\n| **Total** | **100%** |\n\nThe cost criterion considers the **relative cost and value** of the proposed fee, including qualitative considerations—not necessarily price alone. Source: *LACERS 2025 Actuarial Consulting Services RFP*, pp. 14–15."
+}

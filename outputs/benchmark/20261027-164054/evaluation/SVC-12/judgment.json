@@ -1,0 +1,15 @@
+{
+  "question_id": "SVC-12",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "29e4bbcde55c548d8e2c6f51aa5a947dc2c7c9cd23792c212ee4c6b1768704ef",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "Correct main-plan figures with OBRA kept separate.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:26:05.385634+00:00"
+}

@@ -1,0 +1,7 @@
+{
+  "question": "What minimum GRESB score does INREV require a non-listed real estate vehicle to achieve to pass its due diligence questionnaire?",
+  "gold_answer": "NOT IN CORPUS",
+  "acceptance": "Accept NOT IN CORPUS or 'no minimum pass score is specified', preferably explaining the premise and the questionnaire's no-score alternative. Do not invent a threshold; do not claim that the INREV questionnaire itself is absent.",
+  "scope": "negative",
+  "candidate_answer": "INREV does **not** require a minimum GRESB score to “pass” its due diligence questionnaire. It asks a vehicle that participates in GRESB to report its score and how it has changed. If the vehicle has no GRESB score, it asks for key ESG indicators and performance metrics instead. [INREV DDQ, §3.8.1, p. 34](INREV__INREV_DDQ_Non-Listed_Real_Estate_Investment_Vehicles_2018.pdf)"
+}

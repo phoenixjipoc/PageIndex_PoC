@@ -1,0 +1,43 @@
+{
+  "file": "Shrewsbury_MA__RFP-Consulting-Servicespdf.pdf",
+  "sha256": "b29b4260b95be531c7a025ee4a3b63349af8549fd2c5f9691c6ccade9e8bab45",
+  "bytes": 319279,
+  "pages": 10,
+  "public_source_url": "https://shrewsburyma.gov/DocumentCenter/View/3944/RFP-Consulting-Servicespdf?bidId=",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:09:14.291217+00:00",
+  "doc_id": "pi-63e8a32721db4deab8c59115061e6dc4",
+  "stored_name": "Shrewsbury_MA__RFP-Consulting-Servicespdf.pdf",
+  "reported_usage": {
+    "prompt_tokens": 10908,
+    "completion_tokens": 3057,
+    "total_tokens": 13965,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 9256
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1486
+    }
+  },
+  "elapsed_seconds": 12.032,
+  "finished_at_utc": "2026-10-27T09:09:26.335075+00:00",
+  "model_calls": 9,
+  "http_attempts": 9,
+  "observed_usage": {
+    "input_tokens": 10908,
+    "output_tokens": 3057,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 9256,
+    "reasoning_tokens": 1486,
+    "total_tokens": 13965
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

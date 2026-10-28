@@ -1,0 +1,43 @@
+{
+  "file": "Hartford_MERF__file.pdf",
+  "sha256": "dfc5f9706105df58053617f7f06cec3677178c2ebeb97c1ef62ef377b39ed489",
+  "bytes": 963084,
+  "pages": 76,
+  "public_source_url": "https://www.hartfordcitytreasurer.org/1123-merf-opeb-general-investment-consulting-rfp/file",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:50:59.073428+00:00",
+  "doc_id": "pi-ee0c4b24760940688b83587e66dd9bb5",
+  "stored_name": "Hartford_MERF__file.pdf",
+  "reported_usage": {
+    "prompt_tokens": 66384,
+    "completion_tokens": 13448,
+    "total_tokens": 79832,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 52632
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 5728
+    }
+  },
+  "elapsed_seconds": 50.315,
+  "finished_at_utc": "2026-10-27T08:51:49.399606+00:00",
+  "model_calls": 35,
+  "http_attempts": 35,
+  "observed_usage": {
+    "input_tokens": 66384,
+    "output_tokens": 13448,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 52632,
+    "reasoning_tokens": 5728,
+    "total_tokens": 79832
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

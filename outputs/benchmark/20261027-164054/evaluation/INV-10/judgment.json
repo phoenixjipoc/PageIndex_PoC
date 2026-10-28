@@ -1,0 +1,15 @@
+{
+  "question_id": "INV-10",
+  "grading_status": "completed",
+  "method": "in_session_ai_reference_review",
+  "reviewer": "Codex current conversation",
+  "human_verified": false,
+  "model_call_made": false,
+  "answer_sha256": "0af66235220ef72cd5a2babdd9540a9f49b90fe032107caa2fdfe2fa2d663bec",
+  "score": 1,
+  "verdict": "correct",
+  "reason": "All four asset-class NAVs mapped correctly.",
+  "needs_review": false,
+  "confidence": "high",
+  "reviewed_at_utc": "2026-10-27T09:25:39.834892+00:00"
+}

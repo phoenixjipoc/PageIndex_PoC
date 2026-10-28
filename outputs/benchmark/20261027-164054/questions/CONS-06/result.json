@@ -1,0 +1,133 @@
+{
+  "id": "CONS-06",
+  "question": "Which retirement system's general investment consultant RFP requires respondents to currently provide non-discretionary general investment advice to at least 5 public pension plans larger than $5 billion and at least 2 public plans over $20 billion?",
+  "type": "detail",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:19:57.566612+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "It is the **Texas Municipal Retirement System (TMRS)**. Its general investment consulting RFP lists those client thresholds under “Minimum Eligibility Requirements.” [Source: TMRS General Investment Consulting Services RFP, p. 8](TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf#page=8)",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 26914,
+    "input_tokens_details": {
+      "cached_tokens": 16079,
+      "cache_write_tokens": 10820
+    },
+    "output_tokens": 213,
+    "output_tokens_details": {
+      "reasoning_tokens": 11
+    },
+    "total_tokens": 27127,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1234,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1231
+        },
+        "output_tokens": 15,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1249
+      },
+      {
+        "input_tokens": 2400,
+        "input_tokens_details": {
+          "cached_tokens": 1231,
+          "cache_write_tokens": 1166
+        },
+        "output_tokens": 48,
+        "output_tokens_details": {
+          "reasoning_tokens": 11
+        },
+        "total_tokens": 2448
+      },
+      {
+        "input_tokens": 2683,
+        "input_tokens_details": {
+          "cached_tokens": 2397,
+          "cache_write_tokens": 283
+        },
+        "output_tokens": 36,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 2719
+      },
+      {
+        "input_tokens": 9774,
+        "input_tokens_details": {
+          "cached_tokens": 2680,
+          "cache_write_tokens": 7091
+        },
+        "output_tokens": 42,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 9816
+      },
+      {
+        "input_tokens": 10823,
+        "input_tokens_details": {
+          "cached_tokens": 9771,
+          "cache_write_tokens": 1049
+        },
+        "output_tokens": 72,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 10895
+      }
+    ]
+  },
+  "elapsed_seconds": 10.368,
+  "finished_at_utc": "2026-10-27T09:20:07.943351+00:00",
+  "model_calls": 5,
+  "http_attempts": 5,
+  "observed_usage": {
+    "input_tokens": 26914,
+    "output_tokens": 213,
+    "cached_input_tokens": 16079,
+    "cache_write_tokens": 10820,
+    "reasoning_tokens": 11,
+    "total_tokens": 27127
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf\",\"pages\":\"8-9\"}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf",
+      "pages": "8-9",
+      "success": true,
+      "call_id": "call_haMbvXnAGCTVEkrsCcK62bQi"
+    }
+  ],
+  "successfully_read_documents": [
+    "TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf"
+  ]
+}

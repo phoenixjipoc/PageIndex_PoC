@@ -1,0 +1,43 @@
+{
+  "file": "Cook_County_Pension__Manager_of_Managers_-_RFP_No_25-0004.pdf",
+  "sha256": "5c3bff217c3e3a6d6928a3bbfcbce95475d66d2848d70377dfed40cea1ff0827",
+  "bytes": 247306,
+  "pages": 14,
+  "public_source_url": "https://www.cookcountypension.com/assets/1/6/Manager_of_Managers_-_RFP_No_25-0004.pdf",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T08:49:25.610401+00:00",
+  "doc_id": "pi-2928b240faee43808f84c7e83bb11625",
+  "stored_name": "Cook_County_Pension__Manager_of_Managers_-_RFP_No_25-0004.pdf",
+  "reported_usage": {
+    "prompt_tokens": 8279,
+    "completion_tokens": 2524,
+    "total_tokens": 10803,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 3809
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 651
+    }
+  },
+  "elapsed_seconds": 14.254,
+  "finished_at_utc": "2026-10-27T08:49:39.874191+00:00",
+  "model_calls": 10,
+  "http_attempts": 10,
+  "observed_usage": {
+    "input_tokens": 8279,
+    "output_tokens": 2524,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 3809,
+    "reasoning_tokens": 651,
+    "total_tokens": 10803
+  },
+  "response_models": [
+    "gpt-6-luna"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [],
+  "page_reads": [],
+  "successfully_read_documents": []
+}

@@ -1,0 +1,366 @@
+{
+  "doc_id": "pi-72e20c58c6aa4c20a3e385a866ce2076",
+  "status": "completed",
+  "retrieval_ready": true,
+  "result": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 2,
+      "summary": "Request for Proposals No. 24-05 seeks audit services. Released October 2, 2024, it sets October 11, 2024, at 3:00 p.m. EDT as the inquiry deadline and November 1, 2024, at 3:00 p.m. EDT as the proposal deadline. The document covers the introduction and RFP process, including INPRS background, issuer and contacts, inquiries, submissions, offer changes or withdrawal, confidentiality, costs, proposal validity, taxes, registration, discussions, compliance, and milestones. It specifies proposal requirements for general instructions, transmittal letters, business proposals, and fees; outlines the service scope and contract award process, including contract length and evaluation criteria; and includes a sample services contract with essential clauses and mandatory respondent forms for taxpayer identification and foreign registration."
+    },
+    {
+      "title": "SECTION 1 – INTRODUCTION",
+      "node_id": "0001",
+      "start_index": 3,
+      "end_index": 8,
+      "summary": "This section introduces INPRS’s RFP seeking qualified providers for audit services and describes the System’s statutory independence, retirement and benefit funds, and available website and financial-report information. It outlines Internal Audit’s staffing and Board reporting, the State Board of Accounts’ oversight, and the history and term limits of external audits. It explains how to obtain the RFP, who may be contacted, how inquiries and addenda are handled, and proposal submission, changes, late filings, and correction of minor omissions. It covers public-records and confidentiality procedures, respondent costs, proposal validity, tax and Indiana registration responsibilities, and INPRS’s ability to hold discussions and request clarifications. Respondents certify compliance concerning Indiana legal actions and required payments; INPRS may investigate and restrict or terminate contracting for unpaid liabilities. The section concludes with solicitation milestones, from the October 2024 release and inquiry period through proposal submission, finalist presentations, selection, and a contract effective date no later than March 1, 2025.",
+      "nodes": [
+        {
+          "title": "1.1 Title; 1.2 Overview of Request for Audit Services",
+          "node_id": "0002",
+          "start_index": 3,
+          "end_index": 3,
+          "key_items": [
+            "1.1 Title",
+            "1.2 Overview of Request for Audit Services"
+          ],
+          "summary": "SECTION 1 – INTRODUCTION\n1.1 Title\nRequest for Proposals (“RFP”) for Audit Services for the Indiana Public Retirement System (“INPRS” or the “System”)\n1.2 Overview of Request for Audit Services\nINPRS is soliciting proposals from all qualified providers who wish to be considered in providing Audit Services, as described in Section 3 – Scope of Services."
+        },
+        {
+          "title": "1.3 INPRS Background",
+          "node_id": "0003",
+          "start_index": 3,
+          "end_index": 4,
+          "key_items": [
+            "1.3.1     History",
+            "SECTION 1 – INTRODUCTION; 1.1 Title; 1.2 Overview of Request for Audit Services",
+            "SECTION 1 – INTRODUCTION",
+            "1.1 Title",
+            "1.2 Overview of Request for Audit Services",
+            "1.3 INPRS Background",
+            "1.3.2     Audit Background Information"
+          ],
+          "summary": "INPRS was established by Indiana statute in 2011 as an independent body corporate and politic—not a state department or agency—to manage public-employee retirement funds. It administers 16 funds across defined-benefit plans (PERF, TRF, police/fire, judges, excise/gaming/conservation officers, prosecutors and legislators), defined-contribution plans (PERF, TRF and legislators), other postemployment benefits (Special Death Benefit and Retirement Medical Benefits), and a custodial fund (Local Public Safety Pension Relief). Its website and latest annual financial report are available online. Internal Audit has four full-time employees, including a Chief Audit & Risk Officer reporting to the Board; its charter is in the Board Governance Manual. RSM has provided external audits since 2014; contracts are limited to 10 years, with new bids solicited at least every 10 years. Before 2014, SBOA audited annually and retains oversight. INPRS issues this RFP under state law and its policies; copies are free electronically or in print, with additional copies costing $0.10 per page. Respondents must not contact staff or trustees except as specified; unauthorized contact may disqualify them. Inquiries must be emailed to Procurement Director Stan Lanman by the Section 1.16 deadlines; clarification discussions and equal access to RFP communications are reserved."
+        },
+        {
+          "title": "INPRS Audit RFP: Issuer and Contacts",
+          "node_id": "0004",
+          "start_index": 4,
+          "end_index": 4,
+          "key_items": [
+            "1.4 Issuer",
+            "1.5 Contacts"
+          ],
+          "summary": "The text provides links to INPRS information and its latest Annual Comprehensive Financial Report. INPRS Internal Audit has four full-time employees, including a Chief Audit & Risk Officer reporting to the Board; its authority and duties are defined in the Board Governance Manual. RSM has performed external audits since 2014; policy limits contracts to 10 years and requires new bids at least every 10 years. Before 2014, the State Board of Accounts conducted annual audits and now oversees State and Quasi Agency audits, including INPRS. INPRS issued and prepared the RFP under Indiana law and its policies. One copy is free from INPRS or online; extra copies cost $0.10 per page. Respondents must direct inquiries only as allowed by Section 1.6; unauthorized contact may disqualify them. INPRS may seek clarification and will provide respondents equal access to RFP communications."
+        },
+        {
+          "title": "1.6 Inquiries about the RFP for INPRS",
+          "node_id": "0005",
+          "start_index": 4,
+          "end_index": 5,
+          "key_items": [
+            "1.3.2 Audit Background Information; 1.4 Issuer",
+            "1.3.2 Audit Background Information",
+            "1.4 Issuer",
+            "1.5 Contacts"
+          ],
+          "summary": "RFP inquiries and information requests must be emailed to Stan Lanman, Director of Vendor Management and Procurement, at procurements@inprs.in.gov by the deadlines in Section 1.16. INPRS decides which questions to answer; responses and any addenda will be posted online. Addenda may be issued before proposals are due, and the deadline may be extended if needed. Proposals must be emailed to the same address by November 1, 2024, at 3:00 p.m. EDT; late proposals are rejected. Offers may be modified or withdrawn in writing before the submission deadline. INPRS may give respondents five calendar days after notice to correct minor errors or omissions; major omissions, such as missing prices, may disqualify a proposal. Proposal materials are generally public under Indiana’s APRA after award. Respondents claiming a statutory disclosure exception must identify it in the transmittal letter, label confidential files, and provide a redacted public version. INPRS determines confidentiality; objections may be raised with the Indiana Public Access Counselor."
+        },
+        {
+          "title": "Proposal Submission, Changes, and Addenda",
+          "node_id": "0006",
+          "start_index": 5,
+          "end_index": 5,
+          "key_items": [
+            "1.7 Invitation to Submit Proposals",
+            "1.8 Modification or Withdrawal of Offers"
+          ],
+          "summary": "INPRS decides which questions merit written answers and posts responses and any RFP addenda on its quoting website. Addenda must be posted before the proposal deadline; the Director of Vendor Management and Procurement may extend the deadline if needed. Proposals must be emailed to procurements@inprs.in.gov by November 1, 2024, at 3:00 PM EDT; late submissions will not be considered. Respondents may modify or withdraw proposals in writing by email before the submission deadline, but later changes or withdrawals will not be considered. At its discretion, INPRS may give all respondents five calendar days to correct minor errors or omissions, notifying affected respondents, who must submit written corrections within five days of notice. Major omissions, including missing prices, are not minor and may disqualify a proposal."
+        },
+        {
+          "title": "1.9 Confidential Information",
+          "node_id": "0007",
+          "start_index": 5,
+          "end_index": 6,
+          "key_items": [
+            "1.7 Invitation to Submit Proposals",
+            "1.8 Modification or Withdrawal of Offers"
+          ],
+          "summary": "Proposal materials are generally public under Indiana’s APRA after award unless a statutory exception applies. Respondents claiming an exception must identify it in the Transmittal Letter, label confidential files, and submit a separate public redacted version. INPRS decides confidentiality and may seek PAC guidance; respondents may challenge decisions through the PAC and are encouraged to consult its procurement-redaction guidance. INPRS does not reimburse proposal or anticipated-contract costs. Proposals must remain valid for at least 180 days after the deadline, and proposals accepted for negotiations remain valid until replaced by a contract or rejected. INPRS is tax-exempt, but respondents remain responsible for their own taxes. Out-of-state corporate respondents must register with Indiana’s Secretary of State before contract discussions, though not before submitting a proposal. INPRS may hold oral or written discussions with viable candidates and request clarifications. A response certifies that the respondent and its principals have no current or outstanding criminal, civil, or enforcement actions initiated by Indiana; the provided text ends mid-sentence."
+        },
+        {
+          "title": "RFP Proposal and Contract Requirements",
+          "node_id": "0008",
+          "start_index": 6,
+          "end_index": 6,
+          "key_items": [
+            "1.10 RFP Response Costs",
+            "1.11 Proposal Life",
+            "1.12 Taxes",
+            "1.13 Secretary of State Registration",
+            "1.14 Discussion Format"
+          ],
+          "summary": "INPRS may seek the PAC’s guidance if unsure whether a cited public-records exception applies. Respondents bear all proposal and anticipated-contract costs. Proposals must remain valid for at least 180 days after the deadline; proposals accepted for negotiations remain valid until replaced by a contract or rejected. INPRS is tax-exempt and will not pay taxes imposed on Respondents. Out-of-state corporate Respondents must register with the Indiana Secretary of State before contract discussions, though registration is not required to submit a proposal; application information is available from the Corporations Division or through Appendix B.2. INPRS may hold oral or written discussions with reasonably viable candidates and request clarifications as needed."
+        },
+        {
+          "title": "1.15 Compliance Certification",
+          "node_id": "0009",
+          "start_index": 6,
+          "end_index": 7,
+          "key_items": [
+            "1.10 RFP Response Costs; 1.11 Proposal Life; 1.12 Taxes; 1.13 Secretary of State Registration",
+            "1.10 RFP Response Costs",
+            "1.11 Proposal Life",
+            "1.12 Taxes",
+            "1.13 Secretary of State Registration",
+            "1.14 Discussion Format"
+          ],
+          "summary": "Respondents and their principals certify they have no outstanding criminal, civil, or enforcement actions initiated by Indiana and are current on taxes, fees, and other required payments; they must promptly notify INPRS if actions arise. INPRS may conduct background checks at any time and, if liabilities are found, bar contracting, cancel existing contracts, offset or withhold payments and purchases until the liabilities are paid and proof is provided."
+        },
+        {
+          "title": "1.16 Summary of Milestones",
+          "node_id": "0010",
+          "start_index": 7,
+          "end_index": 8,
+          "key_items": [
+            "ACTIVITY"
+          ],
+          "summary": "1.16 Summary of Milestones\nThe following is the expected timeline for this solicitation:\nACTIVITY\nEXPECTED DATE\nRelease of RFP\nOctober 2, 2024\nRespondents’ Inquiry Period Ends\nOctober 11, 2024, 3:00 P.M. (EDT)\nOctober 18, 2024\nAnswers to Inquiries Published to http://www.in.gov/inprs/quoting.htm\nRespondent RFP Submissions Due\nNovember 1, 2024, 3:00 P.M. (EDT)\nFinalist Presentations to INPRS Staff\nWeek of November 18, 2024\nSelection of Vendor/Contract Negotiations\nNovember/December 2024\nEffective Date of Contract\nNo later than March 1, 2025\n- 7 -"
+        }
+      ]
+    },
+    {
+      "title": "SECTION 2 – PROPOSAL CONTENT REQUIREMENTS",
+      "node_id": "0011",
+      "start_index": 8,
+      "end_index": 14,
+      "summary": "Section 2 specifies the required proposal format and contents. Respondents must submit electronically a transmittal letter, business proposal, fee proposal, and Appendix B documents. The letter identifies the RFP and respondent, provides contact details, confirms capability and willingness to meet the terms, and includes an authorized signature and proof of authority. Any APRA confidentiality claim must identify protected material, cite and explain the exemption, and provide a redacted public version. The business proposal follows the prescribed structure and covers services, references, organizational capacity and independence, staff qualifications and continuity, registration, financial statements, subcontractors, contract exceptions, and assumptions and INPRS responsibilities. The fee proposal gives service hours and rates, including rates for out-of-scope work; fees must be fixed, all-inclusive U.S.-dollar amounts, guaranteed and capped for the contract term, and paid in arrears. It also details audit and GASB 68 scope, standards, testing, opinions, reports, deadlines, presentations, compliance and notification duties, and separately authorized additional services.",
+      "nodes": [
+        {
+          "title": "2.1 General Instructions",
+          "node_id": "0012",
+          "start_index": 8,
+          "end_index": 8,
+          "summary": "SECTION 2 – PROPOSAL CONTENT REQUIREMENTS\n2.1 General Instructions\nTo facilitate the timely evaluation of proposals, a standard format for proposal submission has been developed and is documented in this section. All Respondents are required to format their proposals in a manner consistent with the guidelines described below.\nA complete proposal must be submitted electronically per the guidelines in Section 1.7 of this RFP and must include the following:\n• A transmittal letter (with the information in Section 2.2 of this RFP).\n• A business proposal (with the information and attachments described in Section 2.3 of this RFP).\n• A fee proposal (with the information in Section 2.4 of this RFP).\n• The required documents from Appendix B."
+        },
+        {
+          "title": "2.2 Transmittal Letter",
+          "node_id": "0013",
+          "start_index": 8,
+          "end_index": 9,
+          "key_items": [
+            "2.2.1 Identification of RFP; 2.2.2 Identification of Respondent",
+            "2.2.1 Identification of RFP",
+            "2.2.2 Identification of Respondent",
+            "2.2.3 Summary of Ability and Desire to Supply the Required Services",
+            "SECTION 2 – PROPOSAL CONTENT REQUIREMENTS; 2.1 General Instructions; 2.2 Transmittal Letter; 2.2.1 Identification of RFP",
+            "SECTION 2 – PROPOSAL CONTENT REQUIREMENTS",
+            "2.1 General Instructions",
+            "2.2 Transmittal Letter",
+            "2.2.1 Identification of RFP",
+            "2.2.2 Identification of Respondent",
+            "2.2.4 Signature of Authorized Representative; 2.2.5 Confidential Information; 2.2.6 Other Information",
+            "2.2.4 Signature of Authorized Representative",
+            "2.2.5 Confidential Information",
+            "2.2.6 Other Information"
+          ],
+          "summary": "The transmittal letter must identify the RFP by title and number and provide the respondent’s name, street address, city, state, ZIP code, contact name, phone, and email. It must briefly describe the respondent’s ability and willingness to provide the requested services under the RFP’s terms, including INPRS standard contract clauses. An authorized representative must sign, with proof of authority—such as corporate bylaws or a board resolution—provided. Because proposals are subject to APRA, any confidentiality claim must identify each protected document or section, cite the applicable statutory exemption, explain how it applies, and include a separately redacted public-release version. Blanket confidentiality claims are not accepted, and confidentiality will not be considered if this information is omitted. The letter may also briefly include other information."
+        },
+        {
+          "title": "2.3 Business Proposal",
+          "node_id": "0014",
+          "start_index": 9,
+          "end_index": 12,
+          "summary": "The business proposal must follow the specified section structure and include an executive summary of the proposed services. Provide at least three recent, similar client references—preferably public-sector retirement plans serviced by the proposed team—with client and contact details, years served, and services provided, using the required table. Describe organizational capability, including firm history, staffing and locations, contracting entity, independence, experience, litigation and disciplinary history, partners or subcontractors and their roles, single-party accountability, key audit staff qualifications, continuity plans, and relevant governmental training. State Indiana Secretary of State registration status. Submit audited income statements and balance sheets for the two latest fiscal years, identify subcontractors and confirm their willingness to perform, and explain any requested contract exceptions with proposed wording, noting essential nonnegotiable clauses. List assumptions underlying the response, including INPRS responsibilities.",
+          "nodes": [
+            {
+              "title": "2.2.4 Signature of Authorized Representative; 2.2.5 Confidential Information; 2.2.6 Other Information; 2.3.1 Executive Summary",
+              "node_id": "0015",
+              "start_index": 9,
+              "end_index": 9,
+              "key_items": [
+                "2.2.4 Signature of Authorized Representative",
+                "2.2.5 Confidential Information",
+                "2.2.6 Other Information",
+                "2.3.1 Executive Summary"
+              ],
+              "summary": "2.3 Business Proposal\nThe business proposal must contain the required information and be organized under the specific section titles as listed below.\n2.3.1 Executive Summary\nProvide a high level description of the proposed scope of services."
+            },
+            {
+              "title": "2.3.2 Relevant Experience",
+              "node_id": "0016",
+              "start_index": 9,
+              "end_index": 10,
+              "summary": "2.3.2 Relevant Experience\nThe Respondent should include a list of at least three (3) clients for whom the Respondent has provided services in the last five years that are the same or similar to those services requested in this RFP. Any public sector retirement plan clients are preferred. Referenced clients must be clients who have been serviced by the proposed team.\nInformation provided should include the name, address, and telephone number of the client facility and the name, title, email address, and phone/fax numbers of a person who may be\n- 9 -contacted for further information and site visits may be arranged. The following table must be utilized as a template to present the aforementioned information for each reference."
+            },
+            {
+              "title": "REFERENCE",
+              "node_id": "0017",
+              "start_index": 10,
+              "end_index": 10,
+              "summary": "REFERENCE\nClient Name\nClient Address\nPrimary Contact Name Primary Contact Title Primary Contact Phone Number Number of Years as a Client\nServices Provided"
+            },
+            {
+              "title": "2.3.3 Organizational Capability",
+              "node_id": "0018",
+              "start_index": 10,
+              "end_index": 11,
+              "summary": "Describe the respondent’s capability to perform the Section 3 scope, including company establishment date, employee count, corporate office locations, contracting legal entity, independence under applicable auditing standards, and length of experience providing the proposed services. Disclose lawsuits pending as of January 2019 or filed afterward, their subject matter and status, and disciplinary actions against the firm or employees by regulators or professional bodies in the past five years. Identify any subcontractors or partners, their roles and relationship to the respondent, and confirm INPRS will contract with one party accountable for all performance, liability, and liquidated damages. Identify audit partners, managers, and supervisors; provide resumes covering governmental experience and Indiana CPA licensure; describe staff depth and plans for continuity in future years; disclose joint-venture or subcontractor audit-firm participation and relevant staff profiles; and state whether proposed staff completed governmental accounting and auditing continuing education during the past two years."
+            },
+            {
+              "title": "ii. Registration to do Business",
+              "node_id": "0019",
+              "start_index": 11,
+              "end_index": 11,
+              "summary": "ii. Registration to do Business\nRespondents proposing to provide services required by this RFP are required to be registered to do business within the state with the Indiana Secretary of State. The contact information for this office may be found in Section 1.13 of this RFP. This process must be concluded prior to contract negotiations with INPRS. It is the Respondent’s responsibility to successfully complete the required registration with the Secretary of State. The Respondent must indicate the status of registration, if applicable, in this section of the proposal."
+            },
+            {
+              "title": "iii. Audited Financial Statements",
+              "node_id": "0020",
+              "start_index": 11,
+              "end_index": 12,
+              "key_items": [
+                "2.3.4 Contract for Services"
+              ],
+              "summary": "Respondents must provide audited income statements and balance sheets for each of the two most recently completed fiscal years. They must identify proposed subcontractors, describe each subcontractor’s responsibilities and organizational form, and provide confirmation of willingness to perform; this does not reduce the Respondent’s obligations under the RFP or Proposal. Appendix A.2 is the base services contract and may be incorporated into the final contract. Respondents must explain any requested exceptions to the RFP’s terms and conditions and include proposed contract wording or changes as amendments. Appendix A.1 contains essential, nonnegotiable clauses."
+            },
+            {
+              "title": "2.3.5  Assumptions",
+              "node_id": "0021",
+              "start_index": 12,
+              "end_index": 12,
+              "summary": "2.3.5 Assumptions\nList any assumptions made by the Respondent in developing the response to this RFP, including INPRS responsibilities."
+            }
+          ]
+        },
+        {
+          "title": "2.4  Fee Proposal",
+          "node_id": "0022",
+          "start_index": 12,
+          "end_index": 14,
+          "key_items": [
+            "FAILURE TO SUBMIT A DETAILED FEE PROPOSAL MAY ELIMINATE A RESPONDENT’S ORGANIZATION FROM CONSIDERATION.",
+            "2.3.5 Assumptions; 2.4 Fee Proposal",
+            "2.3.5 Assumptions",
+            "2.4 Fee Proposal",
+            "SECTION 3 – SCOPE OF SERVICES",
+            "Introduction",
+            "3.1 Services Required – Financial Statements",
+            "3.2 Services Required – GASB Statement No. 68 Schedules"
+          ],
+          "summary": "The proposal must provide estimated hours and rates for each service, plus hourly rates for Partner, Manager, Senior Accountant, and Staff Accountants for out-of-scope work. Fees must be fixed-price, in U.S. dollars, all-inclusive, guaranteed for the contract term, capped at the proposed amount, and payable in arrears; an inadequate fee proposal may disqualify a respondent. INPRS seeks annual financial statement audits and GASB pension-standard support. The financial audit must follow U.S. auditing standards, Indiana law, and GASB; cover INPRS’s pension, defined-contribution, other-benefit, and investment-trust plans; test supporting records and census data; opine on comparative statements and ACFR supplementary schedules; and perform limited procedures on required supplementary information. Reports go to the Board by November 30, with an annual presentation. The auditor must provide industry and technical updates, follow SBOA requirements, report suspected fund misappropriation immediately, review required compliance, notify SBOA of audit-result meetings, and send audit documents within ten business days. Additional services require a separate work statement and use proposed hourly rates, without exclusivity. GASB 68 work includes audits and opinions on specified employer and non-employer allocation and pension schedules, an actuarial review under ASOP No. 4, Board reporting, and issuance by January 31."
+        }
+      ]
+    },
+    {
+      "title": "SECTION 4 – CONTRACT AWARD",
+      "node_id": "0023",
+      "start_index": 14,
+      "end_index": 33,
+      "summary": "INPRS may award to the proposal(s) it deems most advantageous, negotiate with another respondent if contracting fails, reject proposals, clarify or award without discussions, or make no award; the Executive Director or designee has final discretion. The initial term is five years, with optional renewals up to ten years total. Evaluation considers compliance, capabilities, qualifications, response quality, references, experience, fees, presentations and other relevant factors; lowest cost is not required. Respondents must disclose and explain proposed contract exceptions and amendments; unacceptable changes may disqualify a proposal, and essential clauses are non-negotiable. These cover records, audits, legal and ethical compliance, confidentiality, disputes, Indiana law and courts, sovereign immunity, indemnification, liability, nondiscrimination, investigations, and other requirements, while rejecting specified obligations such as insurance or indemnity by INPRS, out-of-state law, advance payment, and certain fees. The sample services contract addresses scope, fees, term, compliance, data, transition, termination, payment, insurance, personnel, ownership, public records, performance, and related operational and legal terms, with execution blocks and scope and fee attachments.",
+      "nodes": [
+        {
+          "title": "4.1  Length of Contract",
+          "node_id": "0024",
+          "start_index": 14,
+          "end_index": 14,
+          "summary": "INPRS may award a contract to the qualifying proposal(s) deemed most advantageous based on all evaluation factors, or take other action, including making no award. If a selected respondent cannot finalize a contract, INPRS may negotiate with the next qualified respondent or decline to award. INPRS may clarify proposals, reject any or all, or award without discussions, so proposals should present respondents’ best price and technical terms. The Executive Director or designee makes the final discretionary determination of what best serves INPRS. The contract’s initial term is five years from final execution, with one or more optional renewals on the same terms, subject to a ten-year maximum total term."
+        },
+        {
+          "title": "4.2  Evaluation Criteria",
+          "node_id": "0025",
+          "start_index": 14,
+          "end_index": 16,
+          "key_items": [
+            "SECTION 4 – CONTRACT AWARD",
+            "4.1 Length of Contract",
+            "4.2 Evaluation Criteria",
+            "APPENDIX A – SAMPLE CONTRACT FOR SERVICES"
+          ],
+          "summary": "INPRS’s evaluation team will assess every proposal against the stated criteria and may consider additional relevant factors. Selection will favor proposals most advantageous overall, based on ability to meet requirements efficiently and cost-effectively with high service quality and minimal error. Criteria include RFP compliance, technical competencies, qualifications, response quality and completeness, references, experience, fees, finalist presentations, and other relevant factors. INPRS may award to the firm or firms it considers most advantageous and is not bound to choose the lowest-cost proposal. References may be contacted and finalists may be interviewed. Appendix A provides the sample base contract. Respondents should review it and submit proposed amendments with their business proposal, identifying each change as required or desired and explaining why. Unacceptable required changes may make a proposal unacceptable; Appendix A.1 clauses are non-negotiable. All solicitation exceptions must be clearly identified and explained, may negatively affect evaluation, and may be rejected if not disclosed."
+        },
+        {
+          "title": "A.1 Appendix– ESSENTIAL CLAUSES",
+          "node_id": "0026",
+          "start_index": 16,
+          "end_index": 18,
+          "key_items": [
+            "Essential Clauses in the System’s Sample Contract for Services",
+            "Additional contract provisions to which the System will not agree:",
+            "Acknowledgement"
+          ],
+          "summary": "The System requires RFP respondents to review its sample services contract and submit comments; mandatory clauses are non-negotiable, and bidders should price for any liability risk. Essential provisions cover records access and legal retention; audits; legal and ethics compliance; confidentiality and Social Security disclosures; disputes (no advance binding resolution except Indiana courts, though later ADR may be considered); drug-free workplace; Indiana law and courts, preserving sovereign immunity; contractor indemnification and liability; minority/women-owned business subcontractor bidding opportunities; nondiscrimination; and investigations and complaints. The System also rejects provisions requiring it to provide insurance or indemnity; applying another state’s law or courts; mandatory non-court dispute resolution; payment of taxes, penalties, liquidated damages, interest, or attorney fees; changes to limitation periods or claim deadlines; advance payment except rent; or disclosure restrictions contrary to Indiana public-records law. The form ends with acknowledgment of agreement to mandatory provisions and fields for signature, name/title, company, and date."
+        },
+        {
+          "title": "A.2 Appendix - SAMPLE CONTRACT FOR SERVICES",
+          "node_id": "0027",
+          "start_index": 18,
+          "end_index": 33,
+          "summary": "A sample services contract between the contractor and the Indiana Public Retirement System covers services and fees in attached schedules; term, renewals and extensions; records, audits and error correction; assignment, subcontracting and antitrust-claim assignment; signatory authority, background checks, authorized scope changes and legal, ethics, licensing and regulatory compliance. It addresses confidentiality and data-breach costs, transition assistance, debarment checks, breach termination, dispute handling and continued performance, payment withholding, drug-free workplace and E-Verify requirements, force majeure, funding cancellation, governing law, HIPAA, indemnity, contractor status, IT and software, insurance, personnel, MBE/WBE and nondiscrimination, notices, document priority and work-product ownership. Further terms cover payment, fees, reporting, public records, renewal, severability, performance, taxes, termination, travel, waivers, work standards, investigation notices and non-collusion certification. The section ends with execution blocks for both parties and Attachments A (scope) and B (fees).",
+          "nodes": [
+            {
+              "title": "6. Assignment of Antitrust Claims.",
+              "node_id": "0028",
+              "start_index": 18,
+              "end_index": 19,
+              "summary": "A sample services contract between a contractor and the Indiana Public Retirement System, effective on a specified date, recites the System’s solicitation, its determination that the services benefit the System and its members, and the contractor’s willingness to provide them. It covers: contractor duties in incorporated Attachment A; payment rates and a maximum total amount in Attachment B; contract duration, mutually agreed one-year renewals, and a possible month-to-month extension of up to six months; contractor and subcontractor recordkeeping and inspection access during the contract and for three years after final payment, with requested copies provided free; restrictions on assignment or subcontracting without prior written consent, except payment-right assignments with 30 days’ notice, covering all unpaid amounts and made to one party; and assignment to the System of the contractor’s related state and federal antitrust claims."
+            },
+            {
+              "title": "7. Audit and Audit Settlement.",
+              "node_id": "0029",
+              "start_index": 19,
+              "end_index": 19,
+              "summary": "7. Audit and Audit Settlement. Contractor acknowledges that it may be required to submit to an audit of funds paid through the Contract. Any such audit shall be conducted in accordance with IC § 5-11-1 et seq. and audit guidelines specified by INPRS. If an error is discovered as a result of an audit performed by INPRS and Contractor, or if Contractor becomes aware of any error through any other means, Contractor shall use its best efforts to promptly correct such error or to cause the appropriate party to correct such error."
+            },
+            {
+              "title": "8. Authority to Bind Contractor.",
+              "node_id": "0030",
+              "start_index": 19,
+              "end_index": 22,
+              "summary": "The Contractor’s signatory confirms authority and approvals to bind the Contractor. Contractor-funded background checks are required for personnel with unsupervised property access, covering identity, criminal history, credit, employment, work eligibility, education and applicable tax liability; specified falsehoods, unverifiable or poor references, certain convictions, or financial instability may disqualify candidates. The System may also conduct FBI fingerprint checks. Scope changes require prior written authorization and a formally executed amendment; unauthorized extra work earns no additional compensation. Contractor must comply with applicable laws and ethics rules, stay current on state obligations, disclose state actions, maintain required permits and registrations, meet health, safety and environmental requirements, and certify compliance with specified telemarketing laws. Violations may lead to withheld work or payment, termination, or penalties. Payment depends on satisfactory, lawful performance. System information, especially member and personal data, must remain confidential; unauthorized disclosure of personal information makes Contractor liable for reasonable breach-response costs. Contractor must support an orderly service transition through phase-in training and cooperation."
+            },
+            {
+              "title": "B. The Contractor shall, upon the System’s written notice:",
+              "node_id": "0031",
+              "start_index": 22,
+              "end_index": 22,
+              "summary": "Upon written notice, the Contractor must provide up to 60 days of transition services after expiration, negotiate a System-approved plan with the successor covering training and responsibility-transfer dates, and maintain experienced staffing. It must retain practicable personnel for continuity, disclose necessary records, permit successor interviews, and, with employee agreement, release selected staff on an agreed date and negotiate transfer of earned benefits. The Contractor is reimbursed for reasonable transition costs. It certifies that it, its principals, and subcontractors are not debarred or suspended; “principal” includes key owners, managers, and persons with substantial operational influence. It must verify funded subcontractors’ status, bear resulting recoupment, penalties, or costs, promptly report suspensions or debarments, and terminate subcontract relationships at the System’s request. If the System fails to cure a material breach within 60 days of written notice, the Contractor may terminate and collect amounts due. Disputes must be resolved promptly; undisputed work must continue, with costs from failure to proceed borne by the Contractor."
+            },
+            {
+              "title": "C. The System may withhold payments on disputed items pending resolution of the dispute. The",
+              "node_id": "0032",
+              "start_index": 22,
+              "end_index": 29,
+              "summary": "The contract permits withholding disputed payments; accidental nonpayment of undisputed invoices does not justify termination, though the Contractor may sue to collect them. It requires good-faith drug-free workplace measures, expanded employee policies and sanctions for contracts over $25,000, and employment-eligibility verification through E-Verify, including subcontractor certifications. It addresses employee hiring releases, force majeure suspension and termination, cancellation for unavailable funding, Indiana law and venue, HIPAA safeguards, Contractor indemnification, independent-contractor status and workers’ compensation, IT standards, software-use rights, insurance, key personnel, licensing, written amendments, MBE/WBE compliance, nondiscrimination, notices, document precedence, and ownership and protection of contract work product. Other terms cover net-30 payments, limits on penalties and fees, progress reports, public-record status, renewal, severability, substantial performance, taxes, termination for convenience or default, travel reimbursement, written waivers, professional work standards, notice of investigations, and perjury-backed non-collusion certification."
+            },
+            {
+              "title": "SIGNATURE PAGE FOLLOWS",
+              "node_id": "0033",
+              "start_index": 29,
+              "end_index": 33,
+              "summary": "SIGNATURE PAGE FOLLOWS\n- 29 -In Witness Whereof, Contractor and the System have, through their duly authorized representatives, entered into this Contract. The parties, having read and understand the foregoing terms of this Contract, do by their respective signatures dated below hereby agree to the terms thereof.\n[Contractor]\nBy:____________________________________\nPrinted Name:____________________________\nTitle:___________________________________\nDate:___________________________________\nINDIANA PUBLIC RETIREMENT SYSTEM\nBy:____________________________________\nPrinted Name:____________________________\nTitle:___________________________________\nDate:___________________________________\n- 30 -ATTACHMENT A Scope of Services\n- 31 -ATTACHMENT B Fees\n- 32 -"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "APPENDIX B – MANDATORY RESPONDENT FORMS",
+      "node_id": "0034",
+      "start_index": 33,
+      "end_index": 33,
+      "key_items": [
+        "B.1 Taxpayer Identification Number Request",
+        "https://www.irs.gov/pub/irs-pdf/fw9.pdf",
+        "B.2 Foreign Registration Statement",
+        "https://forms.in.gov/Download.aspx?id=13562",
+        "APPENDIX B – MANDATORY RESPONDENT FORMS"
+      ],
+      "summary": "APPENDIX B – MANDATORY RESPONDENT FORMS\nB.1 Taxpayer Identification Number Request\nhttps://www.irs.gov/pub/irs-pdf/fw9.pdf\nB.2 Foreign Registration Statement\nhttps://forms.in.gov/Download.aspx?id=13562\n- 33 -"
+    }
+  ],
+  "metadata": null,
+  "features": {}
+}

@@ -1,0 +1,423 @@
+{
+  "id": "XD-17",
+  "question": "Which RFPs in the corpus contain Iran-related certification, disclosure or compliance requirements for respondents?",
+  "type": "broad",
+  "pair_id": "",
+  "status": "completed",
+  "started_at_utc": "2026-10-27T09:18:51.908261+00:00",
+  "available_documents": 78,
+  "source_hints": null,
+  "history": null,
+  "answer": "I found **two RFPs with explicit Iran-related respondent requirements**:\n\n| RFP | Requirement |\n|---|---|\n| **NYC Board of Education Retirement System, Investment Consulting Services (RFP #2024-003)** | Proposers must submit a signed, verified **Iran Divestment Act certification** that they are not on New York State’s list of entities engaged in investment activities in Iran’s energy sector. A proposer unable to certify must submit a signed, detailed explanation; without the required certification, its proposal will not be considered for award. See Attachment G and the bidder certification, pp. 54–55. |\n| **Illinois State Retirement Systems, Actuarial Consulting Services (Reference #24100)** | A vendor **not using an Illinois Procurement Gateway registration number** must complete and return the “Disclosure of Business Operations with Iran” form as part of its responsive proposal. See §IV.L, p. 13. |\n\n**Important exclusion:** The Los Angeles Fire and Police Pensions financial-statement audit RFP reproduces an Iran Contracting Act affidavit provision in its standard-contract appendix, but its own general terms **expressly exempt this procurement from that provision**. It should not be counted as imposing an Iran affidavit requirement on these respondents. See pp. 25 and 42 of *RFP DCFS25-01*.",
+  "response_status": "completed",
+  "reported_usage": {
+    "input_tokens": 1029341,
+    "input_tokens_details": {
+      "cached_tokens": 749171,
+      "cache_write_tokens": 280143
+    },
+    "output_tokens": 2555,
+    "output_tokens_details": {
+      "reasoning_tokens": 365
+    },
+    "total_tokens": 1031896,
+    "request_usage_entries": [
+      {
+        "input_tokens": 1207,
+        "input_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 1204
+        },
+        "output_tokens": 19,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 1226
+      },
+      {
+        "input_tokens": 6466,
+        "input_tokens_details": {
+          "cached_tokens": 1204,
+          "cache_write_tokens": 5259
+        },
+        "output_tokens": 41,
+        "output_tokens_details": {
+          "reasoning_tokens": 16
+        },
+        "total_tokens": 6507
+      },
+      {
+        "input_tokens": 9439,
+        "input_tokens_details": {
+          "cached_tokens": 6463,
+          "cache_write_tokens": 2973
+        },
+        "output_tokens": 527,
+        "output_tokens_details": {
+          "reasoning_tokens": 71
+        },
+        "total_tokens": 9966
+      },
+      {
+        "input_tokens": 13150,
+        "input_tokens_details": {
+          "cached_tokens": 9436,
+          "cache_write_tokens": 3711
+        },
+        "output_tokens": 395,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 13545
+      },
+      {
+        "input_tokens": 141155,
+        "input_tokens_details": {
+          "cached_tokens": 13147,
+          "cache_write_tokens": 128005
+        },
+        "output_tokens": 335,
+        "output_tokens_details": {
+          "reasoning_tokens": 66
+        },
+        "total_tokens": 141490
+      },
+      {
+        "input_tokens": 156677,
+        "input_tokens_details": {
+          "cached_tokens": 141152,
+          "cache_write_tokens": 15522
+        },
+        "output_tokens": 329,
+        "output_tokens_details": {
+          "reasoning_tokens": 16
+        },
+        "total_tokens": 157006
+      },
+      {
+        "input_tokens": 159332,
+        "input_tokens_details": {
+          "cached_tokens": 156674,
+          "cache_write_tokens": 2655
+        },
+        "output_tokens": 290,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 159622
+      },
+      {
+        "input_tokens": 261769,
+        "input_tokens_details": {
+          "cached_tokens": 159329,
+          "cache_write_tokens": 102437
+        },
+        "output_tokens": 167,
+        "output_tokens_details": {
+          "reasoning_tokens": 26
+        },
+        "total_tokens": 261936
+      },
+      {
+        "input_tokens": 280146,
+        "input_tokens_details": {
+          "cached_tokens": 261766,
+          "cache_write_tokens": 18377
+        },
+        "output_tokens": 452,
+        "output_tokens_details": {
+          "reasoning_tokens": 170
+        },
+        "total_tokens": 280598
+      }
+    ]
+  },
+  "elapsed_seconds": 45.803,
+  "finished_at_utc": "2026-10-27T09:19:37.721987+00:00",
+  "model_calls": 9,
+  "http_attempts": 9,
+  "observed_usage": {
+    "input_tokens": 1029341,
+    "output_tokens": 2555,
+    "cached_input_tokens": 749171,
+    "cache_write_tokens": 280143,
+    "reasoning_tokens": 365,
+    "total_tokens": 1031896
+  },
+  "response_models": [
+    "gpt-6-sol"
+  ],
+  "all_models_match": true,
+  "all_request_settings_match": true,
+  "tool_calls": [
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50}"
+    },
+    {
+      "name": "browse_documents",
+      "arguments": "{\"limit\":50,\"offset\":50}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"INPRS__RFP24-05_AuditServices.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Illinois_SRS__RFP--Actuarial_Consulting_Services--SRS.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Oklahoma_TRS__Investment.Consultant.RFP.adopted.by.Board.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Oklahoma_OPERS__RFP_Inv_Mgmt_Index_mandates_July-2023_Final.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Oklahoma_OPERS__2022-02-RFP-Investment-Consulting-Services.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SURS_Illinois__SURS-Investment-Manager-RFP-Template.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"INPRS__RFP24-05_AuditServices.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"INPRS__RFP-23-09-Alternative-Investment-Consulting-Services-FINAL-10-23-23.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Illinois_SRS__RFP--Actuarial_Consulting_Services--SRS.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Oklahoma_TRS__Investment.Consultant.RFP.adopted.by.Board.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"TMRS__TMRS_RFP_General_Investment_Consulting_Services.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SURS_Illinois__SURS-Investment-Manager-RFP-Template.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf\",\"pages\":\"26,54-55\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Illinois_SRS__RFP--Actuarial_Consulting_Services--SRS.pdf\",\"pages\":\"12-14\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf\",\"pages\":\"13-17\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf\",\"pages\":\"30-33\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf\",\"pages\":\"31-34\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf\",\"pages\":\"12-13\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Monroe_County_NY__10406.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"LACERS__2025_actuarial_consulting_services_rfp.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"MA_PRIM__PDF-Version-of-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Delaware__TRE21101-RECDKEEPR-rfp.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"SFERS__SFERS-General-Investment-Consultant-RFP_vFinal.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"OCERS__investment_consultant_services_rfp.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"COAERS__COAERS_General_Investment_Consultant_RFP.pdf\"}"
+    },
+    {
+      "name": "get_document",
+      "arguments": "{\"doc_name\":\"Temple_City_CA__Recordkeeping-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Monroe_County_NY__10406.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"MA_PRIM__PDF-Version-of-RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Delaware__TRE21101-RECDKEEPR-rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"SFERS__SFERS-General-Investment-Consultant-RFP_vFinal.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"OCERS__investment_consultant_services_rfp.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"COAERS__COAERS_General_Investment_Consultant_RFP.pdf\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Temple_City_CA__Recordkeeping-RFP.pdf\"}"
+    },
+    {
+      "name": "get_page_content",
+      "arguments": "{\"doc_name\":\"LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf\",\"pages\":\"25,42\"}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"MA_PRIM__MassPRIM-Active-Global-Core-Equity-RFP-Final.pdf\",\"part\":2}"
+    },
+    {
+      "name": "get_document_structure",
+      "arguments": "{\"doc_name\":\"Delaware__TRE21101-RECDKEEPR-rfp.pdf\",\"part\":2}"
+    }
+  ],
+  "page_reads": [
+    {
+      "document": "NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf",
+      "pages": "26,54-55",
+      "success": true,
+      "call_id": "call_1SjGpTn0a4ga30lclBvqoCme"
+    },
+    {
+      "document": "Illinois_SRS__RFP--Actuarial_Consulting_Services--SRS.pdf",
+      "pages": "12-14",
+      "success": true,
+      "call_id": "call_qJRnu7m47BdC7N4J85oOw0S2"
+    },
+    {
+      "document": "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+      "pages": "13-17",
+      "success": true,
+      "call_id": "call_6nqokCjP3VXniIyowKA6Yp1n"
+    },
+    {
+      "document": "TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf",
+      "pages": "30-33",
+      "success": true,
+      "call_id": "call_I2qAGw668AIa23ynL4tvAGju"
+    },
+    {
+      "document": "TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf",
+      "pages": "31-34",
+      "success": true,
+      "call_id": "call_cewnH8cEx2gtAN90RmaJ4Cig"
+    },
+    {
+      "document": "INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf",
+      "pages": "12-13",
+      "success": true,
+      "call_id": "call_9yeznfSBUGZ1xxr0dulnXcAL"
+    },
+    {
+      "document": "LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf",
+      "pages": "25,42",
+      "success": true,
+      "call_id": "call_coNR4Yu8hnQncwKDxU3HGS9Z"
+    }
+  ],
+  "successfully_read_documents": [
+    "INPRS__RFP22-04CorePlusFixedIncomeInvestmentManagement_Final.pdf",
+    "Illinois_FPIF__Private-Markets-RFP-2023.02.13.pdf",
+    "Illinois_SRS__RFP--Actuarial_Consulting_Services--SRS.pdf",
+    "LAFPP__RFP-Financial-Statement-Audit-Services-DCFS25-01-with-attachments.pdf",
+    "NYC_BERS__rfp_2024-003_investment_consulting_services_updated_06.18.24.pdf",
+    "TRS_Illinois__FY23-RFP-Investment-Consultant-final_7.pdf",
+    "TRS_Illinois__FY25-RFP-Private-Equity-Investment-Consultant.pdf"
+  ]
+}
