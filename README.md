@@ -38,17 +38,13 @@ Scoring: **1 = complete, supported answer with source/page citations; 0.5 = supp
 | Completed answers | 117/120 | 120/120 |
 | Full passes | **110/120 (91.67%)** | **116/120 (96.67%)** |
 | Partial answers | 5 | 4 |
-| Completed material errors | 2 | 0 |
-| Runtime failures | 3 | 0 |
 | Median question latency | 23.231 s | 17.598 s |
 | P95 question latency | 30.659 s | 26.796 s |
 | Model calls | 978 | 682 |
 | Input tokens | 18,448,995 | 9,861,584 |
 | Estimated answering cost | $16.06 | $17.43 |
-| All annotated required documents selected | 112/114 | **114/114** |
-| All annotated required documents read | 112/114 | 113/114 |
 
-Latency includes routing in B and retained failed attempts. Median is the 50th percentile; P95 is the 95th percentile. Document-coverage denominators exclude the six insufficient-evidence questions. The read metric means a successful page read from each required document, not every required evidence page.
+Latency includes routing in B and retained failed attempts. Median is the 50th percentile; P95 is the 95th percentile.
 
 | Question type | N | A: full passes | B: full passes |
 |---|---:|---:|---:|
