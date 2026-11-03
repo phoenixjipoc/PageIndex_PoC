@@ -42,7 +42,6 @@ Scoring: **1 = complete, supported answer with source/page citations; 0.5 = supp
 | P95 question latency | 30.659 s | 26.796 s |
 | Model calls | 978 | 682 |
 | Input tokens | 18,448,995 | 9,861,584 |
-| Estimated answering cost | $16.06 | $17.43 |
 
 Latency includes routing in B and retained failed attempts. Median is the 50th percentile; P95 is the 95th percentile.
 
