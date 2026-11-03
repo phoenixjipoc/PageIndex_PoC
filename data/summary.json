@@ -1,5 +1,5 @@
 {
-  "scope": "2026-11-02 formal test and its supplementary API review only",
+  "scope": "2026-11-02 formal test; only second-run external API scores are published.",
   "corpus": {
     "files": 300,
     "pairs_compared": 44850,
@@ -49,257 +49,81 @@
     "single_document": 24,
     "insufficient_evidence": 6
   },
-  "primary_review": {
-    "arms": {
-      "A": {
-        "expected_questions": 120,
-        "recorded": 120,
-        "terminal": 120,
-        "status": {
-          "completed": 117,
-          "failed": 3
-        },
-        "scored": 120,
-        "fully_correct": 111,
-        "partial": 4,
-        "incorrect_or_runtime_failure": 5,
-        "accuracy": 0.925,
-        "selection_macro_recall": 0.9883040935672515,
-        "all_sources_selected": 112,
-        "page_read_macro_recall": 0.9883040935672515,
-        "all_sources_read": 112,
-        "answerable_denominator_recorded": 114,
-        "median_seconds": 23.231,
-        "p95_seconds": 30.659,
-        "mean_selected_documents": 1.9,
-        "estimated_usd": 16.061466,
-        "estimated_router_usd": 0.0,
-        "model_calls": 978,
-        "input_tokens": 18448995,
-        "output_tokens": 85999,
-        "cached_input_tokens": 13370711,
-        "cache_write_tokens": 4741522,
-        "router_seconds_median": null
+  "execution": {
+    "generation_wall_seconds": 1235.132945,
+    "median_latency_reduction_percent": 24.247772373122135,
+    "p95_latency_reduction_percent": 12.59988910271046,
+    "input_token_reduction_percent": 46.54676853671433,
+    "cost_change_percent": 8.518967073117745,
+    "estimated_formal_run_usd": 33.491203,
+    "formal_results_used_to_tune": false
+  },
+  "definitions": {
+    "full_pass": "Score 1 only; partial credit is not counted as a full pass.",
+    "selection": "Coverage of annotated required documents; denominator excludes six insufficient-evidence questions.",
+    "page_read": "Required-document coverage among documents with successful page reads; not coverage of every evidence page.",
+    "latency": "End-to-end per-question time; B includes routing; failures retained. Median and P95 use linear interpolation at (n-1)*fraction, rounded to three decimals.",
+    "cost": "Recorded token-rate estimate, not invoice; generation includes failed calls and B router costs. Index preparation excluded.",
+    "published_score": "Only the unchanged second-run API judgment; no first-review scores or blended scores."
+  },
+  "published_scoring": {
+    "run": "20261102-test-v1-api-review-v1",
+    "evaluation": "second grading run",
+    "selected_for_publication_on": "2026-11-03",
+    "api_scores_unchanged": true
+  },
+  "operations": {
+    "A": {
+      "expected_questions": 120,
+      "recorded": 120,
+      "terminal": 120,
+      "status": {
+        "completed": 117,
+        "failed": 3
       },
-      "B": {
-        "expected_questions": 120,
-        "recorded": 120,
-        "terminal": 120,
-        "status": {
-          "completed": 120
-        },
-        "scored": 120,
-        "fully_correct": 113,
-        "partial": 7,
-        "incorrect_or_runtime_failure": 0,
-        "accuracy": 0.9416666666666667,
-        "selection_macro_recall": 1.0,
-        "all_sources_selected": 114,
-        "page_read_macro_recall": 0.9970760233918129,
-        "all_sources_read": 113,
-        "answerable_denominator_recorded": 114,
-        "median_seconds": 17.598,
-        "p95_seconds": 26.796,
-        "mean_selected_documents": 1.9083333333333334,
-        "estimated_usd": 17.429737,
-        "estimated_router_usd": 9.875695,
-        "model_calls": 682,
-        "input_tokens": 9861584,
-        "output_tokens": 87978,
-        "cached_input_tokens": 3465574,
-        "cache_write_tokens": 6129651,
-        "router_seconds_median": 2.468
-      }
+      "selection_macro_recall": 0.9883040935672515,
+      "all_sources_selected": 112,
+      "page_read_macro_recall": 0.9883040935672515,
+      "all_sources_read": 112,
+      "answerable_denominator_recorded": 114,
+      "median_seconds": 23.231,
+      "p95_seconds": 30.659,
+      "mean_selected_documents": 1.9,
+      "estimated_usd": 16.061466,
+      "estimated_router_usd": 0.0,
+      "model_calls": 978,
+      "input_tokens": 18448995,
+      "output_tokens": 85999,
+      "cached_input_tokens": 13370711,
+      "cache_write_tokens": 4741522,
+      "router_seconds_median": null
     },
-    "by_kind": {
-      "A": {
-        "cross_document": {
-          "expected_questions": 90,
-          "recorded": 90,
-          "terminal": 90,
-          "status": {
-            "completed": 89,
-            "failed": 1
-          },
-          "scored": 90,
-          "fully_correct": 85,
-          "partial": 4,
-          "incorrect_or_runtime_failure": 1,
-          "accuracy": 0.9444444444444444,
-          "selection_macro_recall": 0.9962962962962963,
-          "all_sources_selected": 89,
-          "page_read_macro_recall": 0.9962962962962963,
-          "all_sources_read": 89,
-          "answerable_denominator_recorded": 90,
-          "median_seconds": 24.556,
-          "p95_seconds": 31.692,
-          "mean_selected_documents": 2.188888888888889,
-          "estimated_usd": 13.025506,
-          "estimated_router_usd": 0.0,
-          "model_calls": 738,
-          "input_tokens": 14589829,
-          "output_tokens": 75010,
-          "cached_input_tokens": 10453340,
-          "cache_write_tokens": 3823517,
-          "router_seconds_median": null
-        },
-        "single_document": {
-          "expected_questions": 24,
-          "recorded": 24,
-          "terminal": 24,
-          "status": {
-            "completed": 22,
-            "failed": 2
-          },
-          "scored": 24,
-          "fully_correct": 21,
-          "partial": 0,
-          "incorrect_or_runtime_failure": 3,
-          "accuracy": 0.875,
-          "selection_macro_recall": 0.9583333333333334,
-          "all_sources_selected": 23,
-          "page_read_macro_recall": 0.9583333333333334,
-          "all_sources_read": 23,
-          "answerable_denominator_recorded": 24,
-          "median_seconds": 18.714,
-          "p95_seconds": 22.259,
-          "mean_selected_documents": 1.0416666666666667,
-          "estimated_usd": 2.345514,
-          "estimated_router_usd": 0.0,
-          "model_calls": 188,
-          "input_tokens": 2966972,
-          "output_tokens": 8595,
-          "cached_input_tokens": 2241645,
-          "cache_write_tokens": 721159,
-          "router_seconds_median": null
-        },
-        "insufficient_evidence": {
-          "expected_questions": 6,
-          "recorded": 6,
-          "terminal": 6,
-          "status": {
-            "completed": 6
-          },
-          "scored": 6,
-          "fully_correct": 5,
-          "partial": 0,
-          "incorrect_or_runtime_failure": 1,
-          "accuracy": 0.8333333333333334,
-          "selection_macro_recall": null,
-          "all_sources_selected": 0,
-          "page_read_macro_recall": null,
-          "all_sources_read": 0,
-          "answerable_denominator_recorded": 0,
-          "median_seconds": 21.373,
-          "p95_seconds": 23.312,
-          "mean_selected_documents": 1,
-          "estimated_usd": 0.690446,
-          "estimated_router_usd": 0.0,
-          "model_calls": 52,
-          "input_tokens": 892194,
-          "output_tokens": 2394,
-          "cached_input_tokens": 675726,
-          "cache_write_tokens": 196846,
-          "router_seconds_median": null
-        }
+    "B": {
+      "expected_questions": 120,
+      "recorded": 120,
+      "terminal": 120,
+      "status": {
+        "completed": 120
       },
-      "B": {
-        "cross_document": {
-          "expected_questions": 90,
-          "recorded": 90,
-          "terminal": 90,
-          "status": {
-            "completed": 90
-          },
-          "scored": 90,
-          "fully_correct": 84,
-          "partial": 6,
-          "incorrect_or_runtime_failure": 0,
-          "accuracy": 0.9333333333333333,
-          "selection_macro_recall": 1.0,
-          "all_sources_selected": 90,
-          "page_read_macro_recall": 0.9962962962962963,
-          "all_sources_read": 89,
-          "answerable_denominator_recorded": 90,
-          "median_seconds": 18.767,
-          "p95_seconds": 27.093,
-          "mean_selected_documents": 2.2,
-          "estimated_usd": 13.898291,
-          "estimated_router_usd": 7.418672,
-          "model_calls": 520,
-          "input_tokens": 7925666,
-          "output_tokens": 77731,
-          "cached_input_tokens": 2873428,
-          "cache_write_tokens": 4883644,
-          "router_seconds_median": 2.532
-        },
-        "single_document": {
-          "expected_questions": 24,
-          "recorded": 24,
-          "terminal": 24,
-          "status": {
-            "completed": 24
-          },
-          "scored": 24,
-          "fully_correct": 24,
-          "partial": 0,
-          "incorrect_or_runtime_failure": 0,
-          "accuracy": 1.0,
-          "selection_macro_recall": 1.0,
-          "all_sources_selected": 24,
-          "page_read_macro_recall": 1.0,
-          "all_sources_read": 24,
-          "answerable_denominator_recorded": 24,
-          "median_seconds": 13.407,
-          "p95_seconds": 16.796,
-          "mean_selected_documents": 1.0416666666666667,
-          "estimated_usd": 2.839837,
-          "estimated_router_usd": 1.96829,
-          "model_calls": 130,
-          "input_tokens": 1562613,
-          "output_tokens": 7978,
-          "cached_input_tokens": 485640,
-          "cache_write_tokens": 1017968,
-          "router_seconds_median": 2.219
-        },
-        "insufficient_evidence": {
-          "expected_questions": 6,
-          "recorded": 6,
-          "terminal": 6,
-          "status": {
-            "completed": 6
-          },
-          "scored": 6,
-          "fully_correct": 5,
-          "partial": 1,
-          "incorrect_or_runtime_failure": 0,
-          "accuracy": 0.8333333333333334,
-          "selection_macro_recall": null,
-          "all_sources_selected": 0,
-          "page_read_macro_recall": null,
-          "all_sources_read": 0,
-          "answerable_denominator_recorded": 0,
-          "median_seconds": 13.168,
-          "p95_seconds": 16.243,
-          "mean_selected_documents": 1,
-          "estimated_usd": 0.691609,
-          "estimated_router_usd": 0.488733,
-          "model_calls": 32,
-          "input_tokens": 373305,
-          "output_tokens": 2269,
-          "cached_input_tokens": 106506,
-          "cache_write_tokens": 228039,
-          "router_seconds_median": 2.353
-        }
-      }
-    },
-    "paired_score_comparison": {
-      "tie": 110,
-      "B_higher": 6,
-      "A_higher": 4
+      "selection_macro_recall": 1.0,
+      "all_sources_selected": 114,
+      "page_read_macro_recall": 0.9970760233918129,
+      "all_sources_read": 113,
+      "answerable_denominator_recorded": 114,
+      "median_seconds": 17.598,
+      "p95_seconds": 26.796,
+      "mean_selected_documents": 1.9083333333333334,
+      "estimated_usd": 17.429737,
+      "estimated_router_usd": 9.875695,
+      "model_calls": 682,
+      "input_tokens": 9861584,
+      "output_tokens": 87978,
+      "cached_input_tokens": 3465574,
+      "cache_write_tokens": 6129651,
+      "router_seconds_median": 2.468
     }
   },
-  "supplementary_api_review": {
+  "api_review": {
     "model": "gpt-6-sol",
     "reasoning_effort": "medium",
     "questions": 120,
@@ -311,7 +135,6 @@
         "partial": 5,
         "zero": 5,
         "full_pass_rate": 0.9166666666666666,
-        "same_as_previous": 115,
         "needs_review": 2
       },
       "B": {
@@ -320,7 +143,6 @@
         "partial": 4,
         "zero": 0,
         "full_pass_rate": 0.9666666666666667,
-        "same_as_previous": 117,
         "needs_review": 2
       }
     },
@@ -332,7 +154,6 @@
           "partial": 5,
           "zero": 1,
           "full_pass_rate": 0.9333333333333333,
-          "same_as_previous": 85,
           "needs_review": 1
         },
         "single_document": {
@@ -341,7 +162,6 @@
           "partial": 0,
           "zero": 3,
           "full_pass_rate": 0.875,
-          "same_as_previous": 24,
           "needs_review": 0
         },
         "insufficient_evidence": {
@@ -350,7 +170,6 @@
           "partial": 0,
           "zero": 1,
           "full_pass_rate": 0.8333333333333334,
-          "same_as_previous": 6,
           "needs_review": 1
         }
       },
@@ -361,7 +180,6 @@
           "partial": 3,
           "zero": 0,
           "full_pass_rate": 0.9666666666666667,
-          "same_as_previous": 87,
           "needs_review": 1
         },
         "single_document": {
@@ -370,7 +188,6 @@
           "partial": 0,
           "zero": 0,
           "full_pass_rate": 1.0,
-          "same_as_previous": 24,
           "needs_review": 0
         },
         "insufficient_evidence": {
@@ -379,124 +196,10 @@
           "partial": 1,
           "zero": 0,
           "full_pass_rate": 0.8333333333333334,
-          "same_as_previous": 6,
           "needs_review": 1
         }
       }
     },
-    "agreement_count": 232,
-    "disagreements": [
-      {
-        "id": "C300-062",
-        "arm": "A",
-        "kind": "cross_document",
-        "api_score": 0.5,
-        "previous_score": 1,
-        "api_reason": "Correctly explains the frequencies, pricing structure and four-year maximum with page citations, but does not state that NMERB’s contract provides for additional studies as requested.",
-        "previous_reason": "Correct annual valuations/triennial experience-study minimum versus NMERB fixed annual pricing and four-year maximum, with source pages and no frequency conflation.",
-        "missing_required_facts": [
-          "NMERB’s contract provides for additional studies as requested."
-        ],
-        "citation_status": "supported",
-        "needs_review": false,
-        "reference_issues": []
-      },
-      {
-        "id": "C300-073",
-        "arm": "B",
-        "kind": "cross_document",
-        "api_score": 1,
-        "previous_score": 0.5,
-        "api_reason": "Correctly allocates all three workstreams, explains their distinct scopes, and cites the relevant RFPs with page locators. Its integration summary omits some individual services but captures the required function.",
-        "previous_reason": "Correctly allocates all three workstreams, but the integration checklist omits recurring statements and account-verification services explicitly required on program-manager page 5.",
-        "missing_required_facts": [],
-        "citation_status": "supported",
-        "needs_review": false,
-        "reference_issues": []
-      },
-      {
-        "id": "C300-073",
-        "arm": "A",
-        "kind": "cross_document",
-        "api_score": 1,
-        "previous_score": 0.5,
-        "api_reason": "Correctly distinguishes the three procurements and describes each required scope, with supporting RFP and page citations. Its integration summary is not exhaustive but covers the required function.",
-        "previous_reason": "Correct allocation and most integration functions, but omits account-verification services from the required integration checklist.",
-        "missing_required_facts": [],
-        "citation_status": "supported",
-        "needs_review": false,
-        "reference_issues": []
-      },
-      {
-        "id": "C300-082",
-        "arm": "B",
-        "kind": "cross_document",
-        "api_score": 1,
-        "previous_score": 0.5,
-        "api_reason": "Accurately distinguishes the 2019 five-year product-life requirement from the 2021 18–24-month active-use requirement and separates both from vendor experience. Cites the supporting pages.",
-        "previous_reason": "Correct 2019 five-year-in-seven rule, conditional 2021 result and ten-year vendor experience, but does not state the later 18–24-month product-use window (only says 24 months meets it).",
-        "missing_required_facts": [],
-        "citation_status": "supported",
-        "needs_review": false,
-        "reference_issues": []
-      },
-      {
-        "id": "C300-099",
-        "arm": "B",
-        "kind": "cross_document",
-        "api_score": 1,
-        "previous_score": 0.5,
-        "api_reason": "Identifies Alaska’s monthly calculation cadence and South Puget Sound’s stress-testing, scenario-analysis, and ongoing risk-advice responsibility, with the correct RFP and page for each.",
-        "previous_reason": "Correct monthly calculations, quarterly/annual analysis and South Puget stress/scenario work, but omits Alaska's distinct quarterly manager evaluations.",
-        "missing_required_facts": [],
-        "citation_status": "supported",
-        "needs_review": false,
-        "reference_issues": []
-      },
-      {
-        "id": "C300-099",
-        "arm": "A",
-        "kind": "cross_document",
-        "api_score": 1,
-        "previous_score": 0.5,
-        "api_reason": "Correctly assigns the monthly calculation cadence to Alaska and the stress/scenario-analysis and ongoing risk-advice duties to South Puget Sound, citing each RFP’s page 2.",
-        "previous_reason": "Correct principal cadence and stress/scenario responsibilities, but omits required quarterly manager evaluations.",
-        "missing_required_facts": [],
-        "citation_status": "supported",
-        "needs_review": false,
-        "reference_issues": []
-      },
-      {
-        "id": "C300-114",
-        "arm": "A",
-        "kind": "cross_document",
-        "api_score": 0.5,
-        "previous_score": 1,
-        "api_reason": "Correctly applies the Delaware alternative and Colorado floor with page citations, but omits the general Delaware rule that makes the local provision an alternative.",
-        "previous_reason": "Correct Delaware $250m/five-year local route versus Colorado $500m/five-year floor and $200m shortfall, with source pages; does not infer a guaranteed award.",
-        "missing_required_facts": [
-          "Delaware’s general rule requires $1 billion AUM and ten years of continuous performance."
-        ],
-        "citation_status": "supported",
-        "needs_review": false,
-        "reference_issues": []
-      },
-      {
-        "id": "C300-115",
-        "arm": "A",
-        "kind": "cross_document",
-        "api_score": 0.5,
-        "previous_score": 1,
-        "api_reason": "Correctly identifies the audiences and recordkeeper-related roles, with supporting page citations, but describes the member service as education without stating that it provides individualized counseling and participant-specific plan advice.",
-        "previous_reason": "Correct member education/advice and collaboration with recordkeepers versus committee/Board education, monitoring and recordkeeper selection/RFP assistance; cites the respective scopes.",
-        "missing_required_facts": [
-          "Individualized counseling and participant-specific plan advice are part of the external education provider’s service."
-        ],
-        "citation_status": "supported",
-        "needs_review": false,
-        "reference_issues": []
-      }
-    ],
     "flagged_questions": [
       "C300-004",
       "C300-016",
@@ -512,22 +215,11 @@
       "reasoning_tokens": 11114,
       "total_tokens": 821357
     },
-    "estimated_usd": 2.269963
-  },
-  "execution": {
-    "generation_wall_seconds": 1235.132945,
-    "median_latency_reduction_percent": 24.247772373122135,
-    "p95_latency_reduction_percent": 12.59988910271046,
-    "input_token_reduction_percent": 46.54676853671433,
-    "cost_change_percent": 8.518967073117745,
-    "estimated_formal_run_usd": 33.491203,
-    "formal_results_used_to_tune": false
-  },
-  "definitions": {
-    "full_pass": "Score 1 only; partial credit is not counted as a full pass.",
-    "selection": "Coverage of annotated required documents; denominator excludes six insufficient-evidence questions.",
-    "page_read": "Required-document coverage among documents with successful page reads; not coverage of every evidence page.",
-    "latency": "End-to-end per-question time; B includes routing; failures retained. Median and P95 use linear interpolation at (n-1)*fraction, rounded to three decimals.",
-    "cost": "Recorded token-rate estimate, not invoice; generation includes failed calls and B router costs. Index preparation excluded."
+    "estimated_usd": 2.269963,
+    "paired_score_comparison": {
+      "tie": 108,
+      "A_higher": 3,
+      "B_higher": 9
+    }
   }
 }

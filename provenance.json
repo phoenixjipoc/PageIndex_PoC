@@ -1,5 +1,5 @@
 {
-  "publication": "A compact export of one completed formal experiment and its supplementary review.",
+  "publication": "One formal experiment, with only second-run external API scores selected for publication on 2026-11-03.",
   "source_files_sha256": {
     "documents/manifest_300.json": "9cf4042d98522a8f80505e33c24576ff50164cadc7d8698c559dc1da75cce2e4",
     "outputs/corpus/20261102-300-r3/recheck/summary.json": "09436e9661f7f7e946757f67021072220f2242ed7dc56c1d5b34ed748bac8a29",
@@ -389,7 +389,10 @@
     "original_answer_hashes_match": true,
     "original_sealed_metrics_match": true,
     "development_questions_or_results_included": false,
-    "scores_merged_or_rewritten": false
+    "scores_merged_or_rewritten": false,
+    "published_grading_run": "20261102-test-v1-api-review-v1",
+    "first_review_scores_included": false,
+    "original_api_scores_unchanged": true
   },
-  "scope": "Audit snapshot, not an executable pipeline distribution. PDF bytes, indices, credentials, historical runs and verbose traces are not included."
+  "scope": "Audit snapshot, not an executable pipeline distribution. Source hashes also identify generation/operational records; their first-review scores are not exported. PDF bytes, indices, credentials, historical runs and verbose traces are excluded."
 }

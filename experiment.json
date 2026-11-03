@@ -166,5 +166,11 @@
         "source": "https://developers.openai.com/api/docs/models/gpt-6-luna"
       }
     }
+  },
+  "published_scoring": {
+    "run": "20261102-test-v1-api-review-v1",
+    "evaluation": "second grading run",
+    "selected_for_publication_on": "2026-11-03",
+    "api_scores_unchanged": true
   }
 }
