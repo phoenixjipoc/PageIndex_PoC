@@ -39,11 +39,9 @@ Scoring: **1 = complete, supported answer with source/page citations; 0.5 = supp
 | Full passes | **110/120 (91.67%)** | **116/120 (96.67%)** |
 | Partial answers | 5 | 4 |
 | Median question latency | 23.231 s | 17.598 s |
-| P95 question latency | 30.659 s | 26.796 s |
-| Model calls | 978 | 682 |
 | Input tokens | 18,448,995 | 9,861,584 |
 
-Latency includes routing in B and retained failed attempts. Median is the 50th percentile; P95 is the 95th percentile.
+Latency includes routing in B and retained failed attempts. Median is the 50th percentile.
 
 | Question type | N | A: full passes | B: full passes |
 |---|---:|---:|---:|
